@@ -29,7 +29,7 @@ assert.equal((await request('/api/account', { origin: 'https://evil.example' }))
 assert.equal((await request('/api/account', { origin: null })).status, 403);
 assert.equal((await request('/api/account', { headers: { 'oai-authenticated-user-id': 'attacker', 'oai-authenticated-user-email': 'test@example.com' } }).then(r => r.json())).user, null);
 assert.equal((await request('/api/sync')).status, 401);
-assert.equal((await request('/api/account', { token: 'f'.repeat(64) })).status, 401);
+assert.equal((await request('/api/account', { token: 'f'.repeat(64) }).then(r=>r.json())).sessionExpired, true);
 const preflight = await request('/api/sync', { method: 'OPTIONS', headers: { 'Access-Control-Request-Method': 'POST', 'Access-Control-Request-Headers': 'authorization,content-type' } });
 assert.equal(preflight.status, 204); assert.equal(preflight.headers.get('access-control-allow-origin'), env.FRONTEND_ORIGIN);
 assert.equal(preflight.headers.get('access-control-allow-credentials'), null);
@@ -61,8 +61,8 @@ const expired = await request('/auth/challenge', { method: 'POST' }).then(r => r
 sql.exec('UPDATE atlas_login_challenges SET expires_at = 0');
 assert.equal((await request('/auth/google/session', { method: 'POST', data: { nonce: expired.nonce, credential: await jwt(expired.nonce) } })).status, 401);
 assert.equal((await request('/auth/logout', { token, method: 'POST' })).status, 200);
-assert.equal((await request('/api/account', { token })).status, 401);
+assert.equal((await request('/api/account', { token }).then(r=>r.json())).sessionExpired, true);
 assert.equal((await request('/api/account', { token: bob.token })).status, 200);
 sql.exec('UPDATE google_sessions SET expires_at = 0');
-assert.equal((await request('/api/account', { token: bob.token })).status, 401);
+assert.equal((await request('/api/account', { token: bob.token }).then(r=>r.json())).sessionExpired, true);
 console.log('Passed standalone backend: CORS, forged identity rejection, Google signatures/nonces, replay/expiry, hashed bearer sessions, cross-origin sync, account isolation and logout.');

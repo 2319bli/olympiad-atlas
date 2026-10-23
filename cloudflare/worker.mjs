@@ -82,8 +82,7 @@ export function createWorker(verify = verifyGoogleToken) {
         }
         const user = await identity(request, env.DB);
         if (path === '/api/account' && request.method === 'GET') {
-          if (request.headers.has('authorization') && !user) return cors(json({ error: 'Your session expired. Sign in again.' }, 401));
-          return cors(json({ user: user ? { id: user.userId, name: user.displayName, email: user.email, provider: 'google' } : null, googleEnabled: enabled(env), googleClientId: env.GOOGLE_CLIENT_ID || null, signInUrl: null, signOutUrl: null }));
+          return cors(json({ sessionExpired: request.headers.has('authorization') && !user, user: user ? { id: user.userId, name: user.displayName, email: user.email, provider: 'google' } : null, googleEnabled: enabled(env), googleClientId: env.GOOGLE_CLIENT_ID || null, signInUrl: null, signOutUrl: null }));
         }
         if (path === '/auth/logout' && request.method === 'POST') {
           const token = request.headers.get('authorization')?.slice(7);

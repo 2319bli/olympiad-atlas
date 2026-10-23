@@ -30,6 +30,7 @@ assert.throws(() => a.saveProgress({}), /Sign-in/);
 context.fetch = async () => ({ ok: false, status: 401, json: async () => ({ error: 'Session expired' }) });
 await assert.rejects(() => a.request('/api/sync'), /Session expired/); assert.equal(a.mode, 'expired');
 assert.equal(t.token(), 'a'.repeat(64)); // Do not silently turn expired account writes into guest writes.
+context.fetch = async () => ({ok:true,json:async()=>({user:null,sessionExpired:true,googleEnabled:true})});a.user=null;await a.init();assert.equal(a.mode,'expired');assert.equal(a.googleEnabled,true);assert.throws(()=>a.saveProgress({}),/Sign-in/);
 store.delete(t.tokenKey); a.user = null;
 context.fetch = async () => { throw Error('offline'); };
 await a.init(); assert.equal(a.mode, 'guest'); a.saveProgress({ offline: { saved: true, status: 'attempted' } });
