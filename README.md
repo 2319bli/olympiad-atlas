@@ -26,13 +26,13 @@ Large unreviewed downloads in `research/raw/` are temporary and git-ignored. Rev
 
 Search, filters, random selection, hidden solutions and rating notes, and browser-local save/attempt/solve state. Progress can be exported and restored from My practice. KaTeX and Marked are vendored with licences.
 
-## Publication
+## Hosting
 
-This repository contains the application source, reviewed question data, static assets and schema-only database migrations. Production credentials, account records and the live Site identifier are excluded.
+The frontend is published at https://2319bli.github.io/olympiad-atlas/ using GitHub Pages. GitHub Actions builds the static question bank, mock generator and PDF tools on every push to `main`.
 
-For Sites hosting, copy `.openai/hosting.example.json` to the ignored `.openai/hosting.json` and configure the appropriate project ID. When working on the existing Olympiad Atlas Site, use its existing ID and preserve its access policy; do not create a second Site. The account API requires a server runtime and a D1 database, so GitHub Pages alone cannot host the full application.
+The standalone account API is in `cloudflare/` and runs on Cloudflare Workers with D1. Google sign-in uses Google Identity Services; cloud accounts stay disabled until the API and Google client ID are configured. See [GitHub Pages and Cloudflare setup](docs/github-pages-cloudflare.md) for deployment, account migration and verification.
 
-Live website: https://olympiad-atlas.pr141.chatgpt.site
+This repository includes source, reviewed question data, assets and schema-only migrations. Production credentials and account records are excluded. The original Site build is retained for continuity; its identity belongs in the ignored `.openai/hosting.json`, using `.openai/hosting.example.json` as a template.
 
 ## Collection checkpoint — 23 October 2026
 
@@ -60,6 +60,6 @@ Account mocks keep immutable question snapshots. Practice updates write individu
 
 Validation: `node tests/account-service.mjs`, `node tests/account-client.mjs`, `node tests/paper-engine.cjs`, and the Sites build. API tests exercise ownership isolation using the actual SQL migrations, authentication, CSRF, malformed/oversized requests, immutable mock retries, and updates to separate progress records. Client tests cover pending queues, retries, cloud refresh, account changes and guest separation. Managed preview supports anonymous UI QA; hosted ChatGPT authentication is dispatch-owned and cannot be exercised through the local managed preview.
 
-## Google sign-in
+## Google sign-in on the original Site
 
 Google login is implemented as an optional additional provider, with explicit linking to an existing ChatGPT-backed Atlas account. It remains disabled until `GOOGLE_CLIENT_ID` and secret `GOOGLE_CLIENT_SECRET` are configured and the version is redeployed. See `docs/google-sign-in-setup.md` for the exact callback URL, activation and linking steps. Existing Site-owned ChatGPT routes and account IDs are preserved. Tests: `node tests/google-auth.mjs`; real Google consent cannot be verified without the OAuth application credentials.

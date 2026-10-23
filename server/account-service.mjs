@@ -8,7 +8,7 @@ export function validPaper(p){
  return p.questions.every(q=>object(q)&&validId(q.id)&&typeof q.statement==='string'&&q.statement.length>0&&q.statement.length<100000&&Number.isFinite(q.difficulty)&&q.difficulty>=1&&q.difficulty<=10&&['Algebra','Geometry','Number Theory','Combinatorics'].includes(q.topic)&&['subtopics','tags','originCompetitions'].every(k=>q[k]===undefined||Array.isArray(q[k])&&q[k].every(v=>typeof v==='string'))&&['appearances','alternateOrigins'].every(k=>q[k]===undefined||Array.isArray(q[k])&&q[k].every(v=>typeof v==='string'||object(v)))&&['sourceUrl','solutionUrl','solution','ratingReason','country','competition','solutionCredit','solutionKind'].every(k=>q[k]==null||typeof q[k]==='string'));
 }
 export function normalizePaper(p){return {...p,questionCount:6,durationMinutes:210,totalMarks:60,complete:true,rating:p.questions.reduce((s,q)=>s+q.difficulty,0)/6,questions:p.questions.map((q,i)=>({...q,paperNumber:i+1,marks:10}))}}
-export async function handleSync(request,db,user){
+export async function handleSync(request,db,user,{allowedOrigin=null,maxRecords=520}={}){
  if(!user?.userId)return reply({error:'Sign in to sync your account.'},401);
  if(!db)return reply({error:'Account storage is temporarily unavailable.'},503);
  const uid=user.userId;
@@ -22,7 +22,7 @@ export async function handleSync(request,db,user){
   }
   if(request.method!=='POST')return reply({error:'Method not allowed.'},405);
   const origin=request.headers.get('origin'),url=new URL(request.url);
-  if(!origin||origin!==url.origin||request.headers.get('sec-fetch-site')==='cross-site')return reply({error:'This request must come from the Atlas site.'},403);
+  if(!origin||origin!==(allowedOrigin||url.origin)||!allowedOrigin&&request.headers.get('sec-fetch-site')==='cross-site')return reply({error:'This request must come from the Atlas site.'},403);
   if(!request.headers.get('content-type')?.startsWith('application/json'))return reply({error:'JSON is required.'},415);
   const max=2*1024*1024;
   if(Number(request.headers.get('content-length')||0)>max)return reply({error:'Sync request is too large.'},413);
@@ -33,6 +33,7 @@ export async function handleSync(request,db,user){
   let data;try{data=JSON.parse(new TextDecoder().decode(bytes))}catch{return reply({error:'Invalid JSON.'},400)}
   if(data?.accountId!==uid)return reply({error:'Your signed-in account changed. Reload before syncing.'},409);
   if(!object(data)||!Array.isArray(data.papers)||data.papers.length>20||!object(data.progress)||Object.keys(data.progress).length>500||!data.papers.every(validPaper))return reply({error:'Invalid paper or sync batch.'},400);
+  if(data.papers.length+Object.keys(data.progress).length>maxRecords)return reply({error:'Sync batch is too large. Please use smaller batches.'},400);
   if(!Object.entries(data.progress).every(([id,p])=>validId(id)&&object(p)&&typeof p.saved==='boolean'&&['new','attempted','solved'].includes(p.status)))return reply({error:'Invalid practice progress.'},400);
   const now=Date.now(),statements=[];
   for(const p of data.papers)statements.push(db.prepare('INSERT INTO account_papers (user_id, paper_id, payload, created_at) VALUES (?, ?, ?, ?) ON CONFLICT(user_id, paper_id) DO NOTHING').bind(uid,p.id,JSON.stringify(normalizePaper(p)),now));

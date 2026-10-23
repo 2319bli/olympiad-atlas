@@ -59,3 +59,5 @@ dist/
 
 # Local Site identity (use the example when configuring hosting)
 /.openai/hosting.json
+
+/cloudflare/wrangler.jsonc
