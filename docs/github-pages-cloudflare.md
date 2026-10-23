@@ -25,7 +25,7 @@ Use the exact HTTPS Worker origin returned by deployment. Check its `/health` en
 
 ## Activate Google sign-in
 
-In Google Auth Platform, configure branding and audience and create a **Web application** OAuth client. Add the authorised JavaScript origin:
+In Google Auth Platform, configure branding and audience and create a **Web application** OAuth client. The public branding links are the Pages homepage, `https://2319bli.github.io/olympiad-atlas/privacy.html` and `https://2319bli.github.io/olympiad-atlas/terms.html`. Keep these notices aligned with the actual data handling when changing account features. The support contact is `2319bli@gmail.com`. Add the authorised JavaScript origin:
 
 ```text
 https://2319bli.github.io
