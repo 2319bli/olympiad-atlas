@@ -1,5 +1,62 @@
 .papers-page{padding:46px 16px 0}.papers-heading{display:flex;justify-content:space-between;align-items:start;gap:26px;margin-bottom:28px}.papers-heading h1{font-size:44px;margin-bottom:12px}.papers-heading p{color:var(--muted);max-width:650px;margin:0}.papers-count,.paper-score{text-align:right;flex-shrink:0}.papers-count strong,.paper-score strong{display:block;color:var(--purple);font:42px/1.2 var(--serif)}.papers-count span,.paper-score span{font-size:11px;color:var(--muted)}.mock-builder{border:1px solid #dcd1e9;border-radius:12px;background:linear-gradient(115deg,#f4effa,#fff);padding:28px;display:grid;grid-template-columns:1.2fr 1fr;gap:45px}.mock-builder h2{font:28px/1.2 var(--serif);margin:0 0 14px}.mock-builder p{color:#746880;font-size:12px;line-height:1.75}.mock-builder form{display:flex;flex-direction:column;gap:13px}.mock-builder form>label:first-child{font-size:12px;font-weight:550}.mock-builder label span{font-weight:400;color:var(--muted)}.mock-builder input[type=text],#mock-title{display:block;width:100%;border:1px solid var(--line);border-radius:6px;padding:11px;margin:5px 0;background:white}.mock-builder .check-label{font-size:12px}.mock-builder .button{margin-top:5px;align-self:start}.mock-builder #mock-message{margin:0;font-size:11px}.paper-method{font-size:12px;color:var(--purple);margin-top:15px}.paper-method summary{cursor:pointer}.paper-storage-note{display:flex;align-items:center;justify-content:space-between;gap:25px;padding:16px 3px 25px}.paper-storage-note p{font-size:11px;max-width:720px;color:var(--muted);margin:0}.paper-storage-note>div{display:flex;gap:18px;flex-shrink:0}.paper-controls{display:flex;gap:20px;justify-content:space-between;align-items:center;margin:16px 0}.paper-controls .search-box{max-width:290px}.paper-tabs{display:flex;gap:5px;flex-wrap:wrap}.paper-tabs button{border:1px solid transparent;background:none;color:var(--muted);padding:9px 12px;border-radius:6px;font-size:12px}.paper-tabs button[aria-pressed=true]{background:var(--lilac);color:var(--purple);border-color:#ded2ec}.paper-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:17px}.paper-card{padding:22px;border:1px solid var(--line);border-radius:10px;background:white}.paper-card-top{display:flex;align-items:center;justify-content:space-between;gap:12px}.paper-kind{font-size:8px;letter-spacing:1px;color:var(--muted)}.paper-mean{font-weight:600;color:var(--purple);font-size:18px}.paper-mean small{font-size:10px;font-weight:400;color:var(--muted)}.paper-card h3{font-size:19px;font-weight:550;margin:19px 0 8px}.paper-card h3 a{color:var(--ink)}.paper-card p{font-size:12px;color:var(--muted);margin:4px 0}.paper-card-actions{margin-top:23px;display:flex;align-items:center;justify-content:space-between;gap:10px}.paper-card-actions>a:last-child:not(.button){font-size:10px}.paper-card-actions .button{padding:8px 12px}.paper-archive-note{margin-top:28px;color:var(--muted);font-size:12px}.paper-archive-note summary{cursor:pointer;color:var(--purple)}.paper-error{color:#a24242!important}.paper-back{display:inline-block;margin-bottom:28px;font-size:12px}.paper-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.paper-actions #pdf-status{font-size:12px;color:var(--muted);max-width:440px}.paper-detail>.small-note{margin-top:12px}.paper-format-note{font-size:12px;color:var(--muted)}.paper-analysis{margin:25px 0;border:1px solid var(--line);border-radius:9px;background:var(--lilac);padding:15px 20px;font-size:12px}.paper-analysis summary{cursor:pointer;font-weight:550}.paper-analysis summary small{float:right;color:var(--muted);font-weight:400}.paper-analysis-table{overflow:auto}.paper-analysis table{border-collapse:collapse;width:100%;background:white}.paper-analysis td,.paper-analysis th{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line)}.paper-questions{max-width:900px;margin:30px auto}.paper-question{background:#fff;border:1px solid var(--line);padding:28px 32px;margin-bottom:22px;border-radius:10px}.paper-question-heading{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}.paper-question-heading h2{font-size:18px;margin:0}.paper-question-heading>span{font-size:11px;color:var(--muted)}.paper-question>.math-content{font-size:16px;line-height:1.85;overflow-x:auto}.paper-question img{max-width:100%;max-height:380px;object-fit:contain}.paper-question-source{font-size:12px;margin:22px 0;color:var(--muted)}.paper-question-source summary{cursor:pointer;color:var(--purple)}.paper-question .solution-details{margin-top:18px}.paper-list .empty-state{grid-column:1/-1}.topbar nav{gap:24px}
 @media(max-width:1050px){.paper-list{grid-template-columns:repeat(2,minmax(0,1fr))}.mock-builder{gap:25px}.topbar nav{gap:14px}.topbar{padding-left:25px;padding-right:25px}.brand{min-width:170px}}
 @media(max-width:650px){.papers-page{padding:30px 0 0}.papers-heading h1{font-size:34px}.papers-heading{gap:15px}.papers-heading p{font-size:12px}.papers-count strong,.paper-score strong{font-size:30px}.papers-count span,.paper-score span{font-size:9px;display:block;max-width:90px}.mock-builder{grid-template-columns:1fr;padding:22px;gap:20px}.paper-storage-note{align-items:start;flex-direction:column;gap:12px}.paper-controls{align-items:stretch;flex-direction:column;gap:12px}.paper-controls .search-box{max-width:none;flex:auto}.paper-tabs button{padding:8px 9px;font-size:10px}.paper-list{grid-template-columns:1fr}.paper-question{padding:22px 19px}.paper-analysis summary small{float:none;display:block}.topbar nav{gap:7px}.topbar nav a{font-size:9px;padding:0 3px}.topbar{padding:0 18px}.paper-question>.math-content{font-size:15px}.paper-card h3{font-size:20px}}
-/* Fixed-size, spoiler-free export pages, independent of viewport and app styles. */
-.exam-export{position:absolute;left:-12000px;top:0;width:794px;color:#111;background:#fff;z-index:-1}.exam-page{box-sizing:border-box;position:relative;width:794px;height:1123px;padding:64px 68px 61px;background:#fff;color:#111;font-family:'Times New Roman',Times,serif;font-size:17px;line-height:1.45;overflow:hidden}.exam-running{height:26px;border-bottom:1px solid #777;font-size:12px;margin-bottom:25px;color:#333}.exam-body{height:920px;overflow:visible}.exam-footer{position:absolute;bottom:32px;left:68px;right:68px;text-align:center;font-size:11px;color:#555;border-top:1px solid #aaa;padding-top:9px}.exam-page h1{font-family:'Times New Roman',Times,serif;font-weight:700;font-size:28px;line-height:1.25;letter-spacing:0;color:#111;margin:0 0 22px}.exam-page h2{font:700 22px/1.3 'Times New Roman',Times,serif;margin:0 0 20px;color:#111}.exam-page h3{font-size:18px}.exam-publisher{text-align:center;letter-spacing:3px;font-size:13px;margin:35px 0}.exam-cover h1,.exam-cover h2,.exam-unofficial{text-align:center}.exam-unofficial{font-size:13px;margin:22px 0 38px}.exam-time{border-top:1px solid #222;border-bottom:1px solid #222;padding:18px 0;text-align:center;line-height:1.8}.exam-instructions{margin-top:35px;font-size:16px}.exam-instructions ul{padding-left:22px}.exam-instructions li{margin-bottom:14px}.exam-start{text-align:center;font-weight:bold;margin-top:42px}.exam-question{display:flex;gap:18px;margin-bottom:30px;font-size:17px;line-height:1.5}.exam-number{font-weight:bold;min-width:24px;padding-top:0}.exam-statement{flex:1;min-width:0}.exam-statement>p:first-child{margin-top:0}.exam-statement p{margin:0 0 12px}.exam-statement .katex{font-size:1.05em}.exam-statement .katex-display{margin:12px 0;overflow:visible}.exam-statement img{display:block;max-width:100%;max-height:260px;object-fit:contain;margin:15px auto}.exam-marks{text-align:right;font-size:13px}.exam-credit{font-size:14px;margin:20px 0;overflow-wrap:anywhere}.exam-credit span{font-size:11px}.exam-copyright{font-size:12px;line-height:1.6;margin-top:35px}.exam-sources .exam-body>p{font-size:14px}.exam-export a{color:#111;text-decoration:none}.exam-export table{border-collapse:collapse;max-width:100%}.exam-export td,.exam-export th{padding:3px 8px;border:1px solid #777}.exam-export .katex-mathml{display:none!important}
+/* Fixed A4 pages modelled on the BMO1 cover and question sheet.
+   Export dimensions are independent of the app theme and viewport. */
+.exam-export{position:absolute;left:-12000px;top:0;width:794px;color:#000;background:#fff;z-index:-1}
+.exam-page,.exam-page *{box-sizing:border-box}
+.exam-page{position:relative;width:794px;height:1123px;padding:28px 75px 51px;background:#fff;color:#000;font-family:'Times New Roman',Times,'Liberation Serif',serif;font-size:18px;line-height:1.22;overflow:hidden;text-align:left}
+.exam-running{display:flex;justify-content:space-between;align-items:baseline;gap:16px;height:24px;border-bottom:1px solid #333;margin:0 0 20px;font:16px/1.2 'Times New Roman',Times,serif;color:#000}
+.exam-running span:first-child{font-variant:small-caps;white-space:nowrap}
+.exam-running span:last-child{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;text-align:right}
+.exam-body{height:965px;overflow:visible}
+.exam-footer{position:absolute;bottom:28px;left:75px;right:75px;display:flex;justify-content:space-between;gap:15px;font-size:12px;line-height:1.2;color:#000}
+.exam-page h1,.exam-page h2,.exam-page h3{font-family:inherit;font-weight:700;letter-spacing:0;color:#000}
+.exam-page h1{font-size:29px;line-height:1.13;margin:0;font-variant:small-caps}
+.exam-page h1 span{font-size:25px}
+.exam-page h2{font-size:22px;line-height:1.2;margin:8px 0;overflow-wrap:anywhere}
+.exam-page h3{font-size:24px;font-variant:small-caps;line-height:1.15;margin:0 0 5px}
+.exam-cover{padding-top:36px}
+.exam-cover .exam-running,.exam-cover .exam-footer{display:none}
+.exam-cover .exam-body{height:1045px}
+.exam-brand{display:flex;align-items:center;justify-content:center;gap:23px;margin:0 0 19px;font:800 43px/1.1 Arial,Helvetica,sans-serif;height:107px}
+.exam-brandmark{display:block;position:relative;width:89px;height:89px;border:3px solid #111;border-radius:20px;flex:none}
+.exam-brandmark i{position:absolute;display:block;width:12px;height:12px;border-radius:50%;background:#111;top:49px;left:18px}
+.exam-brandmark i:first-child{top:18px;left:36px}
+.exam-brandmark i:last-child{left:54px}
+.exam-cover h1,.exam-cover h2,.exam-edition,.exam-unofficial{text-align:center}
+.exam-edition{font-size:17px;margin:8px 0 0;line-height:1.2}
+.exam-unofficial{font-size:13px;margin:8px 0 0;line-height:1.25}
+.exam-instructions{margin-top:62px;font-size:17px;line-height:1.25}
+.exam-instructions ol{padding-left:21px;margin:0}
+.exam-instructions li{padding-left:0;margin:0 0 7px}
+.exam-instructions strong{font-weight:700}
+.exam-historical{font-size:14px;line-height:1.25;margin:12px 0 0}
+.exam-cover-note{margin-top:25px;text-align:center;font-size:14px;line-height:1.35}
+.exam-cover-note p{margin:0 0 8px}
+.exam-cover-note .exam-site{font-family:Arial,Helvetica,sans-serif;font-size:14px}
+.exam-cover-compact .exam-instructions{margin-top:30px;font-size:16px}
+.exam-cover-compact .exam-instructions li{margin-bottom:5px}
+.exam-cover-compact .exam-cover-note{margin-top:15px}
+.exam-question{display:flex;gap:8px;margin:0 0 25px;font-size:20px;line-height:1.22}
+.exam-number{font-weight:700;min-width:15px;max-width:90px;flex-shrink:0}
+.exam-statement{flex:1;min-width:0}
+.exam-statement p{font:inherit;margin:0 0 10px}
+.exam-statement>:first-child{margin-top:0}
+.exam-statement>:last-child{margin-bottom:0}
+.exam-statement strong{font-weight:700}
+.exam-statement .katex{font-size:1em}
+.exam-statement .katex-display{margin:12px 0;overflow:visible}
+.exam-statement img{display:block;max-width:100%;max-height:260px;object-fit:contain;margin:12px auto}
+.exam-statement .exam-marks{text-align:right;font-size:13px;margin-top:6px}
+.exam-question-list{display:flex;flex-direction:column;justify-content:space-between}
+.exam-question-list>.exam-question{flex-shrink:0}
+.exam-question-list>.exam-question:last-child{margin-bottom:0}
+.exam-credit{font-size:15px;margin:20px 0;overflow-wrap:anywhere}
+.exam-credit span{font-size:12px}
+.exam-copyright{font-size:13px;line-height:1.4;margin-top:30px}
+.exam-sources .exam-body>p{font-size:15px;line-height:1.4}
+.exam-export a{color:#000;text-decoration:none}
+.exam-export table{border-collapse:collapse;max-width:100%}
+.exam-export td,.exam-export th{padding:3px 8px;border:1px solid #777}
+.exam-export .katex-mathml{display:none!important}
