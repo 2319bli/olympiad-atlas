@@ -1846,14 +1846,40 @@
         "4": "Encoding each school by its gender imbalance turns both global balance conditions into a sum-of-squares bound that counts odd-sized schools.",
         "5": "The parity-dependent recursion is an adjacent-bit transform. An explicit inverse, rather than mere injectivity on initial blocks, proves every positive value occurs exactly once."
       }
+    },
+    {
+      "competition": "USAMO",
+      "year": 2004,
+      "ratings": [
+        5,
+        7,
+        9,
+        5.5,
+        6,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2004-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2005,
+      "ratings": [
+        5,
+        6,
+        7,
+        4,
+        6,
+        9
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2005-notes.pdf"
     }
   ],
-  "papersScreened": 118,
-  "problemAppearancesScreened": 724,
-  "uniqueIncluded": 663,
+  "papersScreened": 120,
+  "problemAppearancesScreened": 736,
+  "uniqueIncluded": 675,
   "gaps": [
     "Canada: every CMO paper1969–2026 has been reviewed. Four individual questions remain held:1969Q1 (undefined denominator),1974Q7 (timetable assumptions),1990Q5 (unproved recurrence run-length law),2001Q5 (undefined ratio). All other CMO questions have individual numeric assessments. All CJMO2020–2026 fully screened. Official worked solutions are linked only from1994; earlier included questions have original independently checked proofs.",
-    "US: all USAJMO 2010–2026 and USAMO 2006–2025 papers fully screened. USAMO 1972–1995 Q1–5 and 1996–2005 Q1–6 remain unassessed (180 questions in34 papers), with usable historical archives located. USAMO2026 Q1 and Q3 remain held for incomplete source proofs. See research/americas/historical-inventory.json for exact year-by-year inventory.",
+    "US: all USAJMO 2010–2026 and USAMO 2004–2025 papers fully screened. USAMO 1972–1995 Q1–5 and 1996–2003 Q1–6 remain unassessed (168 questions in 32 papers), with usable historical archives located. USAMO 2026 Q1 and Q3 remain held for incomplete source proofs. See research/americas/historical-inventory.json for exact year-by-year inventory.",
     "USAMO 2026 Q1 source notes explicitly withdraw the key inequality proof; Q3 lacks a proof. Both remain unrated and unpublished.",
     "Brazil: selected OBM Level 2/3 problems from 2021–2024 only; earlier years and remaining questions not yet fully assessed.",
     "Argentina: four selected OMA National2024 Level2/3 questions only; remaining years/levels are pending.",
@@ -2177,7 +2203,8 @@
     "Cono Sur 2024 Q3 has expression 3^n−2^n−1; the organizer PDF text layer loses the exponent on 2. Cross-checked with independently posted original proofs. It is above the target band. Q1 has elementary family (t,t+2,t+10,t+6), rated below target. Q5 is a product of insertion counts, also below target. Q2 solution independently simplified to common gap ratios and translations; Q6 four-colour table independently computed and its two move properties checked.",
     "USAJMO 2010–2014 reviewed individually in full. Eight shared USAMO appearances added without duplicate problem entries. USAMO 2013 Q4 / USAJMO 2013 Q6 now has an independently reconstructed proof correcting reversed inequality signs and a missing intermediate square in cached notes. USAJMO 2014 Q6 has a complete coordinate proof supplying the source’s omitted lemma.",
     "CMO 2004–2009 individually reviewed in full. Official CMO 2007 Q2 prints the lower similarity bound twice; corrected upper endpoint is supported by its solution. CMO 2006 Q1 preserves the actual 1003 endpoint and supplies a corrected finite sum (j=0, not j=1); organizer intended endpoint 4012 is documented separately. CMO 2009 Q4 original proof repairs the source’s unjustified valuation step, and Q5 supplies the missing infinite-set argument with an explicit at-least-three-points qualification.",
-    "CMO 1996–2003: 39 questions individually assessed. CMO 2001 Q2 retains the officially acknowledged unreduced-fraction interpretation, whose maximum is 35 rather than 31. CMO 2001 Q5 held for a genuine periodic-orbit degeneracy making its requested distance ratio undefined. CMO 2002 Q5 independent solution supplies the missing positive-index justification in the minimal-difference argument."
+    "CMO 1996–2003: 39 questions individually assessed. CMO 2001 Q2 retains the officially acknowledged unreduced-fraction interpretation, whose maximum is 35 rather than 31. CMO 2001 Q5 held for a genuine periodic-orbit degeneracy making its requested distance ratio undefined. CMO 2002 Q5 independent solution supplies the missing positive-index justification in the minimal-difference argument.",
+    "USAMO 2004–2005: all twelve statements and arguments individually reviewed. 2004 Q5 uses the stated positive domain (the source unnecessarily claims its auxiliary inequality for all reals). 2005 Q6 has an independent digit-block/pigeonhole proof, with a strict upper-bound exponent that also covers triangular numbers equal to powers of ten. 2005 Q3 explicitly states distinct interior points, as required for a nondegenerate cyclic conclusion."
   ],
   "restorationPending": []
 }

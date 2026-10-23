@@ -2,13 +2,13 @@
   "asOf": "2026-10-23",
   "scope": "USAMO1972–2026,USAJMO2010–2026,CMO1969–2026,CJMO2020–2026",
   "summary": {
-    "uniqueIncludedBeforeRootDuplicateMerge": 438,
-    "numericAssessments": 724,
-    "fullyAssessedPapers": 118,
+    "uniqueIncludedBeforeRootDuplicateMerge": 675,
+    "numericAssessments": 736,
+    "fullyAssessedPapers": 120,
     "priorityPapers": 137,
     "priorityQuestionTotal": 766,
-    "priorityNumericAssessments": 580,
-    "priorityUnrated": 186
+    "priorityNumericAssessments": 592,
+    "priorityUnrated": 174
   },
   "sources": [
     {
@@ -549,8 +549,7 @@
       "competition": "USAMO",
       "year": 2004,
       "questionCount": 6,
-      "assessedNumbers": [],
-      "unratedNumbers": [
+      "assessedNumbers": [
         "1",
         "2",
         "3",
@@ -558,16 +557,16 @@
         "5",
         "6"
       ],
-      "status": "not-yet-assessed",
+      "unratedNumbers": [],
+      "status": "complete",
       "source": "https://web.evanchen.cc/exams/USAMO-2004-notes.pdf",
-      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+      "sourceStatus": "reviewed"
     },
     {
       "competition": "USAMO",
       "year": 2005,
       "questionCount": 6,
-      "assessedNumbers": [],
-      "unratedNumbers": [
+      "assessedNumbers": [
         "1",
         "2",
         "3",
@@ -575,9 +574,10 @@
         "5",
         "6"
       ],
-      "status": "not-yet-assessed",
+      "unratedNumbers": [],
+      "status": "complete",
       "source": "https://web.evanchen.cc/exams/USAMO-2005-notes.pdf",
-      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+      "sourceStatus": "reviewed"
     },
     {
       "competition": "USAMO",
@@ -2466,6 +2466,7 @@
     "complete_cmo_1994_1995.py",
     "complete_cmo_1969_1980.py",
     "complete_cmo_1981_1993.py",
-    "check_historical_checkpoint.py"
+    "check_historical_checkpoint.py",
+    "complete_usamo_2004_2005.py"
   ]
 }

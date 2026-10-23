@@ -48,3 +48,9 @@ inventories establishes worldwide historical exhaustiveness.
 Source documents can be retrieved again from their recorded URLs. Tracked
 assessment data and prose are the durable result; a source-access failure does
 not justify reconstructing a missing problem from its question number.
+
+The additive USAMO 2004–2005 checkpoint is
+`python research/americas/complete_usamo_2004_2005.py`, followed by the standard
+reconciliation, compilation and validation commands above. It updates the
+question bank and both Americas coverage records idempotently. When rebuilding
+the historical Americas sequence, run this after `check_historical_checkpoint.py`.
