@@ -99,6 +99,21 @@ def build_papers(problems=None, ledger=None):
             'mean': statistics.mean(ratings), 'ratings': ratings,
             'topicCounts': dict(Counter(p['questions'][i]['topic'] for p in reference_papers)),
         })
+    # BMO2 calibration uses reviewed four-question papers, without changing
+    # the scope or identities of the existing official BMO1 shelf.
+    bmo2 = {}
+    for p in problems:
+        if p['competition'] == 'BMO2' and p.get('reviewStatus') == 'individually-assessed':
+            bmo2.setdefault(p['year'], {})[str(p['number'])] = p
+    bmo2_last = max(bmo2)
+    bmo2_templates = []
+    for year in sorted(bmo2, reverse=True):
+        if year < bmo2_last - 9 or set(bmo2[year]) != {'1', '2', '3', '4'}:
+            continue
+        qs = [bmo2[year][str(i)] for i in range(1, 5)]
+        bmo2_templates.append(dict(id=f'bmo2-{year}', archiveYear=year,
+            topics=[q['topic'] for q in qs], difficulties=[q['difficulty'] for q in qs],
+            mean=statistics.mean(q['difficulty'] for q in qs)))
     return {
         'version': 1, 'updated': '2026-10-23', 'official': official,
         'scope': 'All 35 BMO1 papers (archive years 1992–2026) and all 19 accessible historical first-stage BMO papers (1973–1991). BMO2 and FIST are excluded.',
@@ -106,6 +121,13 @@ def build_papers(problems=None, ledger=None):
         'yearConvention': 'Archive years identify the competition cycle. A November/December sitting can occur in the preceding calendar year; exact sitting dates are retained where verified.',
         'gaps': [{'competition': 'BMO', 'years': '1965–1972', 'sourceUrl': ARCHIVE,
                   'reason': 'The official archive says original papers for these years are not available online. They are not included or rated here.'}],
+        'calibrationBmo2': {
+            'version': 1, 'competition': 'BMO2', 'firstArchiveYear': bmo2_last - 9,
+            'lastArchiveYear': bmo2_last, 'templates': bmo2_templates,
+            'referencePaperCount': len(bmo2_templates),
+            'method': 'Reuse topics and individual ratings from complete four-question BMO2 papers in the last ten archived seasons; retain their original order. Ratings are approximate assessments, not official UKMT grades.',
+            'formatSource': 'https://bmos.ukmt.org.uk/home/bmo2-2025.pdf',
+        },
         'calibration': {
             'version': 1, 'competition': 'BMO1', 'firstArchiveYear': recent_first,
             'lastArchiveYear': recent_last, 'referencePaperCount': len(reference_papers),
@@ -128,7 +150,7 @@ def build_papers(problems=None, ledger=None):
 if __name__ == '__main__':
     data = build_papers()
     output = ROOT / 'public/data/papers.json'
-    output.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')) + '\n')
+    output.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps({'papers': len(data['official']), 'modernBmo1': sum(not p['legacy'] for p in data['official']),
                       'historicalBmo': sum(p['legacy'] for p in data['official']),
                       'complete': sum(p['complete'] for p in data['official']),

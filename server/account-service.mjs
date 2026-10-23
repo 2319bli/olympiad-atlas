@@ -1,13 +1,11 @@
+import '../public/paper-engine.js';
+const PaperEngine=globalThis.PaperEngine;
 const NO_CACHE={'Content-Type':'application/json','Cache-Control':'private, no-store','Vary':'Cookie'};
 const reply=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:NO_CACHE});
 const object=v=>v&&typeof v==='object'&&!Array.isArray(v);
 const validId=v=>typeof v==='string'&&v.length>0&&v.length<=200&&!/[\u0000-\u001f\u007f]/.test(v)&&!['__proto__','constructor','prototype'].includes(v);
-export function validPaper(p){
- if(!object(p)||p.version!==1||p.kind!=='generated'||!/^mock-[a-z0-9-]{1,100}$/i.test(p.id)||typeof p.title!=='string'||!p.title.trim()||p.title.length>160||!Number.isFinite(Date.parse(p.createdAt))||!Array.isArray(p.questions)||p.questions.length!==6)return false;
- if(new Set(p.questions.map(q=>q?.id)).size!==6)return false;
- return p.questions.every(q=>object(q)&&validId(q.id)&&typeof q.statement==='string'&&q.statement.length>0&&q.statement.length<100000&&Number.isFinite(q.difficulty)&&q.difficulty>=1&&q.difficulty<=10&&['Algebra','Geometry','Number Theory','Combinatorics'].includes(q.topic)&&['subtopics','tags','originCompetitions'].every(k=>q[k]===undefined||Array.isArray(q[k])&&q[k].every(v=>typeof v==='string'))&&['appearances','alternateOrigins'].every(k=>q[k]===undefined||Array.isArray(q[k])&&q[k].every(v=>typeof v==='string'||object(v)))&&['sourceUrl','solutionUrl','solution','ratingReason','country','competition','solutionCredit','solutionKind'].every(k=>q[k]==null||typeof q[k]==='string'));
-}
-export function normalizePaper(p){return {...p,questionCount:6,durationMinutes:210,totalMarks:60,complete:true,rating:p.questions.reduce((s,q)=>s+q.difficulty,0)/6,questions:p.questions.map((q,i)=>({...q,paperNumber:i+1,marks:10}))}}
+export function validPaper(p){return object(p)&&PaperEngine.validateSaved(p)&&p.questions.every(q=>validId(q.id))}
+export function normalizePaper(p){return PaperEngine.normalizeSaved(p)}
 export async function handleSync(request,db,user,{allowedOrigin=null,maxRecords=520}={}){
  if(!user?.userId)return reply({error:'Sign in to sync your account.'},401);
  if(!db)return reply({error:'Account storage is temporarily unavailable.'},503);

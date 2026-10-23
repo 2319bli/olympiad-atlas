@@ -30,3 +30,16 @@ assert.equal((await post(a,{papers:[],padding:'x'.repeat(2100000)})).status,413)
 assert.equal((await post(a,{progress:{'baltic-lithuania-2026-Grades-9–10-1':{saved:true,status:'attempted'},'ve-ojm-final-Year 3-2023-3':{saved:false,status:'solved'}}})).status,200);
 assert.equal((await get(a)).headers.get('cache-control'),'private, no-store');
 console.log('Passed account API: authentication, ownership isolation, account-switch rejection, CSRF, immutable/idempotent papers, record-level progress merging and validation.');
+// Both new formats and legacy six-question snapshots survive server normalization.
+for(const [preset,count] of [['bmo2',4],['custom',10]]){
+ const selection=E.generate(all,catalog,{preset,questionCount:count,profile:'random',maxPerCountry:0});
+ const p=E.snapshot(selection,{id:'mock-sync-'+preset,title:preset,createdAt:new Date().toISOString()});
+ assert.equal((await post(a,{papers:[p]})).status,200);
+ const roundtrip=(await (await get(a)).json()).papers.find(x=>x.id===p.id);
+ assert.equal(roundtrip.questionCount,count);assert.equal(roundtrip.questions.length,count);assert.equal(roundtrip.totalMarks,count*10);assert.equal(roundtrip.generationSettings.preset,preset);
+ assert.equal((await post(a,{papers:[{...p,questionCount:count+1}]})).status,400);
+}
+const legacy={...paper,id:'mock-sync-legacy',version:1};delete legacy.generationSettings;
+assert.equal((await post(a,{papers:[legacy]})).status,200);
+assert.equal((await (await get(a)).json()).papers.find(x=>x.id===legacy.id).questionCount,6);
+console.log('Passed account round trips for BMO2, ten-question custom and legacy papers.');

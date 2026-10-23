@@ -44,11 +44,15 @@ The Coverage view lists remaining work by region and exposes precise archive inv
 
 The `#bmo` page lists every question from the last ten archived BMO seasons, including ratings outside the preferred practice range. `research/bmo_overview.py` assembles it during compilation from the British review ledger and reviewed subject metadata in `data/bmo-overview-extra.json`. Sitting dates and season labels distinguish BMO1 archive years from calendar years. The initial release contains 101 questions in 20 papers (2016–17 to 2025–26), including the seven-question 2020–21 BMO1 format.
 
-## BMO1 papers and mocks
+## Papers and configurable mocks
 
 `#papers` combines 35 official BMO1 papers (archive years 1992–2026), 19 separately labelled pre-split historical papers, and browser-local mock snapshots. The compiler builds `papers.json` with `research/build_papers.py`. Incomplete historical transcriptions have no aggregate rating.
 
-Mocks match one of nine recent six-question BMO1 topic/rating profiles, with each question within 0.5 of its target. British BMO/FIST and recorded alternate appearances are excluded; Balkan BMO remains eligible. Six distinct questions, at most two from one country/body, with optional practice/repeat/solution filters. All question ratings are retained; the paper rating is their arithmetic mean. Snapshots and backup restore use a versioned browser-local format.
+The BMO1 preset retains nine recent six-question topic/rating profiles. BMO2 uses ten reviewed four-question profiles from the last ten archived seasons. Both match each individual rating within 0.5, use 3½ hours and 10 marks per question, exclude advanced prerequisites, and allow at most two questions per country/body. British BMO/FIST, recorded alternate appearances and identical statements remain excluded in every mode; Balkan BMO remains eligible.
+
+Custom papers support 4–10 questions, 15–600 minutes, 1–20 marks per question, difficulty bands in half-point steps, rising/midpoint/random profiles, target tolerance, selected topics with balanced or free mixes, primary-origin country/year filters, country/competition limits, advanced-prerequisite and diagram toggles. Availability controls exclude earlier mocks or attempted questions and optionally require solutions. Selection uses bounded backtracking; it fails explicitly without saving partial papers or relaxing constraints. All original question ratings remain unchanged.
+
+`public/paper-builder.js` owns form controls and browser-local preferences; `paper-engine.js` owns validated settings, selection and snapshots. Version-2 snapshots save the full generation settings, timing and marking; version-1 six-question backups remain readable. The account service shares the engine's validation and normalization. Deploy the updated Cloudflare backend alongside this frontend so cloud sync accepts BMO2 and custom papers; GitHub Pages deployment updates the frontend only.
 
 Client-side A4 PDF exports contain an instructions cover, numbered question pages and separate source credits. They omit solutions and rating/topic hints, label mocks unofficial, and retain original official PDF links. Vendored jsPDF and html2canvas render KaTeX at 240 dpi. Tests: `node tests/paper-engine.cjs`. Browser QA confirmed generation, reload persistence and PDF render completion; cloud-browser policy prevented inspecting/downloading the generated blob PDFs, so final PDF visual verification remains limited.
 

@@ -60,3 +60,20 @@
 .exam-export table{border-collapse:collapse;max-width:100%}
 .exam-export td,.exam-export th{padding:3px 8px;border:1px solid #777}
 .exam-export .katex-mathml{display:none!important}
+/* Generator settings follow the existing purple practice-paper palette. */
+.mock-builder{grid-template-columns:minmax(240px,.9fr) minmax(0,1.1fr);gap:36px;align-items:start}
+.preset-choices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:23px 0 16px}
+.preset-choices button{padding:14px 8px;border:1px solid #dcd1e9;border-radius:8px;background:#fff;color:var(--ink);text-align:left;cursor:pointer}
+.preset-choices strong{display:block;font-size:14px;margin-bottom:7px}.preset-choices span{display:block;font-size:10px;line-height:1.5;color:var(--muted)}
+.preset-choices button[aria-pressed=true]{border-color:var(--purple);background:var(--lilac);box-shadow:inset 0 0 0 1px var(--purple)}
+.mock-builder fieldset{min-width:0;border:0;padding:0;margin:0}.mock-builder legend,.mock-builder h3{font-size:12px;font-weight:650;margin:0 0 12px;color:var(--ink)}
+.mock-builder form>label,.mock-builder .builder-grid label,.custom-options>label,.builder-advanced>label{font-size:11px;font-weight:550}
+.mock-builder select,.mock-builder input[type=number]{display:block;width:100%;min-width:0;padding:10px 8px;margin-top:6px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--ink);font:12px var(--sans)}
+.mock-builder input:focus-visible,.mock-builder select:focus-visible,.preset-choices button:focus-visible{outline:2px solid var(--purple);outline-offset:3px}
+.custom-options[hidden]{display:none}.builder-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px;margin-bottom:18px}.custom-options>.builder-grid:first-of-type{grid-template-columns:repeat(3,minmax(0,1fr))}
+.mock-builder .field-help{font-size:10px;line-height:1.65;margin:9px 0 17px}.builder-topics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:8px 0 18px!important}
+.builder-topics legend{margin-bottom:12px}.builder-toggles{display:grid;gap:12px;margin-top:8px!important}.builder-advanced{border-top:1px solid var(--line);padding-top:14px;margin-top:17px;font-size:12px}.builder-advanced summary{cursor:pointer;color:var(--purple);margin-bottom:14px}.builder-advanced .check-label{display:flex;margin-top:12px}
+.builder-preview{border:1px solid #ded2ec;background:#faf7fd;padding:13px 15px;border-radius:7px;margin-top:6px}.builder-preview strong{font-size:12px;font-weight:550}.mock-builder .builder-preview p{font-size:10px;margin:6px 0 0}
+.mock-builder form>#mock-title{margin-top:-8px}.mock-builder input[type=checkbox]{accent-color:var(--purple)}
+@media(max-width:850px){.mock-builder{grid-template-columns:1fr;gap:25px}.preset-choices button{text-align:center}.mock-builder .builder-intro>p{max-width:none}}
+@media(max-width:440px){.builder-grid,.custom-options>.builder-grid:first-of-type{grid-template-columns:repeat(2,minmax(0,1fr))}.mock-builder{padding:18px}.preset-choices{gap:6px}.preset-choices span{font-size:9px}.builder-topics{grid-template-columns:1fr}}
