@@ -67,3 +67,7 @@ Validation: `node tests/account-service.mjs`, `node tests/account-client.mjs`, `
 ## Google sign-in on the original Site
 
 Google login is implemented as an optional additional provider, with explicit linking to an existing ChatGPT-backed Atlas account. It remains disabled until `GOOGLE_CLIENT_ID` and secret `GOOGLE_CLIENT_SECRET` are configured and the version is redeployed. See `docs/google-sign-in-setup.md` for the exact callback URL, activation and linking steps. Existing Site-owned ChatGPT routes and account IDs are preserved. Tests: `node tests/google-auth.mjs`; real Google consent cannot be verified without the OAuth application credentials.
+
+### Topic guide
+
+The **Topic guide** (`#learn`) explains all 63 subtopic labels currently in the bank, grouped into four mathematical areas and shared proof methods. Each entry includes question styles, techniques, an original worked example, a common trap and live practice links. Learning stages describe prerequisites, not contest difficulty or an official syllabus. Content lives in `public/data/study-guide.json`; `public/study-guide.js` renders the searchable index and deep-linked entries. Practice links clear unrelated filters and include all difficulties. Run `node tests/study-guide.cjs` to check taxonomy coverage, matching problems, links and mathematical typesetting.

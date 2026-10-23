@@ -9,13 +9,15 @@
   <link rel="stylesheet" href="vendor/katex/katex.min.css"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="papers.css?v=20261023-settings">
   <script defer src="vendor/katex/katex.min.js"></script><script defer src="vendor/katex/contrib/auto-render.min.js"></script>
   <script defer src="vendor/marked.js"></script><script defer src="bmo.js"></script><script defer src="paper-engine.js?v=20261023-settings"></script><script defer src="paper-builder.js?v=20261023-settings"></script><script defer src="papers.js?v=20261023-settings"></script><script defer src="paper-pdf.js?v=20261023-settings"></script><script defer src="backend-config.js"></script><script defer src="account-transport.js"></script><script defer src="account.js"></script>
-<script defer src="app.js"></script>
+<script defer src="study-guide.js?v=20261023-guide"></script>
+<script defer src="app.js?v=20261023-guide"></script>
+<link rel="stylesheet" href="study-guide.css?v=20261023-guide">
 <link rel="stylesheet" href="account.css">
 </head>
 <body>
 <header class="topbar">
   <a class="brand" href="#library" aria-label="Olympiad Atlas home"><span class="brandmark">∴</span><span>Olympiad<span class="brand-sub">ATLAS</span></span></a>
-  <nav aria-label="Main navigation"><a href="#library" data-view="library" class="active">Problem library</a><a href="#bmo" data-view="bmo">Recent BMO</a><a href="#papers" data-view="papers">Saved papers</a><a href="#practice" data-view="practice">My practice <span id="practice-count">0</span></a><a id="account-link" href="#account" data-view="account">Account</a>
+  <nav aria-label="Main navigation"><a href="#library" data-view="library" class="active">Problem library</a><a href="#learn" data-view="learn">Topic guide</a><a href="#bmo" data-view="bmo">Recent BMO</a><a href="#papers" data-view="papers">Saved papers</a><a href="#practice" data-view="practice">My practice <span id="practice-count">0</span></a><a id="account-link" href="#account" data-view="account">Account</a>
 <a href="#coverage" data-view="coverage">Coverage</a></nav>
   <button class="icon-button help-button" id="guide-button" aria-label="How difficulty ratings work">?</button>
 </header>
@@ -51,6 +53,7 @@
       </section>
     </div>
   </div>
+  <section id="learn-view" hidden aria-label="Olympiad topic and technique guide"></section>
   <section id="account-view" hidden aria-label="Your account"></section>
 <section id="papers-view" hidden aria-label="Saved olympiad papers"></section>
   <section id="coverage-view" hidden></section>

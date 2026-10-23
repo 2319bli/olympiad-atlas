@@ -1,0 +1,1015 @@
+{
+  "version": 1,
+  "updated": "2026-10-23",
+  "groups": [
+    {
+      "id": "number-theory",
+      "name": "Number Theory",
+      "symbol": "ℕ",
+      "intro": "Integers have rigid structure. Divisibility, prime factors and remainders turn an apparently endless search into a short proof.",
+      "start": "Begin with divisibility, congruences and factorisation. Then combine them with bounds to solve integer equations."
+    },
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "symbol": "𝑥",
+      "intro": "Find the structure inside expressions, equations and functions. The decisive move is often a substitution or identity that makes the conditions interact.",
+      "start": "Build fluency with factorisation, inequalities, polynomials and recurrences before taking on functional equations."
+    },
+    {
+      "id": "geometry",
+      "name": "Geometry",
+      "symbol": "△",
+      "intro": "Turn a diagram into a chain of proved relationships: equal angles, ratios, lengths, areas and incidences.",
+      "start": "Start with triangle and circle facts, similarity and area ratios. Add power of a point and transformations when those tools feel natural."
+    },
+    {
+      "id": "combinatorics",
+      "name": "Combinatorics",
+      "symbol": "⋮",
+      "intro": "Study finite arrangements, choices and processes. Many questions ask you to prove that something must exist, cannot happen, or is best possible.",
+      "start": "Practise careful counting, pigeonhole arguments, colouring and extremal choices. Learn to prove an upper bound and construct an example attaining it."
+    },
+    {
+      "id": "proof-methods",
+      "name": "Proof methods",
+      "symbol": "⇒",
+      "intro": "These ideas cross topic boundaries. A number-theory problem may use pigeonhole; a geometry problem may be solved by choosing an extremal point.",
+      "start": "Ask what stays fixed, what can only decrease, what happens in an extreme case, and whether a smaller instance would help."
+    }
+  ],
+  "entries": [
+    {
+      "id": "divisibility-gcd",
+      "title": "Divisibility & GCD",
+      "group": "number-theory",
+      "level": "foundation",
+      "subtopics": [
+        "Divisibility & GCD"
+      ],
+      "overview": "Divisibility records exact integer structure; the greatest common divisor measures the part shared by two numbers. Coprime factors are especially useful because prime factors cannot be shared between them.",
+      "questions": "Find all integers satisfying several divisibility conditions; prove an expression divides another; determine a gcd or lcm.",
+      "techniques": "Use the Euclidean algorithm, integer linear combinations and prime factorisation. If $\\gcd(a,b)=1$ and $a\\mid bc$, then $a\\mid c$. Bézout writes $\\gcd(a,b)=ua+vb$ for integers $u,v$.",
+      "example": "For a positive integer $n$, any common divisor of $n$ and $n+1$ divides their difference, $1$. Thus they are coprime. If $n(n+1)$ is a square, each factor must itself be a square, since every prime occurs in just one of them.",
+      "pitfall": "You cannot split a square product into square factors without first controlling their gcd.",
+      "keywords": "Euclid Bézout lcm coprime factorisation"
+    },
+    {
+      "id": "modular-arithmetic",
+      "title": "Modular arithmetic",
+      "group": "number-theory",
+      "level": "foundation",
+      "subtopics": [
+        "Modular arithmetic"
+      ],
+      "overview": "Working modulo $m$ keeps only the remainder. It is useful when the full integer is large but its possible remainders are few.",
+      "questions": "Rule out integer solutions; prove divisibility; find last digits; analyse periodic powers or simultaneous congruences.",
+      "techniques": "Choose a modulus suggested by the expression. Squares modulo $4$ are $0,1$; squares modulo $8$ are $0,1,4$. Fermat gives $a^{p-1}\\equiv1\\pmod p$ for prime $p\\nmid a$. The Chinese remainder theorem combines congruences with coprime moduli.",
+      "example": "If $x^2+y^2\\equiv3\\pmod4$, no integers $x,y$ work: adding two residues from $\\{0,1\\}$ can only give $0,1,2$. A huge equation may therefore collapse to a three-line contradiction.",
+      "pitfall": "Cancellation modulo $m$ requires an invertible factor; for example, $2x\\equiv2y\\pmod6$ only forces $x\\equiv y\\pmod3$.",
+      "keywords": "congruences residues Fermat Euler Wilson Chinese remainder theorem"
+    },
+    {
+      "id": "primes",
+      "title": "Primes",
+      "group": "number-theory",
+      "level": "foundation",
+      "subtopics": [
+        "Primes"
+      ],
+      "overview": "Prime numbers are the building blocks of positive integers. A problem about primes often turns on forcing a factorisation or showing that a supposedly new prime divides a small fixed number.",
+      "questions": "Classify primes for which an expression is prime; prove infinitude; find prime divisors with special properties.",
+      "techniques": "Combine Euclid's lemma, congruences, factorisation and size bounds. In an infinitude proof, construct an integer whose prime divisors cannot all belong to a proposed finite list.",
+      "example": "For a prime $p>3$, the residues of $p$ modulo $3$ are $1$ or $2$. If both $p+2$ and $p+4$ were prime, one would be a multiple of $3$ larger than $3$. Checking $p=2,3$ separately leaves the triple $3,5,7$.",
+      "pitfall": "A number constructed to avoid known prime divisors need not itself be prime. It is enough that it has a new prime divisor.",
+      "keywords": "Euclid composite prime triples"
+    },
+    {
+      "id": "diophantine-equations",
+      "title": "Diophantine equations",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Diophantine equations"
+      ],
+      "overview": "These are equations whose unknowns must be integers. Algebra produces candidate solutions; integrality, divisibility and bounds decide which candidates actually exist.",
+      "questions": "Find every integer solution of a polynomial or exponential equation; classify integer triangles; solve unit-fraction equations.",
+      "techniques": "Try factorisation, congruences, gcd extraction, bounding between consecutive powers and descent. Linear equations use Bézout; Pythagorean triples use parametrisation; Pell-type equations need a systematic recurrence or reduction.",
+      "example": "For positive integers, $xy=x+y+3$ becomes $(x-1)(y-1)=4$. The positive factor pairs of $4$ give $(x,y)=(2,5),(3,3),(5,2)$. The factorisation proves completeness as well as finding examples.",
+      "pitfall": "Testing many values does not prove you found all solutions. Include sign, zero and ordering cases allowed by the question.",
+      "keywords": "Pell Pythagorean triples integer equations factor pairs"
+    },
+    {
+      "id": "squares-powers",
+      "title": "Squares & powers",
+      "group": "number-theory",
+      "level": "foundation",
+      "subtopics": [
+        "Squares & powers"
+      ],
+      "overview": "Perfect powers constrain both size and prime exponents. A square has even valuations at every prime; a $k$th power has all valuations divisible by $k$.",
+      "questions": "Decide when an expression is a square or cube; prove two powers cannot differ by a particular amount; classify power products.",
+      "techniques": "Use nearby consecutive powers, residues, factorisations such as $a^2-b^2$, and coprimality. For positive integers, there is no square strictly between $r^2$ and $(r+1)^2$.",
+      "example": "For $n\\ge1$, $n^2<n^2+n<(n+1)^2$, since $0<n<2n+1$. Hence $n^2+n$ is never a square. Here a size argument is stronger than experimenting with moduli.",
+      "pitfall": "An expression merely being close to a square is not enough: prove both strict inequalities.",
+      "keywords": "perfect square cube squarefree powers bounds"
+    },
+    {
+      "id": "digits-bases",
+      "title": "Digits & bases",
+      "group": "number-theory",
+      "level": "foundation",
+      "subtopics": [
+        "Digits & bases"
+      ],
+      "overview": "A numeral is a polynomial in its base. Converting digits into place values exposes divisibility and makes carries part of an equation.",
+      "questions": "Reverse digits, concatenate blocks, find repdigits that are divisible by a given number, or classify possible digit sums.",
+      "techniques": "Write a three-digit base-$b$ numeral as $d_2b^2+d_1b+d_0$, with $0\\le d_i<b$ and $d_2>0$. Work modulo $b-1$, $b+1$ or powers of $b$, and bound each digit and carry.",
+      "example": "In decimal, $10a+b-(10b+a)=9(a-b)$. A two-digit number and its reversal differ by a multiple of $9$; their exact difference also bounds $a-b$.",
+      "pitfall": "Leading digits cannot be zero unless explicitly allowed. Carries are integer variables with bounds, not arbitrary corrections.",
+      "keywords": "decimal binary repdigits digit sums carries numeral bases"
+    },
+    {
+      "id": "valuations",
+      "title": "Valuations",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Valuations"
+      ],
+      "overview": "The valuation $v_p(n)$ is the exponent of the prime $p$ in the nonzero integer $n$. It turns multiplicative divisibility into addition.",
+      "questions": "Find the highest power of a prime dividing a factorial, binomial coefficient or expression involving powers.",
+      "techniques": "Use $v_p(ab)=v_p(a)+v_p(b)$ and $v_p(n!)=\\sum_{k\\ge1}\\lfloor n/p^k\\rfloor$. Lifting the exponent is useful only after checking its hypotheses; for distinct positive integers $a,b$ and odd prime $p\\mid a-b$ with $p\\nmid ab$, $v_p(a^n-b^n)=v_p(a-b)+v_p(n)$ for positive $n$.",
+      "example": "$v_2(10!)=\\lfloor10/2\\rfloor+\\lfloor10/4\\rfloor+\\lfloor10/8\\rfloor=5+2+1=8$. Each layer counts one more factor of $2$ in the relevant multiples.",
+      "pitfall": "Valuations do not generally add across sums. The case $p=2$ in lifting the exponent needs separate conditions.",
+      "keywords": "LTE Legendre prime exponents highest power"
+    },
+    {
+      "id": "arithmetic-functions",
+      "title": "Arithmetic functions",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Arithmetic functions"
+      ],
+      "overview": "Functions such as the divisor count $\\tau(n)$, divisor sum $\\sigma(n)$ and totient $\\varphi(n)$ describe arithmetic structure through prime factorisation.",
+      "questions": "Find integers with a prescribed number of divisors; compare divisor sums; count residues coprime to a modulus.",
+      "techniques": "If $n=\\prod p_i^{a_i}$, use $\\tau(n)=\\prod(a_i+1)$, $\\sigma(n)=\\prod(1+p_i+\\cdots+p_i^{a_i})$ and $\\varphi(n)=n\\prod_{p\\mid n}(1-1/p)$. Explain the independent choices of exponents.",
+      "example": "An integer has exactly six positive divisors precisely when its prime-exponent pattern is $(5)$ or $(2,1)$. Thus it is $p^5$ or $p^2q$ for distinct primes $p,q$.",
+      "pitfall": "Multiplicative means $f(ab)=f(a)f(b)$ for coprime $a,b$; it does not automatically hold for all pairs.",
+      "keywords": "tau sigma totient divisor function multiplicative"
+    },
+    {
+      "id": "factorials-binomial-coefficients",
+      "title": "Factorials & binomial coefficients",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Factorials & binomial coefficients"
+      ],
+      "overview": "Factorials package consecutive products; binomial coefficients package choices. Their integrality often supplies divisibility information without expanding a large expression.",
+      "questions": "Prove divisibility of products; determine trailing zeros; show a binomial coefficient has a certain prime factor or parity.",
+      "techniques": "Compare valuations in $\\binom nr=n!/(r!(n-r)!)$. Use cancellation or a counting interpretation. Lucas's theorem is a specialist extension for binomial coefficients modulo a prime.",
+      "example": "For prime $p$ and $1\\le k<p$, $p\\mid\\binom pk$: the numerator $p!$ contains one factor $p$, while neither denominator factorial contains one.",
+      "pitfall": "Reducing factorials modulo a prime and then dividing by zero is invalid. Cancel legally or compare valuations first.",
+      "keywords": "factorial binomial Lucas trailing zeros"
+    },
+    {
+      "id": "multiplicative-order",
+      "title": "Multiplicative order",
+      "group": "number-theory",
+      "level": "extension",
+      "subtopics": [
+        "Multiplicative order"
+      ],
+      "overview": "For $\\gcd(a,m)=1$, the order of $a$ modulo $m$ is the smallest positive $r$ with $a^r\\equiv1\\pmod m$. It measures the true cycle length of powers.",
+      "questions": "Restrict prime divisors of $a^n-1$; solve exponential congruences; prove a divisor is in a particular residue class.",
+      "techniques": "If $a^n\\equiv1\\pmod m$, the order divides $n$. Modulo a prime $p\\nmid a$, it also divides $p-1$. Compare these two divisibility conditions.",
+      "example": "If prime $p\\mid a^2+1$ and $p$ is odd, then $a^2\\equiv-1\\not\\equiv1\\pmod p$ and $a^4\\equiv1$. The order is $4$, so $4\\mid p-1$.",
+      "pitfall": "Order is defined here only for units: check $\\gcd(a,m)=1$. A period you find need not be the smallest period.",
+      "keywords": "primitive roots cycles exponent order"
+    },
+    {
+      "id": "fractions-approximation",
+      "title": "Fractions & approximation",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Fractions & approximation"
+      ],
+      "overview": "Rational numbers can be studied through reduced denominators, unit fractions and how closely they approach other numbers. Integer restrictions often provide a minimum nonzero gap.",
+      "questions": "Decompose a rational into unit fractions; bound distances between fractions; find rational approximations with small denominators.",
+      "techniques": "Cross-multiply carefully, use gcds and factorisation, or apply pigeonhole to fractional parts. If $a/b\\ne c/d$ with positive denominators, $|a/b-c/d|=|ad-bc|/(bd)\\ge1/(bd)$.",
+      "example": "$1/x+1/y=1/3$ for positive integers becomes $(x-3)(y-3)=9$. Since both fractions are positive, $x,y>3$; factor pairs give $(4,12),(6,6),(12,4)$.",
+      "pitfall": "A very good decimal approximation does not establish equality or irrationality. Use an exact bound.",
+      "keywords": "Egyptian fractions Farey rational approximation"
+    },
+    {
+      "id": "integer-polynomials",
+      "title": "Integer polynomials",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Integer polynomials"
+      ],
+      "overview": "An integer-coefficient polynomial preserves congruences. Its algebraic factorisations can be used as integer divisibility statements.",
+      "questions": "Classify polynomials taking prime or square values; prove divisibility between polynomial values; constrain integer roots.",
+      "techniques": "For integers $a\\ne b$, $a-b\\mid P(a)-P(b)$. Combine this with large choices of input or with the rational root theorem. Distinguish integer coefficients from merely integer values.",
+      "example": "If $P\\in\\mathbb Z[x]$ and $P(0)=2$, then $P(2k)\\equiv P(0)\\equiv0\\pmod2$. Any prime value at an even input must therefore equal $2$.",
+      "pitfall": "An integer-valued polynomial need not have integer coefficients: $x(x-1)/2$ is the basic counterexample.",
+      "keywords": "integer coefficients prime values rational roots"
+    },
+    {
+      "id": "descent",
+      "title": "Descent",
+      "group": "number-theory",
+      "level": "core",
+      "subtopics": [
+        "Descent"
+      ],
+      "overview": "Suppose a positive integer solution exists and choose one with the smallest suitable size. Construct a strictly smaller positive solution, contradicting that choice.",
+      "questions": "Prove an integer equation has no solutions; reduce all solutions to a base case; classify solutions of quadratic equations.",
+      "techniques": "State the decreasing positive integer explicitly. Vieta jumping treats an equation as a quadratic and replaces one root by the other, after proving the new root is integral, positive and smaller.",
+      "example": "If $x^2=2y^2$ with positive integers, parity gives $x=2u$, then $y^2=2u^2$, so $y=2v$ and $u^2=2v^2$. The pair $(u,v)=(x/2,y/2)$ is smaller, impossible for a minimal solution.",
+      "pitfall": "A new algebraic solution is not enough: it must satisfy the same domain conditions and strictly decrease the chosen measure.",
+      "keywords": "infinite descent Vieta jumping minimal counterexample"
+    },
+    {
+      "id": "algebraic-identities",
+      "title": "Algebraic identities",
+      "group": "algebra",
+      "level": "foundation",
+      "subtopics": [
+        "Algebraic identities"
+      ],
+      "overview": "Rewriting an expression can reveal factors, symmetry or nonnegative pieces that expansion conceals. The goal is to choose a form that matches what must be proved.",
+      "questions": "Factor unusual expressions; evaluate complicated sums or radicals; establish identities; prove divisibility or positivity.",
+      "techniques": "Use difference of squares, sum and difference of cubes, completing the square and symmetric expressions. Test simple equal-variable cases to suggest factors, then prove the factorisation.",
+      "example": "$a^3+b^3+c^3-3abc=(a+b+c)(a^2+b^2+c^2-ab-bc-ca)$. If $a+b+c=0$, the cubic sum is immediately $3abc$.",
+      "pitfall": "A pattern verified numerically is still a conjecture. Do not divide by a suspected factor before treating the case where it is zero.",
+      "keywords": "factorisation completing square symmetric expressions"
+    },
+    {
+      "id": "equations-systems",
+      "title": "Equations & systems",
+      "group": "algebra",
+      "level": "foundation",
+      "subtopics": [
+        "Equations & systems"
+      ],
+      "overview": "Several equations often become simpler when combined. Symmetry, signs and substitutions can cut the number of genuinely independent unknowns.",
+      "questions": "Solve cyclic systems, radical equations or equations with absolute values; determine how many real solutions exist.",
+      "techniques": "Add and subtract equations, introduce sums and products, factor differences, and use the discriminant. For radicals or absolute values, split cases according to their domains.",
+      "example": "If $x+y=5$ and $xy=6$, then $x,y$ are roots of $t^2-5t+6=0$. Hence the ordered solutions are $(2,3)$ and $(3,2)$; no separate elimination is needed.",
+      "pitfall": "Squaring can introduce extra roots. Check candidates in the original equations and preserve all domain restrictions.",
+      "keywords": "substitutions elimination radicals discriminants absolute value"
+    },
+    {
+      "id": "inequalities",
+      "title": "Inequalities",
+      "group": "algebra",
+      "level": "foundation",
+      "subtopics": [
+        "Inequalities"
+      ],
+      "overview": "An inequality compares quantities for every allowed input. Understanding its equality case often reveals the right normalisation and the form of a sharp bound.",
+      "questions": "Prove a lower or upper bound; find the best constant; maximise a symmetric expression under a constraint.",
+      "techniques": "Start with squares and AM–GM for nonnegative quantities. Cauchy–Schwarz gives $(\\sum a_i^2)(\\sum b_i^2)\\ge(\\sum a_ib_i)^2$. Rearrangement, convexity, Jensen and smoothing are extensions; check their hypotheses and equality conditions.",
+      "example": "For positive $a,b$, $a/b+b/a-2=(a-b)^2/(ab)\\ge0$. The minimum is $2$, attained exactly when $a=b$. This proves both the bound and sharpness.",
+      "pitfall": "Equality at $a=b=c$ suggests an answer but does not prove the extremum occurs there. Never apply AM–GM to arbitrary negative inputs.",
+      "keywords": "AM-GM Cauchy Schwarz Jensen convexity rearrangement smoothing Schur"
+    },
+    {
+      "id": "polynomials",
+      "title": "Polynomials",
+      "group": "algebra",
+      "level": "core",
+      "subtopics": [
+        "Polynomials"
+      ],
+      "overview": "A polynomial is constrained by its degree, roots and coefficients. A few well-chosen evaluations can determine it completely.",
+      "questions": "Determine a polynomial from an identity; classify its roots; relate roots to coefficients; prove two polynomials are identical.",
+      "techniques": "Use the factor theorem, Vieta's formulas, degree comparisons and multiplicities. A nonzero polynomial of degree at most $d$ has at most $d$ distinct roots. Interpolation extends the same uniqueness principle.",
+      "example": "If two polynomials of degree at most $3$ agree at four distinct inputs, their difference has four roots and degree at most $3$. It must be the zero polynomial, so they agree everywhere.",
+      "pitfall": "A repeated root is not several distinct evaluation points. A function is not a polynomial unless the problem says so or you prove it.",
+      "keywords": "Vieta factor theorem roots interpolation degree"
+    },
+    {
+      "id": "functional-equations",
+      "title": "Functional equations",
+      "group": "algebra",
+      "level": "core",
+      "subtopics": [
+        "Functional equations"
+      ],
+      "overview": "The unknown is an entire function. Conditions involving different inputs must be combined to force its behaviour across its domain.",
+      "questions": "Find all $f$ satisfying identities in $x,y$; prove additivity, injectivity, surjectivity or a specific formula.",
+      "techniques": "Substitute $0$, $1$, equal inputs and opposite inputs when allowed. Compare two ways of evaluating the same expression. Prove injectivity or surjectivity if they let you cancel function values or control the range.",
+      "example": "If $f(x+y)=f(x)+f(y)$ on $\\mathbb Q$, then $f(0)=0$, $f(n)=nf(1)$ and $n f(m/n)=f(m)=mf(1)$. Thus $f(q)=qf(1)$ for every rational $q$.",
+      "pitfall": "The same rational argument does not establish linearity on all reals without extra conditions such as continuity or monotonicity. Always verify the final candidates.",
+      "keywords": "substitutions injective surjective Cauchy additive multiplicative involution"
+    },
+    {
+      "id": "sequences-recurrences",
+      "title": "Sequences & recurrences",
+      "group": "algebra",
+      "level": "core",
+      "subtopics": [
+        "Sequences & recurrences"
+      ],
+      "overview": "A recurrence describes how later terms depend on earlier ones. The central question is often why the apparent pattern continues indefinitely.",
+      "questions": "Find a formula; prove integrality, periodicity or growth; evaluate a sum; show every term has a property.",
+      "techniques": "Compute small cases, then seek telescoping differences, an invariant or a simpler transformed sequence. Induction proves a proposed formula. Linear recurrences may be solved by characteristic equations.",
+      "example": "If $a_{n+1}=2a_n+1$ and $a_0=0$, set $b_n=a_n+1$. Then $b_{n+1}=2b_n$, giving $b_n=2^n$ and $a_n=2^n-1$.",
+      "pitfall": "A recurrence of order two needs two initial values. Repeated values alone do not guarantee repetition unless the full state determining the next term repeats.",
+      "keywords": "telescoping recurrence Fibonacci characteristic equation induction"
+    },
+    {
+      "id": "floors-fractional-parts",
+      "title": "Floors & fractional parts",
+      "group": "algebra",
+      "level": "core",
+      "subtopics": [
+        "Floors & fractional parts"
+      ],
+      "overview": "The floor $\\lfloor x\\rfloor$ is the greatest integer at most $x$; the fractional part $\\{x\\}=x-\\lfloor x\\rfloor$ lies in $[0,1)$. Separate integer and fractional contributions.",
+      "questions": "Solve floor equations; count integer points in intervals; evaluate floor sums; prove identities involving fractional parts.",
+      "techniques": "Replace $\\lfloor x\\rfloor=k$ by $k\\le x<k+1$. Write $x=k+r$ with $0\\le r<1$, then split into the few possible carry cases.",
+      "example": "Write $x=a+r$, $y=b+s$ with $r,s\\in[0,1)$. Then $\\lfloor x+y\\rfloor-\\lfloor x\\rfloor-\\lfloor y\\rfloor=\\lfloor r+s\\rfloor\\in\\{0,1\\}$.",
+      "pitfall": "For negative numbers, flooring is not truncation towards zero: $\\lfloor-0.2\\rfloor=-1$. Track open and closed endpoints.",
+      "keywords": "ceilings integer part rounding fractional part"
+    },
+    {
+      "id": "functions-graphs",
+      "title": "Functions & graphs",
+      "group": "algebra",
+      "level": "core",
+      "subtopics": [
+        "Functions & graphs"
+      ],
+      "overview": "Qualitative behaviour—monotonicity, symmetry, range and fixed points—can solve a problem without an explicit formula.",
+      "questions": "Count solutions of an equation; determine a range; compare iterates; prove uniqueness of an intersection.",
+      "techniques": "Use order comparisons, composition and symmetry. A strictly increasing function is injective. If continuity is given, the intermediate value theorem can establish existence; monotonicity can then establish uniqueness.",
+      "example": "On nonnegative reals, if $y>x$, then $(y+y^2)-(x+x^2)=(y-x)(1+x+y)>0$. Hence $x+x^2$ is strictly increasing there, so an equation $x+x^2=c$ has at most one nonnegative solution.",
+      "pitfall": "Injectivity proves at most one solution, not existence. Do not assume continuity, differentiability or monotonicity without justification.",
+      "keywords": "monotonicity range fixed points continuity graphs"
+    },
+    {
+      "id": "rationality-irrationality",
+      "title": "Rationality & irrationality",
+      "group": "algebra",
+      "level": "foundation",
+      "subtopics": [
+        "Rationality & irrationality"
+      ],
+      "overview": "Rational numbers are ratios of integers. Irrationality proofs show that such a ratio would violate divisibility, parity or another exact structural property.",
+      "questions": "Prove a radical is irrational; classify rational values of an expression; decide when sums or products of radicals simplify.",
+      "techniques": "Write a hypothetical rational in lowest terms and compare prime exponents. Isolate one radical before squaring. Conjugates can remove radicals or expose a contradiction.",
+      "example": "If $\\sqrt2=a/b$ in lowest terms with $b>0$, then $a^2=2b^2$. Both $a$ and then $b$ must be even, contradicting lowest terms.",
+      "pitfall": "Two irrational numbers can have a rational sum or product. Numerical decimal behaviour is not an irrationality proof.",
+      "keywords": "surds conjugates lowest terms irrational"
+    },
+    {
+      "id": "complex-numbers",
+      "title": "Complex numbers",
+      "group": "algebra",
+      "level": "extension",
+      "subtopics": [
+        "Complex numbers"
+      ],
+      "overview": "Complex numbers encode both algebra and plane geometry. Multiplication adds arguments and multiplies lengths, so rotations become algebraic operations.",
+      "questions": "Work with roots of unity; prove polynomial identities; solve geometric angle or distance problems using complex coordinates.",
+      "techniques": "Use conjugation, $|z|^2=z\\bar z$ and roots of unity. On the unit circle, $\\bar z=1/z$. A rotation by angle $\\theta$ about the origin multiplies by $\\cos\\theta+i\\sin\\theta$.",
+      "example": "If $\\omega^3=1$ and $\\omega\\ne1$, factor $\\omega^3-1=(\\omega-1)(\\omega^2+\\omega+1)$ to obtain $1+\\omega+\\omega^2=0$.",
+      "pitfall": "A complex number has no natural greater-than ordering. A coordinate simplification must preserve the geometric configuration.",
+      "keywords": "roots of unity conjugation rotation unit circle"
+    },
+    {
+      "id": "linear-algebra",
+      "title": "Linear algebra",
+      "group": "algebra",
+      "level": "extension",
+      "subtopics": [
+        "Linear algebra"
+      ],
+      "overview": "Vectors and linear relations can encode configurations, systems and repeated operations. Independence and dimension limit how many different constraints can coexist.",
+      "questions": "Solve structured linear systems; prove a family is dependent; analyse matrix operations or linear recurrences.",
+      "techniques": "Use elimination, rank and linear independence. Determinants can test invertibility or compute areas. These are specialist tools; a short elementary argument may be more transparent.",
+      "example": "In the plane, any three vectors are linearly dependent: if two are independent they form a basis, and the third is their linear combination; otherwise a dependence already exists between the first two.",
+      "pitfall": "Linear dependence is not the same as pairwise parallelism. A nonzero determinant proves a unique solution, but a zero determinant needs further analysis.",
+      "keywords": "matrices determinants rank dimension vector space"
+    },
+    {
+      "id": "calculus-modelling",
+      "title": "Calculus & modelling",
+      "group": "algebra",
+      "level": "extension",
+      "subtopics": [
+        "Calculus & modelling"
+      ],
+      "overview": "A small part of the wider historical and national collection uses continuous change or a mathematical model of a physical situation. Treat this as optional enrichment for a BMO-focused study plan.",
+      "questions": "Optimise a quantity in a model; analyse a curve; translate a rate or geometric constraint into an equation.",
+      "techniques": "Define variables and their domains before differentiating. Check endpoints and nondifferentiable points as well as stationary points. Look for an elementary inequality when the expression permits one.",
+      "example": "A rectangle with fixed perimeter $2s$ has area $A=x(s-x)=s^2/4-(x-s/2)^2$. Its maximum is $s^2/4$ at the square; completing the square explains the result without differentiation.",
+      "pitfall": "A zero derivative alone does not establish a maximum. A model is only valid under its stated assumptions.",
+      "keywords": "derivatives optimisation modelling stationary points"
+    },
+    {
+      "id": "triangle-geometry",
+      "title": "Triangle geometry",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Triangle geometry"
+      ],
+      "overview": "A triangle's sides, angles, medians, altitudes and angle bisectors create a network of relationships. Many elaborate diagrams reduce to one well-chosen triangle.",
+      "questions": "Prove a length or angle relation; locate a point on a side; compare cevians; show a triangle has a special shape.",
+      "techniques": "Use Pythagoras, the angle-bisector theorem, midpoint theorem and side-angle comparisons. Stewart's theorem handles cevian lengths; area ratios often replace a long length calculation.",
+      "example": "In triangle $ABC$, if the internal bisector of $\\angle A$ meets $BC$ at $D$, then $BD/DC=AB/AC$. Thus if $AB=2AC$, point $D$ divides $BC$ in the ratio $2:1$.",
+      "pitfall": "A cevian is any line from a vertex to the opposite side or its line; it is not automatically a median, bisector or altitude.",
+      "keywords": "cevians Pythagoras Stewart angle bisector median altitude"
+    },
+    {
+      "id": "angles-cyclic-quadrilaterals",
+      "title": "Angles & cyclic quadrilaterals",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Angles & cyclic quadrilaterals"
+      ],
+      "overview": "Angle chasing transfers angle information through triangles, parallel lines and circles. Proving four points concyclic often creates the missing connection.",
+      "questions": "Prove equal angles, perpendicular lines or concyclicity; identify a hidden circle; establish a tangent relation.",
+      "techniques": "Use angles in the same segment, supplementary opposite angles and the tangent–chord theorem. Directed angles modulo $180^\\circ$ help handle different point orders consistently.",
+      "example": "If $AB\\perp BC$ and $AD\\perp DC$ for four distinct points, then $\\angle ABC=\\angle ADC=90^\\circ$. Both $B$ and $D$ lie on the circle with diameter $AC$.",
+      "pitfall": "A plausible circle drawn through four points is not a proof. Ordinary equal-angle converses require the correct side and point-order conditions.",
+      "keywords": "angle chasing cyclic quadrilateral directed angles concyclic"
+    },
+    {
+      "id": "circles-tangency",
+      "title": "Circles & tangency",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Circles & tangency"
+      ],
+      "overview": "Circles translate equal distances from a centre into angle and length relations. Tangency supplies a perpendicular radius and, from an external point, equal tangent lengths.",
+      "questions": "Prove two circles touch; compare chords or arcs; find tangent lengths; relate an incircle to a triangle's sides.",
+      "techniques": "Join centres and tangency points, use perpendicular bisectors of chords, and assign equal tangent lengths. For two circles, external tangency means centre distance $r_1+r_2$; internal tangency means $|r_1-r_2|$.",
+      "example": "Tangents from $A$ touch a circle at $P,Q$ with centre $O$. Right triangles $AOP,AOQ$ share hypotenuse $AO$ and radius $OP=OQ$, so $AP=AQ$.",
+      "pitfall": "Two intersecting circles are not tangent. Specify internal versus external tangency and exclude coincident circles.",
+      "keywords": "tangent radius chords arcs incircle circle"
+    },
+    {
+      "id": "similarity-congruence",
+      "title": "Similarity & congruence",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Similarity & congruence"
+      ],
+      "overview": "Congruent triangles have identical lengths and angles; similar triangles have equal corresponding angles and proportional sides. This turns an angle observation into a useful ratio.",
+      "questions": "Establish equal lengths or products of lengths; transfer a ratio to another part of a diagram; prove shapes are scaled copies.",
+      "techniques": "Look for AA similarity, SAS similarity or a congruence criterion. Write vertices in corresponding order. Similarity with scale $k$ multiplies lengths by $k$ and areas by $k^2$.",
+      "example": "If $DE\\parallel BC$ with $D$ on $AB$ and $E$ on $AC$, then $ADE\\sim ABC$. Thus $AD/AB=AE/AC=DE/BC$, and $[ADE]/[ABC]=(AD/AB)^2$.",
+      "pitfall": "Equal areas do not imply congruence, and two sides plus a non-included angle do not generally prove congruence.",
+      "keywords": "AA SAS SSS RHS scale ratio"
+    },
+    {
+      "id": "triangle-centres",
+      "title": "Triangle centres",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Triangle centres"
+      ],
+      "overview": "The centroid, circumcentre, incentre and orthocentre arise from different concurrent lines. Their definitions often give a faster route than memorising many centre formulas.",
+      "questions": "Relate centres; prove a perpendicularity or collinearity; study incircles, excircles, the Euler line or nine-point circle.",
+      "techniques": "Use medians for the centroid, perpendicular bisectors for the circumcentre, angle bisectors for the incentre and altitudes for the orthocentre. Add vectors or homothety when relating several centres.",
+      "example": "If vertices have position vectors $\\mathbf a,\\mathbf b,\\mathbf c$, the centroid is $(\\mathbf a+\\mathbf b+\\mathbf c)/3$. It lies two-thirds of the way from $A$ to the midpoint of $BC$, proving the $2:1$ median ratio.",
+      "pitfall": "Different centres usually do not coincide. A diagram resembling an equilateral triangle can conceal that distinction.",
+      "keywords": "centroid incentre circumcentre orthocentre Euler line nine-point excentre"
+    },
+    {
+      "id": "area-dissection",
+      "title": "Area & dissection",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Area & dissection"
+      ],
+      "overview": "Area can compare lengths indirectly. Shared heights and bases make ratios simple, while a dissection gives two descriptions of the same total area.",
+      "questions": "Determine area ratios; prove a length ratio; compare regions; show two dissections have equal total area.",
+      "techniques": "Use $[ABC]=\\tfrac12 bh=\\tfrac12 ab\\sin C$, equal-height ratios and subtraction of shared regions. Heron's formula is useful when all three sides are known.",
+      "example": "If $D$ lies on $BC$, triangles $ABD$ and $ACD$ have the same altitude from $A$, so $[ABD]/[ACD]=BD/DC$. A ratio question can therefore become an area question.",
+      "pitfall": "Shared base alone is not enough for equal area: the perpendicular heights must also agree. Keep signed and ordinary areas distinct.",
+      "keywords": "dissection area ratios Heron equal heights"
+    },
+    {
+      "id": "coordinates-vectors",
+      "title": "Coordinates & vectors",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Coordinates & vectors"
+      ],
+      "overview": "Coordinates translate geometric conditions into equations; vectors express displacement without needing a particular origin. A good coordinate choice simplifies the given configuration.",
+      "questions": "Prove collinearity, perpendicularity or midpoint relations; calculate lengths; handle affine configurations.",
+      "techniques": "Place a convenient side on an axis, use dot products for perpendicularity and determinants for collinearity or area. Parametrise points on lines instead of introducing two independent coordinates for each point.",
+      "example": "If $M,N$ are midpoints of $AB,AC$, then $\\overrightarrow{MN}=(\\mathbf c-\\mathbf b)/2=\\overrightarrow{BC}/2$. This proves both parallelism and the half-length relation at once.",
+      "pitfall": "You may choose an origin, rotate and rescale uniformly, but cannot assume a general triangle is right-angled or isosceles.",
+      "keywords": "Cartesian dot product determinant affine midpoint"
+    },
+    {
+      "id": "transformations",
+      "title": "Transformations",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Transformations"
+      ],
+      "overview": "A transformation replaces a configuration by one where the desired relation is easier to see. Reflection, rotation and translation preserve distances; homothety preserves angles and scales lengths.",
+      "questions": "Find a shortest path; prove collinearity or equal lengths; relate similar figures; solve circle configurations using inversion.",
+      "techniques": "Reflect to straighten a broken path; rotate around a vertex to create equal segments; use homothety for parallel corresponding sides. Inversion in radius $r$ sends $P$ to $P'$ with $OP\\cdot OP'=r^2$ and needs careful handling of lines through the centre.",
+      "example": "To minimise $AP+PB$ over points $P$ on a line, with $A,B$ on the same side, reflect $B$ to $B'$. Then $PB=PB'$ and $AP+PB'\\ge AB'$, with equality where the segment $AB'$ crosses the line.",
+      "pitfall": "Inversion does not preserve lengths or ordinary straightness. A circle through the inversion centre becomes a line.",
+      "keywords": "reflection rotation translation homothety inversion"
+    },
+    {
+      "id": "trigonometry",
+      "title": "Trigonometry",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Trigonometry"
+      ],
+      "overview": "Trigonometry converts angle information into length relationships and vice versa. Exact identities are more useful than numerical angle approximations.",
+      "questions": "Compare sides across triangles; prove a cyclic or cevian identity; evaluate an exact trigonometric expression.",
+      "techniques": "Use the sine rule, cosine rule, $[ABC]=\\tfrac12 ab\\sin C$ and complementary-angle identities. The extended sine rule is $a/\\sin A=2R$. Choose a small number of meaningful angles.",
+      "example": "For sides $b,c$ enclosing $60^\\circ$, the cosine rule gives $a^2=b^2+c^2-bc$. If $b=c$, this simplifies to $a=b$, so the triangle is equilateral.",
+      "pitfall": "$\\sin x=\\sin y$ does not force $x=y$; supplementary angles are another possibility. Track the permitted angle interval.",
+      "keywords": "sine cosine rules identities exact angles"
+    },
+    {
+      "id": "geometric-inequalities",
+      "title": "Geometric inequalities",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Geometric inequalities"
+      ],
+      "overview": "These compare lengths, areas or angles under geometric constraints. A sharp result needs both a bound and a configuration where equality holds.",
+      "questions": "Find a shortest path or largest area; compare radii and sides; prove a distance inequality for a moving point.",
+      "techniques": "Start with the triangle inequality, perpendicular distance and area formulas. Reflection can turn a broken path into a straight one; algebraic inequalities can handle symmetric side expressions.",
+      "example": "A triangle with fixed sides $a,b$ enclosing angle $C$ has area $\\tfrac12 ab\\sin C\\le\\tfrac12 ab$. Equality occurs at $C=90^\\circ$, and that configuration is attainable.",
+      "pitfall": "The equality conditions of the algebra must correspond to a valid geometric configuration, not a degenerate or forbidden one.",
+      "keywords": "optimisation triangle inequality maximal area minimal distance"
+    },
+    {
+      "id": "constructions-loci",
+      "title": "Constructions & loci",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Constructions & loci"
+      ],
+      "overview": "A locus is the complete set of points satisfying a condition. A construction must both produce a valid object and explain why the required steps are possible.",
+      "questions": "Describe the path of a moving point; construct a triangle or circle; show that an intersection stays on a fixed line or circle.",
+      "techniques": "Prove both directions of a locus claim. Use equal-distance loci, fixed-angle circles and intersections of simple loci. For straightedge-and-compass tasks, justify constructibility.",
+      "example": "Points $P$ with $PA=PB$ form the perpendicular bisector of $AB$: one direction follows from congruent right triangles; the converse follows because an isosceles triangle's median to its base is perpendicular.",
+      "pitfall": "Showing every allowed point lies on a circle proves only containment. Check which points of the circle actually satisfy the original condition.",
+      "keywords": "locus compass straightedge fixed point Apollonius"
+    },
+    {
+      "id": "power-of-a-point-radical-axes",
+      "title": "Power of a point & radical axes",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Power of a point & radical axes"
+      ],
+      "overview": "Products of directed secant lengths from a point are equal for a fixed circle. Equal power to two circles defines their radical axis.",
+      "questions": "Prove a product-of-lengths identity, a tangency, collinearity or concurrency involving circles.",
+      "techniques": "For an external point, use $PA\\cdot PB=PT^2$ with secant intersections $A,B$ and tangent point $T$. The radical axis is a line when the centres differ. Equal-power transitivity gives the radical-centre argument.",
+      "example": "If two secants from an external point $P$ meet a circle at $A,B$ and $C,D$, then $PA\\cdot PB=PC\\cdot PD$. Knowing three of these lengths immediately determines the fourth.",
+      "pitfall": "Inside a circle, use a consistent directed-length convention. Concentric distinct circles have no ordinary radical axis in the plane.",
+      "keywords": "secant tangent radical centre coaxal power"
+    },
+    {
+      "id": "concurrency-collinearity",
+      "title": "Concurrency & collinearity",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Concurrency & collinearity"
+      ],
+      "overview": "Concurrency means lines pass through one point; collinearity means points lie on one line. Both are global conclusions from several local ratios or angles.",
+      "questions": "Show three cevians concur; show three constructed points are collinear; identify a common point of circles' radical axes.",
+      "techniques": "For interior cevian points, Ceva gives $(BD/DC)(CE/EA)(AF/FB)=1$. Menelaus handles collinearity using correctly directed ratios or an explicit point arrangement. Areas, coordinates and radical axes offer alternatives.",
+      "example": "The three medians concur by Ceva: each opposite-side ratio is $1$, so the product is $1$. The theorem converts three separate midpoint facts into one common intersection.",
+      "pitfall": "Ceva concerns three lines through triangle vertices; Menelaus concerns three points on side lines. Do not swap their configurations or signs.",
+      "keywords": "Ceva Menelaus Simson concurrent collinear"
+    },
+    {
+      "id": "quadrilaterals-polygons",
+      "title": "Quadrilaterals & polygons",
+      "group": "geometry",
+      "level": "foundation",
+      "subtopics": [
+        "Quadrilaterals & polygons"
+      ],
+      "overview": "Polygons combine triangle structure with additional constraints such as parallel sides, equal lengths or cyclicity. A useful diagonal often reveals the right triangles.",
+      "questions": "Prove a quadrilateral is a parallelogram or cyclic; compare diagonals; study regular polygons; establish side and area identities.",
+      "techniques": "Draw diagonals, use angle sums and midpoint constructions. For cyclic quadrilaterals, Ptolemy relates the product of diagonals to the sum of products of opposite sides.",
+      "example": "Joining consecutive side midpoints of any nondegenerate quadrilateral creates a parallelogram: each midpoint segment is parallel to a diagonal of the original quadrilateral by the triangle midpoint theorem.",
+      "pitfall": "Equal diagonals alone do not establish that a quadrilateral is a rectangle. State convexity or point order when the argument requires it.",
+      "keywords": "Ptolemy parallelogram regular polygon diagonals"
+    },
+    {
+      "id": "solid-geometry",
+      "title": "Solid geometry",
+      "group": "geometry",
+      "level": "extension",
+      "subtopics": [
+        "Solid geometry"
+      ],
+      "overview": "Three-dimensional problems involve lines, planes, volumes and cross-sections. A suitable planar slice can reduce the essential calculation to familiar geometry.",
+      "questions": "Find volumes, angles between planes, sphere tangencies or shortest paths on a surface.",
+      "techniques": "Use perpendicular cross-sections, coordinates, vector dot products and $V=\\tfrac13 Ah$ for pyramids. Unfold a polyhedral surface for certain shortest-path questions.",
+      "example": "Two tetrahedra with the same triangular base have volumes in the ratio of their perpendicular heights above its plane. This is the three-dimensional counterpart of equal-base triangle area ratios.",
+      "pitfall": "Two lines perpendicular to the same line need not be parallel in space. A perspective sketch cannot establish an angle or intersection.",
+      "keywords": "tetrahedron sphere volume dihedral cross section"
+    },
+    {
+      "id": "combinatorial-geometry",
+      "title": "Combinatorial geometry",
+      "group": "geometry",
+      "level": "core",
+      "subtopics": [
+        "Combinatorial geometry"
+      ],
+      "overview": "These problems combine finite configurations with geometric structure: points, lines, grids, distances, packing and covering. Counting or an extremal choice may matter more than angle chasing.",
+      "questions": "Prove some points are close, collinear or form a special polygon; bound intersections; cover a region with a fixed number of shapes.",
+      "techniques": "Partition space and use pigeonhole, choose a convex-hull vertex, count incidences, or select a shortest or longest segment. Keep geometric constraints in the counting model.",
+      "example": "Divide a unit square into four half-size squares, assigning boundary points consistently. Among five points, two share a part, so their distance is at most that part's diagonal, $\\sqrt2/2$.",
+      "pitfall": "Boundary points can belong to several closed regions. Assign them consistently before making a counting argument.",
+      "keywords": "lattice grid convex hull packing covering incidence"
+    },
+    {
+      "id": "projective-geometry-conics",
+      "title": "Projective geometry & conics",
+      "group": "geometry",
+      "level": "extension",
+      "subtopics": [
+        "Projective geometry & conics"
+      ],
+      "overview": "Conics and projective methods organise incidence and tangency beyond ordinary circle geometry. They are specialist extensions, rather than prerequisites for beginning olympiad geometry.",
+      "questions": "Prove collinearity or concurrency involving a conic; analyse poles, polars or harmonic configurations.",
+      "techniques": "Learn the exact hypotheses of a theorem before applying it. Pascal concerns opposite-side intersections of a hexagon on a conic; projective maps preserve incidence but generally not distances or angles. Coordinates can be a more accessible alternative.",
+      "example": "The curve $x^2/a^2+y^2/b^2=1$ is sent to the unit circle by $X=x/a$, $Y=y/b$ for positive $a,b$. This helps study incidence, but the unequal scaling does not preserve angles.",
+      "pitfall": "A transformation preserving lines need not preserve perpendicularity, circles or ratios of lengths in different directions.",
+      "keywords": "ellipse parabola polar harmonic Pascal projective conic"
+    },
+    {
+      "id": "counting",
+      "title": "Counting",
+      "group": "combinatorics",
+      "level": "foundation",
+      "subtopics": [
+        "Counting"
+      ],
+      "overview": "Counting is about organising choices so that every valid object is counted exactly once. The hardest part is often specifying what counts as a distinct object.",
+      "questions": "Count selections, paths or arrangements with restrictions; find how many objects have a particular property.",
+      "techniques": "Use addition for disjoint cases and multiplication for successive choices. Subtract a complement when the forbidden set is simpler. Inclusion–exclusion corrects overlaps between forbidden conditions.",
+      "example": "Of the $2^n$ subsets of an $n$-element set, exactly one is empty. Hence there are $2^n-1$ nonempty subsets. If a distinguished element must be present, the other $n-1$ elements give $2^{n-1}$ choices.",
+      "pitfall": "Multiplying counts assumes each stage has the stated number of choices. Check whether choices depend on earlier steps.",
+      "keywords": "inclusion exclusion stars and bars combinations complement"
+    },
+    {
+      "id": "permutations-arrangements",
+      "title": "Permutations & arrangements",
+      "group": "combinatorics",
+      "level": "foundation",
+      "subtopics": [
+        "Permutations & arrangements"
+      ],
+      "overview": "Arrangements distinguish order, often with restrictions on adjacency, repetitions or cyclic symmetry. Permutations can also be studied through inversions and cycles.",
+      "questions": "Arrange people or symbols; count circular orders; restrict fixed points or adjacent pairs; determine parity after swaps.",
+      "techniques": "Use blocks for forced adjacency, divide by repeated-symbol multiplicities, and distinguish labelled from unlabelled positions. An inversion is an out-of-order pair and can serve as a parity invariant.",
+      "example": "The distinct arrangements of AABC number $4!/2!=12$: labelling the two As would count every visible arrangement twice.",
+      "pitfall": "Dividing by a symmetry-group size only works directly when every orbit has that size. Symmetric arrangements may have smaller orbits.",
+      "keywords": "factorial permutations inversions circular arrangements repeated letters"
+    },
+    {
+      "id": "sets-partitions",
+      "title": "Sets & partitions",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Sets & partitions"
+      ],
+      "overview": "Set problems ask how collections overlap, cover one another or split a universe. Translating to membership patterns can reveal the essential constraint.",
+      "questions": "Partition integers into groups; find intersecting subsets; bound the size of a family; prove a covering exists.",
+      "techniques": "Use complements, indicator variables, inclusion–exclusion and pigeonhole. Decide whether groups are labelled, whether empty parts are allowed and whether order matters.",
+      "example": "If $A,B$ are subsets of a set of size $n$ and $|A|+|B|>n$, then $|A\\cap B|=|A|+|B|-|A\\cup B|>0$. Thus they must intersect.",
+      "pitfall": "A partition requires disjoint parts whose union is the whole set. A general covering can overlap.",
+      "keywords": "subsets set systems partitions intersections complement"
+    },
+    {
+      "id": "double-counting",
+      "title": "Double counting",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Double counting"
+      ],
+      "overview": "Count the same set of objects in two different ways. Equating the results turns a combinatorial situation into an identity or useful bound.",
+      "questions": "Relate local and global counts; prove binomial identities; show an average forces a particular configuration.",
+      "techniques": "Specify the counted object explicitly, often an incidence or ordered pair. Sum first over one component, then over the other. Weight objects when ordinary counting is too crude.",
+      "example": "Count pairs consisting of an edge and one of its endpoints in a finite undirected graph. Summing by vertices gives $\\sum_v\\deg(v)$; summing by edges gives $2E$. Hence the degree sum is even.",
+      "pitfall": "Counting vaguely described 'ways' invites a mismatch. Both counts must refer to exactly the same objects.",
+      "keywords": "incidences handshake lemma count two ways"
+    },
+    {
+      "id": "bijections",
+      "title": "Bijections",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Bijections"
+      ],
+      "overview": "A bijection matches two collections one-to-one in both directions. A difficult set may be easier to count after changing its representation.",
+      "questions": "Prove two counting formulas agree; encode paths as strings; relate subsets to compositions or restricted arrangements.",
+      "techniques": "Define the map and its inverse. For an upper bound, an injection may suffice: different objects must have different images. Choose encodings that preserve the restriction.",
+      "example": "Subsets of $\\{1,\\ldots,n\\}$ correspond to binary strings of length $n$: put a $1$ at position $i$ exactly when $i$ is selected. The inverse reads the $1$ positions, so there are $2^n$ subsets.",
+      "pitfall": "A reversible-looking rule needs an explicit inverse or separate injectivity and surjectivity proofs.",
+      "keywords": "injection encoding correspondence inverse map"
+    },
+    {
+      "id": "graph-theory",
+      "title": "Graph theory",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Graph theory"
+      ],
+      "overview": "A graph models objects as vertices and pairwise relationships as edges. It strips away a story's irrelevant details and exposes degrees, paths and connectivity.",
+      "questions": "Solve friendship or tournament problems; prove a path or cycle exists; bound the number of edges; construct a matching.",
+      "techniques": "Use the degree sum, connected components, longest paths, trees and bipartite graphs. Hall's marriage theorem is an extension: every subset on one side must have at least as many neighbours to guarantee a matching covering that side.",
+      "example": "In any finite undirected graph, the number of odd-degree vertices is even: the sum of all degrees is $2E$, and the parity of that sum is the parity of the number of odd terms.",
+      "pitfall": "Define whether edges are directed and whether loops or multiple edges are permitted. A tournament is not an arbitrary undirected graph.",
+      "keywords": "graph tree degree path cycle matching Hall Ramsey tournament"
+    },
+    {
+      "id": "colouring",
+      "title": "Colouring",
+      "group": "combinatorics",
+      "level": "foundation",
+      "subtopics": [
+        "Colouring"
+      ],
+      "overview": "Colouring assigns classes to objects so that an operation, tile or forbidden pattern has a predictable effect. The colours can encode parity, residues or more subtle weights.",
+      "questions": "Prove a tiling impossible; force a monochromatic pattern; show a configuration needs at least a certain number of colours.",
+      "techniques": "Try checkerboard colouring, residue colours, or weighted colour sums. Work backwards from what each legal piece or move should contribute.",
+      "example": "Remove two opposite corners from an $8\\times8$ chessboard. They have the same colour, leaving $30$ squares of one colour and $32$ of the other. Every domino covers one of each, so a domino tiling is impossible.",
+      "pitfall": "A colouring obstruction proves impossibility, but the absence of an obstruction does not automatically prove a tiling exists.",
+      "keywords": "checkerboard residues monochromatic weighted colouring"
+    },
+    {
+      "id": "games-strategies",
+      "title": "Games & strategies",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Games & strategies"
+      ],
+      "overview": "A strategy prescribes a response to every legal opponent move. Winning several sample games is not enough to establish a guaranteed win.",
+      "questions": "Decide who wins under optimal play; find a strategy; characterise losing positions in a removal or placement game.",
+      "techniques": "Work backwards from terminal positions, identify losing states and use pairing or symmetry. Nim and the xor criterion are specialist tools for disjoint ordinary Nim heaps.",
+      "example": "If players remove $1,2$ or $3$ counters and the last move wins, multiples of $4$ are losing positions. From any other size, move to a multiple of $4$, then respond to a removal of $r$ by removing $4-r$.",
+      "pitfall": "State the terminal rule. A last-move-loses version can change the winning positions and invalidate the same strategy.",
+      "keywords": "winning losing positions Nim strategy stealing pairing"
+    },
+    {
+      "id": "recurrences-generating-functions",
+      "title": "Recurrences & generating functions",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Recurrences & generating functions"
+      ],
+      "overview": "A counting problem can be broken into smaller cases. A generating function stores a whole counting sequence as coefficients of a formal power series.",
+      "questions": "Count restricted strings, paths, tilings or bracket sequences; derive a recurrence or closed formula.",
+      "techniques": "Classify by the first or last step, choose sufficient state information and supply initial values. Generating functions turn convolution into multiplication; coefficient extraction recovers counts.",
+      "example": "Let $T_n$ count tilings of a length-$n$ strip by pieces of lengths $1,2$. The first piece leaves length $n-1$ or $n-2$, so $T_n=T_{n-1}+T_{n-2}$ with $T_0=T_1=1$.",
+      "pitfall": "The recursive cases must be disjoint and exhaustive. For generating functions, distinguish formal coefficient arguments from analytic convergence claims.",
+      "keywords": "Fibonacci Catalan recursive generating function coefficient"
+    },
+    {
+      "id": "tilings-dissections",
+      "title": "Tilings & dissections",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Tilings & dissections"
+      ],
+      "overview": "A tiling covers a region exactly without overlaps or gaps; a dissection cuts it into pieces for comparison or rearrangement. Local feasibility may conflict with a global invariant.",
+      "questions": "Determine which boards can be tiled; find the minimum number of pieces; construct dissections with prescribed properties.",
+      "techniques": "Check area first, then colouring, boundary constraints and induction. For existence, give an explicit construction or a recursive tiling with a valid base case.",
+      "example": "A $2\\times n$ rectangle has area $2n$, so it needs exactly $n$ dominoes if tiled. Placing $n$ vertical dominoes supplies a construction for every positive integer $n$; area alone would only supply the count.",
+      "pitfall": "Equal total area is necessary but not sufficient for tileability. Rotation and reflection permissions may change the answer.",
+      "keywords": "domino polyomino dissection covering packing"
+    },
+    {
+      "id": "algorithms-constructions",
+      "title": "Algorithms & constructions",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Algorithms & constructions"
+      ],
+      "overview": "Existence can be proved by describing a procedure that always produces the required object. An extremal problem also needs an example meeting its claimed bound.",
+      "questions": "Construct a sequence, graph or colouring; show a rearrangement process terminates; achieve a maximum or minimum.",
+      "techniques": "Use greedy choices only after proving they cannot block success. State a maintained invariant and a termination measure. Recursive constructions should handle every allowed size.",
+      "example": "To sort a finite list, swap an adjacent inverted pair. Its inversion count falls by exactly one, so the process stops after finitely many swaps. With no adjacent inversion, the list is sorted.",
+      "pitfall": "'Keep choosing a suitable object' is incomplete unless such an object is proved to exist at every stage.",
+      "keywords": "greedy algorithm construction sorting termination"
+    },
+    {
+      "id": "logic-information",
+      "title": "Logic & information",
+      "group": "combinatorics",
+      "level": "core",
+      "subtopics": [
+        "Logic & information"
+      ],
+      "overview": "Questions about weighing, truth-tellers or queries can be modelled as a set of possible states and a sequence of observations that distinguishes them.",
+      "questions": "Find the fewest queries or weighings; identify an unknown object; resolve consistency conditions in logical statements.",
+      "techniques": "Use decision trees for information lower bounds, then construct a strategy achieving the bound. With at most $b$ outcomes per query, $k$ queries distinguish at most $b^k$ states.",
+      "example": "If exactly one of nine coins is heavier, weigh three against three. The heavier group—or the three unweighed coins after balance—contains it. Weigh one of those three against another to identify it in two weighings.",
+      "pitfall": "An information bound is only necessary: it does not prove an achievable strategy, especially when not every outcome partition is physically possible.",
+      "keywords": "weighing truth liar decision tree information"
+    },
+    {
+      "id": "probability",
+      "title": "Probability",
+      "group": "combinatorics",
+      "level": "extension",
+      "subtopics": [
+        "Probability"
+      ],
+      "overview": "Random choices can prove deterministic existence: if the average value of a quantity is large, some outcome attains at least that average.",
+      "questions": "Find expected counts; show a favourable arrangement exists; bound the probability of a bad event.",
+      "techniques": "Use indicator variables and linearity of expectation, which does not require independence. The union bound gives $\\Pr(\\bigcup A_i)\\le\\sum\\Pr(A_i)$. Specify the random experiment precisely.",
+      "example": "Colour every vertex of a graph red or blue independently and uniformly. Each edge has differently coloured endpoints with probability $1/2$. The expected number of crossing edges is $E/2$, so some colouring has at least $E/2$ crossing edges.",
+      "pitfall": "Independence is not required to add expectations, but it is generally required to multiply individual probabilities.",
+      "keywords": "expectation indicator probabilistic method union bound"
+    },
+    {
+      "id": "pigeonhole-principle",
+      "title": "Pigeonhole principle",
+      "group": "proof-methods",
+      "level": "foundation",
+      "subtopics": [
+        "Pigeonhole principle"
+      ],
+      "overview": "If more objects than boxes are assigned to boxes, some box contains at least two objects. The real insight is choosing the objects and boxes.",
+      "questions": "Prove two numbers have a shared property; force a close pair, repetition or divisibility; guarantee one group is large.",
+      "techniques": "Use remainder classes, intervals, subsets or signatures as boxes. The general form guarantees a box with at least $\\lceil N/k\\rceil$ of $N$ objects in $k$ boxes.",
+      "example": "Among $n+1$ integers, two have the same remainder modulo $n$. Their difference is divisible by $n$. The boxes are the $n$ possible remainders, not the integers themselves.",
+      "pitfall": "Count the boxes correctly and prove every object has an assigned box. A poorly chosen partition may yield a true but useless coincidence.",
+      "keywords": "Dirichlet boxes residues existence"
+    },
+    {
+      "id": "invariants",
+      "title": "Invariants",
+      "group": "proof-methods",
+      "level": "core",
+      "subtopics": [
+        "Invariants"
+      ],
+      "overview": "An invariant is a quantity or property unchanged by every allowed move. Different invariant values prove that one configuration cannot reach another.",
+      "questions": "Decide whether a rearrangement is possible; rule out a final state; identify a preserved quantity in a recurrence or game.",
+      "techniques": "Test sums, products, parity, residues, colour balances and permutation sign. Compute the effect of a general move, not just a few examples.",
+      "example": "If a move adds $1$ to one integer and subtracts $1$ from another, the total sum is invariant. Starting from total $7$, it is impossible to reach a configuration of total $8$.",
+      "pitfall": "Matching invariant values does not generally prove reachability. An invariant gives a necessary condition, not automatically a sufficient one.",
+      "keywords": "preserved quantity moves reachability"
+    },
+    {
+      "id": "monovariants",
+      "title": "Monovariants",
+      "group": "proof-methods",
+      "level": "core",
+      "subtopics": [
+        "Monovariants"
+      ],
+      "overview": "A monovariant changes in only one direction. A strictly decreasing nonnegative integer cannot decrease indefinitely, so it proves termination.",
+      "questions": "Show an algorithm stops; rule out cycles; prove that repeated improvements reach a stable configuration.",
+      "techniques": "Find an integer-valued measure such as inversion count, total distance or a weighted sum. For a real-valued measure, a lower bound alone is insufficient; additional control is needed.",
+      "example": "An operation that reduces the number of inversions of a permutation by at least one must stop, since that count is an integer between $0$ and $n(n-1)/2$.",
+      "pitfall": "A bounded decreasing real sequence can continue forever, as $1,1/2,1/4,\\ldots$ shows. State why your measure forbids infinitely many steps.",
+      "keywords": "potential function termination decreasing measure"
+    },
+    {
+      "id": "extremal-arguments",
+      "title": "Extremal arguments",
+      "group": "proof-methods",
+      "level": "core",
+      "subtopics": [
+        "Extremal arguments"
+      ],
+      "overview": "Choose an object that is largest, smallest, longest or otherwise extreme. Its inability to be improved often forces the structure you need.",
+      "questions": "Prove a special vertex or point exists; establish a bound; simplify a configuration; derive a contradiction from a minimal counterexample.",
+      "techniques": "Choose the extremal measure to interact with the hypothesis. Try a largest element, shortest segment, longest path or configuration with fewest crossings. Averaging can first locate a useful extreme.",
+      "example": "In a finite graph, choose a longest simple path. Every neighbour of either endpoint lies on that path; otherwise that neighbour would extend it to a longer path.",
+      "pitfall": "Prove that an extremum is attained. A supremum in an infinite set need not be a member of that set.",
+      "keywords": "maximal minimal longest path averaging extremal principle"
+    },
+    {
+      "id": "parity",
+      "title": "Parity",
+      "group": "proof-methods",
+      "level": "foundation",
+      "subtopics": [
+        "Parity"
+      ],
+      "overview": "Parity is arithmetic modulo $2$. It is simple enough to track through complicated operations and often exposes an impossibility immediately.",
+      "questions": "Show an equation has no integer solution; constrain the number of odd objects; analyse swaps, moves or alternating patterns.",
+      "techniques": "Record how each operation changes evenness. For permutations, track the parity of inversion count. If parity alone is too coarse, try a finer modulus.",
+      "example": "A sum of an odd number of odd integers is odd: modulo $2$, each summand contributes $1$, so the sum is congruent to the number of summands. It therefore cannot equal an even target.",
+      "pitfall": "Two odd numbers have an even sum but an odd product. Keep the operation clear rather than reasoning vaguely about 'odd things'.",
+      "keywords": "even odd modulo two permutation sign"
+    },
+    {
+      "id": "induction",
+      "title": "Induction",
+      "group": "proof-methods",
+      "level": "foundation",
+      "subtopics": [
+        "Induction"
+      ],
+      "overview": "Induction proves an infinite family by showing a first case and a mechanism carrying truth from smaller cases to the next. The mechanism is the substance of the proof.",
+      "questions": "Prove a formula, recurrence property or construction for all positive integers; build a large object from smaller ones.",
+      "techniques": "State the exact induction hypothesis. Strong induction may use every smaller case; structural induction reduces an object rather than merely subtracting one from a number. Strengthen the statement if the step needs extra information.",
+      "example": "If $1+3+\\cdots+(2n-1)=n^2$, adding $2n+1$ gives $(n+1)^2$. Together with the case $n=1$, this proves the formula for every positive integer $n$.",
+      "pitfall": "Do not assume the case you are trying to prove. A recurrence using two earlier terms normally needs enough initial cases.",
+      "keywords": "strong induction structural induction base case"
+    },
+    {
+      "id": "pairing",
+      "title": "Pairing",
+      "group": "proof-methods",
+      "level": "foundation",
+      "subtopics": [
+        "Pairing"
+      ],
+      "overview": "Pairing groups objects into pairs whose combined contribution is simpler, or supplies a response strategy that mirrors an opponent's move.",
+      "questions": "Evaluate sums; establish parity; count symmetric objects; construct a winning game strategy.",
+      "techniques": "Find a pairing rule that covers all relevant objects without overlap. Check for fixed points or an unpaired middle object. For games, prove the paired reply stays legal.",
+      "example": "Pair $k$ with $n+1-k$ in $1+\\cdots+n$. Each pair sums to $n+1$, giving $n(n+1)/2$; when $n$ is odd, treat the middle term separately or add the forward and reverse sums.",
+      "pitfall": "A symmetry may fix some objects. These cannot silently be counted as two distinct members of a pair.",
+      "keywords": "involution complementary pairs response strategy"
+    },
+    {
+      "id": "symmetry",
+      "title": "Symmetry",
+      "group": "proof-methods",
+      "level": "foundation",
+      "subtopics": [
+        "Symmetry"
+      ],
+      "overview": "Symmetry means a transformation leaves the problem's conditions unchanged. It can reduce cases, suggest useful variables or match equivalent configurations.",
+      "questions": "Simplify symmetric expressions; classify arrangements up to rotation; find a natural construction; reduce sign or ordering cases.",
+      "techniques": "Use symmetric sums, reflections, rotations and variable permutations. 'Without loss of generality' is justified only when the problem is unchanged by the proposed relabelling.",
+      "example": "If a statement is symmetric in real $a,b$, you may assume $a\\ge b$: the case $a<b$ is obtained by swapping their names. For a cyclic expression in three variables, arbitrary swaps may not be allowed.",
+      "pitfall": "Symmetric conditions do not imply every solution has equal variables. Symmetry suggests candidates, not automatic optimality.",
+      "keywords": "WLOG cyclic symmetric relabelling orbit"
+    }
+  ],
+  "levels": [
+    {
+      "id": "foundation",
+      "name": "Start here",
+      "description": "Foundational ideas worth making fluent; problems using them can still be very difficult."
+    },
+    {
+      "id": "core",
+      "name": "Build on it",
+      "description": "Tools and topics that extend the foundations across BMO and other olympiad problems."
+    },
+    {
+      "id": "extension",
+      "name": "Specialist",
+      "description": "Further methods or less central material in the wider collection; not a list of BMO prerequisites."
+    }
+  ],
+  "sources": [
+    {
+      "title": "BMOS: official BMO papers and preparation resources",
+      "url": "https://bmos.ukmt.org.uk/home/bmo"
+    },
+    {
+      "title": "UKMT: Mathematical Notes for Mentees",
+      "url": "https://ukmt.org.uk/wp-content/uploads/2025/09/Mathematical-Notes-for-Mentees.pdf"
+    }
+  ]
+}
