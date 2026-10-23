@@ -1,0 +1,153 @@
+1988-3|G|Angle chasing,Circles & tangency|Triangle $ABC$ is inscribed in a circle. Let $E$ be the midpoint of the arc $BC$ not containing $A$, and let $ED$ be a diameter. Prove that $\angle DEA=\tfrac12|\angle ABC-\angle BCA|$.
+1988-4|G|Triangle geometry,Trigonometry|For a triangle with standard side notation, an incorrect use of logarithms replaces $a^2=b^2+c^2-2bc\cos A$ by $\log a^2=\log b^2+\log c^2-\log(2bc\cos A)$. Suppose the resulting value of $a$ nevertheless is correct. What must be true of the triangle?
+1988-6|C|Pigeonhole principle|There are $n$ blocks, each having a positive integer weight smaller than $n$. Their total weight is less than $2n$. Show that some group of the blocks has total weight exactly $n$.
+1988-7|A|Polynomials,Equations & systems|For $f(x)=x^3-x$, prove that a real number $x$ satisfying $f(x+a)=f(x)$ exists precisely when $0<a\le2$, where $a>0$.
+1988-8|A|Sequences & recurrences|A sequence of nonzero reals satisfies $x_n=x_{n-2}x_{n-1}/(2x_{n-2}-x_{n-1})$ for every $n\ge3$. Find necessary and sufficient conditions on $x_1,x_2$ for infinitely many terms to be integers.
+1988-9|N|Digits & bases|Call a four-digit year peculiar when the number formed by its first two digits plus the number formed by its last two digits equals the number formed by its middle two digits. Since $19+78=97$, the year 1978 is peculiar. Find the preceding and the following peculiar years.
+1988-11|A|Sequences & recurrences|Fix $a>0$ and define $x_{k+1}=x_k(2-ax_k)$ for $k\ge0$. Determine exactly which real starting values $x_0$ make the sequence converge to $1/a$.
+1989-1|G|Coordinates & vectors,Inequalities|Points $A,B,C,D$ occur in this cyclic order, one on each side of a square of area $1$. Prove $2\le AB^2+BC^2+CD^2+DA^2\le4$.
+1989-2|C|Invariants,Counting|A $3\times3$ array of positive integers has the same sum $m$ along each row, each column and each of its two diagonals. Prove that $m=3n$ for an integer $n$, and that no entry exceeds $2n-1$.
+1989-4|N|Modular arithmetic,Digits & bases|An integer square can end in two consecutive 4s ($12^2=144$), or three ($38^2=1444$). Determine the longest possible final run of equal nonzero digits in an integer square.
+1990-1|C|Counting|For a positive integer $n$, count all axis-parallel rectangles whose vertices have integer coordinates between $0$ and $n$, inclusive.
+1990-6|N|Parity|Suppose $x_1,\ldots,x_n\in\{-1,1\}$ and $x_1x_2+x_2x_3+\cdots+x_{n-1}x_n+x_nx_1=0$. Prove that $4$ divides $n$.
+1990-7|A|Inequalities,Telescoping|Prove that $\sum_{k=3}^n1/k^3<1/12$ for every integer $n\ge3$.
+1991-4|C|Sets & partitions,Extremal arguments|Eight people hold daily meetings. Each day's attendance must be nonempty, different from every previous day's attendance, and intersect every previous day's attendance. What is the greatest possible number of meeting days?
+1992-3|C|Counting,Sets & partitions|A set $A$ has $n\ge1$ elements. How many ordered pairs $(B,C)$ of subsets of $A$ satisfy $\varnothing\ne B\subseteq C$?
+1992-6|N|Modular arithmetic,Divisibility & GCD|For $n>2$, let $S$ be the sum of $k^3$ over all integers $1\le k<n$ coprime to $n$. Prove that $n\mid S$.
+1993-1|A|Polynomials,Equations & systems|Real numbers $\alpha,\beta$ satisfy $\alpha^3-3\alpha^2+5\alpha-17=0$ and $\beta^3-3\beta^2+5\beta+11=0$. Find $\alpha+\beta$.
+1993-4|A|Polynomials,Inequalities|A monic real polynomial $f$ of degree $n\ge1$ has all its roots strictly between $0$ and $1$, and $|f(0)|=f(1)$. Prove that the product of its roots is at most $2^{-n}$.
+1993-5|G|Complex numbers,Convexity|The points represented by nonzero complex numbers $z_1,\ldots,z_5$ form a convex pentagon containing the origin in its interior. A nonzero complex number $\alpha=p+iq$ has the property that all five points $\alpha z_j$ lie inside the pentagon. Prove $p^2+q^2\le1$ and $p+q\tan(\pi/5)\le1$.
+1993-6|C|Pigeonhole principle,Parity|Five distinct points in the plane have integer coordinates. Show that a segment joining two of them contains another integer-coordinate point strictly between its endpoints.
+1993-8|C|Binomial coefficients|For integers $1\le r\le n$, prove $\sum_{d=1}^{\infty}\binom{n-r+1}{d}\binom{r-1}{d-1}=\binom nr$, with binomial coefficients outside their usual range defined as zero.
+1994-4|C|Counting,Parity|How many $m\times n$ arrays of zeros and ones have an even number of ones in every row and every column?
+1994-6|N|Binomial coefficients,Sequences & recurrences|Define $x_1=2$ and $nx_n=2(2n-1)x_{n-1}$ for $n\ge2$. Show that every $x_n$ is an integer.
+1995-1|C|Counting,Pigeonhole principle|For an integer $n\ge2$, each week a class of $n^2$ students is split into $n$ teams of size $n$. Prove that by the end of $n+2$ weeks, some pair of students must have shared a team on at least two occasions. (The restriction $n\ge2$ makes explicit the nontrivial intended setting.)
+1996-3|A|Functional equations,Inequalities|Suppose $f:[0,1]\to\mathbb R$ satisfies $f(1)=1$, $f(x)\ge0$, and $f(x+y)\ge f(x)+f(y)$ whenever $x,y,x+y\in[0,1]$. Prove $f(x)\le2x$ throughout $[0,1]$.
+1996-7|A|Inequalities,Telescoping|Show that $\prod_{k=1}^n(2^k)^{1/2^k}<4$ for every positive integer $n$.
+1996-9|G|Triangle centres,Concurrency & collinearity|In an acute triangle $ABC$, let $D,E,F$ be the feet of the altitudes from $A,B,C$. Let $P,Q,R$ be the perpendicular projections of $A,B,C$ onto $EF,FD,DE$, respectively. Show that $AP,BQ,CR$ are concurrent.
+1997-1|N|Diophantine equations,Divisibility & GCD|Find all integer pairs $(x,y)$ satisfying $1+1996x+1998y=xy$.
+1997-3|A|Polynomials|Determine all polynomials $p$ such that $(x-16)p(2x)=16(x-1)p(x)$ for every $x$.
+1997-6|N|Divisibility & GCD|Write $\sigma(n)$ for the sum of the positive divisors of $n$, and call $n$ abundant if $\sigma(n)>2n$. Prove that every positive integer multiple of an abundant integer is abundant.
+1997-7|G|Circles & tangency,Trigonometry|A quadrilateral $ABCD$ is circumscribed about a circle. Its angles satisfy $A=B=120^\circ$, $D=90^\circ$, and $BC=1$. Determine $AD$.
+1997-10|N|Divisibility & GCD,Algorithms & constructions|For a prime $p$, call $n$ partitionable if $\{1,\ldots,n\}$ can be partitioned into $p$ nonempty subsets with equal sums. Prove (a) partitionability implies $p\mid n$ or $p\mid n+1$; (b) every positive multiple of $2p$ is partitionable.
+1998-1|A|Inequalities,Algebraic identities|Prove that $x^8-x^5-1/x+1/x^4\ge0$ for every nonzero real $x$.
+1998-7|A|Inequalities|For positive $a,b,c$, prove $\frac9{a+b+c}\le2\left(\frac1{a+b}+\frac1{b+c}+\frac1{c+a}\right)$ and $\frac1{a+b}+\frac1{b+c}+\frac1{c+a}\le\frac12\left(\frac1a+\frac1b+\frac1c\right)$.
+1998-8|C|Colouring,Modular arithmetic|Prove that the positive integers can be coloured with three colours so that numbers differing by $2$ or $5$ have different colours. Prove that differences $2,3,5$ can all be forbidden with four colours, but cannot all be forbidden with three colours.
+1998-9|A|Sequences & recurrences,Periodicity|Given arbitrary positive reals $x_0,x_1$, define $x_{n+2}=(1+x_{n+1})/x_n$. Express $x_{1998}$ in terms of $x_0,x_1$.
+1999-1|A|Inequalities,Equations & systems|Solve over the real numbers $\frac{x^2}{(x+1-\sqrt{x+1})^2}<\frac{x^2+3x+18}{(x+1)^2}$, requiring all expressions to be defined.
+1999-3|G|Concurrency & collinearity,Triangle geometry|In triangle $ABC$, let $D\in BC$ be the altitude foot from $A$, let $E\in CA$ be the endpoint of the angle bisector from $B$, and let $F$ be the midpoint of $AB$. With $a=BC,b=CA,c=AB$, prove that $AD,BE,CF$ concur exactly when $a^2(a-c)=(b^2-c^2)(a+c)$.
+1999-8|A|Inequalities|Positive reals $a,b,c,d$ sum to $1$. Prove $\frac{a^2}{a+b}+\frac{b^2}{b+c}+\frac{c^2}{c+d}+\frac{d^2}{d+a}\ge\frac12$, with equality exactly when $a=b=c=d=1/4$.
+2000-p1-1|N|Algebraic identities,Squares & powers|Let $a(n)=n^2+n+1$ for positive integers $n$, and let $S$ be the set of these values. Show that $a(n)a(n+1)\in S$ for every $n$, but find two members of $S$ whose product is not in $S$.
+2000-p1-3|N|Modular arithmetic|Find the smallest positive integer $a$ such that $65\mid 5x^{13}+13x^5+9ax$ for every integer $x$.
+2000-p2-1|A|Inequalities|For nonnegative reals $x,y$ with $x+y=2$, prove $x^2y^2(x^2+y^2)\le2$.
+2000-p2-3|N|Diophantine equations,Algorithms & constructions|For a given positive integer $n$, determine all positive integers $m$ for which positive integers $x_1<\cdots<x_n$ can satisfy $\sum_{i=1}^n i/x_i=m$.
+2000-p2-4|N|Divisibility & GCD|Prove that any ten consecutive integers contain one integer coprime to each of the other nine.
+2000-p2-5|A|Polynomials,Inequalities|A polynomial $p$ has nonnegative real coefficients and satisfies $p(4)=2$, $p(16)=8$. Prove $p(8)\le4$, and determine every such polynomial for which equality holds.
+2001-2|G|Coordinates & vectors,Triangle geometry|In triangle $ABC$, write $a=BC,b=CA,c=AB$ and let $D,E$ be the midpoints of $AC,AB$. Prove $BD\perp CE$ if and only if $b^2+c^2=5a^2$.
+2001-4|A|Inequalities|For every positive integer $n$, prove $\frac{2n}{3n+1}\le\sum_{k=n+1}^{2n}\frac1k\le\frac{3n+1}{4(n+1)}$.
+2001-6|N|Modular arithmetic|Find the least positive integer $a$ for which $2001$ divides $55^n+a32^n$ for some positive odd integer $n$.
+2002-1|G|Coordinates & vectors,Trigonometry|Triangle $ABC$ has $AB=20$, $AC=21$, $BC=29$. Points $D,E$ lie on segment $BC$ with $BD=8$ and $EC=9$. Find $\angle DAE$.
+2002-3|N|Primes,Diophantine equations|Find all positive integer triples $(p,q,n)$ with $p,q$ prime and $p(p+3)+q(q+3)=n(n+3)$.
+2002-5|A|Inequalities|For $0<a,b,c<1$, prove $\frac a{1-a}+\frac b{1-b}+\frac c{1-c}\ge\frac{3\sqrt[3]{abc}}{1-\sqrt[3]{abc}}$. Determine equality.
+2002-7|N|Primes,Equations & systems|Distinct primes $a,b,c,d$ satisfy $a+c=d$, $a(a+b+c+d)=c(d-b)$ and $1+bc+d=bd$. Find their product.
+2002-9|N|Sequences & recurrences,Floor functions|Let $\alpha=2+\sqrt3$. Prove $\alpha^n-\lfloor\alpha^n\rfloor=1-\alpha^{-n}$ for every integer $n\ge0$.
+2003-1|N|Diophantine equations,Algebraic identities|Determine all integer pairs $(m,n)$ satisfying $(m^2+n)(m+n^2)=(m+n)^3$.
+2003-3|C|Counting,Floor functions|For each positive integer $k$, put $a_k=\lfloor\sqrt k\rfloor$ and $b_k=\lfloor\sqrt[3]k\rfloor$. Evaluate $\sum_{k=1}^{2003}(a_k-b_k)$.
+2003-4|C|Graph theory,Extremal arguments|Eight chess players play at most once against each opponent. No five players all play one another. Construct a schedule of $24$ games and prove that more than $24$ is impossible.
+2003-7|G|Cyclic quadrilaterals,Angle chasing|In quadrilateral $ABCD$, let $P,Q$ be the perpendicular projections of $D$ onto $AB,BC$, and $R,S$ those of $B$ onto $AD,CD$. If $\angle PSR=\angle SPQ$, prove $PR=SQ$.
+2003-9|A|Inequalities,Extremal arguments|Given positive $a,b$, find the largest real $c$ such that $c\le\max\{ax+1/(ax),bx+1/(bx)\}$ for every $x>0$.
+2004-p1-1|N|Divisibility & GCD|Determine all positive integers $n$ for which (a) $2n$, (b) $2n+1$, divides $1+2+\cdots+n$.
+2004-p1-2|C|Graph theory,Extremal arguments|In a tournament every pair of players plays once, with no draws, and every player wins at least once. Prove that some three players $A,B,C$ have results $A$ beats $B$, $B$ beats $C$, and $C$ beats $A$.
+2004-p1-3|G|Coordinates & vectors,Area & dissection|A circle of radius $5$ and centre $O$ has a chord $AB$ of length $6$. A square $PQRS$ lies in the smaller sector $OAB$, with $P\in OA$, $S\in OB$ and $Q,R$ on arc $AB$. Find its area.
+2004-p2-1|N|Primes,Modular arithmetic|Find all prime pairs $2\le p,q<100$ for which $p+6,p+10,q+4,q+10,p+q+1$ are also primes.
+2004-p2-3|N|Digits & bases,Inequalities|For each integer $n\ge2$, determine the first digit after the decimal point of $\sqrt[3]{n^3+2n^2+n}$.
+2004-p2-4|A|Inequalities,Extremal arguments|Find the minimum of $\max\{x^2,y^2,z^2\}$ over real triples with $x+y+z=0$ and $x^2+y^2+z^2=1$.
+2005-1|N|Squares & powers,Modular arithmetic|Prove that $2005^{2005}$ is a sum of two integer squares but is not a sum of two integer cubes.
+2005-3|G|Triangle geometry,Inequalities|Show that the sum of the three median lengths of a triangle is at least three quarters of its perimeter.
+2005-7|C|Games & strategies,Modular arithmetic|Players A and B alternately choose digits from $1,2,3,4,5$, with A starting, to form a $2005$-digit integer. The player choosing the final digit wins precisely when the completed integer is divisible by $9$; otherwise the other player wins. Who has a winning strategy?
+2006-1|N|Diophantine equations,Modular arithmetic|Do integers $x,y,z$ satisfying $z^2=(x^2+1)(y^2-1)+n$ exist for (a) $n=2006$, (b) $n=2007$?
+2006-2|G|Circles & tangency,Coordinates & vectors|Triangle $ABC$ is isosceles with $AB=AC$. Points $P,Q$ lie in the interiors of $AB,AC$, respectively, and $AP=CQ$. Prove that the circle through $A,P,Q$ also passes through the circumcentre of $ABC$.
+2006-4|A|Equations & systems,Extremal arguments|For real $x\ge-2$, $y\ge-3$ satisfying $x-2\sqrt{x+2}=2\sqrt{y+3}-y$, find the smallest and largest possible values of $x+y$.
+2006-6|C|Graph theory,Colouring|An $m\times n$ rectangular grid represents rooms, with doors between edge-adjacent rooms and an exit only at the top-right room. Starting in the bottom-left room, a person must visit every room before exiting. A room cannot be entered again after it has been left. Determine all positive $m,n$ for which escape is possible.
+2007-1|N|Primes,Divisibility & GCD|Find all primes $p,q$ such that $p\mid q+6$ and $q\mid p+7$.
+2007-2|G|Trigonometry,Triangle geometry|Prove that a triangle with angles $A,B,C$ is right-angled exactly when $\sin^2A+\sin^2B+\sin^2C=2$.
+2007-6|A|Polynomials,Algebraic identities|If $r,s,t$ are the roots of $x^3-2007x+2002$, evaluate $\frac{r-1}{r+1}+\frac{s-1}{s+1}+\frac{t-1}{t+1}$.
+2007-7|A|Inequalities|For positive $a,b,c$, prove $\frac{a+b+c}{3}\le\sqrt{\frac{a^2+b^2+c^2}{3}}\le\frac{ab/c+bc/a+ca/b}{3}$. Determine equality in each inequality.
+2007-8|G|Triangle geometry,Trigonometry|A triangle has side lengths $a,b,c$, area $\Delta$, and internal angle-bisector lengths $d,e,f$. Prove $def=\frac{4abc(a+b+c)\Delta}{(a+b)(b+c)(c+a)}$.
+2008-1|N|Primes,Equations & systems|Distinct primes $p_1,p_2,p_3,p_4$ satisfy $2p_1+3p_2+5p_3+7p_4=162$ and $11p_1+7p_2+5p_3+4p_4=162$. Find all possible products $p_1p_2p_3p_4$.
+2008-2|A|Inequalities|Positive reals $a,b,c,d$ satisfy $a^2+b^2+c^2+d^2=1$. Prove $a^2b^2cd+ab^2c^2d+abc^2d^2+a^2bcd^2+a^2bc^2d+ab^2cd^2\le3/32$, and determine equality.
+2008-4|C|Permutations & arrangements,Counting|Count permutations $a_1,\ldots,a_{2008}$ of $1,\ldots,2008$ for which $i\in\{a_1,\ldots,a_i\}$ for every $2\le i\le2008$.
+2008-10|A|Inequalities|For positive $x,y,z$ with $xyz\ge1$, prove $27\le(1+x+y)^2+(1+y+z)^2+(1+z+x)^2\le3(x+y+z)^2$. Show that equality in either bound occurs exactly at $x=y=z=1$.
+2009-2|G|Similarity & congruence,Coordinates & vectors|In square $ABCD$, a point $H$ inside $AB$ satisfies $AB\cdot BH=AH^2$. Let $E$ be the midpoint of $AD$, $X$ the midpoint of $AH$, and $Y$ the perpendicular projection of $X$ onto $EB$. Prove $XY=XH$.
+2009-6|A|Polynomials|Prove that for every polynomial $p$ with rational coefficients, some positive integer $n$ makes $p(x+n)-p(x)$ a polynomial with integer coefficients.
+2010-1|N|Squares & powers,Modular arithmetic|What is the smallest number of integer squares whose sum can equal $2010$?
+2011-1|A|Equations & systems|Given real $a,b,c$ with $abc\ne0$, solve $x+y=a$, $z+u=b$, $v+w=c$, $ay=bz$, $ub=cv$, $wc=ax$ for $x,y,z,u,v,w$.
+2011-2|G|Triangle geometry,Inequalities|Let $a,b,c$ be triangle side lengths and $m_a,m_b,m_c$ the corresponding median lengths. Prove $2m_a<b+c$ and hence $m_a+m_b+m_c<a+b+c$. Give one triangle with $m_a>\sqrt{bc}$ and another with $m_a\le\sqrt{bc}$.
+2011-6|N|Valuations|Prove that $\frac23+\frac45+\cdots+\frac{2010}{2011}$ is not an integer.
+2011-8|G|Area & dissection|In rectangle $ABCD$, points $E,F$ lie inside $AB,AD$, respectively. Triangles $EBC,EAF,FDC$ have areas $16,12,30$. Find the area of $EFC$.
+2011-9|A|Inequalities|Positive reals $x,y,z$ satisfy $1=2xyz+xy+yz+zx$. Prove $3/4\le xy+yz+zx<1$, $xyz\le1/8$, and $x+y+z\ge3/2$. Determine equality in the last inequality.
+2012-1|C|Colouring,Algorithms & constructions|Partition $\{1,\ldots,20\}$ into two sets so that the sum of two distinct members of either set never belongs to $\{4,5,9,14,23,37\}$.
+2012-3|A|Polynomials,Digits & bases|Determine every polynomial $f$ with nonnegative integer coefficients satisfying $f(1)=8$ and $f(2)=2012$.
+2012-4|N|Diophantine equations,Trigonometry|The side lengths $5,7,8$ form a triangle with relatively prime integer sides and exactly one $60^\circ$ angle. Find two further triangles with both properties.
+2012-6|N|Digits & bases|Let $S(n)$ be the sum of the decimal digits of a positive integer $n$. Prove that $n-S(n)=9990$ has no solution.
+2013-1|N|Valuations,Modular arithmetic|Find the smallest positive integer $m$ such that $5m$ is a fifth power, $6m$ a sixth power, and $7m$ a seventh power, all of integers.
+2013-2|A|Inequalities|Prove $1-\frac1{2012}\left(\frac12+\frac13+\cdots+\frac1{2013}\right)\ge2013^{-1/2012}$.
+2013-3|G|Similarity & congruence,Triangle geometry|The three altitude lengths of triangle $T$ are the side lengths of triangle $T_1$. The three altitude lengths of $T_1$ are the side lengths of triangle $T_2$. Assuming both new triangles exist, prove $T_2$ is similar to $T$.
+2013-6|G|Trigonometry,Triangle geometry|Points $B,C,D$ lie on a line in that order, and $A$ is off the line with $AB=AC=CD$. Prove $\angle BAC=36^\circ$ if and only if $1/CD-1/BD=1/(CD+BD)$.
+2013-7|C|Combinatorial geometry,Counting|Take the $16$ integer-coordinate points $(i,j)$ with $0\le i,j\le3$ and remove the four corner points. For each possible area, count the squares with all four vertices among the remaining $12$ points. Justify that the list is complete.
+2014-1|C|Permutations & arrangements,Counting|How many ways can $56$ squares be selected from an ordinary $8\times8$ chessboard if every black square is selected and exactly seven selected squares occur in every row and column?
+2014-2|N|Divisibility & GCD,Algebraic identities|Prove that $(N^2)^{2014}-(N^{11})^{106}$ is divisible by $N^6+N^3+1$ for every integer $N>1$.
+2014-3|G|Trigonometry,Triangle geometry|In triangle $ABC$, let $D$ be the altitude foot from $A$ onto $BC$, and $M$ the midpoint of $BC$. Suppose $\angle BAD=\angle DAM=\angle MAC$. Determine the angles of $ABC$.
+2014-6|N|Divisibility & GCD,Valuations|Each of $N,N+1,N+2,N+3$ has exactly six positive divisors. The union of their positive-divisor sets has $20$ members, one of which is $27$. Determine all positive integers $N$.
+2014-7|G|Circles & tangency,Coordinates & vectors|Square $ABCD$ is inscribed in a circle. Let $E$ be the midpoint of $AD$, let $F$ be the second intersection of $CE$ with the circle, and put $H=FB\cap AD$. Show $HD=2AH$.
+2014-9|A|Polynomials,Inequalities|Let $a_1,\ldots,a_n>0$ and $a_0\in\mathbb R$. Write $(x-a_0)\prod_{i=1}^n(x+a_i)=x^{n+1}+b_1x^n+\cdots+b_{n+1}$. Prove that every $b_i$ is negative exactly when $a_0>a_1+\cdots+a_n$.
+2015-1|G|Triangle geometry,Extremal arguments|Triangle $ABC$ has altitude $1$ from $A$ onto $BC$. If $D$ is the midpoint of $AC$, determine all possible lengths of $BD$.
+2015-6|A|Inequalities|For nonnegative $x,y$ with $x+y\le1$, prove $8xy\le5x(1-x)+5y(1-y)$ and determine equality.
+2015-7|C|Sets & partitions,Counting|For $n>1$, call a nonempty subset $S\subseteq\{1,\ldots,2n\}$ sum-free if $x+y\notin S$ whenever $x,y\in S$, allowing $x=y$. Prove that more than $2^n$ such subsets exist.
+2015-9|A|Polynomials,Divisibility & GCD|Nonconstant polynomials $p,q$ with integer coefficients have the property that $p(x)q(x)-2015$ has at least $33$ distinct integer roots. Prove that both $p$ and $q$ have degree at least three.
+2015-10|A|Inequalities,Binomial coefficients|Prove $\sum_{k=0}^n k^j\binom nk\ge2^{n-j}n^j$ for all nonnegative integers $j,n$, using $0^0=1$ where necessary.
+2016-1|N|Digits & bases,Modular arithmetic|If the three-digit integer $ABC$ is divisible by $27$, prove that its cyclic digit rotations $BCA$ and $CAB$ are also divisible by $27$.
+2016-3|A|Polynomials,Functions & graphs|Can four real-coefficient polynomials have the property that every sum of three has a real root, but every sum of two has no real root?
+2016-4|G|Angle bisectors,Circles & tangency|In triangle $ABC$ with $AC\ne BC$, the internal and external bisectors at $C$ meet line $AB$ at $P,Q$, with $P$ between $A,B$. For a point $M$ on the circle with diameter $PQ$, other than $P,Q$, prove $\angle AMP=\angle BMP$. (The two excluded positions make the angles undefined.)
+2016-6|G|Triangle centres,Coordinates & vectors|In triangle $ABC$, put $a=BC>b=AC$. Points $K,H$ on $BC$ satisfy $CK=(a-b)/3$, $CH=(a+b)/3$. If $G$ is the centroid, show $\angle KGH=90^\circ$.
+2016-7|C|Extremal arguments,Algorithms & constructions|An array of positive integers has four rows; each column sums to $20$, and entries in any one row are distinct. What is the greatest possible number of columns?
+2016-8|A|Equations & systems,Algebraic identities|For real $a,b,c$ with $abc\ne0$, solve $bz+cy=a$, $cx+az=b$, $ay+bx=c$. Also prove $(1-x^2)/a^2=(1-y^2)/b^2=(1-z^2)/c^2$.
+2016-10|G|Triangle centres,Transformations|Let $AE$ be a diameter of the circumcircle of triangle $ABC$, and $H$ its orthocentre. Extend $EH$ to its second intersection $D$ with the circumcircle. Prove that the midpoint of $HD$ lies on the nine-point circle of $ABC$.
+2017-2|A|Equations & systems,Algebraic identities|Solve over the reals $a+b+c=0$, $a^2+b^2+c^2=1$, $a^3+b^3+c^3=4abc$.
+2017-6|N|Divisibility & GCD,Modular arithmetic|Does there exist a positive even integer $n$ such that $5\mid n+1$ and $2^n+n$ is coprime to $2^n-1$? Prove your answer.
+2017-8|G|Coordinates & vectors|Divide $B_0B_n$ into $n$ equal segments at $B_1,\ldots,B_{n-1}$. If $\angle B_0AB_n=90^\circ$, prove $\sum_{k=0}^n AB_k^2=\sum_{k=0}^n B_0B_k^2$.
+2017-9|A|Inequalities|For nonnegative $a,b$, prove $1+a^{2017}+b^{2017}\ge a^{10}b^7+a^7b^{2000}+a^{2000}b^{10}$. Determine equality.
+2017-10|A|Sequences & recurrences,Algebraic identities|Call a real sequence $(a_k)$ $m$-powerful if $(\sum_{k=1}^n a_k)^m=\sum_{k=1}^n a_k^m$ for every $n\ge1$. Prove that it is $30$-powerful exactly when at most one term is nonzero. Construct a $2017$-powerful sequence with no zero terms.
+2018-1|N|Modular arithmetic,Sequences & recurrences|Mary chooses an integer greater than $2017$. Mary and Pat then alternate operations, beginning with Mary: Mary replaces the current number by $2017$ times it plus $2$, and Pat adds $2019$. Pat wins if any number obtained is divisible by $2018$. What is the smallest starting integer allowing Mary to prevent this forever?
+2018-6|A|Functional equations|Determine all functions $f:\mathbb R\to\mathbb R$ satisfying $f(2x+f(y))+f(f(y))=4x+8y$ for every real $x,y$.
+2018-7|A|Inequalities|For side lengths $a,b,c$ of a triangle, prove $2(a^3+b^3+c^3)<(a+b+c)(a^2+b^2+c^2)\le3(a^3+b^3+c^3)$.
+2018-9|N|Modular arithmetic,Sequences & recurrences|A sequence of positive integers satisfies $a_{n+1}=a_n^2+2018$. Show that at most one of its terms can be an integer cube.
+2019-3|G|Angle bisectors,Coordinates & vectors|A quadrilateral $ABCD$ satisfies $AB\parallel DC$ and $BC=AB+CD$. Prove that the bisectors of $\angle ABC$ and $\angle BCD$ meet at a right angle at a point on $AD$.
+2019-4|A|Algebraic identities,Equations & systems|Find all nonzero real quadruples $(x,y,z,w)$ satisfying $1+\frac1x+\frac{2(x+1)}{xy}+\frac{3(x+1)(y+2)}{xyz}+\frac{4(x+1)(y+2)(z+3)}{xyzw}=0$.
+2019-6|N|Squares & powers,Modular arithmetic|Prove that $2019$ is the least positive integer which is both a sum of fourth powers of five distinct positive integers and a sum of six consecutive positive integers. You may use $2019=1^4+2^4+3^4+5^4+6^4=334+335+336+337+338+339$.
+2019-7|A|Algebraic identities|Nonzero real numbers $a,b,c$ satisfy $a+b+c=0$ and $a^4+b^4+c^4=128$. Determine all possible values of $ab+bc+ca$.
+2019-9|A|Inequalities|Real numbers $x,y,z$ satisfy $x^2+y^2+z^2+2xyz=1$. Prove $8xyz\le1$, and show equality occurs exactly when each absolute value is $1/2$ and the product is positive.
+2019-10|C|Graph theory,Algorithms & constructions|There are $64$ islands. For each $i$, choose a nonempty set $T_i\subseteq\{1,\ldots,64\}\setminus\{i\}$, with $\sum_i|T_i|=128$. A three-night holiday is an ordered triple $(a,b,c)$ with $b\in T_a$ and $c\in T_b$; $c=a$ is allowed. Exhibit sets yielding at least $4038$ distinct holidays.
+2020-1|N|Digits & bases,Extremal arguments|Call an integer admissible if it is at least $90$ and its tens digit is $9$. What is the smallest number of admissible integers whose sum can be $2020$?
+2020-2|C|Counting|A round table has $2N$ distinct seats. In how many ways can $N-1$ of them be chosen with no two chosen seats adjacent?
+2020-8|N|Modular arithmetic,Digits & bases|Find the last three decimal digits of $1\cdot3\cdot5\cdots2019$.
+2021-1|N|Valuations,Algorithms & constructions|Show that $15!$ can be written as the product of nine distinct integers, each between $16$ and $30$, inclusive.
+2021-2|G|Similarity & congruence,Circles & tangency|An isosceles triangle $ABC$ with $\angle ACB=90^\circ$ is inscribed in a circle. A chord $EF$ has neither endpoint at $C$. Lines $CE,CF$ meet $AB$ at $D,G$, respectively. Prove $CE\cdot DG=EF\cdot CG$.
+2021-6|A|Sequences & recurrences,Equations & systems|A sequence starts with a positive term. Each later term is the area of an equilateral triangle whose perimeter equals the preceding term. If the first three terms are in arithmetic progression, find all possible first terms.
+2021-7|C|Counting,Algebraic identities|An $n\times n$ grid has $k$ blue cells and all other cells red. Let $S_B$ be the sum of the squares of the blue counts in all rows and columns, and define $S_R$ similarly for red. If $S_B-S_R=50$, find all possible $k$.
+2021-9|A|Inequalities|Real numbers $a,A,b,B$ satisfy $a,b>0$, $|A-3a|\le1-a$ and $|B-3b|\le1-b$. Prove $|AB/3-3ab|-3ab\le1-ab$.
+2022-1|N|Valuations,Modular arithmetic|Determine all positive integers $n$ such that $n!+3$ is a power of $3$.
+2022-2|G|Circles & tangency,Coordinates & vectors|In square $ABCD$, draw from $B$ the tangent to the circle with diameter $CD$ which meets segment $AD$ at $K$. Prove $AD=4KD$.
+2022-3|C|Permutations & arrangements,Counting|In a permutation $p_1,\ldots,p_n$ of $1,\ldots,n$, call an interior position $t$ a turning point if $(p_t-p_{t-1})(p_t-p_{t+1})>0$. Let $q(n)$ count permutations having exactly one turning point. Find all $n\ge3$ for which $q(n)$ is a perfect square.
+2022-6|A|Algebraic identities|If real numbers $a,b,c$ sum to $1$, prove $a^3+b^3+c^3+3(1-a)(1-b)(1-c)=1$.
+2022-8|N|Digits & bases,Extremal arguments|The equation $AB\times CD=EFGH$ uses eight distinct decimal digits, with $A,C,E$ nonzero. Determine the smallest possible four-digit product $EFGH$.
+2022-9|N|Sequences & recurrences,Squares & powers|Fix a positive integer $k$ and define $x_0=0,x_1=1$, $x_{n+1}=kx_n+x_{n-1}$. Prove that $x_{n-1}x_{n+1}$ is never a perfect square for $n\ge2$: first for $k=1$, then for general $k$.
+2023-1|G|Coordinates & vectors,Transformations|Triangle $ABC$ has $\angle BAC<90^\circ$. Construct $D$ opposite $C$ across $AB$ with $AD=BD$ and $\angle ADB=90^\circ$, and $E$ opposite $B$ across $AC$ with $AE=CE$ and $\angle AEC=90^\circ$. If $ADXE$ is a parallelogram, prove $BX=CX$.
+2023-6|N|Digits & bases,Modular arithmetic|Call a positive integer totally square when its decimal digit sum is a square. Prove that infinitely many positive integers cannot be expressed as the sum of two totally square integers.
+2023-8|A|Inequalities|For positive reals $a,b,c$ with $a+b+c=3$, prove $\frac{a+b}{c+2}+\frac{b+c}{a+2}+\frac{c+a}{b+2}\ge2$ and determine equality.
+2024-1|N|Sequences & recurrences|Define a set of positive integers recursively: it contains $1,2$, and whenever it contains $a,b$ it also contains $2a+3b$ (allowing $a=b$). Does it contain $2024$? Justify your answer.
+2025-1|N|Divisibility & GCD,Primes|Find all positive integer pairs $(n,p)$ such that $p$ is the least positive integer not dividing $n$, and $n\mid3p^2+1$.
+2025-8|N|Equations & systems,Extremal arguments|A set $A$ consists of five distinct integers. Among the sums of two distinct members, the two smallest distinct values are $25,31$ and the two largest are $57,71$. Determine every possible $A$.
+2026-1|G|Area & dissection,Inequalities|Points $A,B,C,D$ lie, in cyclic order, on four different sides of a square of side $r$. Put $a=AB,b=BC,c=CD,d=DA$. Prove $[ABCD]\ge r^2-(a^2+b^2+c^2+d^2)/4$, and that equality implies $ABCD$ is a rectangle.
+2026-6|C|Games & strategies,Parity|Aisling splits $2026$ stones into three nonempty piles. Brendan moves first, and they then alternate: remove one stone from each of two piles, put one of these stones on the third pile, and discard the other. Empty piles are allowed but negative piles are not. A player unable to move loses. Give Aisling a winning strategy, including her initial division.
+2026-7|N|Digits & bases,Divisibility & GCD|If the two four-digit decimal integers $ABCD$ and $DCBA$ are both divisible by $121$, prove $A+C=B+D$.

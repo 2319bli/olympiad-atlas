@@ -1,0 +1,33 @@
+{
+  "id": "imo_1982_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1982,
+  "problem_number": "3",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Inequalities"
+    ],
+    [
+      "Algebra",
+      "Telescoping"
+    ],
+    [
+      "Algebra",
+      "Sequences"
+    ],
+    [
+      "Algebra",
+      "Geometric series"
+    ]
+  ],
+  "problem_markdown": "Let $1=x_0\\ge x_1\\ge x_2\\ge\\cdots>0$. Prove some partial sum $\\sum_{i=0}^{n-1}x_i^2/x_{i+1}$ is at least $3.999$, and construct such a sequence for which every partial sum is below four.",
+  "solutions_markdown": [
+    "Since $(x_i-2x_{i+1})^2\\ge0$,\n$$\\frac{x_i^2}{x_{i+1}}\\ge4(x_i-x_{i+1}).$$\nSumming gives a lower bound $4(1-x_n)$. If the decreasing sequence tends to zero, this bound exceeds $3.999$ for sufficiently large $n$. If its limit is $\\ell>0$, every summand is at least $x_i\\ge\\ell$, so the partial sums diverge and again exceed $3.999$.\n\nFor the construction take $x_i=2^{-i}$. The partial sum is $2+1+\\cdots+2^{2-n}=4(1-2^{-n})<4$ for every $n$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1982/1982_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln823.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

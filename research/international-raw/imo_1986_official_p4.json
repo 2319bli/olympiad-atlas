@@ -1,0 +1,33 @@
+{
+  "id": "imo_1986_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "4",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Locus"
+    ],
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ],
+    [
+      "Geometry",
+      "Polygons"
+    ]
+  ],
+  "problem_markdown": "Let $A,B$ be adjacent vertices of a regular $n$-gon with centre $O$, where $n\\ge5$. A rigid triangle $XYZ$, initially $OAB$, moves continuously with $Y,Z$ on the polygon boundary, each traversing that boundary, and $X$ inside. Determine the locus of $X$.",
+  "solutions_markdown": [
+    "Let the polygon side be $s$, circumradius $R$, and $\\alpha=\\pi/n$. The locus is the union of $n$ radial segments beginning at $O$, each directed away from a polygon vertex, of length $R(\\sec\\alpha-1)$.\n\nScale $s$ to two. Two boundary points at distance two can lie on the same side only as its endpoints; otherwise they are on adjacent sides. For nonadjacent sides, take their shorter boundary chain and project onto its central direction: that of the middle intervening side, or halfway between the two middle directions. The end segments and all intervening sides have nonnegative projection. A single middle side contributes two; two middle sides contribute $4\\cos\\alpha>2$. Equality can occur only at the nearest endpoints of sides separated by one side. Thus no other nonadjacent positions have distance two.\n\nDuring a transition about a vertex $V$, choose coordinates with $V=(0,0)$ and its inward bisector the positive vertical axis. Write\n$$Y=p(-\\cos\\alpha,\\sin\\alpha),\\quad Z=q(\\cos\\alpha,\\sin\\alpha),\\quad0\\le p,q\\le2.$$\nThe fixed-base constraint is\n$$4=(p+q)^2\\cos^2\\alpha+(p-q)^2\\sin^2\\alpha.$$\nThe inward apex of the congruent triangle is $X=(0,(p+q)/(2\\sin\\alpha))$. Along the continuous transition, $p+q$ runs from 2 to $2\\sec\\alpha$ and back to 2. Since $O=(0,\\csc\\alpha)$, this traces exactly the claimed segment. Its far endpoint remains inside the polygon because $\\sec\\alpha-1<\\cos\\alpha$ for $\\alpha\\le\\pi/5$, placing the segment within the incircle. The other vertices give the rotated segments. Restoring scale gives the displayed length."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln864.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

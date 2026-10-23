@@ -1,0 +1,33 @@
+{
+  "id": "imo_1987_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Irrationality"
+    ],
+    [
+      "Geometry",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "For every integer $n\\ge3$, construct $n$ plane points with all pairwise distances irrational and every three forming a nondegenerate triangle of rational area.",
+  "solutions_markdown": [
+    "Take $P_j=(j,j^2)$ for $j=1,\\ldots,n$. For $j>i$,\n$$P_iP_j=(j-i)\\sqrt{1+(i+j)^2}.$$\nThe integer under the square root lies strictly between $(i+j)^2$ and $(i+j+1)^2$, so it is not a square and its square root is irrational. Multiplying by the nonzero integer $j-i$ preserves irrationality.\n\nFor $i<j<k$, the determinant area formula gives\n$$[P_iP_jP_k]=\\frac{(j-i)(k-i)(k-j)}2.$$\nThis is positive and rational. Thus the construction has both required properties."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln875.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

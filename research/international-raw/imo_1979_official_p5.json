@@ -1,0 +1,29 @@
+{
+  "id": "imo_1979_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "5",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Algebraic identities"
+    ],
+    [
+      "Algebra",
+      "Sum of squares"
+    ],
+    [
+      "Algebra",
+      "Equations"
+    ]
+  ],
+  "problem_markdown": "Find all real $a$ for which nonnegative reals $x_1,\\ldots,x_5$ satisfy $\\sum_{k=1}^5kx_k=a$, $\\sum_{k=1}^5k^3x_k=a^2$, and $\\sum_{k=1}^5k^5x_k=a^3$.",
+  "solutions_markdown": [
+    "Multiply the first equation by $a^2$, subtract twice $a$ times the second, and add the third. This gives\n$$\\sum_{k=1}^5k(k^2-a)^2x_k=0.$$\nEvery summand is nonnegative. If every $x_k=0$, then $a=0$, which is valid. Otherwise some $x_j>0$, forcing $a=j^2$. Conversely for $a=j^2$, choose $x_j=j$ and all other coordinates zero; all three equations hold. Therefore the full answer is $a\\in\\{0,1,4,9,16,25\\}$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln795.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

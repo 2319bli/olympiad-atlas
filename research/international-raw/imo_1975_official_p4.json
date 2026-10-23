@@ -1,0 +1,29 @@
+{
+  "id": "imo_1975_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "4",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Digits"
+    ],
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Bounds"
+    ]
+  ],
+  "problem_markdown": "Let $A$ be the decimal digit sum of $4444^{4444}$, and let $B$ be the digit sum of $A$. Determine the digit sum of $B$.",
+  "solutions_markdown": [
+    "The power is below $10^{17776}$, so $A\\le9\\cdot17776=159984$ and consequently $B\\le54$. Digit sums preserve residues modulo nine. Since $4444\\equiv-2\\pmod9$ and $(-2)^3\\equiv1\\pmod9$, we obtain $B\\equiv(-2)^{4444}\\equiv7\\pmod9$. Thus $B$ is one of $7,16,25,34,43,52$, each with digit sum seven. The answer is $7$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln754.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

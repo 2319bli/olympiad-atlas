@@ -1,0 +1,82 @@
+{
+  "arm_2025_g7_1": {
+    "statement": "Find every four-digit positive integer such that inserting the digit $0$ in any position makes a number divisible by $7$. Inserting the zero at the beginning is allowed and leaves the number unchanged."
+  },
+  "arm_2025_g7_2": {
+    "statement": "A positive integer $n$ has exactly $m$ positive divisors, including $1$ and $n$. Show that the square of their product equals $n^m$.",
+    "solution": "The map $d\\mapsto n/d$ permutes the positive divisors of $n$. If their product is $P$, multiplying $d\\cdot(n/d)=n$ over all $m$ divisors gives $P^2=n^m$.",
+    "solutionKind": "original-exposition"
+  },
+  "arm_2025_g7_3": {
+    "statement": "Can each cell of a $9\\times9$ board be filled with $1$ or $2$ so that every column sum is divisible by $5$ and every row sum is divisible by $7$? Justify your answer.",
+    "solution": "Every row sum lies between $9$ and $18$, so its only possible multiple of $7$ is $14$. The board total would therefore be $9\\cdot14=126$. But summing the column sums would make that total divisible by $5$, a contradiction. Such a filling is impossible.",
+    "solutionKind": "original-exposition"
+  },
+  "arm_2025_g7_4": {
+    "statement": "In triangle $ABC$, $BM$ is a median and $K$ lies on segment $BM$, with $\\angle AKM=\\angle MBC$. Let $P$ be the foot of the perpendicular from $A$ to line $BM$, where $M$ lies between $P$ and $B$. Prove that $BK=2PM$."
+  },
+  "arm_2025_g8_2": {
+    "statement": "Triangle $ABC$ has $\\angle BAC=60^\\circ$. Points $M,N,K$ lie on sides $BC,AC,AB$, respectively, and satisfy $BK=KM=MN=NC$ and $AN=2AK$. Determine $\\angle ABC$."
+  },
+  "arm_2025_g8_4": {
+    "statement": "Negative real numbers $a,b,c$ satisfy $a^2-bc=b^2-ac=c^2-ab$. Find the greatest possible value of $(a-b)^2+(b-c)^2+(c-a)^2$.",
+    "solution": "Subtracting two of the given equalities yields $(a-b)(a+b+c)=0$. Because $a+b+c<0$, we have $a=b$. The same argument gives $b=c$. Thus the expression is always $0$, which is therefore its maximum.",
+    "solutionKind": "original-exposition"
+  },
+  "arm_2025_g8_6": {
+    "statement": "A convex quadrilateral $ABCD$ satisfies $\\angle BAD+2\\angle ADC=360^\\circ$ and $\\angle BAD<2\\angle BCD$. Prove that $AB+AD>BC$."
+  },
+  "arm_2025_g9_2": {
+    "statement": "In acute triangle $ABC$, let $BH$ be the altitude from $B$ and let $D,E$ be the midpoints of $AB,AC$, respectively. Reflect $H$ in line $DE$ to obtain $F$. Prove that the circumcentre of $ABC$ lies on line $BF$."
+  },
+  "arm_2025_g9_4": {
+    "statement": "Let $n>1$ be an integer. Positive real numbers $a_1,\\ldots,a_n$ satisfy $(a_1+\\cdots+a_n)^2=4a_1a_2\\cdots a_n$. Prove that $a_1a_2\\cdots a_{n-1}\\ge a_1+\\cdots+a_{n-1}$.",
+    "solution": "Put $S=a_1+\\cdots+a_{n-1}$ and $P=a_1a_2\\cdots a_{n-1}$. The given equality and $(S-a_n)^2\\ge0$ imply $4Pa_n=(S+a_n)^2\\ge4Sa_n$. Dividing by $4a_n>0$ gives $P\\ge S$.",
+    "solutionKind": "original-exposition"
+  },
+  "arm_2025_g11-12_1": {
+    "statement": "Determine all functions $f:\\mathbb R\\to\\mathbb R$ such that $2f(x+y)\\ge f(x)+f(y)+x+y$ for all real $x,y$.",
+    "solution": "Let $c=f(0)$. Setting $y=0$ gives $f(x)\\ge x+c$. Setting $y=-x$ then yields $2c\\ge f(x)+f(-x)\\ge(x+c)+(-x+c)=2c$. Both lower bounds must be equalities, so $f(x)=x+c$ for every real $x$. Conversely, each function of this form satisfies the inequality with equality.",
+    "solutionKind": "original-exposition"
+  },
+  "geo_2025_g10_2": {
+    "statement": "For a fixed integer $n>1$, positive real numbers $x,y$ satisfy $x^n=x+1$ and $y^{2n}-y=3x$. Which of $x$ and $y$ is smaller? Prove your answer.",
+    "solution": "We have $x>1$. Hence $x^{2n}-x=(x+1)^2-x=x^2+x+1>3x$, since $(x-1)^2>0$. If $y\\ge x$, then $y\\ge x>1$ and $y^{2n}-x^{2n}\\ge y-x$: factor the difference of powers and note that its factor multiplying $y-x$ exceeds $1$. This implies $y^{2n}-y\\ge x^{2n}-x>3x$, a contradiction. Therefore $y<x$.",
+    "solutionKind": "original-exposition"
+  },
+  "geo_2025_g11-12_1": {
+    "statement": "A function $f:\\mathbb R\\to\\mathbb R$ satisfies $f(x+|y|)+|y|=f(f(f(x)))$ for all real $x,y$, and $f(0)=15$. Evaluate $f(-1)+f(-2)+\\cdots+f(-50)$.",
+    "solution": "With $y=0$ the identity becomes $f(x)=f(f(f(x)))$. For $x<0$, take $y=x$. Then $x+|y|=0$ and $|y|=-x$, so $f(x)=f(0)-x=15-x$. Consequently the required sum is $50\\cdot15+1+2+\\cdots+50=2025$. The premises are consistent: $f(x)=15-x$ satisfies them for every real input.",
+    "solutionKind": "original-exposition"
+  },
+  "geo_2025_g11-12_2": {
+    "statement": "For relatively prime positive integers $m,n$, define $d(m,n)=\\gcd(2025m+n,\\,2025n+m)$. Find the greatest possible value of $d(m,n)$ and prove it is attainable.",
+    "solution": "Write $D=2025^2-1$. The gcd divides both $2025(2025m+n)-(2025n+m)=Dm$ and $2025(2025n+m)-(2025m+n)=Dn$. Since $\\gcd(m,n)=1$, it divides $D$. For $n=1$ and $m=D-2025=2025\\cdot2024-1$, the two expressions are $2024D$ and $D$, respectively. Thus the maximum is $D=4\\,100\\,624$.",
+    "solutionKind": "original-exposition"
+  },
+  "cyp_2025_selection1_junior_1": {
+    "statement": "How many ten-digit positive integers have a digit sum divisible by $10$?",
+    "solution": "Choose the first nine digits: the first has $9$ choices and each of the next eight has $10$. For every such choice there is exactly one final digit in $\\{0,1,\\ldots,9\\}$ making the total divisible by $10$. Hence there are $9\\cdot10^8$ such integers.",
+    "solutionKind": "original-exposition"
+  },
+  "cyp_2025_selection1_junior_2": {
+    "statement": "Let $ABCD$ be a square, with vertices in that order. A point $P$ lies on diagonal $BD$. Let $E,Z$ be the perpendicular projections of $P$ onto $AB,AD$, respectively, and let $M$ be the midpoint of $EZ$. The line through $M$ perpendicular to $EZ$ meets lines $AB,CD$ at $T,K$, respectively; assume these intersections are defined. Prove that $DT\\parallel BK$.",
+    "solution": "Take $A=(0,0)$, $B=(s,0)$, $D=(0,s)$, $C=(s,s)$ and let $O=(s/2,s/2)$. Since $P$ lies on $BD$, write $P=(u,s-u)$. Then $E=(u,0)$ and $Z=(0,s-u)$. Direct calculation gives $OE^2=OZ^2$, so the perpendicular bisector of $EZ$ passes through $O$. A half-turn about $O$ preserves that line and interchanges $AB$ with $CD$, so it sends $T$ to $K$. It also sends $D$ to $B$. Therefore it sends line $DT$ to line $BK$, proving they are parallel.",
+    "solutionKind": "original-exposition"
+  },
+  "cyp_2025_selection1_junior_3": {
+    "statement": "Nonzero rational numbers $a,b,c$ satisfy $\\frac1a+\\frac1b+\\frac1c=abc$. Show that $\\sqrt{(a^2b^2+1)(b^2c^2+1)(c^2a^2+1)}$ is rational.",
+    "solution": "The hypothesis gives $ab+bc+ca=a^2b^2c^2$. Consequently $a^2b^2+1=(a+c)(b+c)/c^2$, with analogous cyclic identities. Multiplying them, the expression under the square root becomes $\\bigl((a+b)(b+c)(c+a)/(abc)\\bigr)^2$. Its nonnegative square root is the absolute value of a rational number.",
+    "solutionKind": "original-exposition"
+  },
+  "cyp_2025_selection1_senior_1": {
+    "statement": "Define $f(x)=\\frac{x-\\sqrt3}{\\sqrt3x+1}$ for real $x\\ne-\\frac{\\sqrt3}{3}$. Starting at $2024$, apply $f$ exactly $2025$ times. What is the result?",
+    "solution": "Direct substitution yields $f(f(x))=(-x-\\sqrt3)/(\\sqrt3x-1)$ and then $f(f(f(x)))=x$, whenever these iterates are defined. They are all defined at $x=2024$, and the three values repeat. Because $2025=3\\cdot675$, the requested result is $2024$.",
+    "solutionKind": "original-exposition"
+  },
+  "cyp_2025_selection1_senior_2": {
+    "statement": "How many ways can the vertices of a fixed regular $2025$-gon be coloured red or blue so that no equilateral triangle with vertices among them is monochromatic?",
+    "solution": "Label the vertices $0,1,\\ldots,2024$ in cyclic order. Every equilateral triangle uses a triple $\\{i,i+675,i+1350\\}$, where $0\\le i<675$. These $675$ triples partition the vertices. Each has $2^3-2=6$ non-monochromatic colourings, independently of the others. The answer is therefore $6^{675}$.",
+    "solutionKind": "original-exposition"
+  }
+}

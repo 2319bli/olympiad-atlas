@@ -1,0 +1,2471 @@
+{
+  "asOf": "2026-10-23",
+  "scope": "USAMO1972–2026,USAJMO2010–2026,CMO1969–2026,CJMO2020–2026",
+  "summary": {
+    "uniqueIncludedBeforeRootDuplicateMerge": 438,
+    "numericAssessments": 724,
+    "fullyAssessedPapers": 118,
+    "priorityPapers": 137,
+    "priorityQuestionTotal": 766,
+    "priorityNumericAssessments": 580,
+    "priorityUnrated": 186
+  },
+  "sources": [
+    {
+      "url": "https://cms.math.ca/competitions/cmo/",
+      "role": "Official papers for every CMO year and every CJMO year; worked-solution links from1994 onward."
+    },
+    {
+      "url": "https://prase.cz/kalva/usa.html",
+      "role": "John Scholes historical archive; index verifies five-question USAMO format1972–1995, six questions from1996, and links every year1972–2003. Independent wording and solutions, not an official MAA archive."
+    },
+    {
+      "url": "https://web.evanchen.cc/problems.html",
+      "role": "Author-maintained solution-note archive1996–2026 and all USAJMO years. Explicitly personal notes, not official committee solutions."
+    }
+  ],
+  "papers": [
+    {
+      "competition": "USAMO",
+      "year": 1972,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa72.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1973,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa73.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1974,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa74.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1975,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa75.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1976,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa76.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1977,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa77.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1978,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa78.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1979,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa79.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1980,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa80.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1981,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa81.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1982,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa82.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1983,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa83.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1984,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa84.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1985,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa85.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1986,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa86.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1987,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa87.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1988,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa88.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1989,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa89.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1990,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa90.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1991,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa91.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1992,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa92.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1993,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa93.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1994,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa94.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1995,
+      "questionCount": 5,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://prase.cz/kalva/usa/usa95.html",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1996,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-1996-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1997,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-1997-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1998,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-1998-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 1999,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-1999-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2000,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2000-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2001,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2001-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2002,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2002-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2003,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2003-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2004,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2004-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2005,
+      "questionCount": 6,
+      "assessedNumbers": [],
+      "unratedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "status": "not-yet-assessed",
+      "source": "https://web.evanchen.cc/exams/USAMO-2005-notes.pdf",
+      "sourceStatus": "located in verified archive index; mathematical assessment pending"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2006,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2006-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2007,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2007-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2008,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2008-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2009,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2009-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2010,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2010-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2011,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2011-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2012,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2012-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2013,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2013-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2014,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2014-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2015,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2015-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2016,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2016-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2017,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2017-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2018,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2018-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2019,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2019-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2020,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2020-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2021,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2021-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2022,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2022-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2023,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2023-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2024,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2024-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2025,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/USAMO-2025-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2026,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [
+        "1",
+        "3"
+      ],
+      "status": "partially-assessed",
+      "source": null,
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2010,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2010-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2011,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2011-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2012,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2012-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2013,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2013-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2014,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2014-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2015,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2015-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2016,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2016-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2017,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2017-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2018,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2018-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2019,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2019-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2020,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2020-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2021,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2021-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2022,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2022-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2023,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2023-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2024,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2024-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2025,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2025-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2026,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://web.evanchen.cc/exams/JMO-2026-notes.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1969,
+      "questionCount": 10,
+      "assessedNumbers": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "unratedNumbers": [
+        "1"
+      ],
+      "status": "partially-assessed",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1969.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1970,
+      "questionCount": 10,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1970.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1971,
+      "questionCount": 10,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1971.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1972,
+      "questionCount": 10,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1972.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1973,
+      "questionCount": 7,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1973.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1974,
+      "questionCount": 7,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [
+        "7"
+      ],
+      "status": "partially-assessed",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1974.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1975,
+      "questionCount": 8,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1975.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1976,
+      "questionCount": 8,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1976.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1977,
+      "questionCount": 7,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1977.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1978,
+      "questionCount": 6,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1978.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1979,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1979.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1980,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1980.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1981,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1981.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1982,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1982.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1983,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1983.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1984,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1984.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1985,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1985.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1986,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1986.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1987,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1987.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1988,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1988.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1989,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1989.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1990,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "unratedNumbers": [
+        "5"
+      ],
+      "status": "partially-assessed",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1990.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1991,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1991.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1992,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1992.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1993,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1993.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1994,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1994.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1995,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1995.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1996,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1996.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1997,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1997.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1998,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1998.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 1999,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1999.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2000,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2000.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2001,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "unratedNumbers": [
+        "5"
+      ],
+      "status": "partially-assessed",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2001.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2002,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2002.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2003,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2003.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2004,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2004.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2005,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2005.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2006,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2006.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2007,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2007.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2008,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2008.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2009,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2009.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2010,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2010.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2011,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2011.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2012,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2012.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2013,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2013.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2014,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2014.pdf",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2015,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2016,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2017,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2018,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2019,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2020,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2021,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2022,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2023,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2024,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2025,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CMO",
+      "year": 2026,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2020,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2021,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2022,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2023,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2024,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2025,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2026,
+      "questionCount": 5,
+      "assessedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "unratedNumbers": [],
+      "status": "complete",
+      "source": "https://cms.math.ca/competitions/cmo/",
+      "sourceStatus": "reviewed"
+    }
+  ],
+  "heldQuestions": {
+    "CMO1969Q1": "Permitted zero denominator in published assertion.",
+    "CMO1974Q7": "Unstated common constant speed and junction/terminus interpretation need source clarification.",
+    "CMO1990Q5": "Conjectured run-length description not yet proved; no rating assigned.",
+    "CMO2001Q5": "At t=2sin15° or2sin75°, relevant points coincide and x/y is0/0.",
+    "USAMO2026Q1": "Source explicitly withdraws key argument.",
+    "USAMO2026Q3": "Source supplies no proof."
+  },
+  "duplicateReview": {
+    "exactForRootMerge": [
+      {
+        "newId": "ca-cmo-1971-10",
+        "existingId": "irmo-1989-7",
+        "reason": "Identical one-way information-sharing telephone model and2n−2 optimum."
+      }
+    ],
+    "nearVariantNotMerged": [
+      {
+        "id1": "ca-cmo-1970-10",
+        "id2": "fist-1990-q1",
+        "reason": "Same factor-theorem idea but distinct forbidden value differences3 and7; not an exact affine transformation preserving arbitrary integer coefficients."
+      }
+    ]
+  },
+  "finiteProofChecks": {
+    "CMO1987Q3": [
+      {
+        "case": [
+          1,
+          1,
+          2
+        ],
+        "anglesDegrees": [
+          "540/7",
+          "180/7",
+          "180/7"
+        ]
+      },
+      {
+        "case": [
+          1,
+          1,
+          3
+        ],
+        "anglesDegrees": [
+          "72",
+          "36",
+          "36"
+        ]
+      },
+      {
+        "case": [
+          2,
+          1,
+          1
+        ],
+        "anglesDegrees": [
+          "45",
+          "45",
+          "45"
+        ]
+      },
+      {
+        "case": [
+          2,
+          1,
+          2
+        ],
+        "anglesDegrees": [
+          "36",
+          "36",
+          "36"
+        ]
+      },
+      {
+        "case": [
+          2,
+          3,
+          1
+        ],
+        "anglesDegrees": [
+          "36",
+          "36",
+          "72"
+        ]
+      },
+      {
+        "case": [
+          3,
+          2,
+          1
+        ],
+        "anglesDegrees": [
+          "36",
+          "72",
+          "36"
+        ]
+      },
+      {
+        "case": [
+          3,
+          3,
+          1
+        ],
+        "anglesDegrees": [
+          "180/7",
+          "540/7",
+          "360/7"
+        ]
+      }
+    ],
+    "CMO1993Q1": [
+      [
+        3,
+        5,
+        4
+      ],
+      [
+        4,
+        5,
+        3
+      ],
+      [
+        8,
+        10,
+        6
+      ],
+      [
+        12,
+        13,
+        5
+      ],
+      [
+        12,
+        15,
+        9
+      ],
+      [
+        15,
+        17,
+        8
+      ],
+      [
+        24,
+        25,
+        7
+      ],
+      [
+        24,
+        26,
+        10
+      ]
+    ],
+    "CMO1992Q5": "All four displayed arrangements verified position-by-position."
+  },
+  "reproductionOrder": [
+    "complete_jmo_2010_2014.py",
+    "complete_cmo_2004_2009.py",
+    "complete_cmo_1996_2003.py",
+    "complete_cmo_1994_1995.py",
+    "complete_cmo_1969_1980.py",
+    "complete_cmo_1981_1993.py",
+    "check_historical_checkpoint.py"
+  ]
+}

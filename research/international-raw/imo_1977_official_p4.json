@@ -1,0 +1,29 @@
+{
+  "id": "imo_1977_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "4",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Trigonometry"
+    ],
+    [
+      "Algebra",
+      "Inequalities"
+    ],
+    [
+      "Algebra",
+      "Algebraic identities"
+    ]
+  ],
+  "problem_markdown": "If $1-a\\cos t-b\\sin t-A\\cos2t-B\\sin2t\\ge0$ for every real $t$, prove $a^2+b^2\\le2$ and $A^2+B^2\\le1$.",
+  "solutions_markdown": [
+    "Write the first harmonic as $c\\cos(t-u)$ with $c=\\sqrt{a^2+b^2}$, and the second as $C\\cos2(t-v)$ with $C=\\sqrt{A^2+B^2}$. If a magnitude vanishes, choose its phase arbitrarily. Adding the nonnegative function values at $v,v+\\pi$ cancels the first harmonic and gives $2-2C\\ge0$. Adding its values at $u-\\pi/4,u+\\pi/4$ cancels the second harmonic and gives $2-\\sqrt2c\\ge0$. Therefore $C\\le1$ and $c\\le\\sqrt2$, as required."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln774.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

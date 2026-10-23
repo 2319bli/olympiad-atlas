@@ -1,0 +1,33 @@
+{
+  "id": "imo_1989_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "5",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Factorials"
+    ],
+    [
+      "Number Theory",
+      "Coprimality"
+    ],
+    [
+      "Number Theory",
+      "Primes"
+    ],
+    [
+      "Number Theory",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "For each positive integer $n$, prove there are $n$ consecutive positive integers none of which is a positive integral power of a prime.",
+  "solutions_markdown": [
+    "Set $L=(n+1)!$ and take $L^2+2,L^2+3,\\ldots,L^2+n+1$. For each $2\\le r\\le n+1$, write $L=rs$. Then\n$$L^2+r=r(rs^2+1).$$\nBoth factors exceed one, and $\\gcd(r,rs^2+1)=1$. Therefore the product has at least two distinct prime divisors and cannot be a prime power. The displayed list has exactly $n$ consecutive positive terms, proving the claim."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln895.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

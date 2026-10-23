@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Triangle centres"
+    ],
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Geometric inequalities"
+    ]
+  ],
+  "problem_markdown": "In a triangle $ABC$ right-angled at $A$, let $D$ be the altitude foot on $BC$. The line joining the incenters of $ABD$ and $ACD$ meets $AB,AC$ at $K,L$. Prove $[ABC]\\ge2[AKL]$.",
+  "solutions_markdown": [
+    "Take $A=(0,0)$, $B=(c,0)$, $C=(0,b)$, and write $s=\\sqrt{b^2+c^2}$, $h=bc/s=AD$. Then\n$$D=(b^2c/s^2,bc^2/s^2),\\qquad BD=c^2/s.$$\nThe incenter $J$ of $ABD$ is the side-length-weighted average\n$$J=\\frac{hB+cD}{h+c+c^2/s}.$$\nAdding its coordinates and simplifying gives $J_x+J_y=h$. Interchanging $b,c$ shows the incenter of $ACD$ also lies on $x+y=h$. Hence their joining line meets the axes at $K=(h,0)$ and $L=(0,h)$.\n\nThus $[AKL]=h^2/2$ and $[ABC]=bc/2$. The claim is equivalent to\n$$bc\\ge2h^2=\\frac{2b^2c^2}{b^2+c^2},$$\nwhich follows from $b^2+c^2\\ge2bc$. Equality holds exactly for $b=c$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln885.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,2804 @@
+[
+  {
+    "id": "bmo1-1992-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1992,
+    "number": "1",
+    "statement": "Does there exist a two-digit positive integer other than $10,20,30$ whose square has the same number of nonzero decimal digits as the original integer? Give an example or prove impossibility. Answer the analogous question for a three-digit integer other than $100,200,300$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1992.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Nonzero-digit counts of squares reduce to short digit bounds and a finite construction; both two-digit and three-digit parts were inspected.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1992-01-15"
+  },
+  {
+    "id": "bmo2-1992-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1992,
+    "number": "2",
+    "statement": "For positive real numbers $a,b,c,d$, prove $$\\frac{12}{a+b+c+d}\\le\\frac1{a+b}+\\frac1{a+c}+\\frac1{a+d}+\\frac1{b+c}+\\frac1{b+d}+\\frac1{c+d}\\le\\frac34\\left(\\frac1a+\\frac1b+\\frac1c+\\frac1d\\right).$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1992.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "The lower reciprocal-sum bound is Cauchy directly, and the upper bound is the sum of six two-variable reciprocal inequalities.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1992-02-13"
+  },
+  {
+    "id": "bmo1-1993-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1993,
+    "number": "1",
+    "statement": "Find a six-digit perfect square for which the number represented by its final three digits is one greater than the number represented by its first three digits. Explain how you find it.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1993.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Digit-block square search is below the chosen core band; modular factorisation suffices.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1993-01-13"
+  },
+  {
+    "id": "bmo2-1993-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1993,
+    "number": "3",
+    "statement": "For an interior point $P$ of triangle $ABC$, put $\\alpha=\\angle BPC-\\angle BAC$, $\\beta=\\angle CPA-\\angle CBA$, and $\\gamma=\\angle APB-\\angle ACB$. Prove $$\\frac{PA\\sin\\angle BAC}{\\sin\\alpha}=\\frac{PB\\sin\\angle CBA}{\\sin\\beta}=\\frac{PC\\sin\\angle ACB}{\\sin\\gamma}.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1993.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "General interior-point trigonometric identity needs a substantial auxiliary construction; above the core band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1993-02-11"
+  },
+  {
+    "id": "bmo1-1994-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1994,
+    "number": "1",
+    "statement": "For a three-digit integer $n$ with digits $a,b,c$, define $f(n)=a+b+c+ab+bc+ca+abc$. Calculate $625/f(625)$, and find every three-digit $n$ such that $n=f(n)$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1994.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Diophantine equations"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Diophantine equations"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Digit equation reduces to bounded elementary factorisation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1994-01-19"
+  },
+  {
+    "id": "bmo1-1994-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1994,
+    "number": "2",
+    "statement": "In triangle $ABC$, $X$ lies on $BC$. What can you prove about triangle $ACX$ in each of the following cases? (i) $\\angle BAC=90^\\circ$, $X$ is the midpoint of $BC$, and $\\angle BAX=30^\\circ$. (ii) $\\angle BAC=60^\\circ$, $BX=BC/3$, and $AX$ bisects $\\angle BAC$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1994.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Angle chasing",
+      "Triangle geometry"
+    ],
+    "subtopics": [
+      "Angles & cyclic quadrilaterals",
+      "Triangle geometry"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Standard angle and angle-bisector calculations are below target.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1994-01-19"
+  },
+  {
+    "id": "bmo1-1995-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1995,
+    "number": "1",
+    "statement": "Find the least positive integer whose square ends in the three digits $444$, and describe all positive integers with this property. Prove that no perfect square ends in $4444$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1995.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Square endings are resolved by elementary modular cases.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1995-01-18"
+  },
+  {
+    "id": "bmo1-1996-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1996,
+    "number": "2",
+    "statement": "A function on the positive integers satisfies $f(1)=1996$ and $f(1)+\\cdots+f(n)=n^2f(n)$ for every $n>1$. Find $f(1996)$ exactly.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1996.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Sequences & recurrences",
+      "Telescoping"
+    ],
+    "subtopics": [
+      "Sequences & recurrences"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Subtracting successive partial-sum identities gives a direct telescoping product.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1996-01-17"
+  },
+  {
+    "id": "bmo1-1996-q5",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1996,
+    "number": "5",
+    "statement": "For positive real $a,b,c$, prove both $4(a^3+b^3)\\ge(a+b)^3$ and $9(a^3+b^3+c^3)\\ge(a+b+c)^3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1996.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Standard power-mean/cubic inequalities below core target.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1996-01-17"
+  },
+  {
+    "id": "bmo2-1996-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1996,
+    "number": "2",
+    "statement": "Triangles $ABC$ and $UVW$ have opposite side lengths $a,b,c$ and $u,v,w$, respectively, satisfying $$u(v+w-u)=a^2,\\quad v(w+u-v)=b^2,\\quad w(u+v-w)=c^2.$$ Prove that $ABC$ is acute and express angles $U,V,W$ in terms of $A,B,C$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1996.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The nonlinear triangle-side transformation requires a substantial angle-identity derivation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1996-02-15"
+  },
+  {
+    "id": "bmo2-1996-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1996,
+    "number": "3",
+    "statement": "Circles $S_1,S_2$ touch externally at $K$ and touch a surrounding circle $S$ internally at $A_1,A_2$, respectively. Let $P$ be an intersection of $S$ with the common tangent at $K$. Let $PA_1$ meet $S_1$ again at $B_1$, and $PA_2$ meet $S_2$ again at $B_2$. Prove that $B_1B_2$ is tangent to both smaller circles.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1996.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Angle chasing"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Angles & cyclic quadrilaterals"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Three mutually tangent circles and a common-tangent conclusion require deeper geometry.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1996-02-15"
+  },
+  {
+    "id": "bmo2-1996-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1996,
+    "number": "4",
+    "statement": "Find all positive real quadruples $(a,b,c,d)$ satisfying $$a+b+c+d=12,\\qquad abcd=27+ab+ac+ad+bc+bd+cd.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1996.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Four-variable equality-case classification is above the chosen upper edge.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1996-02-15"
+  },
+  {
+    "id": "bmo1-1997-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1997,
+    "number": "1",
+    "statement": "For a four-digit integer $N$ whose final digit is nonzero, let $R(N)$ be the integer obtained by reversing its digits. Determine every $N$ satisfying $R(N)=4N+3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Diophantine equations"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Diophantine equations"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Bounded digit arithmetic and carrying are below core target.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1997-01-15"
+  },
+  {
+    "id": "bmo1-1997-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1997,
+    "number": "2",
+    "statement": "Define $a_1=1$ and $$a_n=\\frac{n+1}{n-1}(a_1+\\cdots+a_{n-1})\\quad(n>1).$$ Find $a_{1997}$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Sequences & recurrences",
+      "Telescoping"
+    ],
+    "subtopics": [
+      "Sequences & recurrences"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Partial-sum recurrence gives a direct product formula.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1997-01-15"
+  },
+  {
+    "id": "bmo1-1997-q4",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1997,
+    "number": "4",
+    "statement": "The midpoints of the sides of a convex quadrilateral form a quadrilateral of area $1$. Prove that the original quadrilateral has area $2$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Area & dissection",
+      "Quadrilaterals & polygons"
+    ],
+    "subtopics": [
+      "Area & dissection",
+      "Quadrilaterals & polygons"
+    ],
+    "difficulty": 2,
+    "ratingReason": "Varignon midpoint-area identity; explicitly excluded despite being Q4.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1997-01-15"
+  },
+  {
+    "id": "bmo1-1997-q5",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1997,
+    "number": "5",
+    "statement": "Let $x,y,z>0$. Decide, with proof or counterexample, whether each implication is always true: (i) $x+y+z\\ge3$ implies $1/x+1/y+1/z\\le3$; (ii) $x+y+z\\le3$ implies $1/x+1/y+1/z\\ge3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities",
+      "Counterexamples"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "One counterexample and the standard reciprocal-sum inequality suffice.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1997-01-15"
+  },
+  {
+    "id": "bmo1-1998-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1998,
+    "number": "2",
+    "statement": "Let $a_1=19$, $a_2=98$, and let $a_{n+2}$ be the remainder of $a_n+a_{n+1}$ on division by $100$. Find the remainder of $a_1^2+\\cdots+a_{1998}^2$ on division by $8$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1998.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Modular arithmetic",
+      "Sequences & recurrences"
+    ],
+    "subtopics": [
+      "Modular arithmetic",
+      "Sequences & recurrences"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Squares modulo eight depend on a short recurrence modulo four; below core band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1998-01-14"
+  },
+  {
+    "id": "bmo2-1998-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1998,
+    "number": "2",
+    "statement": "In triangle $ABC$, $\\angle BAC>\\angle BCA$. Choose an interior point $P$ with $\\angle PAC=\\angle BCA$. Construct an exterior point $Q$ such that $PQ\\parallel AB$ and $BQ\\parallel AC$. Let $R$ lie on $BC$, on the opposite side of $AP$ from $Q$, with $\\angle PRQ=\\angle BCA$. Prove that the circumcircles of $ABC$ and $PQR$ touch.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1998.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Angle chasing"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Angles & cyclic quadrilaterals"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The constructed second triangle and circle tangency require deeper geometry than the target band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1998-02-26"
+  },
+  {
+    "id": "bmo1-1999-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 1999,
+    "number": "2",
+    "statement": "A circle has diameter $AB$, and $X$ is fixed strictly between $A$ and $B$. As $P$ varies on the circle, excluding $A,B$, prove that $\\tan\\angle APX/\\tan\\angle PAX$ is constant.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1999.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Trigonometry",
+      "Circles & tangency"
+    ],
+    "subtopics": [
+      "Trigonometry",
+      "Circles & tangency"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "A right-triangle tangent calculation directly expresses the fixed ratio.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1999-01-13"
+  },
+  {
+    "id": "bmo2-1999-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 1999,
+    "number": "2",
+    "statement": "A hexagon $ABCDEF$ circumscribes a circle. The circle touches $AB,CD,EF$ at their respective midpoints $P,Q,R$, and touches $BC,DE,FA$ at $X,Y,Z$. Prove that $PY,QZ,RX$ are concurrent.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1999.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Concurrency & collinearity"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Concurrency & collinearity"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The tangent-hexagon concurrency involves deeper projective or trigonometric structure.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1999-02-25"
+  },
+  {
+    "id": "bmo1-2001-q5",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2001,
+    "number": "5",
+    "statement": "A triangle has side lengths $a,b,c$ and circumradius $R$. Prove that it is right-angled if and only if $a^2+b^2+c^2=8R^2$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2001.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Triangle geometry",
+      "Trigonometry"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Extended sine rule converts the assertion into a standard angle identity.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2001-01-17"
+  },
+  {
+    "id": "bmo1-2002-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2002,
+    "number": "1",
+    "statement": "Find every pair of positive integers $m,n$, with $n$ odd, satisfying $1/m+4/n=1/12$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2002.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The reciprocal equation factors into a bounded divisor search.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2001-12-05"
+  },
+  {
+    "id": "bmo1-2003-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2003,
+    "number": "1",
+    "statement": "In the decimal expansion $$34!=295\\,232\\,799\\,cd9\\,604\\,140\\,847\\,618\\,609\\,643\\,5ab\\,000\\,000,$$ determine the four digits $a,b,c,d$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2003.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Valuations",
+      "Modular arithmetic"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Valuations",
+      "Modular arithmetic"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Missing factorial digits can be recovered with standard valuations and congruences.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2002-12-11"
+  },
+  {
+    "id": "bmo1-2003-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2003,
+    "number": "3",
+    "statement": "Positive real numbers satisfy $x^2+y^2+z^2=1$. Prove that $x^2yz+xy^2z+xyz^2\\le1/3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2003.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "A short chain of symmetric quadratic inequalities proves the bound.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2002-12-11"
+  },
+  {
+    "id": "bmo2-2003-q1",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2003,
+    "number": "1",
+    "statement": "For $n>1$, let $p(n)$ be its largest prime factor. Determine all triples of distinct positive integers $x,y,z$ in arithmetic progression for which $p(xyz)\\le3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2003.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Diophantine equations",
+      "Sequences & recurrences"
+    ],
+    "subtopics": [
+      "Primes",
+      "Diophantine equations",
+      "Sequences & recurrences"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Classifying three-term progressions of 3-smooth numbers involves a lengthy exponential case analysis.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2003-02-25"
+  },
+  {
+    "id": "bmo2-2003-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2003,
+    "number": "3",
+    "statement": "Let $f$ be a permutation of the positive integers. (i) Prove that some positive integers $a,d$ satisfy $f(a)<f(a+d)<f(a+2d)$. (ii) Must there exist positive integers $a,d$ such that $f(a)<f(a+d)<\\cdots<f(a+2003d)$? Here a permutation means a bijection from the positive integers to themselves.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2003.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Permutations & arrangements",
+      "Sequences & recurrences"
+    ],
+    "subtopics": [
+      "Permutations & arrangements",
+      "Sequences & recurrences"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Long monotone arithmetic progressions under arbitrary permutations require a deeper combinatorial argument.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2003-02-25"
+  },
+  {
+    "id": "bmo1-2004-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2004,
+    "number": "1",
+    "statement": "Find all real solutions of $$ab+c+d=3,\\quad bc+d+a=5,\\quad cd+a+b=2,\\quad da+b+c=6.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2004.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "subtopics": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Subtracting opposite equations gives direct algebraic factorisation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2003-12-03"
+  },
+  {
+    "id": "bmo1-2004-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2004,
+    "number": "2",
+    "statement": "In rectangle $ABCD$, $P$ is the midpoint of $AB$, and $Q$ is the perpendicular foot from $C$ to line $PD$. Prove that triangle $BQC$ is isosceles.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2004.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Triangle geometry"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Triangle geometry"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Coordinate or cyclic-quadrilateral proof of the isosceles triangle is short.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2003-12-03"
+  },
+  {
+    "id": "bmo2-2004-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2004,
+    "number": "4",
+    "statement": "A real number $x\\in(0,1)$ has decimal expansion $0.a_1a_2\\ldots$. Among all consecutive blocks $a_ka_{k+1}\\cdots a_{k+2003}$, for $k\\ge1$, there are at most $2004$ distinct blocks. Prove that $x$ is rational.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2004.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Sequences & recurrences",
+      "Counting"
+    ],
+    "subtopics": [
+      "Sequences & recurrences",
+      "Counting"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The bounded-block-complexity implication of eventual periodicity is substantially beyond target.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2004-02-24"
+  },
+  {
+    "id": "bmo1-2005-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2005,
+    "number": "1",
+    "statement": "Paul and Jenny each have a whole number of pounds. Paul says that if Jenny gives him £3, he will have $n$ times her remaining money. Jenny says that if Paul gives her £$n$, she will have three times his remaining money. Determine the possible positive integers $n$ for which both statements can hold.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2005.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Linear equations reduce the money puzzle to a small divisibility condition.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2004-12-01"
+  },
+  {
+    "id": "bmo2-2005-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2005,
+    "number": "4",
+    "statement": "A family $X=\\{A_1,\\ldots,A_n\\}$ consists of distinct three-element subsets of $\\{1,\\ldots,36\\}$. Every two members intersect, but the intersection of all members is empty. Prove that $n\\le100$, and count the possible families with $n=100$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2005.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Sets & partitions",
+      "Extremal arguments",
+      "Counting"
+    ],
+    "subtopics": [
+      "Sets & partitions",
+      "Extremal arguments",
+      "Counting"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Sharp intersecting-triple-family classification is beyond the intended range.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2005-02-01"
+  },
+  {
+    "id": "bmo1-2006-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2006,
+    "number": "1",
+    "statement": "Let $n>6$ be an integer. Prove that if $n-1$ and $n+1$ are prime, then $720$ divides $n^2(n^2+16)$. Decide whether the converse holds.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2006.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2006/",
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Modular arithmetic",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Primes",
+      "Modular arithmetic",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Splitting 720 into prime powers gives standard twin-prime congruences and an easy converse counterexample.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2005-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2006-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2006,
+    "number": "4",
+    "statement": "An examination with six right-or-wrong questions is taken by $2006$ children. For every three children, their combined correct answers cover at least five questions. What is the least possible total number of correct answers, summed over all children?",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2006.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Sets & partitions",
+      "Extremal arguments",
+      "Counting"
+    ],
+    "subtopics": [
+      "Sets & partitions",
+      "Extremal arguments",
+      "Counting"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The sharp six-question covering constraint leads to a difficult extremal set-system count.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2006-01-31"
+  },
+  {
+    "id": "bmo1-2007-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2007,
+    "number": "2",
+    "statement": "In a convex quadrilateral $ABCD$, points $M,N$ trisect $AB$ in that order, and points $P,Q$ trisect $CD$ in that order. Prove that both quadrilaterals $AMCP$ and $MNPQ$ have one third of the area of $ABCD$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2007.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2007/",
+    "topic": "Geometry",
+    "tags": [
+      "Area & dissection"
+    ],
+    "subtopics": [
+      "Area & dissection"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Area decomposition with trisection gives the result directly.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2006-12-01",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2007-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2007,
+    "number": "3",
+    "statement": "How many nine-digit integers contain each digit $1,\\ldots,9$ once, have the digits $1,2,3,4,5$ in that relative order, but do not have $1,2,3,4,5,6$ in that relative order?",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2007.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2007/",
+    "topic": "Combinatorics",
+    "tags": [
+      "Permutations & arrangements",
+      "Counting"
+    ],
+    "subtopics": [
+      "Permutations & arrangements",
+      "Counting"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Relative-order permutation count is a direct factorial quotient subtraction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2006-12-01",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2008-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2008,
+    "number": "1",
+    "statement": "Evaluate $$\\frac{1^4+2007^4+2008^4}{1^2+2007^2+2008^2}.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2008.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2008/",
+    "topic": "Algebra",
+    "tags": [
+      "Algebraic identities"
+    ],
+    "subtopics": [
+      "Algebraic identities"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "A standard quartic identity evaluates the quotient.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2007-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2008-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2008,
+    "number": "2",
+    "statement": "Find all positive integer triples satisfying $x+y-z=12$ and $x^2+y^2-z^2=12$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2008.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2008/",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Substitution reduces the system to a simple factor pair equation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2007-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2008-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2008,
+    "number": "2",
+    "statement": "Triangle $ABC$ has incentre $I$ and circumcentre $O$, with $\\angle AIO=90^\\circ$ and $\\angle CIO=45^\\circ$. Determine $AB:BC:CA$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2008.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Triangle centres",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Triangle centres",
+      "Trigonometry"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The prescribed incentre–circumcentre angles require an advanced triangle-centre calculation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2008-01-31"
+  },
+  {
+    "id": "bmo2-2008-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2008,
+    "number": "3",
+    "statement": "A circle in the coordinate plane contains the origin and has an integer radius between $1$ and $2008$. You may ask whether a chosen point $(x,y)$ lies inside the circle, receiving a truthful yes-or-no answer; points on the boundary may count as inside. Prove that its radius can always be determined using at most $60$ questions.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2008.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Logic & information",
+      "Algorithms & constructions",
+      "Combinatorial geometry"
+    ],
+    "subtopics": [
+      "Logic & information",
+      "Algorithms & constructions",
+      "Combinatorial geometry"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The sixty-query reconstruction needs a quantitative geometric information strategy.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2008-01-31"
+  },
+  {
+    "id": "bmo2-2008-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2008,
+    "number": "4",
+    "statement": "Prove that there are infinitely many pairs of distinct positive integers $x,y$ such that $x^3+y^2$ divides $x^2+y^3$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2008.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD",
+      "Infinite constructions"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD",
+      "Algorithms & constructions"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The mixed cubic divisibility construction is above the selected band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2008-01-31"
+  },
+  {
+    "id": "bmo1-2009-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2009,
+    "number": "2",
+    "statement": "Find all real triples satisfying $(x+1)yz=12$, $(y+1)zx=4$, and $(z+1)xy=4$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2009.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2009/",
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Equations & systems"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Comparing the three products reduces the real system to a simple one-variable equation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2008-12-04",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2009-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2009,
+    "number": "4",
+    "statement": "Let $b(n)$ count the positive integers whose usual binary representations occur as consecutive blocks in the binary expansion of $n$. For example, $b(13)=6$, since $1101_2$ contains the representations of $1,2,3,5,6,13$. Prove that $n\\le2500$ implies $b(n)\\le39$, and find all cases of equality.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2009.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Digits & bases",
+      "Counting",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Counting",
+      "Extremal arguments"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Sharp counting and classification of distinct binary substrings is above the core upper edge.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2009-01-29"
+  },
+  {
+    "id": "bmo1-2010-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2010,
+    "number": "1",
+    "statement": "Find all integer triples satisfying $x^2+y^2+z^2=2(yz+1)$ and $x+y+z=4018$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2010.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2010/",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Squares & powers"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Completing squares immediately reduces the system to four elementary cases.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2009-12-03",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2011-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2011,
+    "number": "1",
+    "statement": "One integer is deleted from $\\{1,2,\\ldots,n\\}$. The mean of the remaining integers is $40\\tfrac34$. Which integer was deleted?",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2011.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2011/",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Bounds & estimation"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Inequalities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Bounding the removed integer restricts the original set size to two simple cases.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2010-12-02",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2011-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2011,
+    "number": "4",
+    "statement": "Let $G=\\{(x,y):x,y\\in\\mathbb Z,\\ 1\\le x,y\\le2011\\}$. What is the largest size of a subset of $G$ containing no four vertices of a proper parallelogram? A proper parallelogram has vertices not all on one line.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2011.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Combinatorial geometry",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Combinatorial geometry",
+      "Extremal arguments"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Sharp maximum for proper-parallelogram-free lattice sets requires a deeper extremal argument.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2011-01-27"
+  },
+  {
+    "id": "bmo1-2012-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2012,
+    "number": "1",
+    "statement": "Find all integers $n$ for which $n^2+20n+11$ is a perfect square, and prove that your list is complete.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2012.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2012/",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Squares & powers",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Squares & powers",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Completing the square gives a direct finite factor-pair equation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2011-12-02",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2013-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2013,
+    "number": "2",
+    "statement": "Circles $S,T$ touch at $X$ and share a tangent touching them at distinct points $A,B$. If $AP$ is a diameter of $S$, prove that $B,X,P$ are collinear.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2013.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2013/",
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Angle chasing"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Angles & cyclic quadrilaterals"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The common tangency and diameter give a short angle chase.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2012-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2013-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2013,
+    "number": "3",
+    "statement": "Find all real triples satisfying $x^2-4y+7=0$, $y^2-6z+14=0$, and $z^2-2x-7=0$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2013.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2013/",
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "subtopics": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Adding completed-square forms forces the real solution.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2012-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2013-q5",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2013,
+    "number": "5",
+    "statement": "A triangle has side lengths bounded above by $2,3,4$, respectively. Determine and prove its greatest possible area.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2013.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2013/",
+    "topic": "Geometry",
+    "tags": [
+      "Area & dissection",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Area & dissection",
+      "Extremal arguments"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Area is at most half the product of the two smaller side bounds, attained by a right triangle.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2012-11-30",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2013-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2013,
+    "number": "3",
+    "statement": "Consider all positive integers whose binary expansions have exactly $2013$ digits and contain more zeros than ones. Let their number be $n$ and their sum be $s$. Prove that the binary expansion of $n+s$ also has more zeros than ones.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2013.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Digits & bases",
+      "Counting",
+      "Binomial coefficients"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Counting"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The exact binary digit comparison of a large subset sum requires substantial binomial bookkeeping.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2013-01-31"
+  },
+  {
+    "id": "bmo1-2014-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2014,
+    "number": "1",
+    "statement": "Evaluate $$\\frac{2014^4+4\\cdot2013^4}{2013^2+4027^2}-\\frac{2012^4+4\\cdot2013^4}{2013^2+4025^2}.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2014.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2014/",
+    "topic": "Algebra",
+    "tags": [
+      "Algebraic identities"
+    ],
+    "subtopics": [
+      "Algebraic identities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Sophie Germain factorisation simplifies each quotient directly.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2013-11-29",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2014-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2014,
+    "number": "3",
+    "statement": "Let $a_0=4$ and $a_n=a_{n-1}^2-a_{n-1}$ for $n\\ge1$. (a) Prove that infinitely many primes divide at least one term. (b) Determine whether infinitely many primes divide no term.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2014.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Sequences & recurrences",
+      "Infinite constructions"
+    ],
+    "subtopics": [
+      "Primes",
+      "Sequences & recurrences",
+      "Algorithms & constructions"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The second infinitude assertion needs a deeper prime-factor avoidance construction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2014-01-30"
+  },
+  {
+    "id": "bmo2-2014-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2014,
+    "number": "4",
+    "statement": "Let $P$ be interior to triangle $ABC$. Lines $AP,BP,CP$ meet its circumcircle again at $A\\prime,B\\prime,C\\prime$. Let $O_A,O_B,O_C$ be the circumcentres of $BCP,CAP,ABP$, and let $O_A\\prime,O_B\\prime,O_C\\prime$ be the circumcentres of $B\\prime C\\prime P,C\\prime A\\prime P,A\\prime B\\prime P$. Prove that $O_AO_A\\prime,O_BO_B\\prime,O_CO_C\\prime$ are concurrent.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2014.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Triangle centres",
+      "Concurrency & collinearity",
+      "Inversion"
+    ],
+    "subtopics": [
+      "Triangle centres",
+      "Concurrency & collinearity",
+      "Transformations"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The six circumcentres and inversion-related concurrency are beyond accessible BMO2.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2014-01-30"
+  },
+  {
+    "id": "bmo1-2015-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2015,
+    "number": "1",
+    "statement": "Place $3^{3^4},3^{4^3},3^{4^4},4^{3^3},4^{3^4}$ in increasing order, with justification. Powers are associated to the right: $a^{b^c}=a^{(b^c)}$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2015.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2015/",
+    "topic": "Algebra",
+    "tags": [
+      "Bounds & estimation",
+      "Exponents & logarithms"
+    ],
+    "subtopics": [
+      "Inequalities",
+      "Squares & powers"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Comparing the five powers needs repeated small power comparisons but no substantial new idea.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2014-11-28",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2015-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2015,
+    "number": "2",
+    "statement": "Positive integers $p,a,b$ satisfy $p^2+a^2=b^2$. Prove that if $p>3$ is prime, then $12\\mid a$ and $2(p+a+1)$ is a perfect square.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2015.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2015/",
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Divisibility & GCD",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Primes",
+      "Divisibility & GCD",
+      "Squares & powers"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Factoring b squared minus a squared forces the two factors to be 1 and p squared; both conclusions then follow directly.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2014-11-28",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2015-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2015,
+    "number": "4",
+    "statement": "Two integer lattice points see each other if their joining segment contains no other lattice point. An $n$-loop consists of $n$ lattice points, no three collinear, such that precisely the consecutive pairs (including the last and first) see each other. Does a $100$-loop exist? Prove your answer.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2015.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Combinatorial geometry",
+      "Algorithms & constructions",
+      "Modular arithmetic"
+    ],
+    "subtopics": [
+      "Combinatorial geometry",
+      "Algorithms & constructions",
+      "Modular arithmetic"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Constructing a 100-cycle in the integer visibility graph while excluding every non-neighbour requires a substantial congruence construction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2015-01-29"
+  },
+  {
+    "id": "bmo2-2016-q2",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2016,
+    "number": "2",
+    "statement": "Alison has a hidden strict ranking of $20$ hockey teams. Benjamin may repeatedly name any three teams; Alison chooses whether to identify the strongest or the weakest of those three. Determine the greatest $N$ for which Benjamin can guarantee learning a chain of $N$ teams in their correct order, however Alison chooses her responses.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2016.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Logic & information",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Logic & information",
+      "Extremal arguments"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Finding the optimal information guarantee needs both an adversarial partial-order construction and a matching strategy.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2016-01-28"
+  },
+  {
+    "id": "bmo1-2017-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2017,
+    "number": "1",
+    "statement": "Write all integers from $1$ to $2016$ in decimal, once each. Count the total number of appearances of odd digits in this list.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2017.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2017/",
+    "topic": "Combinatorics",
+    "tags": [
+      "Counting",
+      "Parity"
+    ],
+    "subtopics": [
+      "Counting",
+      "Parity"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Count odd digits separately at each place value, with a short correction for the final partial block.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2016-12-02",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2017-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2017,
+    "number": "2",
+    "statement": "For $x>0$, define $g(x)=\\max(x,1/x)$. Find all positive real $y$ satisfying $5y\\,g(8y)\\,g(25y)=1$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2017.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2017/",
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems",
+      "Functions & graphs"
+    ],
+    "subtopics": [
+      "Equations & systems",
+      "Functions & graphs"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The two breakpoints divide the equation into three elementary power equations.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2016-12-02",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2017-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2017,
+    "number": "3",
+    "statement": "Find all positive integer pairs $(m,n)$ for which $n^2-6n=m^2+m-10$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2017.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2017/",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Completing squares gives a difference of squares equal to minus five and an immediate factor-pair check.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2016-12-02",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2017-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2017,
+    "number": "4",
+    "statement": "A safe has an unknown three-digit code, with leading zeros allowed. A probe tests a proposed code and returns Fail if no digit is correct in its position, and Close otherwise, including when all three are correct. What is the smallest number of probe tests that guarantees identifying the code using an optimal strategy?",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2017.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Logic & information",
+      "Games & strategies",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Logic & information",
+      "Games & strategies",
+      "Extremal arguments"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The optimal three-digit query strategy requires a difficult worst-case information lower bound and construction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2017-01-26"
+  },
+  {
+    "id": "bmo1-2018-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2018,
+    "number": "3",
+    "statement": "Triangle $ABC$ has $AB=AC$ and longest side $BC$. Choose $N$ on $BC$ with $BN=AB$, and let $M$ be the perpendicular foot from $N$ to $AB$. Prove that $MN$ bisects both the area and the perimeter of the triangle.",
+    "solution": "Let $H$ be the midpoint of $BC$. The right triangles $BAH$ and $BNM$ have equal hypotenuses $AB=BN$ and the same angle at $B$, so they are congruent. Thus $BM=BH=BC/2$ and $MN=AH$. The area of $BMN$ is $BM\\cdot MN/2=BC\\cdot AH/4$, half the area of $ABC$. Its original-boundary portion has length $BM+BN=BC/2+AB$, half the perimeter of $ABC$.",
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2018.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2018/",
+    "topic": "Geometry",
+    "tags": [
+      "Similarity & congruence",
+      "Area & dissection",
+      "Triangle geometry"
+    ],
+    "subtopics": [
+      "Similarity & congruence",
+      "Area & dissection",
+      "Triangle geometry"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The right triangles BAH and BNM are congruent: their hypotenuses AB and BN are equal and their angles at B coincide. Thus BM=BC/2 and MN=AH, immediately giving the area and boundary-length bisections. This is a short single-observation problem, reassessed below the target band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2017-12-01",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "bmo2-2018-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2018,
+    "number": "4",
+    "statement": "Call a real function $f:\\mathbb R\\to\\mathbb R$ absorbing if it is nondecreasing and its $2018$th iterate $f^{2018}(z)$ is an integer for every real $z$. (a) Can such an $f$ take integer values at only finitely many real inputs? (b) Can there be such an $f$ and a strictly increasing sequence $a_1<a_2<\\cdots$ such that $f(x)$ is an integer only when $x$ is one of the $a_i$? Iteration means repeated composition.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2018.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Functional equations",
+      "Functions & graphs",
+      "Sequences & recurrences"
+    ],
+    "subtopics": [
+      "Functional equations",
+      "Functions & graphs",
+      "Sequences & recurrences"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Monotone functions whose 2018th iterate is integer-valued require subtle order-theoretic constructions and obstructions.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2018-01-25"
+  },
+  {
+    "id": "bmo1-2020-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2020,
+    "number": "1",
+    "statement": "Exhibit at least three primes $p<200$ for which $p+2,p+6,p+8,p+12$ are all prime. Prove also that there is exactly one prime $q$ for which $q+2,q+6,q+8,q+12,q+14$ are all prime.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2020.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2020/",
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Modular arithmetic"
+    ],
+    "subtopics": [
+      "Primes",
+      "Modular arithmetic"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "A small search supplies three prime constellations; residues modulo five force the unique longer one.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2019-11-29",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2020-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2020,
+    "number": "3",
+    "statement": "Colour each cell of a $2019\\times2019$ grid black or white. Call the colouring balanced if every contiguous $k\\times k$ square subgrid, for every $1\\le k\\le2019$, has numbers of black and white cells differing by at most one. How many balanced colourings are there?",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2020.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Colouring",
+      "Combinatorial geometry",
+      "Counting"
+    ],
+    "subtopics": [
+      "Colouring",
+      "Combinatorial geometry",
+      "Counting"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Counting all colourings balanced on every square requires a global structural classification before enumeration.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2020-01-30"
+  },
+  {
+    "id": "bmo1-2021-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2021,
+    "number": "1",
+    "statement": "Alice first writes an integer $a$ with $-100\\le a\\le100$. Bob then writes twice her latest number, and on each later turn Alice writes Bob's latest number minus $45$; they continue alternating. Determine the possible $a$ for which $a$ appears again.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2021/",
+    "topic": "Algebra",
+    "tags": [
+      "Sequences & recurrences",
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Sequences & recurrences",
+      "Equations & systems"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The two alternating affine recurrences reduce repeated values to a small family of powers-of-two equations.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Section A of the original paper required an answer only.",
+    "sittingDate": "2020-11-26",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2021-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2021,
+    "number": "2",
+    "statement": "A triangle has side lengths $a,a,b$, perimeter $P$, and area $A$. Suppose $b,P$ are integers and $P=A^2$. Find every possible pair $(a,b)$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2021/",
+    "topic": "Geometry",
+    "tags": [
+      "Triangle geometry",
+      "Area & dissection",
+      "Diophantine equations"
+    ],
+    "subtopics": [
+      "Triangle geometry",
+      "Area & dissection",
+      "Diophantine equations"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Squaring the isosceles altitude formula and cancelling the perimeter leaves a bounded integer divisor equation.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Section A of the original paper required an answer only.",
+    "sittingDate": "2020-11-26",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2021-q4",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2021,
+    "number": "4",
+    "statement": "Distinct decimal digits $A,B,C,D,E$ satisfy $$A^{\\overline{AA}}+\\overline{AA}=\\overline{BBBCDEDBEEBBBBBE},$$ where the right-hand side is the sixteen-digit number written in grouped form $B,BBC,DED,BEE,BBB,BBE$, and $\\overline{AA}$ is a two-digit number. Given $C=9$, determine $A,B,D,E$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2021/",
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The large-number alphametic is mainly bounded digit and power checking; it was an answer-only Section A question.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Section A of the original paper required an answer only.",
+    "sittingDate": "2020-11-26",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2021-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2021,
+    "number": "3",
+    "statement": "Triangle $ABC$ has $AB>AC$, circumcircle $\\Gamma$, and incentre $I$. The incircle touches $BC$ at $D$. Let $K$ lie on $\\Gamma$ with $\\angle AKI=90^\\circ$. Prove that $AI$ and $KD$ intersect on $\\Gamma$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2021.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/home/bmo2-2021-solutions.pdf",
+    "topic": "Geometry",
+    "tags": [
+      "Triangle centres",
+      "Circles & tangency",
+      "Concurrency & collinearity"
+    ],
+    "subtopics": [
+      "Triangle centres",
+      "Circles & tangency",
+      "Concurrency & collinearity"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The incircle contact point and right-angle chord construction require a deep relation involving the arc midpoint.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2021-01-28",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2021-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2021,
+    "number": "4",
+    "statement": "Define a sequence of positive integers greedily: $a_n$ is the smallest positive integer not previously used for which the mean of $a_1,\\ldots,a_n$ is an integer. Prove that the sequence $a_i-i$, for $i\\ge1$, contains each integer exactly once.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2021.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/home/bmo2-2021-solutions.pdf",
+    "topic": "Combinatorics",
+    "tags": [
+      "Permutations & arrangements",
+      "Algorithms & constructions",
+      "Recurrences & generating functions"
+    ],
+    "subtopics": [
+      "Permutations & arrangements",
+      "Algorithms & constructions",
+      "Recurrences & generating functions"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The greedy mean sequence needs a global permutation structure to prove every signed displacement appears exactly once.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2021-01-28",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2022-q3",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2022,
+    "number": "3",
+    "statement": "Place the cards from $n$ identical decks in boxes, each holding at most $2022$ cards. Each deck has one card of each label $1,\\ldots,50$. A pile of boxes is regular if it contains equally many cards of every label. Prove that some $N$ exists such that, whenever $n\\ge N$, the boxes can be split into two nonempty regular piles.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2022.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/home/bmo2-2022-solutions.pdf",
+    "topic": "Combinatorics",
+    "tags": [
+      "Pigeonhole principle",
+      "Sets & partitions",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Pigeonhole principle",
+      "Sets & partitions",
+      "Extremal arguments"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The bounded boxes encode a high-dimensional integer zero-sum partition; a finiteness theorem or strong combinatorial lemma is needed.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2022-01-27",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2022-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2022,
+    "number": "4",
+    "statement": "Let $ABC$ be acute with circumcircle $\\Gamma$. Let $\\ell_B,\\ell_C$ pass through $B,C$, respectively, perpendicular to $BC$. For $T$ on the minor arc $BC$, its tangent to $\\Gamma$ meets these lines at $P_B,P_C$. The perpendicular to $AC$ through $P_B$ and the perpendicular to $AB$ through $P_C$ meet at $Q$. If $Q$ lies on $BC$, prove that $A,T,Q$ are collinear.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2022.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/home/bmo2-2022-solutions.pdf",
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Concurrency & collinearity",
+      "Circles & tangency"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Concurrency & collinearity",
+      "Circles & tangency"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The moving tangent intersections and three perpendicular directions produce a difficult projective or coordinate collinearity condition.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2022-01-27",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2023-q1",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2023,
+    "number": "1",
+    "statement": "Houses on a road are numbered from $1$ to a three-digit integer $n$. Exactly $1/k$ of these numbers begin with digit $2$, for some positive integer $k$. Find all possible $n$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2023.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2023/",
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Counting leading-two house numbers in three intervals reduces the problem to a few divisibility checks.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2022-11-16",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2024-q2",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2024,
+    "number": "2",
+    "statement": "An integer sequence satisfies $a_i\\in\\{2a_{i-1}-a_{i-2},\\ 2a_{i-2}-a_{i-1}\\}$ for every $i\\ge2$. If $a_{2023},a_{2024}$ are consecutive integers, prove that $a_0,a_1$ are consecutive integers, in either order.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2024.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2024/",
+    "topic": "Algebra",
+    "tags": [
+      "Sequences & recurrences",
+      "Invariants"
+    ],
+    "subtopics": [
+      "Sequences & recurrences",
+      "Invariants"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "Successive differences either stay unchanged or multiply by minus two, so an ending difference of one immediately determines the starting magnitude.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2023-11-15",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo1-2025-q3",
+    "country": "United Kingdom",
+    "competition": "BMO1",
+    "year": 2025,
+    "number": "3",
+    "statement": "Initially $10^6$ is on a board. A move replaces the current number $n$ by $|a-b|$, where $a,b$ are distinct positive integers with $ab=n$. Rhian moves first, and she and Jack then alternate; a player unable to move loses. Determine who can force a win.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2025.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo1-2025/",
+    "topic": "Combinatorics",
+    "tags": [
+      "Games & strategies",
+      "Parity"
+    ],
+    "subtopics": [
+      "Games & strategies",
+      "Parity"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Induction shows precisely the odd positions are losing: an odd product has even factor difference, while any even number can move to the preceding odd number.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2024-11-20",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo2-2026-q4",
+    "country": "United Kingdom",
+    "competition": "BMO2",
+    "year": 2026,
+    "number": "4",
+    "statement": "Fix a positive integer $N$ and a sequence of integers $1\\le k_n\\le N$. Choose arbitrary integers $x_1,\\ldots,x_N$ and, for $n>N$, define $$x_n=\\sum_{i=n-k_n}^{n-1}x_i.$$ Prove that the resulting infinite sequence has either only finitely many strictly positive terms or only finitely many strictly negative terms.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2026.pdf",
+    "solutionUrl": "https://bmos.ukmt.org.uk/solutions/bmo2-2026/",
+    "topic": "Algebra",
+    "tags": [
+      "Sequences & recurrences",
+      "Extremal arguments"
+    ],
+    "subtopics": [
+      "Sequences & recurrences",
+      "Extremal arguments"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The arbitrary bounded-memory recurrence requires a nontrivial sign-variation or extremal argument to rule out infinitely many positive and negative terms.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "2026-01-21",
+    "solutionKind": "source-link"
+  },
+  {
+    "id": "bmo-1973-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "1",
+    "statement": "A variable circle touches two fixed circles at $P,Q$. Prove that $PQ$ passes through one of two fixed points. State a true generalisation to ellipses, or more general conics, having this result as a special case.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Projective geometry & conics"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Projective geometry & conics"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The requested extension from tangent circles to arbitrary conics makes the full question substantially beyond modern hard-BMO1 geometry.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The requested conic generalisation is part of the original task."
+  },
+  {
+    "id": "bmo-1973-q2",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "2",
+    "statement": "Nine points lie in the interior of a unit square. Prove that some three are the vertices of a triangle of area less than $1/8$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Pigeonhole principle",
+      "Combinatorial geometry"
+    ],
+    "subtopics": [
+      "Pigeonhole principle",
+      "Combinatorial geometry"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Partition the unit square into four smaller squares; three of the nine points lie in one, giving the area bound immediately.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. "
+  },
+  {
+    "id": "bmo-1973-q3",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "3",
+    "statement": "Rotate the quarter-circle $x^2+y^2=r^2$, $x,y\\ge0$, together with the segment $x=r$, $-h\\le y\\le0$, about the $y$-axis. This produces a hemisphere on a cylinder. A string is stretched tightly over the surface from $(r\\sin\\theta,r\\cos\\theta)$ on the original meridian to $(-r,-h)$ in the same meridian plane. Prove that the string is not contained in a plane if $\\tan\\theta>r/h$. Standard spherical triangle formulae may be used.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Trigonometry",
+      "Geometric inequalities"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Trigonometry",
+      "Geometric inequalities"
+    ],
+    "difficulty": 8.5,
+    "ratingReason": "A geodesic crossing a hemisphere-cylinder seam requires spherical geometry and a variational argument beyond the target band.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Historical problem requiring surface geodesics and spherical trigonometry."
+  },
+  {
+    "id": "bmo-1973-q4",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "4",
+    "statement": "Determine which positive integers $n$ allow $n$ congruent equilateral triangular tiles to fit together without overlap or gaps into a convex hexagon whose six interior angles are $120^\\circ$. The first three possible values are $6,10,13$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Combinatorial geometry",
+      "Quadrilaterals & polygons",
+      "Area & dissection"
+    ],
+    "subtopics": [
+      "Combinatorial geometry",
+      "Quadrilaterals & polygons",
+      "Area & dissection"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "A complete numerical classification of triangular-lattice equiangular hexagon areas requires a substantial quadratic-form analysis.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. "
+  },
+  {
+    "id": "bmo-1973-q6",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "6",
+    "statement": "For a yes-or-no question, a teacher answers correctly with probability $\\alpha$; a boy does so with probability $\\beta$ and a girl with probability $\\gamma$. A uniformly selected pupil agrees with the teacher with probability $1/2$. Under the independent-answer model, determine the ratio of boys to girls, including parameter values for which the ratio is not determined.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Probability",
+      "Counting"
+    ],
+    "subtopics": [
+      "Probability",
+      "Counting"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Under the intended independent-answer model, total probability gives a single linear equation for the sex ratio; degeneracies also need noting.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The original wording implicitly uses independent correctness of teacher and pupil. This assumption and its degenerate cases are made explicit here; marginal correctness probabilities alone do not determine agreement."
+  },
+  {
+    "id": "bmo-1973-q11",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1973,
+    "number": "11",
+    "statement": "Uniform rough cylinders $A,B$ of equal length have radii $a,b$ and masses $M,m$. Cylinder $A$ rests on a rough horizontal table, and $B$ initially balances directly above it. After a disturbance, $B$ rolls on $A$ while $A$ rolls on the table. Let $\\theta$ be the angle between the vertical and the plane containing their axes.\n\n(i) For the motion without slipping, draw force and angle diagrams, state the mechanical principles, and give equations that can be reduced to a differential equation for $\\theta$. Explain the elimination without carrying it out.\n\n(ii) With $k=M/m$, the resulting equation is\n$$\\ddot\\theta\\left(4+2\\cos\\theta-2\\cos^2\\theta+\\frac{9k}{2}\\right)+\\dot\\theta^2\\sin\\theta(2\\cos\\theta-1)=\\frac{3g(1+k)\\sin\\theta}{a+b}.$$\nObtain $\\dot\\theta$ in terms of $\\theta$. You may use the axial moment of inertia $\\tfrac12\\times\\text{mass}\\times\\text{radius}^2$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Calculus & modelling",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Calculus & modelling",
+      "Trigonometry"
+    ],
+    "difficulty": 9,
+    "ratingReason": "Coupled rigid-cylinder rolling dynamics and a nonlinear differential equation require advanced mechanics well beyond the target olympiad prerequisites.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Historical mechanics question; rotational dynamics and differential equations are required."
+  },
+  {
+    "id": "bmo-1974-qA1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1974,
+    "number": "A1",
+    "statement": "In the first quadrant, curve $A$ is $y=\\frac43x^2$ and curve $C$ is $y=\\frac38x^2$. An increasing curve $B$ runs from the origin between them. For every point $P$ on $B$, the region bounded by $A$, $B$, and the horizontal segment from $P$ to $A$ has the same area as the region bounded by $B$, $C$, and the vertical segment from $P$ to $C$. Find the equation of $B$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Calculus & modelling",
+      "Functions & graphs"
+    ],
+    "subtopics": [
+      "Calculus & modelling",
+      "Functions & graphs"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Determining an area-bisecting curve from mixed horizontal and vertical boundaries involves a differential-equation interpretation outside the intended elementary range.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The two regions in the official diagram are specified verbally here."
+  },
+  {
+    "id": "bmo-1974-qA3",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1974,
+    "number": "A3",
+    "statement": "Prove that no convex polyhedron can have all of its faces hexagons.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Graph theory",
+      "Double counting"
+    ],
+    "subtopics": [
+      "Graph theory",
+      "Double counting"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Euler gives V-E+F=2 while six edges per face and at least three edges per vertex would force V-E+F at most zero.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. "
+  },
+  {
+    "id": "bmo-1974-qB9",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1974,
+    "number": "B9",
+    "statement": "A uniform rod of length $2a$ is hinged at its lower end to a frictionless joint on a horizontal table. It is initially vertical and at rest in unstable equilibrium. Find the time it takes to fall onto the table, and comment on the result. You may use $\\int\\csc x\\,dx=\\log|\\tan(x/2)|$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Calculus & modelling"
+    ],
+    "subtopics": [
+      "Calculus & modelling"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "The unstable falling-rod model requires rotational dynamics and an improper integral; its infinite-time interpretation is outside modern elementary olympiad scope.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. Historical mechanics problem. The requested comment includes the issue of starting exactly at the unstable equilibrium."
+  },
+  {
+    "id": "bmo-1974-qB10",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1974,
+    "number": "B10",
+    "statement": "A solid right circular cone has vertex $V$, height $h$, semi-vertical angle $\\alpha$, and uniform density. Remove the points at distance less than $a$ or greater than $b$ from $V$, where $0<a<b<h$, leaving mass $M$. Using the inverse-square gravitational law with constant $G$, prove that its attraction on a unit mass at $V$ has magnitude $$\\frac{3GM(1+\\cos\\alpha)}{2(a^2+ab+b^2)}.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Calculus & modelling",
+      "Trigonometry"
+    ],
+    "subtopics": [
+      "Calculus & modelling",
+      "Trigonometry"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Gravitational attraction of a spherical-shell-truncated cone requires spatial integration and mechanics beyond the target range.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. "
+  },
+  {
+    "id": "bmo-1975-q2",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1975,
+    "number": "2",
+    "statement": "Partition the first $n$ primes into disjoint sets $A=\\{a_1,\\ldots,a_h\\}$ and $B=\\{b_1,\\ldots,b_k\\}$. Choose arbitrary positive integer exponents $\\alpha_i,\\beta_j$, and form $U=\\prod_i a_i^{\\alpha_i}$ and $V=\\prod_j b_j^{\\beta_j}$. Prove that every positive divisor $d$ of $U-V$ is either $1$ or greater than the $n$th prime.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1975.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Primes",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Any prime factor of a common product difference cannot be among the initial primes, since those primes divide exactly one product.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1975-03-24"
+  },
+  {
+    "id": "bmo-1975-q7",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1975,
+    "number": "7",
+    "statement": "Prove that for each positive integer $n$ there is exactly one real tuple $(x_1,\\ldots,x_n)$ satisfying $$(1-x_1)^2+(x_1-x_2)^2+\\cdots+(x_{n-1}-x_n)^2+x_n^2=\\frac1{n+1}.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1975.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities",
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Inequalities",
+      "Equations & systems"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "Cauchy applied to the n+1 successive differences immediately forces equality and the arithmetic progression.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1975-03-24"
+  },
+  {
+    "id": "bmo-1976-q2",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1976,
+    "number": "2",
+    "statement": "For positive real numbers $x,y,z$, prove $$\\frac{x}{y+z}+\\frac{y}{z+x}+\\frac{z}{x+y}\\ge\\frac32.$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1976.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "This is the direct three-variable Nesbitt inequality, obtainable immediately by Cauchy.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1976-03-24"
+  },
+  {
+    "id": "bmo-1976-q6",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1976,
+    "number": "6",
+    "statement": "A sphere of radius $r$ and centre $O$ is cut by a horizontal plane $r/2$ above $O$, meeting it in circle $K$. Replace the upper cap with a cone of base $K$ and vertex $V$ at height $2r$ above $O$. Let $Q$ lie on the sphere at the height of $O$. The plane $OVQ$ meets $K$ at $X,Y$, with $Y$ farther from $Q$. A point $P$ on $VY$ is chosen so that the shortest surface path from $P$ to $Q$ crosses $K$ at $45^\\circ$. Prove $$VP=\\frac{\\sqrt3\\,r}{\\sqrt{1+1/\\sqrt5}}.$$ Standard spherical sine and cosine rules may be used.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1976.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Trigonometry",
+      "Geometric inequalities"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Trigonometry",
+      "Geometric inequalities"
+    ],
+    "difficulty": 8.5,
+    "ratingReason": "A shortest path across a cone-sphere seam needs spherical trigonometry and unfolding, substantially beyond the target elementary geometry.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1976-03-24"
+  },
+  {
+    "id": "bmo-1977-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1977,
+    "number": "1",
+    "statement": "A function $f$ assigns a nonnegative integer to each positive integer, with $f(mn)=f(m)+f(n)$ for all $m,n$, $f(10)=0$, and $f(n)=0$ whenever the final decimal digit of $n$ is $3$. Prove that $f(n)=0$ for every positive integer $n$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1977.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Arithmetic functions",
+      "Primes",
+      "Digits & bases"
+    ],
+    "subtopics": [
+      "Arithmetic functions",
+      "Primes",
+      "Digits & bases"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Nonnegativity gives f(2)=f(5)=0; any remaining prime can be multiplied to end in 3, forcing its value to zero.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1977-03-17"
+  },
+  {
+    "id": "bmo-1981-q3",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1981,
+    "number": "3",
+    "statement": "For positive real numbers $a,b,c$, prove both $$a^3+b^3+c^3\\ge a^2b+b^2c+c^2a$$ and $$abc\\ge(a+b-c)(b+c-a)(c+a-b).$$",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1981.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "The cyclic cubic inequality is termwise weighted AM-GM; the second is immediate after the standard triangle-variable substitution, with non-triangle cases trivial.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1981-03-19"
+  },
+  {
+    "id": "bmo-1982-q5",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1982,
+    "number": "5",
+    "statement": "A right circular cone stands on a horizontal base of radius $r$ and has slant height $\\ell$. A plane cuts it in an ellipse, with lowest and highest points $L,H$. On one side of plane $VLH$, consider the half-ellipse route from $L$ to $H$ and the shortest route on the cone surface. Find the condition under which these two routes intersect at a point strictly between $L$ and $H$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1982.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Projective geometry & conics",
+      "Geometric inequalities"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Projective geometry & conics",
+      "Geometric inequalities"
+    ],
+    "difficulty": 8,
+    "ratingReason": "Comparing an elliptic cone-section arc with a surface geodesic requires difficult unfolding and intersection analysis.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1982-03-18"
+  },
+  {
+    "id": "bmo-1983-q4",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1983,
+    "number": "4",
+    "statement": "The cylindrical surfaces $x^2+z^2=a^2$, $z\\ge0$, $|y|\\le a$, and $y^2+z^2=a^2$, $z\\ge0$, $|x|\\le a$, together with $z=0$, enclose a cupola. It sits on a vertical tower of height $h$ and square cross-section of side $2a$. Find the shortest path over the cupola and tower surfaces from the highest point of the cupola to a corner of the tower base.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1983.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Geometric inequalities"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Geometric inequalities"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The shortest surface path across a two-cylinder cupola and tower requires a substantial piecewise unfolding analysis.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1983-03-10"
+  },
+  {
+    "id": "bmo-1985-q2",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1985,
+    "number": "2",
+    "statement": "If $0<a,b,c<1$, prove that $a(1-b)$, $b(1-c)$, and $c(1-a)$ cannot all exceed $1/4$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1985.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Multiplying the three proposed strict inequalities contradicts a(1-a)b(1-b)c(1-c) at most one sixty-fourth.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1985-03-05"
+  },
+  {
+    "id": "bmo-1986-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1986,
+    "number": "1",
+    "statement": "Reduce the fraction $$\\frac{2244851485148514627}{8118811881188118000}$$ to its lowest terms.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1986.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Despite the long decimal numbers, the task is an exact Euclidean-algorithm reduction rather than a substantial olympiad proof.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1986-03-04"
+  },
+  {
+    "id": "bmo-1989-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1989,
+    "number": "1",
+    "statement": "Find all integers $a,b,c$ for which $(x-a)(x-10)+1=(x+b)(x+c)$ for every real $x$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1989.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Polynomials",
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Polynomials",
+      "Equations & systems"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Evaluating at x=10 makes the two integer factors multiply to one, leaving two immediate coefficient checks.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1988-12-13"
+  },
+  {
+    "id": "bmo-1989-q2",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1989,
+    "number": "2",
+    "statement": "In triangle $ABC$, put $b=AC$ and $c=AB$. Let $P\\ne A$ lie on line $AB$, and $Q\\ne A$ on line $AC$. Write $x=AP$, $y=AQ$ as directed lengths, positive in the directions from $A$ toward $B,C$. Prove that $PQ$ passes through the centroid if and only if $3xy=bx+cy$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1989.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Triangle centres"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Triangle centres"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The centroid condition follows directly from the intercept equation of a line in oblique coordinates.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1988-12-13"
+  },
+  {
+    "id": "bmo-1989-q5",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1989,
+    "number": "5",
+    "statement": "No angle of triangle $ABC$ exceeds $90^\\circ$. Prove that $\\sin A+\\sin B+\\sin C>2$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1989.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Trigonometry",
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Trigonometry",
+      "Inequalities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The sine graph lies above its chord on the acute-angle interval; summing the three chord bounds gives the strict result.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1988-12-13"
+  },
+  {
+    "id": "bmo-1990-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1990,
+    "number": "1",
+    "statement": "Find a positive integer beginning with digit $1$ such that moving that first digit to the end triples the number.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1990.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases"
+    ],
+    "subtopics": [
+      "Digits & bases"
+    ],
+    "difficulty": 3,
+    "ratingReason": "The requested existence is witnessed by the familiar cyclic decimal number 142857, whose moved leading digit gives its triple.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1990-01-17"
+  },
+  {
+    "id": "bmo-1991-q1",
+    "country": "United Kingdom",
+    "competition": "BMO",
+    "year": 1991,
+    "number": "1",
+    "statement": "Prove that $3^n+2\\cdot17^n$ is never a perfect square for a nonnegative integer $n$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1991.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "difficulty": 3,
+    "ratingReason": "Modulo eight the expression is three or five according to the parity of n, neither a square residue.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1991-01-16"
+  },
+  {
+    "id": "fist-1975-q4",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1975,
+    "number": "4",
+    "statement": "Prove that twelve circles of equal radius can be placed on a sphere with the following tangencies, and no others. Label them $A_i,B_i,C_i$ for $i=1,2,3,4$, reading indices modulo $4$:\n\n- $A_i$ touches $A_{i-1},A_{i+1},B_{i-1},B_i,C_i$;\n- $B_i$ touches $A_i,A_{i+1},C_i,C_{i+1}$;\n- $C_i$ touches $A_i,B_{i-1},B_i$.\n\nThus four circles each touch five others, four each touch four, and four each touch three.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1975.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Circles & tangency",
+      "Constructions & loci"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Circles & tangency",
+      "Constructions & loci"
+    ],
+    "difficulty": 7.5,
+    "ratingReason": "Realising the specified twelve-circle tangency graph by equal circles on a sphere requires a substantial polyhedral construction and spherical-distance verification.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The adjacency list explicitly transcribes the twelve-circle tangency diagram in the original paper.",
+    "sittingDate": "1975-05-05"
+  },
+  {
+    "id": "fist-1976-q1",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1976,
+    "number": "1",
+    "statement": "For an interior point $P$ of a fixed triangle $ABC$, draw through $P$ lines parallel to the medians from $A,B,C$, meeting $BC,CA,AB$ at $L,M,N$, respectively. Prove that $BL/BC+CM/CA+AN/AB$ is independent of $P$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1976.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Triangle geometry"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Triangle geometry"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Barycentric coordinates make each median-parallel intercept a linear expression; the three expressions sum immediately to a constant.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1976-05-05"
+  },
+  {
+    "id": "fist-1977-q3a",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1977,
+    "number": "3a",
+    "statement": "Prove that for every integer $n$, the equation $10xy+17yz+27zx=n$ has an integer solution $(x,y,z)$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1977.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "subtopics": [
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Choose x=12 and z=-7 so that the coefficient of y is 10x+17z=1; every integer right-hand side then follows directly.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The original paper offered this as alternative (a) to question 3(b).",
+    "sittingDate": "1977-05-11"
+  },
+  {
+    "id": "fist-1977-q3b",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1977,
+    "number": "3b",
+    "statement": "For positive integers $a,d$, prove that the progression $a,a+d,a+2d,\\ldots$ contains infinitely many terms with exactly the same prime divisors.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1977.pdf",
+    "solutionUrl": null,
+    "topic": "Number Theory",
+    "tags": [
+      "Primes",
+      "Sequences & recurrences"
+    ],
+    "subtopics": [
+      "Primes",
+      "Sequences & recurrences"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "The terms a(1+d)^k all belong to the progression and have the fixed prime divisors of a(1+d), giving a short explicit construction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. The original paper offered this as alternative (b) to question 3(a).",
+    "sittingDate": "1977-05-11"
+  },
+  {
+    "id": "fist-1980-q4",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1980,
+    "number": "4",
+    "statement": "For a set of $n$ people, arrange a series of bridge games so that every pair of people are opponents in exactly one game. A game has four players in two partnerships; repeated partnerships are allowed. Prove that this can be done precisely when $n=8m+1$ for a positive integer $m$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1980.pdf",
+    "solutionUrl": null,
+    "topic": "Combinatorics",
+    "tags": [
+      "Graph theory",
+      "Algorithms & constructions"
+    ],
+    "subtopics": [
+      "Graph theory",
+      "Algorithms & constructions"
+    ],
+    "difficulty": 8,
+    "ratingReason": "The necessity follows from divisibility and degree counts, but a complete four-cycle decomposition of every admissible complete graph requires a substantially harder uniform construction.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. As in the original nontrivial bridge schedule, at least one game is required; the empty schedule for one person is not intended.",
+    "sittingDate": "1980-05-08"
+  },
+  {
+    "id": "fist-1981-q2",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1981,
+    "number": "2",
+    "statement": "An axis of a solid is a line about which some rotation strictly between $0^\\circ$ and $360^\\circ$ maps the solid onto itself. How many axes does a cube have? Draw its three types of axis, state the least positive rotation angle for each type, and label the eight vertices to show the induced permutation. Formal proofs are not required.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1981.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Solid geometry",
+      "Transformations",
+      "Symmetry"
+    ],
+    "subtopics": [
+      "Solid geometry",
+      "Transformations",
+      "Symmetry"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "Classifying a cube’s rotational axes gives the familiar face, vertex and edge axes directly; the paper does not demand formal proofs.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1981-05-14"
+  },
+  {
+    "id": "fist-1981-q4",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1981,
+    "number": "4",
+    "statement": "Find the remainder when $x^{81}+x^{49}+x^{25}+x^9+x$ is divided by $x^3-x$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1981.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Polynomials",
+      "Algebraic identities"
+    ],
+    "subtopics": [
+      "Polynomials",
+      "Algebraic identities"
+    ],
+    "difficulty": 2.5,
+    "ratingReason": "Modulo x cubed minus x, every positive odd power is congruent to x, so the remainder is immediately 5x.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1981-05-14"
+  },
+  {
+    "id": "fist-1983-qG1",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1983,
+    "number": "G1",
+    "statement": "Points $A,B$ and a line $k$ are fixed in a plane. For a variable point $P$, let $N$ be its perpendicular foot on $k$. Locate and prove the position of $P$ minimising $PA^2+PB^2+PN^2$. State, without proof, the corresponding generalisation for three fixed points $A,B,C$ and the expression $PA^2+PB^2+PC^2+PN^2$.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1983.pdf",
+    "solutionUrl": null,
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Geometric inequalities"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Geometric inequalities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Completing squares in coordinates parallel and perpendicular to the line directly locates the weighted centroid minimiser and its three-point analogue.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1983-05-11"
+  },
+  {
+    "id": "fist-1988-q6",
+    "country": "United Kingdom",
+    "competition": "FIST",
+    "year": 1988,
+    "number": "6",
+    "statement": "The triples $(a_1,b_1,c_1)$ and $(a_2,b_2,c_2)$ are side lengths of triangles. Prove that $\\sqrt{a_1^2+a_2^2}$, $\\sqrt{b_1^2+b_2^2}$, $\\sqrt{c_1^2+c_2^2}$ are also side lengths of a triangle.",
+    "solution": null,
+    "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1988.pdf",
+    "solutionUrl": null,
+    "topic": "Algebra",
+    "tags": [
+      "Inequalities"
+    ],
+    "subtopics": [
+      "Inequalities"
+    ],
+    "difficulty": 3.5,
+    "ratingReason": "Apply the strict triangle inequalities componentwise, then the Euclidean triangle inequality to the two-dimensional side vectors; the same argument works cyclically.",
+    "reviewStatus": "individually-assessed",
+    "notes": "Compact mathematical paraphrase checked against the official paper. Individual AI difficulty assessment retained from the review ledger. ",
+    "sittingDate": "1988-02-05"
+  }
+]

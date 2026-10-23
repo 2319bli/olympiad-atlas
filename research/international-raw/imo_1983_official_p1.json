@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "1",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Multiplicativity"
+    ],
+    [
+      "Algebra",
+      "Limits"
+    ],
+    [
+      "Algebra",
+      "Iteration"
+    ]
+  ],
+  "problem_markdown": "Find all functions $f:(0,\\infty)\\to(0,\\infty)$ satisfying $f(xf(y))=yf(x)$ and $\\lim_{x\\to\\infty}f(x)=0$.",
+  "solutions_markdown": [
+    "Put $c=f(1)$. Setting $y=1$ gives $f(cx)=f(x)$. If $c>1$, iterating this equality contradicts the limit; if $c<1$, use $f(x/c)=f(x)$ instead. Hence $c=1$.\n\nSetting $x=1$ now gives $f(f(y))=y$. Substituting $f(y)$ for $y$ in the original equation gives $f(xy)=f(x)f(y)$. In particular $f(1/t)=1/f(t)$.\n\nFor any $x$, put $k=xf(x)$. The original equation gives $f(k)=k$. If $k>1$, multiplicativity gives $f(k^n)=k^n$, contradicting the limit. If $k<1$, the same contradiction applies to the fixed point $1/k>1$. Therefore $xf(x)=1$ for every $x$. The function $f(x)=1/x$ directly satisfies both conditions and is the unique answer."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln831.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

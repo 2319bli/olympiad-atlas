@@ -1,0 +1,29 @@
+{
+  "id": "imo_1979_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "2",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Colouring"
+    ],
+    [
+      "Combinatorics",
+      "Graph theory"
+    ],
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ]
+  ],
+  "problem_markdown": "Two pentagons have vertices $A_1,\\ldots,A_5$ and $B_1,\\ldots,B_5$. Colour their ten sides and every segment $A_iB_j$ red or green. If no triangle whose three sides are coloured is monochromatic, prove the ten pentagon sides share one colour.",
+  "solutions_markdown": [
+    "If two sides at $A_1$ had different colours, choose three $B$-vertices joined to $A_1$ in one colour, say red, and let $A_1A_2$ be red. All three joins from $A_2$ must be green. Among three vertices of a pentagon two are adjacent. Their connecting side would form a monochromatic triangle with either $A_1$ or $A_2$, regardless of its colour. Thus the $A$-pentagon is monochromatic; the same argument applies to $B$.\n\nSuppose their colours differ, say the $A$ sides are red and the $B$ sides green. Each $A_i$ can have at most two green joins to $B$, because three would include adjacent $B$-vertices and give a green triangle. Hence each of $A_1,A_2$ has at least three red joins. Their two three-element neighbour sets intersect, producing a red triangle with side $A_1A_2$. This contradiction proves both pentagons have the same colour."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln792.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

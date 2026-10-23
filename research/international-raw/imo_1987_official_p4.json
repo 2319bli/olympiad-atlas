@@ -1,0 +1,33 @@
+{
+  "id": "imo_1987_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "4",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Injectivity"
+    ],
+    [
+      "Algebra",
+      "Sets"
+    ],
+    [
+      "Algebra",
+      "Parity"
+    ]
+  ],
+  "problem_markdown": "Prove no function $f:\\mathbb Z_{\\ge0}\\to\\mathbb Z_{\\ge0}$ satisfies $f(f(n))=n+1987$ for every $n\\ge0$.",
+  "solutions_markdown": [
+    "Suppose such an $f$ exists and let $N=\\mathbb Z_{\\ge0}$. The equation makes $f$ injective: equal values at $m,n$ would imply $m+1987=n+1987$.\n\nPut $A=N\\setminus f(N)$. Injectivity implies\n$$f(A)=f(N)\\setminus f(f(N)).$$\nIndeed, the image of a point outside $f(N)$ cannot coincide with the image of a point inside $f(N)$, and every element of the displayed difference has such a preimage.\n\nConsequently the disjoint sets $A,f(A)$ partition $N\\setminus f(f(N))=\\{0,1,\\ldots,1986\\}$. They are finite and have equal cardinality because $f$ is injective. Their union must therefore have even cardinality, contradicting its size 1987."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln874.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

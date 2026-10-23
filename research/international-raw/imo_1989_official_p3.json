@@ -1,0 +1,29 @@
+{
+  "id": "imo_1989_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "3",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Double counting"
+    ],
+    [
+      "Combinatorics",
+      "Combinatorial geometry"
+    ],
+    [
+      "Combinatorics",
+      "Isosceles triangles"
+    ]
+  ],
+  "problem_markdown": "A set $S$ of $n$ plane points has no three collinear. From every point, at least $k$ other points are at one common distance. Prove $k<1/2+\\sqrt{2n}$.",
+  "solutions_markdown": [
+    "Count pairs $(P,\\{A,B\\})$ of distinct points of $S$ with $PA=PB$. For each apex $P$, the hypothesis supplies at least $\\binom k2$ such unordered bases, so the count is at least $n\\binom k2$.\n\nFor each base $\\{A,B\\}$, possible apexes lie on its perpendicular bisector. At most two points of $S$ lie on that line, since no three are collinear. Thus the count is at most $2\\binom n2=n(n-1)$.\n\nConsequently $k(k-1)\\le2(n-1)$, or $(k-1/2)^2\\le2n-7/4<2n$. Since $k\\ge1$, taking square roots proves $k<1/2+\\sqrt{2n}$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln893.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "imo_1982_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1982,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Complex numbers"
+    ],
+    [
+      "Geometry",
+      "Homothety"
+    ],
+    [
+      "Geometry",
+      "Concurrency"
+    ],
+    [
+      "Geometry",
+      "Triangle centres"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ]
+  ],
+  "problem_markdown": "In a scalene triangle $A_1A_2A_3$, let $M_i$ be the midpoint of the side opposite $A_i$ and $T_i$ its incircle contact. Reflect $T_i$ in the internal angle bisector at $A_i$ to obtain $S_i$. Prove that $M_1S_1,M_2S_2,M_3S_3$ are concurrent.",
+  "solutions_markdown": [
+    "Scale the incircle to the unit circle centred at zero, and use complex coordinates $t_1,t_2,t_3$ for its contacts. The intersection of tangents at $t_j,t_k$ is\n$$a_i=\\frac{2t_jt_k}{t_j+t_k}.$$\nReflection in the angle-bisector line through zero and $a_i$ sends $t_i$ to\n$$s_i=\\frac{a_i}{\\bar a_i}\\bar t_i=\\frac{t_jt_k}{t_i}.$$\nConsequently direct subtraction gives, for each pair $i,j$,\n$$s_i-s_j=K(a_i-a_j),\\qquad K=\\frac{(t_1+t_2)(t_2+t_3)(t_3+t_1)}{2t_1t_2t_3}.$$\nConjugating the expression shows $K$ is real. Thus $s_i=Ka_i+v$ for a fixed $v$.\n\nThe midpoint coordinates satisfy $m_i=(a_1+a_2+a_3-a_i)/2$, so $s_i=\\lambda m_i+w$ with real $\\lambda=-2K$ and fixed $w$. The circumradius of the $S$-triangle is one, while that of the midpoint triangle is $R/2$, where $R$ is the original circumradius. Hence $|\\lambda|=2/R<1$, by the strict Euler inequality $R>2r=2$ for a nonequilateral triangle. In particular $\\lambda\\ne1$.\n\nThe fixed point $h=w/(1-\\lambda)$ satisfies $s_i-h=\\lambda(m_i-h)$, so all three lines pass through $h$. In a scalene triangle $S_i\\ne M_i$: equality would put the side midpoint on the incircle, forcing it to be the contact and the two adjacent sides equal. Thus all three lines are well-defined."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1982/1982_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln822.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1975_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Rational parametrisation"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ],
+    [
+      "Geometry",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Can one choose 1975 distinct points on a unit circle so that every pairwise distance is rational? Prove the answer.",
+  "solutions_markdown": [
+    "Yes. Choose 1975 distinct rational numbers $t\\in(0,1)$ and define\n$$u_t=\\frac{1-t^2}{1+t^2},\\qquad v_t=\\frac{2t}{1+t^2},\\qquad P_t=(u_t^2-v_t^2,2u_tv_t).$$\nSince $u_t^2+v_t^2=1$, each $P_t$ lies on the unit circle. The first-quadrant angles of $(u_t,v_t)$ are distinct and their doubles lie in $(0,\\pi)$, so the $P_t$ are distinct. If these angles are $\\theta_s,\\theta_t$, their chord distance is\n$$|P_sP_t|=2|\\sin(\\theta_s-\\theta_t)|=2|v_su_t-u_sv_t|,$$\nwhich is rational."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln755.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

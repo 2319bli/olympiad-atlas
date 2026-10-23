@@ -1,0 +1,55 @@
+{
+  "restorationPolicy": "Restore every already individually numerically assessed question, retaining its numerical rating. Difficulty 4–7 is a preferred practice filter, not an ingestion cutoff.",
+  "includedCount": 716,
+  "restoredCount": 356,
+  "restoredBelow4": 320,
+  "restoredAbove7": 36,
+  "previous360ContentUnchanged": true,
+  "numericalRatingsChanged": [],
+  "ratingReasonCorrections": [
+    {
+      "id": "mda_2023_f713e2",
+      "reason": "Removed obsolete nonpublication text after confirming F lies on CD and restoring the complete statement; the mathematical assessment is unchanged."
+    },
+    {
+      "id": "hrv_2019_6f4303",
+      "reason": "Corrected the previously incomplete answer summary to include a=-11 as well as a=1 when b=5. The difficulty remains 3.0."
+    }
+  ],
+  "remainingNonincluded": {
+    "duplicateAppearances": 49,
+    "unratedQuarantined": 35,
+    "unratedWithAdditionalPrerequisites": 23
+  },
+  "azerbaijan2025SourceVerification": {
+    "original": "https://arti.edu.az/wp-content/uploads/2025/03/Riyaziyyat_Az_AYQ_2025.pdf",
+    "publicMirror": "https://www.scribd.com/document/1001269135/8-9",
+    "method": "All 28 restored statements checked against the public indexed mirror. Ambiguous formulas Q7, Q11 and Q19 additionally checked against positioned glyphs in public, unblurred preview pages; no formula inferred from its answer.",
+    "formulaChecks": [
+      {
+        "question": 7,
+        "formula": "(10 b_2 + b_1 b_2 + b_1^2)/b_1",
+        "conditions": "b_1+b_10=9, b_2+...+b_9=10, geometric progression",
+        "page": 2,
+        "previewAsset": "https://html.scribdassets.com/83wqj1h6gwgyvlga/pages/2-98daec9fbc.jsonp",
+        "evidence": "Numerator b_1^2 has superscript2 top4650, subscript1 top4695 and b top4658; denominator b_1 below at4758. Independently checked by restore_asia agent."
+      },
+      {
+        "question": 11,
+        "formula": "4^x+64=2^(x^2-5x)",
+        "page": 4,
+        "previewAsset": "https://html.scribdassets.com/83wqj1h6gwgyvlga/pages/4-bf7cbb2547.jsonp",
+        "evidence": "4 and2 bases top1260; x exponent top1249; exponent-square2 top1238; minus top1248,5 top1250 and terminalx top1249."
+      },
+      {
+        "question": 19,
+        "formula": "sqrt(5) |x^8-1/x^8|",
+        "conditions": "x-1/x=1",
+        "page": 6,
+        "previewAsset": "https://html.scribdassets.com/83wqj1h6gwgyvlga/pages/6-4eaee2a3f7.jsonp",
+        "evidence": "Radical,5,multiplicationdot and absolute-value bar explicit; both exponent8 glyphs above their x bases, at tops3949 and4009. Independently checked by restore_asia agent."
+      }
+    ],
+    "solutions": "The source is a question booklet. The 28 new records explicitly have unavailable solutions and no misleading worked-solution link. Previously included Q24 retains its independently written proof; Q16 remains unrated pending proof verification."
+  }
+}

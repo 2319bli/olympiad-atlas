@@ -1,0 +1,29 @@
+{
+  "id": "imo_1986_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "5",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Zero sets"
+    ],
+    [
+      "Algebra",
+      "Threshold argument"
+    ]
+  ],
+  "problem_markdown": "Find all $f:[0,\\infty)\\to[0,\\infty)$ satisfying $f(xf(y))f(y)=f(x+y)$, $f(2)=0$, and $f(t)>0$ for $0\\le t<2$.",
+  "solutions_markdown": [
+    "Putting $y=2$ shows $f(x+2)=0$ for all $x\\ge0$. Thus the zero set is exactly $[2,\\infty)$.\n\nFix $0\\le y<2$, so $f(y)>0$. For every $x\\ge0$, the equation implies\n$$x\\ge2-y\\quad\\Longleftrightarrow\\quad f(x+y)=0\\quad\\Longleftrightarrow\\quad xf(y)\\ge2.$$\nThe two closed half-line thresholds must agree, giving $f(y)=2/(2-y)$.\n\nTherefore the only candidate is $f(t)=2/(2-t)$ for $t<2$, and zero for $t\\ge2$. If $y\\ge2$, both sides of the equation vanish. If $y<2$ and $x+y\\ge2$, both vanish again. Otherwise direct substitution gives\n$$f(xf(y))f(y)=\\frac{2-y}{2-y-x}\\frac2{2-y}=\\frac2{2-x-y}=f(x+y).$$\nHence this candidate works and is unique."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln865.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

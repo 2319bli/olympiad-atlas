@@ -1,0 +1,29 @@
+{
+  "id": "imo_1981_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1981,
+  "problem_number": "2",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Bijection"
+    ],
+    [
+      "Combinatorics",
+      "Double counting"
+    ],
+    [
+      "Combinatorics",
+      "Binomial coefficients"
+    ]
+  ],
+  "problem_markdown": "For $1\\le r\\le n$, take every $r$-element subset of $\\{1,\\ldots,n\\}$. Show that the average of their minimum elements is $(n+1)/(r+1)$.",
+  "solutions_markdown": [
+    "The sum of all minima counts pairs $(S,t)$ where $S$ is an $r$-element subset of $\\{1,\\ldots,n\\}$ and $1\\le t\\le\\min S$. Map this pair to the $(r+1)$-element subset\n$$\\{t\\}\\cup\\{s+1:s\\in S\\}\\subseteq\\{1,\\ldots,n+1\\}.$$\nIts least member is $t$, so the map is bijective: remove the least member and subtract one from all others. Thus the sum of minima is $\\binom{n+1}{r+1}$. Dividing by the number $\\binom nr$ of subsets gives the stated average."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1981/1981_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln812.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

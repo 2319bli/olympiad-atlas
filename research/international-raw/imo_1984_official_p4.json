@@ -1,0 +1,33 @@
+{
+  "id": "imo_1984_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "4",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Tangency"
+    ],
+    [
+      "Geometry",
+      "Similarity"
+    ],
+    [
+      "Geometry",
+      "Ratios"
+    ],
+    [
+      "Geometry",
+      "Quadrilaterals"
+    ]
+  ],
+  "problem_markdown": "A convex quadrilateral $ABCD$ has line $CD$ tangent to the circle with diameter $AB$. Prove that line $AB$ is tangent to the circle with diameter $CD$ exactly when $BC\\parallel AD$.",
+  "solutions_markdown": [
+    "If $AB\\parallel CD$, their distance equals $AB/2$ by the given tangency. The reverse tangency holds exactly when $CD=AB$, which for this convex quadrilateral is exactly the parallelogram condition $BC\\parallel AD$.\n\nOtherwise let the supporting lines meet at $O$. Convexity puts each segment on one ray from $O$; reversing the vertex labels if necessary, their orders are $O,A,B$ and $O,D,C$. Let $\\theta$ be the angle between the rays. The given tangency says that the distance of the midpoint of $AB$ to line $CD$ equals $AB/2$, namely\n$$\\sin\\theta=\\frac{OB-OA}{OB+OA}.$$\nThe reverse tangency is equivalent to\n$$\\sin\\theta=\\frac{OC-OD}{OC+OD}.$$\nThese two equations are equivalent to $OA/OB=OD/OC$. By the intercept theorem this is equivalent to $AD\\parallel BC$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln844.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

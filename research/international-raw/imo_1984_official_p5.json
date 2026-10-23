@@ -1,0 +1,33 @@
+{
+  "id": "imo_1984_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Geometric inequalities"
+    ],
+    [
+      "Geometry",
+      "Double counting"
+    ],
+    [
+      "Geometry",
+      "Polygons"
+    ],
+    [
+      "Geometry",
+      "Triangle inequality"
+    ]
+  ],
+  "problem_markdown": "A convex $n$-gon, $n>3$, has perimeter $p$ and total diagonal length $d$. Prove $n-3<2d/p<\\lfloor n/2\\rfloor\\lfloor(n+1)/2\\rfloor-2$.",
+  "solutions_markdown": [
+    "Number vertices cyclically. For each diagonal $A_iA_j$, the shifted diagonal $A_{i+1}A_{j+1}$ crosses it. Splitting at their intersection and applying triangle inequalities gives\n$$|A_iA_j|+|A_{i+1}A_{j+1}|>|A_iA_{i+1}|+|A_jA_{j+1}|.$$\nSum over all oriented diagonals. Each diagonal length appears four times and each side $2(n-3)$ times, so $4d>2(n-3)p$.\n\nFor the upper bound, the sum over $i$ of chords $|A_iA_{i+r}|$ is strictly less than $rp$, by comparing each chord with its $r$-side boundary arc.\n\nIf $n=2m+1$, taking $r=2,\\ldots,m$ counts every diagonal once. Hence $d<\\sum_{r=2}^m rp=[m(m+1)/2-1]p$.\n\nIf $n=2m$, take $r=2,\\ldots,m-1$ for the nonopposite diagonals. Each of the $m$ opposite-vertex diagonals is shorter than either half-boundary arc and therefore shorter than $p/2$. Thus $d<[\\sum_{r=2}^{m-1}r+m/2]p=(m^2/2-1)p$. These are exactly the stated upper bounds."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln845.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1984_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "3",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ],
+    [
+      "Combinatorics",
+      "Colouring"
+    ],
+    [
+      "Combinatorics",
+      "Sets"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Fix distinct plane points $O,A$. For $X\\ne O$, let $\\alpha(X)\\in[0,2\\pi)$ be the counterclockwise angle from $OA$ to $OX$, and let $C(X)$ have centre $O$ and radius $OX+\\alpha(X)/OX$. Prove that every finite colouring of the plane has a point $Y$ with $\\alpha(Y)>0$ whose colour occurs on $C(Y)$.",
+  "solutions_markdown": [
+    "Suppose there are $k$ colours. For each radius $r\\in[1,2]$, record the nonempty set of colours appearing on the circle centred at $O$ of radius $r$. There are at most $2^k$ such sets, so among $2^k+1$ distinct radii two, say $r<R$, have the same colour set.\n\nChoose $Y$ at radius $r$ and angle $\\theta=r(R-r)$. This angle is strictly positive and less than two, hence less than $2\\pi$. By definition, $C(Y)$ has radius $r+\\theta/r=R$. The colour of $Y$ appears on the smaller circle and therefore on the larger circle because their colour sets are identical. This is exactly the desired conclusion."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln843.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

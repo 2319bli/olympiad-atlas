@@ -1,0 +1,28 @@
+from international_completion_helpers import add,save
+add(1981,1,'Geometry',3.5,'The area decomposition fixes a weighted sum of the perpendicular distances, and one standard Cauchy–Schwarz application identifies the incenter as the unique equality case.',r'For an interior point $P$ of triangle $ABC$, let $D,E,F$ be its perpendicular feet on $BC,CA,AB$. Determine all $P$ minimising $BC/PD+CA/PE+AB/PF$.',r'''Write $a=BC,b=CA,c=AB$ and $x=PD,y=PE,z=PF$. If the triangle's area is $\Delta$, then $ax+by+cz=2\Delta$. Cauchy–Schwarz gives
+$$\left(\frac ax+\frac by+\frac cz\right)(ax+by+cz)\ge(a+b+c)^2.$$
+Equality holds exactly when $x=y=z$. The unique interior point equidistant from all three sidelines is the incenter. Thus it uniquely minimises the expression, whose minimum is $(a+b+c)^2/(2\Delta)$.''',['Area','Cauchy–Schwarz','Triangle centres'])
+add(1981,2,'Combinatorics',4,'Count pairs consisting of a subset and an integer below its minimum by adjoining that integer after shifting the subset; the bijection yields the average directly.',r'For $1\le r\le n$, take every $r$-element subset of $\{1,\ldots,n\}$. Show that the average of their minimum elements is $(n+1)/(r+1)$.',r'''The sum of all minima counts pairs $(S,t)$ where $S$ is an $r$-element subset of $\{1,\ldots,n\}$ and $1\le t\le\min S$. Map this pair to the $(r+1)$-element subset
+$$\{t\}\cup\{s+1:s\in S\}\subseteq\{1,\ldots,n+1\}.$$
+Its least member is $t$, so the map is bijective: remove the least member and subtract one from all others. Thus the sum of minima is $\binom{n+1}{r+1}$. Dividing by the number $\binom nr$ of subsets gives the stated average.''',['Bijection','Double counting','Binomial coefficients'])
+add(1981,3,'Number Theory',5.5,'A descent replacing a solution pair by consecutive differences proves that all positive solutions are consecutive Fibonacci numbers; the size bound then fixes the maximal pair.',r'For integers $1\le m,n\le1981$ satisfying $(n^2-mn-m^2)^2=1$, find the maximum of $m^3+n^3$.',r'''If $n\le m$, then $n^2-mn-m^2\le-m^2$, so the only possibility is $(m,n)=(1,1)$. Otherwise $n>m$. If $m>1$, the relation forces $n<2m$, since $n\ge2m$ would give $n^2-mn-m^2\ge m^2>1$.
+
+The pair $(n-m,m)$ is therefore positive and smaller, and
+$$m^2-m(n-m)-(n-m)^2=-(n^2-mn-m^2).$$
+Descent ends with $m=1$, where $n=1$ or $2$. Reversing the step gives exactly the consecutive Fibonacci pairs, beginning $(1,1),(1,2),(2,3),(3,5),\ldots$.
+
+The last pair within the bound is $(987,1597)$; the next is $(1597,2584)$. Both coordinates increase along this list, so the maximum is $987^3+1597^3$.''',['Descent','Diophantine equations','Fibonacci'])
+add(1981,4,'Number Theory',5,'Characterise the admissible largest term through its prime powers, reducing both existence and uniqueness to divisors of lcm(1,...,n−1).',r'For which integers $n>2$ does an interval of $n$ consecutive positive integers have its largest member dividing the least common multiple of the others? For which $n$ is there exactly one such interval?',r'''Let the largest member be $N\ge n$, and put $L=\operatorname{lcm}(1,\ldots,n-1)$. A prime power $p^e\mid N$ occurs in one of $N-1,\ldots,N-n+1$ exactly when $p^e\le n-1$: subtracting a multiple of $p^e$ from $N$ is necessary, and $N-p^e$ supplies one when the bound holds. Thus the interval works exactly when $N\mid L$ and $N\ge n$.
+
+For $n=3$, $L=2$, so none works. For $n=4$, $L=6$, whose only divisor at least four is six; the unique interval is $3,4,5,6$.
+
+For every $n\ge5$, consecutive integers $n-2,n-1$ are coprime, so $L\ge(n-2)(n-1)\ge2n$. Both $L$ and $L/2$ are distinct divisors of $L$ at least $n$, giving two intervals. Therefore existence holds exactly for $n\ge4$, and uniqueness exactly for $n=4$.''',['Divisibility','LCM','Prime powers','Construction'])
+add(1981,5,'Geometry',4.5,'Equal distances from the sides make the three circle centres a homothetic copy of the original triangle about its incenter; the common point is the smaller triangle’s circumcenter.',r'Three distinct congruent circles lie inside a triangle, each touching a different pair of sides, and have a common point $O$. Prove that $O$, the triangle’s incenter, and its circumcenter are collinear.',r'''Let $I$ be the incenter, $r$ the inradius, and $\rho$ the common circle radius. Let $D,E,F$ be the centres for the side pairs meeting at $A,B,C$. These centres lie on the respective angle bisectors. Because their distances to their two sides are $\rho$, whereas those of $I$ are $r$, we have
+$$D=I+t(A-I),\quad E=I+t(B-I),\quad F=I+t(C-I),\qquad t=1-\rho/r.$$
+The circles are distinct, so $\rho<r$ and $t>0$. Thus homothety about $I$ with ratio $t$ maps $ABC$ to $DEF$. If $C_0$ is the original circumcenter, the circumcenter of $DEF$ is $I+t(C_0-I)$. But $OD=OE=OF=\rho$, making $O$ precisely that circumcenter. Hence $O,I,C_0$ are collinear.''',['Homothety','Triangle centres','Circles'])
+add(1981,6,'Algebra',4.5,'Resolve the nested recurrence one row at a time, shifting by three in the third and fourth rows to expose repeated doubling and then a power tower.',r'For nonnegative integers $x,y$, suppose $f(0,y)=y+1$, $f(x+1,0)=f(x,1)$, and $f(x+1,y+1)=f(x,f(x+1,y))$. Determine $f(4,1981)$.',r'''Induction along successive rows gives
+$$f(1,y)=y+2,\qquad f(2,y)=2y+3.$$
+Then $f(3,0)=5$ and $f(3,y+1)=2f(3,y)+3$, so $f(3,y)=2^{y+3}-3$.
+
+Put $T_y=f(4,y)+3$. Since $f(4,0)=f(3,1)=13$, we have $T_0=16=2^{2^2}$. The defining recurrence gives $T_{y+1}=2^{T_y}$. Therefore $T_y$ is a right-associated tower of $y+3$ twos. The answer is a tower of $1984$ twos, minus three. These row inductions also show that the recurrence determines the value uniquely.''',['Functional equations','Recurrences','Exponentiation'])
+save()

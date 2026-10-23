@@ -1,0 +1,1913 @@
+{
+  "nzl_2025_1a7685": {
+    "difficulty": 4.5,
+    "ratingReason": "Requires a sharp upper bound by inductively fixing the largest label and a matching inversion-count lower bound; the allowed swaps are labels, not positions.",
+    "status": "reviewed"
+  },
+  "nzl_2025_25714c": {
+    "difficulty": 5,
+    "ratingReason": "Several angle-bisector ratios must be combined, then the converse bisector theorem turns the ratio identity into congruent triangles.",
+    "status": "reviewed"
+  },
+  "nzl_2025_40a702": {
+    "difficulty": 4,
+    "ratingReason": "The key is partitioning by the two coordinate parities, then proving both the parity obstruction and a matching pairing construction.",
+    "status": "reviewed"
+  },
+  "nzl_2025_620a4e": {
+    "difficulty": 3,
+    "ratingReason": "Small cases plus the elementary bound x^4+y^4 <= (x+y)^4 for nonnegative x,y settle the only difficult case n=3.",
+    "status": "reviewed"
+  },
+  "nzl_2025_6d1394": {
+    "difficulty": 1.5,
+    "ratingReason": "A single gcd linear-combination argument shows the gcd divides 2, with examples for both possibilities.",
+    "status": "reviewed"
+  },
+  "nzl_2025_7a6975": {
+    "difficulty": 4.5,
+    "ratingReason": "An angle chase first uncovers an unexpected isosceles triangle, then identifies a new circumcentre to obtain the required cyclicity.",
+    "status": "reviewed"
+  },
+  "nzl_2025_855484": {
+    "difficulty": 7,
+    "ratingReason": "Prime-factor counting forces multiples of a prime to be preserved; reduction to a smaller modulus plus Wilson requires a substantial structural argument. Publication withheld: n=1 is not excluded in the extracted statement but is omitted by the supplied answer.",
+    "status": "withheld-statement-ambiguity"
+  },
+  "nzl_2025_bd37d9": {
+    "difficulty": 4.5,
+    "ratingReason": "Both a universal palindrome bound and a carefully chosen period-six counterexample are needed; checking lengths five and six eliminates every longer palindrome.",
+    "status": "reviewed"
+  },
+  "nzl_2025_cae174": {
+    "difficulty": 3,
+    "ratingReason": "Completing a rectangle turns the given angles into one isosceles triangle; a short auxiliary construction.",
+    "status": "reviewed"
+  },
+  "nzl_2025_f1cc98": {
+    "difficulty": 4.5,
+    "ratingReason": "The expression must be split into two inequalities and the product constraint used to choose an effective Cauchy denominator.",
+    "status": "reviewed"
+  },
+  "nzl_2019_00434c": {
+    "difficulty": 1,
+    "ratingReason": "Direct inclusion-exclusion using the lcm.",
+    "status": "reviewed"
+  },
+  "nzl_2019_4c03eb": {
+    "difficulty": 4.5,
+    "ratingReason": "A constructive induction lifts a square root of -7 modulo powers of two, with a parity-sensitive correction to the root.",
+    "status": "reviewed"
+  },
+  "nzl_2019_e75f9a": {
+    "difficulty": 2,
+    "ratingReason": "The pointwise observation x^x >= x for x>0 immediately yields the sum bound.",
+    "status": "reviewed"
+  },
+  "nzl_2019_f86e01": {
+    "difficulty": 1,
+    "ratingReason": "Independent digit choices and the product rule.",
+    "status": "reviewed"
+  },
+  "nzl_2020_ec31e6": {
+    "difficulty": 4.5,
+    "ratingReason": "A useful pigeonhole partition into six arcs must be combined with a rigorous geometric upper bound for triangle area.",
+    "status": "reviewed"
+  },
+  "nzl_2020_ec82e1": {
+    "difficulty": 4,
+    "ratingReason": "The tangent-circle homothety sends the contact point to an arc midpoint, giving the angle bisector; recognizing that homothety is the main insight.",
+    "status": "reviewed"
+  },
+  "nzl_2020_f90226": {
+    "difficulty": 5.5,
+    "ratingReason": "Two separate cyclic angle chases yield similar triangles with a common product, giving equal squares of the two target segments.",
+    "status": "reviewed"
+  },
+  "nzl_2024_0098b6": {
+    "difficulty": 2,
+    "ratingReason": "The recurrence decreases until it enters [0,sqrt(2)], where the map immediately has period two.",
+    "status": "reviewed"
+  },
+  "nzl_2024_019b4a": {
+    "difficulty": 4.5,
+    "ratingReason": "Recasting consecutive sums as opposite-parity factors isolates powers of two and a small exceptional family; the endpoints require care.",
+    "status": "reviewed"
+  },
+  "nzl_2024_0eee35": {
+    "difficulty": 2.5,
+    "ratingReason": "Choose whichever of the two alternating patterns agrees with more odd-position coins; a sharp six-flip example completes the count.",
+    "status": "reviewed"
+  },
+  "nzl_2024_250d62": {
+    "difficulty": 2.5,
+    "ratingReason": "Two linear equations reduce to coprime divisibility and a short bound.",
+    "status": "reviewed"
+  },
+  "nzl_2024_3bea94": {
+    "difficulty": 2.5,
+    "ratingReason": "Translating two-digit conditions gives two elementary linear cases.",
+    "status": "reviewed"
+  },
+  "nzl_2024_81ef99": {
+    "difficulty": 6,
+    "ratingReason": "The hidden excircle and a homothety from C identify a difficult length ratio, then Menelaus supplies its complementary ratio.",
+    "status": "reviewed"
+  },
+  "nzl_2024_824e58": {
+    "difficulty": 1.5,
+    "ratingReason": "Direct telescoping of the product and a one-line denominator comparison.",
+    "status": "reviewed"
+  },
+  "nzl_2024_953689": {
+    "difficulty": 4.5,
+    "ratingReason": "The universal gcd condition is converted into a restriction on prime divisors of n-9 via modular inverses, followed by a converse.",
+    "status": "reviewed"
+  },
+  "nzl_2024_a1b930": {
+    "difficulty": 3.5,
+    "ratingReason": "The fold gives congruent triangles, an area ratio and Pythagoras; slightly below the chosen target range.",
+    "status": "reviewed"
+  },
+  "nzl_2024_bb7a20": {
+    "difficulty": 5,
+    "ratingReason": "A cyclic-angle chase establishes congruent triangles and a hidden perpendicular in an isosceles configuration.",
+    "status": "reviewed"
+  },
+  "nzl_2024_c850b6": {
+    "difficulty": 4.5,
+    "ratingReason": "Count pairs of columns sharing a red row to obtain an extremal bound, then realize it by one row per column-pair.",
+    "status": "reviewed"
+  },
+  "nzl_2024_e77716": {
+    "difficulty": 4.5,
+    "ratingReason": "A sharp supremum requires exploiting integer gaps, splitting the b=a+1 case, and constructing a sequence approaching the bound.",
+    "status": "reviewed"
+  },
+  "nzl_2023_00c5ff": {
+    "difficulty": 4.5,
+    "ratingReason": "Rewriting the exponential equation exposes x\u21945-x symmetry; existence and boundedness of roots must also be justified.",
+    "status": "reviewed"
+  },
+  "nzl_2023_24202d": {
+    "difficulty": 2.5,
+    "ratingReason": "The divisor condition reduces directly to 1/x+1/y=1/2 and a handful of denominator cases.",
+    "status": "reviewed"
+  },
+  "nzl_2023_5157e0": {
+    "difficulty": 5.5,
+    "ratingReason": "The cyclic quadratic relations yield product identities at the fixed points -1 and 2; symmetric sums then constrain the total to integers.",
+    "status": "reviewed"
+  },
+  "nzl_2023_548149": {
+    "difficulty": 4,
+    "ratingReason": "A non-neighbour union bound guarantees that a clique of at most six can be extended; recognizing the greedy construction is central.",
+    "status": "reviewed"
+  },
+  "nzl_2023_557f2a": {
+    "difficulty": 2,
+    "ratingReason": "The largest variable and a one-line product bound force the conclusion.",
+    "status": "reviewed"
+  },
+  "nzl_2023_6849e8": {
+    "difficulty": 2.5,
+    "ratingReason": "Two elementary area ratios under a homothety give the identity.",
+    "status": "reviewed"
+  },
+  "nzl_2023_7f3bf6": {
+    "difficulty": 4.5,
+    "ratingReason": "Viete identifies both the sum of roots and their reciprocals; equality in AM-HM/Cauchy forces all roots equal.",
+    "status": "reviewed"
+  },
+  "nzl_2023_83d8c8": {
+    "difficulty": 5,
+    "ratingReason": "Rotated congruent triangles reveal perpendicular lines and two hidden cyclic configurations, producing the collinearity.",
+    "status": "reviewed"
+  },
+  "nzl_2023_8e18b1": {
+    "difficulty": 3.5,
+    "ratingReason": "A factorial construction exploits p!=p(p-1)! with p itself a factorial; below the chosen core band.",
+    "status": "reviewed"
+  },
+  "nzl_2023_8e2dac": {
+    "difficulty": 5,
+    "ratingReason": "A pair-counting upper bound is paired with a less obvious modular-sum pigeonhole construction for the lower bound.",
+    "status": "reviewed"
+  },
+  "nzl_2023_c9246b": {
+    "difficulty": 5,
+    "ratingReason": "Angle-bisector lengths and Pythagoras must be combined with a carefully reversible polynomial calculation in both directions.",
+    "status": "reviewed"
+  },
+  "nzl_2023_e4670b": {
+    "difficulty": 3.5,
+    "ratingReason": "Three substitutions modulo p determine the coefficients except for the special prime 2.",
+    "status": "reviewed"
+  },
+  "nzl_2023_e48fce": {
+    "difficulty": 4.5,
+    "ratingReason": "An injection between partitions into distinct parts proves monotonicity; constructing missed images gives strictness for all large n.",
+    "status": "reviewed"
+  },
+  "nzl_2022_01b556": {
+    "difficulty": 5,
+    "ratingReason": "Incircle reflections reveal a hidden cyclic quadrilateral; two perpendicularities then turn the desired length equality into a parallelogram.",
+    "status": "reviewed"
+  },
+  "nzl_2022_1310f5": {
+    "difficulty": 6,
+    "ratingReason": "A weighted monovariant bounds all possible play, and attaining equality requires a carefully balanced endgame construction.",
+    "status": "reviewed"
+  },
+  "nzl_2022_20ea9e": {
+    "difficulty": null,
+    "ratingReason": "Withheld: the supplied solution silently uses x^2+y^2=2, absent from the statement. The extracted equation has every x+y=2 with x,y nonzero as solutions, so the stated answer x=y=1 is unreliable.",
+    "status": "withheld-corrupt-statement"
+  },
+  "nzl_2022_3c54f2": {
+    "difficulty": 2.5,
+    "ratingReason": "A midpoint equidistance identifies a circumcentre and immediately halves a central angle.",
+    "status": "reviewed"
+  },
+  "nzl_2022_53ca7a": {
+    "difficulty": 3,
+    "ratingReason": "A short constant-sum pairing construction, isolating the pair 0,1, makes the exponent a multiple of five.",
+    "status": "reviewed"
+  },
+  "nzl_2022_84f0a7": {
+    "difficulty": 7,
+    "ratingReason": "Divisibility of binomial coefficients must be translated to base-seven digit restrictions using valuations or Lucas, and optimized across an evolving recurrence.",
+    "status": "reviewed"
+  },
+  "nzl_2022_c16754": {
+    "difficulty": 4.5,
+    "ratingReason": "Total score and draw-count constraints rule out five teams; a separate explicit six-team tournament construction is required.",
+    "status": "reviewed"
+  },
+  "nzl_2022_c9e39f": {
+    "difficulty": 4,
+    "ratingReason": "Choosing equal-size subsets, bounding their reciprocal sums and cancelling intersections turns pigeonhole closeness into disjoint equal-size sets.",
+    "status": "reviewed"
+  },
+  "nzl_2022_ce30ed": {
+    "difficulty": 5.5,
+    "ratingReason": "Several deliberately chosen Cauchy and AM-GM bounds squeeze both sides to the same constant; equality conditions determine the root.",
+    "status": "reviewed"
+  },
+  "nzl_2022_f24a2b": {
+    "difficulty": 3.5,
+    "ratingReason": "The expression can be trapped strictly between consecutive squares for b>=2 and b<0, leaving two small values.",
+    "status": "reviewed"
+  },
+  "nzl_2021_059a42": {
+    "difficulty": 4.5,
+    "ratingReason": "Completing the square leaves a product of coprime consecutive-type factors; locating the remaining quadratic strictly between squares eliminates all large y.",
+    "status": "reviewed"
+  },
+  "nzl_2021_09239d": {
+    "difficulty": 3,
+    "ratingReason": "A parallel-line construction immediately creates two isosceles triangles; a short angle/length chase.",
+    "status": "reviewed"
+  },
+  "nzl_2021_130bfa": {
+    "difficulty": 3.5,
+    "ratingReason": "The key bound is a small residue-class pigeonhole argument modulo 3, followed by a four-element example.",
+    "status": "reviewed"
+  },
+  "nzl_2021_3b49fd": {
+    "difficulty": 4.5,
+    "ratingReason": "Factoring the equality forces a zero total sum; a constrained integer quadratic maximisation then needs careful boundary choices.",
+    "status": "reviewed"
+  },
+  "nzl_2021_4ce4b3": {
+    "difficulty": 2,
+    "ratingReason": "A direct four-term AM\u2013GM application gives the stated constant.",
+    "status": "reviewed"
+  },
+  "nzl_2021_808aa5": {
+    "difficulty": 3.5,
+    "ratingReason": "An elementary factorisation produces two prime powers with gcd dividing 5; only a short case split remains.",
+    "status": "reviewed"
+  },
+  "nzl_2021_83eadc": {
+    "difficulty": 3,
+    "ratingReason": "Translating percentages into three set-size inequalities settles the claim with routine counting.",
+    "status": "reviewed"
+  },
+  "nzl_2021_9ba1df": {
+    "difficulty": 4,
+    "ratingReason": "A sharp bound pairs each successful adjacency with a distinct small predecessor; odd-part doubling chains attain it.",
+    "status": "reviewed"
+  },
+  "nzl_2021_9e5636": {
+    "difficulty": 4.5,
+    "ratingReason": "The auxiliary circle and common tangent must be connected through a similarity before the final angle addition.",
+    "status": "reviewed"
+  },
+  "nzl_2021_b9824e": {
+    "difficulty": 3,
+    "ratingReason": "Two isosceles-triangle observations reduce the assertion to a brief angle chase.",
+    "status": "reviewed"
+  },
+  "nzl_2021_e1429c": {
+    "difficulty": 4,
+    "ratingReason": "A factorial construction simultaneously gives ten consecutive multiples while preserving each row; the scalable construction is the main idea.",
+    "status": "withheld-direction-typo"
+  },
+  "nzl_2021_e9c59b": {
+    "difficulty": 3.5,
+    "ratingReason": "Cyclicity and Ptolemy, or a four-copy rotation, give the diagonal from the two right angles.",
+    "status": "reviewed"
+  },
+  "nzl_2020_1ef7e9": {
+    "difficulty": 1,
+    "ratingReason": "The three congruences all state that N+2 is divisible by the pairwise coprime moduli.",
+    "status": "reviewed"
+  },
+  "nzl_2020_2c54ee": {
+    "difficulty": 2,
+    "ratingReason": "The required composition factors immediately as a product containing P.",
+    "status": "reviewed"
+  },
+  "nzl_2020_3fed2b": {
+    "difficulty": 4,
+    "ratingReason": "The turning-angle bound is short, but attaining every number of sides from 3 to 12 requires a systematic family of tilings.",
+    "status": "reviewed"
+  },
+  "nzl_2020_8c9dfe": {
+    "difficulty": 2,
+    "ratingReason": "A single check of quadratic residues modulo 5 leaves only one prime.",
+    "status": "reviewed"
+  },
+  "nzl_2020_94b6cb": {
+    "difficulty": 2,
+    "ratingReason": "Midpoint coordinates in a unit square prove the assertion in one calculation.",
+    "status": "reviewed"
+  },
+  "nzl_2020_97b090": {
+    "difficulty": 1.5,
+    "ratingReason": "Direct application of the exponent-of-2 formula for 50 factorial.",
+    "status": "reviewed"
+  },
+  "nzl_2020_ba5f19": {
+    "difficulty": 6.5,
+    "ratingReason": "A multi-stage forcing strategy needs a carefully packed reservoir of strips and repeated doubling to overcome the opponent.",
+    "status": "reviewed"
+  },
+  "nzl_2020_ea1ebe": {
+    "difficulty": 3.5,
+    "ratingReason": "Once each pair of symmetric positions is recognised as an independent choice, expanding one product gives the answer.",
+    "status": "reviewed"
+  },
+  "nzl_2019_0a5b42": {
+    "difficulty": 2,
+    "ratingReason": "Splitting the modulus as 20 times 101 makes the powers cancel in each modulus.",
+    "status": "reviewed"
+  },
+  "nzl_2019_29af8d": {
+    "difficulty": 2.5,
+    "ratingReason": "Only the elementary exponent-zero and base-plus-or-minus-one cases are needed, with domain checks.",
+    "status": "reviewed"
+  },
+  "nzl_2019_2b2db5": {
+    "difficulty": 6.5,
+    "ratingReason": "A non-obvious planar edge-end count forces a complete shared side; recognising the local vertex types is the central difficulty.",
+    "status": "reviewed"
+  },
+  "nzl_2019_3676e6": {
+    "difficulty": 1.5,
+    "ratingReason": "Menelaus or straightforward coordinates in the 3-4-5 triangle determine the length.",
+    "status": "reviewed"
+  },
+  "nzl_2019_48a921": {
+    "difficulty": 4,
+    "ratingReason": "The concealed orthocentre supplies a perpendicular; two cyclic quadrilaterals then complete the angle chase.",
+    "status": "reviewed"
+  },
+  "nzl_2019_a6c9a7": {
+    "difficulty": 5,
+    "ratingReason": "An auxiliary parallelogram and two separate congruences connect the midpoint to a circumcentre angle.",
+    "status": "reviewed"
+  },
+  "nzl_2019_d094da": {
+    "difficulty": 4.5,
+    "ratingReason": "The quartic must be multiplied by 4 and trapped between carefully selected nearby squares before resolving two quadratic cases.",
+    "status": "reviewed"
+  },
+  "nzl_2019_ddc4e8": {
+    "difficulty": 5.5,
+    "ratingReason": "A tailored n-term AM\u2013GM bound must be chosen separately for each index and recombined using the total sum.",
+    "status": "reviewed"
+  },
+  "nzl_2019_f4b384": {
+    "difficulty": 4.5,
+    "ratingReason": "Two elementary upper bounds are easy; finding a five-vertex cyclic difference set attaining every distance is the substantial step.",
+    "status": "reviewed"
+  },
+  "nzl_2025_fcbb8d": {
+    "difficulty": 5,
+    "ratingReason": "Fixing one coordinate at the right seed value turns the equation into a Vieta-jumping recurrence; growth and positivity must both be justified.",
+    "status": "reviewed"
+  },
+  "zaf_2024_1e6fce": {
+    "difficulty": 3,
+    "ratingReason": "Classifying which opposite-face pairs are painted yields factors n, n\u22121 or n\u22122; the factorisation of 245 is decisive.",
+    "status": "reviewed"
+  },
+  "zaf_2024_7bd6b6": {
+    "difficulty": 6.5,
+    "ratingReason": "The product-rule functional equation first forces values at three primes by congruences, then needs an engineered equality between two multiplicative expressions.",
+    "status": "reviewed"
+  },
+  "zaf_2024_a58f93": {
+    "difficulty": 5,
+    "ratingReason": "Parity alone is insufficient: cancelling repeated punches and examining extremal rows and columns forces at least three surviving cells.",
+    "status": "reviewed"
+  },
+  "zaf_2024_b1b718": {
+    "difficulty": 5,
+    "ratingReason": "The tangency constraints impose a non-obvious relation between the three radii; combining it with the cosine rule proves strict acuteness.",
+    "status": "reviewed"
+  },
+  "zaf_2024_b569f7": {
+    "difficulty": 4,
+    "ratingReason": "Subtracting the expected cubic reduces the problem to a discrete affine equation; the integer-domain recurrence must be proved in both directions.",
+    "status": "reviewed"
+  },
+  "zaf_2024_d17f15": {
+    "difficulty": 2.5,
+    "ratingReason": "Raising to the sixth power and using coarse rational bounds separates the two quantities.",
+    "status": "reviewed"
+  },
+  "zaf_2023_3961a2": {
+    "difficulty": 6,
+    "ratingReason": "The lower bound is immediate, but the upper bound requires encoding rooted-subtree deletions injectively by weak compositions.",
+    "status": "reviewed"
+  },
+  "zaf_2023_979006": {
+    "difficulty": 4.5,
+    "ratingReason": "Closure under subtraction must be converted to integer linear combinations, then a deliberately chosen difference of squares produces 1.",
+    "status": "reviewed"
+  },
+  "zaf_2023_a0d35e": {
+    "difficulty": 3,
+    "ratingReason": "Cyclicity and two similarities reduce the length calculation to Pythagoras.",
+    "status": "reviewed"
+  },
+  "zaf_2023_ab4da3": {
+    "difficulty": 7.5,
+    "ratingReason": "Several auxiliary feet and circle intersections are needed to reveal a Pascal configuration; above the target geometry threshold.",
+    "status": "reviewed"
+  },
+  "zaf_2023_b8796b": {
+    "difficulty": 3.5,
+    "ratingReason": "Separating the gcd from coprime factors reduces both extrema to short divisibility and inequality arguments.",
+    "status": "reviewed"
+  },
+  "zaf_2023_d19fb1": {
+    "difficulty": 1,
+    "ratingReason": "Substitute the two radicals as variables and solve a linear system.",
+    "status": "reviewed"
+  },
+  "zaf_2022_0249f3": {
+    "difficulty": 2.5,
+    "ratingReason": "A small finite case count on a 4 by 4 lattice, with inner and boundary points separated.",
+    "status": "reviewed"
+  },
+  "zaf_2022_208a50": {
+    "difficulty": 6,
+    "ratingReason": "Finding the quadratic map 1\u22122x\u00b2 that preserves the relation is the substantial insight; composition then yields infinitely many degrees.",
+    "status": "reviewed"
+  },
+  "zaf_2022_a87f59": {
+    "difficulty": 2.5,
+    "ratingReason": "Completing squares and adding/subtracting equations reduces the system to four linear systems.",
+    "status": "reviewed"
+  },
+  "zaf_2022_abe3dd": {
+    "difficulty": 5.5,
+    "ratingReason": "A local monochromatic-clique obstruction gives the sharp nine-vertex bound, and a modular 3 by 3 construction is needed to attain it.",
+    "status": "reviewed"
+  },
+  "zaf_2022_ad8e16": {
+    "difficulty": 4.5,
+    "ratingReason": "Adding the second intersection with the equal-chord triangle reveals a cyclic quadrilateral and a useful congruence.",
+    "status": "reviewed"
+  },
+  "zaf_2022_df46e4": {
+    "difficulty": 4.5,
+    "ratingReason": "After dividing out the common gcd, one must choose a multiplier avoiding each relevant prime simultaneously; a prime-product construction does this.",
+    "status": "reviewed"
+  },
+  "zaf_2021_2659d2": {
+    "difficulty": 5,
+    "ratingReason": "Nonzero solutions are ruled out by incompatible signs of leading coefficients; handling zero-polynomial cases then gives the full classification.",
+    "status": "reviewed"
+  },
+  "zaf_2021_2eaf64": {
+    "difficulty": 3,
+    "ratingReason": "Parity and squares modulo 8 rule out small counts; a small numerical construction attains five.",
+    "status": "reviewed"
+  },
+  "zaf_2021_4c44fd": {
+    "difficulty": 1.5,
+    "ratingReason": "The standard divisibility-by-11 rule reduces the task to digit bounds.",
+    "status": "reviewed"
+  },
+  "zaf_2021_757d61": {
+    "difficulty": 5.5,
+    "ratingReason": "The hidden fact that the orthocentre lies on a second circumcircle is needed before the equal-chord tangent angle chase.",
+    "status": "reviewed"
+  },
+  "zaf_2021_7cf93c": {
+    "difficulty": 5.5,
+    "ratingReason": "The lower bound is a residue count, while the sharp opponent strategy needs a one-step shift of copying and careful exhaustion cases.",
+    "status": "reviewed"
+  },
+  "zaf_2021_d88600": {
+    "difficulty": 3,
+    "ratingReason": "Similarity followed by Pythagoras and the cosine rule gives a single quadratic equation.",
+    "status": "reviewed"
+  },
+  "zaf_2020_0df402": {
+    "difficulty": 2,
+    "ratingReason": "Subtract four congruent right triangles from the square using a 30-degree tangent.",
+    "status": "reviewed"
+  },
+  "zaf_2020_6e1c8c": {
+    "difficulty": 2.5,
+    "ratingReason": "The divisor-count formula leaves only a few exponent patterns to compare.",
+    "status": "reviewed"
+  },
+  "zaf_2020_86344b": {
+    "difficulty": 3,
+    "ratingReason": "Translation of the variables extracts the elementary symmetric sums, then evaluates a cubic.",
+    "status": "reviewed"
+  },
+  "zaf_2020_93adcb": {
+    "difficulty": 7.5,
+    "ratingReason": "A two-family binary-dependent classification of every losing population requires a long and delicate induction beyond the target band.",
+    "status": "reviewed"
+  },
+  "zaf_2020_b9cbc5": {
+    "difficulty": 5.5,
+    "ratingReason": "Two isosceles triangles first give cyclicity; locating the centre then requires a second cyclic quadrilateral and congruent triangles.",
+    "status": "reviewed"
+  },
+  "zaf_2020_ce7e40": {
+    "difficulty": 5,
+    "ratingReason": "The representation must first be recognised as integer division; the count then hinges on splitting distinct floor quotients at the square root.",
+    "status": "reviewed"
+  },
+  "zaf_2019_0285bf": {
+    "difficulty": 4.5,
+    "ratingReason": "Two small moduli force both exponents even; a difference of squares then pits exponential growth against a quadratic.",
+    "status": "reviewed"
+  },
+  "zaf_2019_363344": {
+    "difficulty": 4,
+    "ratingReason": "Reversing the order of summation turns weighted cell counts into a signed contribution of one per odd-sided rectangle.",
+    "status": "reviewed"
+  },
+  "zaf_2019_5b57b4": {
+    "difficulty": 2.5,
+    "ratingReason": "Prime valuations give the required multiple of 10 and two exceptional small cases.",
+    "status": "reviewed"
+  },
+  "zaf_2019_749c3b": {
+    "difficulty": 7,
+    "ratingReason": "After establishing oddness, a cubic factorisation creates an exceptional branch; classifying and verifying its period-three behaviour is intricate.",
+    "status": "reviewed"
+  },
+  "zaf_2019_df4d67": {
+    "difficulty": 4,
+    "ratingReason": "The fixed 45-degree inscribed angle produces perpendicular radii; a tangent addition identity or circle coordinates then gives the invariant product.",
+    "status": "reviewed"
+  },
+  "zaf_2019_edda11": {
+    "difficulty": 2.5,
+    "ratingReason": "Sum an arithmetic progression and enumerate its six possible lengths.",
+    "status": "reviewed"
+  },
+  "zaf_2018_087067": {
+    "difficulty": 4,
+    "ratingReason": "Recognising the circle with diameter PH reveals similarity of the pedal triangle with ABC and gives the area ratio.",
+    "status": "reviewed"
+  },
+  "zaf_2018_50aa0d": {
+    "difficulty": 2,
+    "ratingReason": "A direct count factors into 2(a\u22125)(b\u22125), while parity rules out one quarter.",
+    "status": "reviewed"
+  },
+  "zaf_2018_d3dd8e": {
+    "difficulty": 3,
+    "ratingReason": "Three isosceles triangles are similar; the two given ratios lead to a short quadratic calculation.",
+    "status": "reviewed"
+  },
+  "zaf_2018_db51e2": {
+    "difficulty": 5,
+    "ratingReason": "Strict increase traps each divisibility quotient; identifying the first departure from the minimal sequence gives the full family.",
+    "status": "reviewed"
+  },
+  "zaf_2018_f9177a": {
+    "difficulty": 4,
+    "ratingReason": "Factoring a sum of cubes gives a constrained minimum; a sharp balanced-summands bound justifies stopping the search.",
+    "status": "reviewed"
+  },
+  "zaf_2018_fb89ce": {
+    "difficulty": 5.5,
+    "ratingReason": "Extremal pure prime powers survive cancellation; the infinite sharp construction needs a recursive three-copy cancellation pattern.",
+    "status": "reviewed"
+  },
+  "zaf_2016_39e520": {
+    "difficulty": 8,
+    "ratingReason": "The d=0 classification needs asymptotic control of integer solutions and reflection symmetry of even-degree polynomials, substantially above the target.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2016_6bd7a1": {
+    "difficulty": 4.5,
+    "ratingReason": "Introducing the second circle intersection reveals an auxiliary cyclic quadrilateral; the equal-angle hypothesis then forces collinearity.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2016_89ba0d": {
+    "difficulty": 3,
+    "ratingReason": "Congruent right triangles fix two side pieces, then two applications of Pythagoras finish.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2016_a47832": {
+    "difficulty": 4.5,
+    "ratingReason": "The infinite family is obtained by cancelling the odd denominator with a modular choice and interpreting a dyadic rational in binary.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2016_dbac7f": {
+    "difficulty": 2,
+    "ratingReason": "Digit-length bounds identify the best numerator and denominator directly.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2016_ddea36": {
+    "difficulty": 5.5,
+    "ratingReason": "A sharp game bound requires an induction strategy that deletes at least two forbidden cells on each pair of turns.",
+    "status": "reviewed",
+    "correctedYear": 2017
+  },
+  "zaf_2014_3326a2": {
+    "difficulty": 1.5,
+    "ratingReason": "Divisibility by 25 and the residue of an odd square modulo 4 determine the last two digits.",
+    "status": "reviewed"
+  },
+  "zaf_2014_5b73c0": {
+    "difficulty": 4.5,
+    "ratingReason": "Fixing the green positions gives a product count for the blue choices, and AM\u2013GM compares it with a uniform row count.",
+    "status": "withheld-malformed-comparison"
+  },
+  "zaf_2014_5c8782": {
+    "difficulty": 1.5,
+    "ratingReason": "Subtracting a common reference variable reduces the ratios to two linear equations.",
+    "status": "reviewed"
+  },
+  "zaf_2014_c8f8c7": {
+    "difficulty": 3.5,
+    "ratingReason": "Two altitude-foot circles turn the parallelism assumptions into linear relations among the three angles.",
+    "status": "reviewed"
+  },
+  "zaf_2014_cc2e00": {
+    "difficulty": 4.5,
+    "ratingReason": "The area product condition gives a rank-one determinant identity; expanding a 2 by 2 minor forces one pair of direction vectors to be parallel.",
+    "status": "reviewed"
+  },
+  "zaf_2014_dad48a": {
+    "difficulty": 4.5,
+    "ratingReason": "Recovering the gcd from the whole expression proves injectivity; a shifted product factorisation then eliminates the specific target.",
+    "status": "reviewed"
+  },
+  "zaf_2012_1a4c79": {
+    "difficulty": 2.5,
+    "ratingReason": "Similar triangles express the area in one height variable and a factorable quadratic.",
+    "status": "reviewed"
+  },
+  "zaf_2012_72f0ab": {
+    "difficulty": 5.5,
+    "ratingReason": "Substitutions give a bounded range, then repeated squaring amplifies any value above 1 until it contradicts the bound.",
+    "status": "reviewed"
+  },
+  "zaf_2012_7d6b7f": {
+    "difficulty": 5,
+    "ratingReason": "Coprime factorisation into kth powers and a separate prime-divisibility case reduce uniqueness to a strictly increasing expression.",
+    "status": "reviewed"
+  },
+  "zaf_2012_846aaa": {
+    "difficulty": 3.5,
+    "ratingReason": "The antipodal point to A makes a parallelogram with the orthocentre, producing a common median immediately.",
+    "status": "reviewed"
+  },
+  "zaf_2012_8dbc08": {
+    "difficulty": 1,
+    "ratingReason": "Standard arithmetic-series sums reduce the equation to n/(n+1).",
+    "status": "reviewed"
+  },
+  "zaf_2012_ddd90b": {
+    "difficulty": 3,
+    "ratingReason": "A well-chosen weight for each colour bounds every edge contribution; alternating red and non-red attains the bound.",
+    "status": "reviewed"
+  },
+  "zaf_2010_1393a5": {
+    "difficulty": 5.5,
+    "ratingReason": "Double counting the majority-sign rows and columns gives a sharp quadratic bound, and parity-sensitive block constructions attain it.",
+    "status": "reviewed"
+  },
+  "zaf_2010_20bbd0": {
+    "difficulty": 2.5,
+    "ratingReason": "Monotonicity gives x_k\u22641/\u221ak, so termwise comparison with the squared-norm sum proves the claim.",
+    "status": "reviewed"
+  },
+  "zaf_2010_766a2d": {
+    "difficulty": 2,
+    "ratingReason": "Coordinate expansion cancels both variables, equivalently a direct use of Stewart\u2019s theorem.",
+    "status": "reviewed"
+  },
+  "zaf_2010_841850": {
+    "difficulty": 4.5,
+    "ratingReason": "Modulo 5 restricts the product length, then the four-consecutive-integers-plus-one square identity and a prime valuation finish the classification.",
+    "status": "reviewed"
+  },
+  "zaf_2010_da2c8f": {
+    "difficulty": 2,
+    "ratingReason": "Expanding decimal digits bounds the number to two digits and leaves three unit-digit cases.",
+    "status": "reviewed"
+  },
+  "zaf_2015_0992f7": {
+    "difficulty": 3,
+    "ratingReason": "Pair the complementary residue classes modulo 7 and keep the larger class from each pair, plus one multiple of 7.",
+    "status": "reviewed"
+  },
+  "zaf_2015_2b154d": {
+    "difficulty": 5,
+    "ratingReason": "Coprimality of consecutive divisors forces special divisors below the square root; equality then forces an initial interval of divisors and a short classification.",
+    "status": "reviewed"
+  },
+  "zaf_2015_2dc78b": {
+    "difficulty": 4.5,
+    "ratingReason": "The non-crossing condition forces one of the two extreme vertices to be a leaf, giving a binomial recurrence.",
+    "status": "reviewed"
+  },
+  "zaf_2015_481919": {
+    "difficulty": 3,
+    "ratingReason": "Prime-factor exponent counting is elementary, but the extracted input list disagrees with the supplied solution.",
+    "status": "withheld-inconsistent-statement-solution"
+  },
+  "zaf_2015_5907c3": {
+    "difficulty": 3,
+    "ratingReason": "Isosceles-triangle angle chasing and the diagonal symmetry of the square give the equilateral triangle.",
+    "status": "reviewed"
+  },
+  "zaf_2015_6185c8": {
+    "difficulty": 5.5,
+    "ratingReason": "The first two parts are parity observations; the sharp bound in part c needs a geometric partition and a second counting obstruction.",
+    "status": "reviewed"
+  },
+  "zaf_2015_7a2a5b": {
+    "difficulty": 5.5,
+    "ratingReason": "Reducing modulo n!+a introduces a central binomial coefficient; factorial growth then rules out infinitely many nonzero remainders.",
+    "status": "reviewed"
+  },
+  "zaf_2015_bd81f8": {
+    "difficulty": 2.5,
+    "ratingReason": "Subtract the equations to factor (a\u22128)(x\u00b2\u22121), then solve three elementary branches.",
+    "status": "reviewed"
+  },
+  "zaf_2015_d3d293": {
+    "difficulty": 4,
+    "ratingReason": "The equal lengths and circle angles give one isosceles triangle and one congruence, proving three radii equal.",
+    "status": "reviewed"
+  },
+  "zaf_2015_f14502": {
+    "difficulty": 2,
+    "ratingReason": "Factor 31 from the expression, then use parity and divisibility of an odd power sum by 5+31.",
+    "status": "reviewed"
+  },
+  "zaf_2016_130699": {
+    "difficulty": 5,
+    "ratingReason": "The quotient needs a geometric-sum decomposition before power-mean inequalities can control every summand sharply.",
+    "status": "reviewed"
+  },
+  "zaf_2016_2858c2": {
+    "difficulty": 3.5,
+    "ratingReason": "The common axis of the two quadratics pairs outer and inner roots; consecutive spacings determine the two coefficients.",
+    "status": "reviewed"
+  },
+  "zaf_2016_3fc13e": {
+    "difficulty": 3.5,
+    "ratingReason": "Similarity places P on the circle with diameter AI; one additional cyclic quadrilateral immediately yields collinearity.",
+    "status": "reviewed"
+  },
+  "zaf_2016_d53b96": {
+    "difficulty": 4.5,
+    "ratingReason": "A simultaneous induction over the upper binomial index uses Pascal\u2019s identity and the divisibility chain of the least common multiples.",
+    "status": "reviewed"
+  },
+  "zaf_2016_fc6573": {
+    "difficulty": 4.5,
+    "ratingReason": "Small impossible configurations require incidence counting, while all larger cases follow from an auxiliary ordinary-intersection construction.",
+    "status": "reviewed"
+  },
+  "zaf_2011_0a2492": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_1270e2": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_15091e": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_167482": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_2fc52b": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_3703a0": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_3af468": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_4ef91c": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_501c0f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_525a9c": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_67f654": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_69a07e": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_6b9f6b": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_7190fc": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_769098": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_80c817": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_84a0a3": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_9aa3c1": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_a1884f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_a9a9de": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_b366da": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bd1305": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bd260c": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bea081": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bebb23": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bf09c6": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_bf0cf6": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_c197ee": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_c4066a": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_c99bd2": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_dbddff": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_df8e65": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_ee84ad": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_f23b6a": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2011_f8cf9d": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_06ca31": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_07bd06": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_18463b": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_18a50f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_1f0e21": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_23f986": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_301df6": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_314ec5": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_3236f2": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_3ad2b4": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_3f6b78": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_40cd33": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_4f32d5": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_5a259f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_60b3d1": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_6878dd": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_7214a8": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_731e4f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_751ea4": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_79d82f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_7f1599": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_862907": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_96d331": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_9fc21c": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_a2002b": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_a31cd2": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_a5f5b8": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_a70662": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_af7ce8": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_b4209f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_b4290f": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_b81c59": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_c7fa61": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_c9fcf3": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_d737ff": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_e43adf": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_f15929": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_f15f9c": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_f271d5": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_f56156": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_f7ece2": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2012_fb84f7": {
+    "difficulty": null,
+    "ratingReason": "Training-camp/monthly-set reprint, not a national competition paper; original contest provenance requires separate audit.",
+    "status": "deferred-training-provenance"
+  },
+  "zaf_2015_0508a1": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_07d92a": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_093a4b": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_1d608d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_246458": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_27ba4c": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_2caf61": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_2d48fd": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_2ebb2a": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_30e115": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_31f1c9": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_33cbe3": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_3ba505": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_3c3006": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_3ce2a3": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_3ff160": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_4b76e7": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_4e9310": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_5adfdc": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_5bafb1": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_628735": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_63a6b3": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_645bd2": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_6942c4": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_699ce3": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_70c173": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_7110bc": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_74cb23": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_787265": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_7e63e1": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_7f8a36": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_828469": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_850b71": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_88853f": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_8e4979": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_997d89": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_99af0e": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_99ec3b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_9ca797": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_a2d099": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_a3b1a6": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_a3b494": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_a488f5": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_a9707f": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_aa2dd1": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_aff6fe": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_b2d095": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_b5155b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_bb5e2f": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_bddbcd": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_c68f20": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_c72b70": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_c9f1eb": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_cc3ea1": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_cfe9b6": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_d3df5b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_d74141": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_df1413": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_df2e72": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_e6cfa6": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_e9fb7b": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_ea8e98": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_eb8c0f": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_ed195b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_eeff9b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_f11821": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_f55586": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_f828ab": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2015_fb22c5": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_fbc057": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_fec099": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2015_ff4316": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_09dcc9": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_0b0335": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_0b7516": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_1018ef": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_1069d2": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_11f947": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_17dfa4": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_22c80d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_258a17": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_28d11d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_2b7c9a": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_33d114": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_39da31": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_3b161b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_3e621b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_3e970c": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_436e04": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_4378ba": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_44ed99": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_4ddc2c": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_539adb": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_5645bf": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_59c47d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_5c9889": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_6014fd": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_66c9e3": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_6829e7": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_70fcea": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_7347fe": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_73e058": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_75b163": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_782630": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_7b245d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_7e6798": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_83d6fb": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_886dee": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_89f165": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_8e13f5": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_902928": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_9053af": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_906e27": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_97e86a": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_a581d4": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_a60c14": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_a99075": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_b25ef6": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_b518e2": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_b7847d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_ba0e64": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_c00e35": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_c166cd": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_c270ab": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_c45fe7": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_c7b567": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_c8863d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_caac69": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_cd8932": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_d24d9d": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_da12bb": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_da4d13": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_dd92e2": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_de52db": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_df001f": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_df72d6": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_e579ff": {
+    "difficulty": null,
+    "ratingReason": "A diagram or extraction repair is needed before a reliable content assessment.",
+    "status": "withheld-diagram-or-extraction"
+  },
+  "zaf_2016_e5ca3f": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_e62dc1": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_efca58": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_f28ade": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  },
+  "zaf_2016_f6c79b": {
+    "difficulty": null,
+    "ratingReason": "Read statement: routine arithmetic, elementary counting, elementary algebra or short congruence argument below the hard-BMO1 inclusion band.",
+    "status": "screened-below-target"
+  }
+}

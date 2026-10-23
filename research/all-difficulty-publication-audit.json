@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "previousIncluded": 2736,
+  "included": 4402,
+  "added": 1666,
+  "difficultyDistribution": {
+    "belowPreferred": 1358,
+    "preferred": 2736,
+    "abovePreferred": 308
+  },
+  "countriesAndBodies": 98,
+  "screenedAppearances": 4552,
+  "completePapers": 578,
+  "completePaperCountNote": "57 already fully assessed international papers now match their normalized country labels in the coverage compiler; these are not new assessments.",
+  "previousIdsLost": [],
+  "previousNumericalRatingsChanged": [
+    {
+      "id": "bmo-1974-qB6",
+      "before": 6,
+      "after": 4.5
+    }
+  ],
+  "ratingCorrectionNote": "BMO1974 B6: corrected the statement against the original paper and supplied an independent proof, recorded in the British source audit. All restoration ratings otherwise preserve the prior individual review.",
+  "recentBmoQuestions": 101,
+  "recentBmoBankLinks": 101,
+  "validation": {
+    "expressions": 75999,
+    "errors": [],
+    "warnings": [
+      {
+        "id": "pamo_2006_4",
+        "warning": "Unusually short difficulty justification"
+      },
+      {
+        "id": "pamo_2000_1",
+        "warning": "Unusually short difficulty justification"
+      },
+      {
+        "id": "ca-cmo-1971-1",
+        "warning": "Unusually short difficulty justification"
+      },
+      {
+        "id": "ca-cmo-1971-2",
+        "warning": "Unusually short difficulty justification"
+      }
+    ]
+  },
+  "scope": "All supported, individually assessed questions are eligible on 1–10; 4–7 is the default filter. Source/proof holds and unreviewed archives remain separate.",
+  "subtopicNormalization": "Equivalent reviewed technique names are grouped into 63 consistent subtopic filter labels; detailed tags remain available. No numerical ratings changed."
+}

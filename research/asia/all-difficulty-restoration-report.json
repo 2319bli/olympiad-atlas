@@ -1,0 +1,222 @@
+{
+  "included": 756,
+  "added": 306,
+  "held": [
+    {
+      "id": "ind_2006_886951",
+      "difficulty": 6,
+      "reason": "Source statement incorrectly prints d_1 in place of d_7; original paper must be checked before publishing.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2006_b24c4d",
+      "difficulty": 6,
+      "reason": "The statement omits a distinctness requirement for the arithmetic progressions and is false with repetitions; original paper needs checking.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2006_c679ac",
+      "difficulty": 6.5,
+      "reason": "The supplied solution depends on undefined auxiliary points in a diagram; no fully verified text solution yet.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2007_4ee184",
+      "difficulty": 5.5,
+      "reason": "Statement permits substring sums only from -1 to 2, while supplied solution counts OO as balanced; original must be verified.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2007_e3aa55",
+      "difficulty": 8,
+      "reason": "The supplied claim and solution are invalid for p=7: (x,y)=(25,120) is a nontrivial solution; original condition probably corrupted.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2008_60beb2",
+      "difficulty": 2,
+      "reason": "The published OCR statement lacks a nonzero requirement on Q and R and is therefore trivial; intended version unverified.",
+      "duplicateOf": null
+    },
+    {
+      "id": "vnm_2024_50aaba",
+      "difficulty": 6,
+      "reason": "The displayed a_n formula is undefined for some n and contradicts the solution; original formula must be verified.",
+      "duplicateOf": null
+    },
+    {
+      "id": "phl_2023_c29999",
+      "difficulty": 4,
+      "reason": "Inconsistent statement: the cubic for the three logarithms has only one root above 1, whereas a<b<c requires two.",
+      "duplicateOf": null
+    },
+    {
+      "id": "tha_2017_124959",
+      "difficulty": 7.5,
+      "reason": "Duplicate statement of tha_2017_819f39 in the same booklet.",
+      "duplicateOf": "tha_2017_819f39"
+    },
+    {
+      "id": "ind_2010_674c3e",
+      "difficulty": 3,
+      "reason": "Transcribed denominator lacks the inner floor: the displayed a_n=floor(n/sqrt(n)) is nondecreasing and contradicts the supplied solution. Withheld pending original-paper verification.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2010_c294d1",
+      "difficulty": 5,
+      "reason": "The statement omits the assumption that c is odd used by the solution. As displayed, x^3=0 gives alpha=beta=gamma=0 and contradicts beta!=gamma; withheld.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2011_60c493",
+      "difficulty": 4,
+      "reason": "Duplicate of INMO 2011 Q4 (ind_2011_1536f1); source labels this copy Q3, corrected against official paper.",
+      "duplicateOf": "ind_2011_1536f1"
+    },
+    {
+      "id": "chn_2021_4a44dc",
+      "difficulty": 2.5,
+      "reason": "Equivalent alternate paper appearance of chn_2021_248190: B1 Q10 asks for a minimum, while A1 Q9 asks for the value; the hypotheses force the same constant. Both appearances are retained on the canonical entry.",
+      "duplicateOf": "chn_2021_248190"
+    },
+    {
+      "id": "chn_2021_bba8ea",
+      "difficulty": 3.5,
+      "reason": "The statement only sets a1=a2=a3, whereas the source solution assumes they equal 1. The value of a100 is not uniquely determined as displayed; withheld.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2021_d90250",
+      "difficulty": 4.5,
+      "reason": "Most geometric hypotheses are missing: the statement only specifies an arbitrary ellipse, while the solution relies on points A,B,F,P,Q and an absent dot-product equality. Withheld.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2013_62053d",
+      "difficulty": 6.5,
+      "reason": "Source conclusion says excenter, while the provided argument establishes equal distances to the three vertices, i.e. a circumcenter. The central term is mistranscribed; withheld pending original verification.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2013_b1261c",
+      "difficulty": 4.5,
+      "reason": "The statement omits positivity of the roots. With only real roots, a=0,b=-1 already makes the requested expression undefined, and the positive-root AM-GM solution is inapplicable.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2013_ef87dd",
+      "difficulty": 6.5,
+      "reason": "The statement says the incircle touches both BC and AD at D and E, although AD passes through the first contact D; this is geometrically inconsistent. The source solution also starts with missing auxiliary definitions. Withheld.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2012_a05f33",
+      "difficulty": 2,
+      "reason": "For unbounded primes p, 9^p−29^p tends to negative infinity, so no fixed m can satisfy the displayed inequality. The source record has no solution and likely lost exponent/divisibility notation; withheld.",
+      "duplicateOf": null
+    },
+    {
+      "id": "sau_2024_58cf0d",
+      "difficulty": 8,
+      "reason": "Withheld: statement says the median meets the circle at D, whereas its first proof step requires the A-symmedian (ABDC harmonic). Exact original statement must be checked.",
+      "duplicateOf": null
+    },
+    {
+      "id": "idn_2021_national_q7",
+      "difficulty": 6.5,
+      "reason": "Withheld: point P is not defined in the printed task, and the author documents a counterexample even to the intended converse. Needs a corrected original statement.",
+      "duplicateOf": null
+    },
+    {
+      "id": "idn_2024_province_short_q8",
+      "difficulty": 3.5,
+      "reason": "Withheld: the printed statement lacks the absolute value used in the worked solution. Taking a=b=0 and c tending to negative infinity makes the requested expression unbounded below.",
+      "duplicateOf": null
+    },
+    {
+      "id": "idn_2024_province_proof_q3",
+      "difficulty": 6,
+      "reason": "Withheld pending a nondegeneracy condition: for A=(0,0), B=(1,0), C=(1,1), one gets Z1=Z2=(1/2,1/2), Y1=(3/4,1/4), Y2=(1,0). Then K=(0,-1/2) satisfies both given equal-distance conditions but KB is not KC. The source does not exclude right triangles or coincident constructed points.",
+      "duplicateOf": null
+    },
+    {
+      "id": "bgd_2024_national_secondary_q5",
+      "difficulty": 5.5,
+      "reason": "Withheld: the official statement is false as written. Take P=(-1,0), Q=(1,0), X=(0,2), Y=(0,-1/2). Both circumradii are 5/4 and both incenters lie on the perpendicular bisector through M, but XPYQ is not a parallelogram.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2020_2e1b0e",
+      "difficulty": 4,
+      "reason": "Withheld: the printed vector equation forces P=D and is incompatible with the stated convex trapezoid; the solution uses a different midpoint-weight relation. Correct original equation required.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2011_6ce2fb",
+      "difficulty": 4,
+      "reason": "Duplicate of chn_2011_002f2e, the same CWMO 2011 Q5; retained only once in the bank.",
+      "duplicateOf": "chn_2011_002f2e"
+    },
+    {
+      "id": "ind_2017_8680c5",
+      "difficulty": null,
+      "reason": "Held unrated: the supplied geometry proof has substantive gaps; a verified replacement or official solution is still required.",
+      "duplicateOf": null
+    },
+    {
+      "id": "ind_2024_645575",
+      "difficulty": 4.5,
+      "reason": "Duplicate transcription of the same official 2024 national question; canonical record ind_2024_0502bc preserves the complete assessed problem.",
+      "duplicateOf": "ind_2024_0502bc"
+    },
+    {
+      "id": "ind_2024_e517c1",
+      "difficulty": 4.5,
+      "reason": "Duplicate transcription of the same official 2024 national question; canonical record ind_2024_0502bc preserves the complete assessed problem.",
+      "duplicateOf": "ind_2024_0502bc"
+    },
+    {
+      "id": "ind_2024_509a9f",
+      "difficulty": 4,
+      "reason": "Duplicate transcription of the same official 2024 national question; canonical record ind_2024_36beb1 preserves the complete assessed problem.",
+      "duplicateOf": "ind_2024_36beb1"
+    },
+    {
+      "id": "ind_2024_77f17d",
+      "difficulty": 4,
+      "reason": "Duplicate transcription of the same official 2024 national question; canonical record ind_2024_36beb1 preserves the complete assessed problem.",
+      "duplicateOf": "ind_2024_36beb1"
+    },
+    {
+      "id": "chn_2012_e3b71a",
+      "difficulty": null,
+      "reason": "Held unrated pending an independent proof or verified solution of the sharp ratio inequality and all equality positions.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2012_be2a8e",
+      "difficulty": null,
+      "reason": "Held unrated: the transcription of the constructive colouring needs original-source verification. The parity obstruction alone is not a complete solution.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2012_a355ed",
+      "difficulty": null,
+      "reason": "Held unrated; alternate transcription of chn_2012_be2a8e, whose even-order construction remains unresolved.",
+      "duplicateOf": "chn_2012_be2a8e"
+    },
+    {
+      "id": "jpn_2022_3901aa",
+      "difficulty": null,
+      "reason": "Held unrated pending independent verification of the circumcentre identification and the possible tangent/intersection cases; the source explicitly flags a sidedness requirement.",
+      "duplicateOf": null
+    },
+    {
+      "id": "chn_2002_ea4526",
+      "difficulty": null,
+      "reason": "Held unrated as an incomplete question transcription. The nine-point part has the affine-plane construction over F3, but that does not establish assessment of the entire original question.",
+      "duplicateOf": null
+    }
+  ]
+}

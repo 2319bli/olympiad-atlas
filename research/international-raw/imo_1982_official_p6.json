@@ -1,0 +1,33 @@
+{
+  "id": "imo_1982_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1982,
+  "problem_number": "6",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Combinatorial geometry"
+    ],
+    [
+      "Geometry",
+      "Extremal arguments"
+    ],
+    [
+      "Geometry",
+      "Covering"
+    ],
+    [
+      "Geometry",
+      "Path length"
+    ]
+  ],
+  "problem_markdown": "A simple polygonal path with distinct endpoints lies inside a square of side 100. Every boundary point of the square is within $1/2$ of the path. Prove that two path points at Euclidean distance at most one are separated along the path by length at least 198.",
+  "solutions_markdown": [
+    "Parametrise the path in traversal order. Let $A$ be the first square corner whose closed radius-$1/2$ disk the path reaches. Of its neighbouring corners, label the one reached first $B$ and the other $D$. Let $Z$ be the first path point within $1/2$ of $B$, and split the path at $Z$ into an initial and a final part.\n\nOn side $AD$, choose the last point $U$ toward $D$ that is within $1/2$ of the initial part. It exists because this covered set is compact and contains $A$; it is not $D$. Every point just beyond $U$ is therefore covered by the final part. Compactness of that part implies that $U$ also lies within $1/2$ of it.\n\nChoose $X$ on the initial part and $Y$ on the final part with $UX,UY\\le1/2$. Then $XY\\le1$. Also $UB\\ge100$ and $BZ\\le1/2$, so $XZ\\ge99$ and $YZ\\ge99$. The subpath from $X$ to $Y$ passes through $Z$ and has length at least $XZ+ZY\\ge198$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1982/1982_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln826.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

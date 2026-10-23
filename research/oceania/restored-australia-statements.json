@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "aus_amo_1995_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Primes",
+      "Digits & bases",
+      "Divisibility & GCD"
+    ],
+    "statement": "Prove that at most nine primes between $10$ and $10^{29}$ have only the digit $1$ in decimal notation.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1995_3",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Coordinates & vectors"
+    ],
+    "statement": "A line meets two concentric circles at $A,B,C,D$ in that order. Chords $AE$ of the outer circle and $BF$ of the inner circle are parallel. Let $G,H$ be the perpendicular projections of $C,D$ onto $BF,AE$, respectively. Prove $GF=HE$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1995_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "statement": "For which real $r$ does the system $y-x=r$, $x^2+y^2+2x\\le1$ have exactly one real solution $(x,y)$?",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1995_6",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Integer polynomials",
+      "Parity",
+      "Induction"
+    ],
+    "statement": "Prove that infinitely many positive integers $n$ make exactly three coefficients of $(x^2+x+1)^n$ odd.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Algebraic identities"
+    ],
+    "statement": "A cubic $p$ with roots $r_1,r_2,r_3$ satisfies $[p(1/2)+p(-1/2)]/p(0)=1000$. Evaluate $1/(r_1r_2)+1/(r_2r_3)+1/(r_3r_1)$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_3",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Modular arithmetic",
+      "Sequences & recurrences"
+    ],
+    "statement": "The centred hexagonal numbers count one central point surrounded by complete hexagonal layers: $1,7,19,37,61,91,\\ldots$. Find the 69th term in this sequence whose last two digits are 69.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_4",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Permutations & arrangements",
+      "Parity",
+      "Graph theory"
+    ],
+    "statement": "For which positive $n$ is there a permutation $(a_1,\\ldots,a_n)$ of $1,\\ldots,n$ such that all $|a_i-i|$ are equal and nonzero?",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Extremal arguments"
+    ],
+    "statement": "If $a_1\\le\\cdots\\le a_n$, $\\sum a_i=0$ and $\\sum|a_i|=s$, prove $a_n-a_1\\ge2s/n$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_6",
+    "topic": "Geometry",
+    "subtopics": [
+      "Angles & cyclic quadrilaterals",
+      "Area & dissection",
+      "Trigonometry"
+    ],
+    "statement": "In cyclic quadrilateral $ABCD$, points $P\\in AB,Q\\in AD$ satisfy $AP=CD$ and $AQ=BC$. Prove that $AC$ bisects $PQ$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1996_8",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Pigeonhole principle",
+      "Sets & partitions"
+    ],
+    "statement": "A function $f:\\mathbb Z\\to\\{0,1\\}$ has period 1996 and $\\sum_{i=1}^{1996}f(i)=45$. Prove that some integer $t$ satisfies $f(n+t)=0$ whenever $f(n)=1$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1997_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Geometric inequalities",
+      "Trigonometry",
+      "Triangle geometry"
+    ],
+    "statement": "In isosceles $ABC$, $AB=AC$ and $\\angle A<120^\\circ$. Let $D$ be the midpoint of $BC$ and choose $E\\in AD$ with $\\angle AEB=120^\\circ$. Prove that $EA+EB+EC$ is strictly smaller than $E\\prime A+E\\prime B+E\\prime C$ for any other $E\\prime\\in AD$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO1997wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_1997_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "If $0\\le a_1\\le\\cdots\\le a_k$ and $\\sum_{i=1}^k a_i=1$, prove $\\frac1n\\sum_{i=1}^n a_i\\le1/k$ for $1\\le n\\le k$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO1997wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_1997_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Functions & graphs",
+      "Inequalities"
+    ],
+    "statement": "Find all $f:\\mathbb R\\to\\mathbb R$ satisfying $|f(x+h)-f(x)|\\le h^2$ for every real $x,h$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO1997wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_1997_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Inequalities"
+    ],
+    "statement": "For every positive integer $n$, prove $\\lfloor\\sqrt n+\\sqrt{n+1}\\rfloor=\\lfloor\\sqrt{4n+1}\\rfloor$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO1997wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_1997_7",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "For integers $m,n>1$, prove $(n+1)^{-1/m}+(m+1)^{-1/n}>1$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO1997wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_1998_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "statement": "Solve $(x+1998)(x+1999)(x+2000)(x+2001)+1=0$ over $\\mathbb R$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "statement": "Find $r,s\\ge0$ satisfying $r+s=2$ and $2^{r^4+s^2}+2^{r^2+s^4}=8$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_3",
+    "topic": "Geometry",
+    "subtopics": [
+      "Geometric inequalities",
+      "Similarity & congruence",
+      "Circles & tangency"
+    ],
+    "statement": "A segment $DE$ joins sides $AB,AC$ of triangle $ABC$, is parallel to $BC$, and touches the incircle. Prove $8DE\\le AB+BC+CA$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Symmetry"
+    ],
+    "statement": "Find all even functions $f:\\mathbb R\\setminus\\{0\\}\\to\\mathbb R$ with $f(1/(x+y))=f(1/x)+f(1/y)+2(xy-1000)$ whenever $x,y,x+y\\ne0$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Permutations & arrangements",
+      "Algorithms & constructions"
+    ],
+    "statement": "Two $2\\times2$ binary arrays are compatible if both occur as contiguous $2\\times2$ subarrays of one $3\\times3$ binary array, without rotation. Classify the incompatible pairs.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "Prove $(1998n)!\\le\\left(\\prod_{j=1}^{1998}\\frac{(2j-1)n+1}{2}\\right)^n$ for every positive integer $n$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1998_7",
+    "topic": "Geometry",
+    "subtopics": [
+      "Area & dissection",
+      "Coordinates & vectors",
+      "Geometric inequalities"
+    ],
+    "statement": "A line through the centroid splits a triangle of area $1998$ into regions of areas $A_1,A_2$. Maximise $A_1-A_2$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1999_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Angles & cyclic quadrilaterals",
+      "Circles & tangency"
+    ],
+    "statement": "Points $P,Q,R,S$ occur in that order on a circle, with $PQ\\parallel SR$ and $QR=SR$. Ray $QT$ is tangent and $\\angle RQT$ is acute. Prove $PS=QR$ and that $QR,QS$ trisect $\\angle PQT$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1999_4",
+    "topic": "Geometry",
+    "subtopics": [
+      "Geometric inequalities",
+      "Area & dissection"
+    ],
+    "statement": "Prove that the sum of a triangle’s three altitudes is at least nine times its inradius.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_1999_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "For real $x>1$ and integer $n>1$, prove $1+\\frac{x-1}{nx}<\\sqrt[n]x<1+\\frac{x-1}{n}$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2000_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials"
+    ],
+    "statement": "Find all real polynomials $f$ satisfying $(x-27)f(3x)=27(x-1)f(x)$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2000_2",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Valuations",
+      "Modular arithmetic"
+    ],
+    "statement": "For a date with day $d$ and month $m$ in the year 2000, consider the largest power of 5 dividing $d^m-2000$. Which dates maximise that power?",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2000_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Squares & powers",
+      "Divisibility & GCD"
+    ],
+    "statement": "Prove that $m^{n+2}+m^{n+1}+m^n$ is never a square when $m,n$ are positive integers.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2000_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Equations & systems"
+    ],
+    "statement": "For fixed real $a,b,c$, not all zero, classify every $f:\\mathbb R\\to\\mathbb R$ satisfying $af(xy+z^2)+bf(yz+x^2)+cf(zx+y^2)=0$ for all real $x,y,z$. Describe the cases according to $a,b,c$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2000_7",
+    "topic": "Algebra",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Equations & systems"
+    ],
+    "statement": "Writing $\\{t\\}=t-\\lfloor t\\rfloor$, solve $x+\\lfloor y\\rfloor+\\{z\\}=200$, $\\{x\\}+y+\\lfloor z\\rfloor=190.1$, $\\lfloor x\\rfloor+\\{y\\}+z=178.8$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Divisibility & GCD",
+      "Primes",
+      "Modular arithmetic"
+    ],
+    "statement": "Let $L(n)=\\operatorname{lcm}(1,2,\\ldots,n)$. Find prime pairs $p,q$ with $q=p+2$ and $L(q)>qL(p)$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Coordinates & vectors",
+      "Angles & cyclic quadrilaterals"
+    ],
+    "statement": "In isosceles $ABC$ with $CA=CB$, let $O$ be the circumcentre. Choose $P\\in AB$, $Q\\in BC$, $R\\in CA$ so $PQ\\parallel AC$, $PR\\parallel BC$. Prove $C,R,O,Q$ are cyclic.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_3",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Double counting",
+      "Parity",
+      "Counting"
+    ],
+    "statement": "Each of $c$ celebrities appears in an odd number of $m$ magazines, and each magazine mentions an odd number of celebrities. Prove $c,m$ have the same parity, and count the possible incidence patterns.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations"
+    ],
+    "statement": "Find all $f:\\mathbb R\\to\\mathbb R$ such that $f((x-y)^2)=x^2-2yf(x)+f(y)^2$ for real $x,y$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_6",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Triangle geometry",
+      "Coordinates & vectors"
+    ],
+    "statement": "In triangle $ABC$ with $AC>BC$, $D$ is the midpoint of the circumcircle’s arc $AB$ containing $C$. Its perpendicular projection onto $AC$ is $E$. Prove $AE=EC+CB$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2001_7",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "statement": "Prove there are no positive integers $w,x,y,z$ satisfying $x^2=10w-1$, $y^2=13w-1$, $z^2=85w-1$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2003_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Primes",
+      "Diophantine equations",
+      "Divisibility & GCD"
+    ],
+    "statement": "Find primes $p,q,r$ satisfying $p(q-r)=q+r$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2003wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2003_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Equations & systems"
+    ],
+    "statement": "Find $f:\\mathbb R\\setminus\\{0,1\\}\\to\\mathbb R$ satisfying $f(x)+\\frac1{2x}f(1/(1-x))=1$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2003wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2003_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Parity",
+      "Permutations & arrangements"
+    ],
+    "statement": "Three cyclists initially lead in the order Andrew, Brenda, Chris. Only these three contest the first three places, and no three are ever level. The leader changes 19 times and the third-place rider changes 17 times. Brenda finishes third. Who wins? Justify your answer.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2004_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Sequences & recurrences"
+    ],
+    "statement": "For which real $a,b$ does $x^3+3x^2+ax+b=0$ have three distinct roots in arithmetic progression?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/",
+    "notes": "The UWA archive index links a worked video or PDF solution for this question; open its AMO year entry."
+  },
+  {
+    "id": "aus_amo_2004_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Extremal arguments"
+    ],
+    "statement": "Given $0\\le x\\le a\\le y\\le b\\le z$ and $a+b+x+y+z=2004$, find the minimum and maximum of $x+y+z$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/",
+    "notes": "The UWA archive index links a worked video or PDF solution for this question; open its AMO year entry."
+  },
+  {
+    "id": "aus_amo_2004_4",
+    "topic": "Geometry",
+    "subtopics": [
+      "Coordinates & vectors",
+      "Triangle centres",
+      "Triangle geometry"
+    ],
+    "statement": "In equilateral $ABC$, take $D$ strictly between $A,B$ and $E\\in AC$ with $DE\\parallel BC$. If $F$ is the midpoint of $CD$ and $G$ the circumcentre of $ADE$, find all angles of $BFG$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2004wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2004_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Modular arithmetic",
+      "Valuations"
+    ],
+    "statement": "For which nonnegative integers $m,n$ is $6^m+2^n+2$ a perfect square?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2004wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2004_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Sequences & recurrences"
+    ],
+    "statement": "Does a function $f:\\mathbb Z_{>0}\\to\\mathbb Z_{>0}$ exist with $f(f(1))=5$, $f(f(2))=6$, $f(f(3))=4$, $f(f(4))=3$, and $f(f(n))=n+2$ for all $n\\ge5$?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2004wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2003_7",
+    "topic": "Algebra",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Inequalities",
+      "Telescoping sums"
+    ],
+    "statement": "Let $a_1=0$, with each later term chosen by $a_{i+1}=a_i+1$ or $a_{i+1}=-a_i-1$. Prove $\\frac{a_1+\\cdots+a_n}{n}\\ge-\\frac12$ for every positive integer $n$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2006_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Squares & powers",
+      "Modular arithmetic"
+    ],
+    "statement": "Find positive integers $m,n$ such that $1+5\\cdot2^m=n^2$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2006wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2006_5",
+    "topic": "Geometry",
+    "subtopics": [
+      "Triangle centres",
+      "Circles & tangency",
+      "Coordinates & vectors"
+    ],
+    "statement": "In square $ABCD$, choose $E$ strictly between $B,D$. The circumcentres of $ABE$ and $ADE$ are $O_1,O_2$. Prove $AO_1EO_2$ is a square.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/",
+    "notes": "The UWA archive index links a worked video or PDF solution for this question; open its AMO year entry."
+  },
+  {
+    "id": "aus_amo_2006_6",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Diophantine equations"
+    ],
+    "statement": "Let $a(n)$ be the product of the decimal digits of a positive integer $n$. Prove $a(n)\\le n$, and find all $n$ satisfying $n^2-17n+56=a(n)$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2007_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Triangle geometry",
+      "Coordinates & vectors"
+    ],
+    "statement": "In triangle $ABC$, $AB$ is the shortest side, and $X,Y$ are the midpoints of $BC,AC$. Let $P\\in AC$ satisfy $PX\\perp BC$. The circle through $A,B,P$ meets $BC$ again at $Q$. Prove $QY\\perp AC$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2007wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2007_2",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Primes",
+      "Factorisation"
+    ],
+    "statement": "For an odd prime $p$, find all positive integers $m,n$ satisfying $(p-1)(p^n+1)=4m(m+1)$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2007wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2007_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Extremal arguments"
+    ],
+    "statement": "For each positive integer $n$, find the least constant $C_n$ for which $r+r^2+\\cdots+r^{2n}\\le C_n(1+r^{2n+1})$ holds for every positive real $r$. Prove this constant is finite.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2007wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2007_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Absolute values"
+    ],
+    "statement": "Nonzero real numbers $a,b$ satisfy $a^2+b^2=1$. Prove $|a+a/b+b+b/a|\\ge2-\\sqrt2$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2007wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2008_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Angle chasing"
+    ],
+    "statement": "A circle has diameter $PQ$. A second circle has its centre on the first and is tangent to $PQ$. Prove that its other tangents from $P$ and $Q$ are parallel.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2008wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2008_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Monotonicity"
+    ],
+    "statement": "Let $f(x)=5^x$. Solve $f(x+f(2008))=2008-x$ over the reals.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2008wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2008_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Valuations",
+      "Factorials & binomial coefficients"
+    ],
+    "statement": "For a positive integer $m$, let $F(m)$ be the largest integer $e$ such that $10^e\\mid m!$. Prove that some positive integer $n$ satisfies, for every positive $m$, either $F(m)\\le n$ or $F(m)\\ge n+2008$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2008wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2008_6",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Coordinates & vectors"
+    ],
+    "statement": "In convex quadrilateral $ABCD$, $P\\in AB$ satisfies $\\angle APD=\\angle BPC=45^\\circ$. Let $Q$ be the intersection of line $AB$ and the perpendicular bisector of $CD$. Prove $\\angle CQD=90^\\circ$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2008wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2008_7",
+    "topic": "Geometry",
+    "subtopics": [
+      "Triangle inequality",
+      "Inequalities"
+    ],
+    "statement": "Two triangles have vertices $A_1,A_2,A_3$ and $B_1,B_2,B_3$. If $p$ is the sum of their perimeters and $q=\\sum_{i=1}^3\\sum_{j=1}^3 A_iB_j$, prove $3p\\le4q$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2008wsoln.pdf",
+    "notes": "The linked UWA paper supplies worked solutions and hints; see the section for this question."
+  },
+  {
+    "id": "aus_amo_2009_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Perpendicularity",
+      "Coordinates & vectors"
+    ],
+    "statement": "In acute triangle $ABC$, choose $P\\in AC$ and $Q\\in BC$ such that $A,P,Q,B$ are concyclic. The perpendiculars to $AC$ at $P$ and to $BC$ at $Q$ meet at $R$. Prove $CR\\perp AB$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2009wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2009_2",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Extremal arguments",
+      "Factorisation"
+    ],
+    "statement": "Two rectangles have integer side lengths greater than one and are tiled by unit squares. In each rectangle, the number of boundary tiles equals the number of interior tiles in the other. Maximise the shortest of the four side lengths.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2009wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2009_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Modular arithmetic",
+      "Invariants"
+    ],
+    "statement": "Initially a board contains $x^2+x$ and $x^2+2$. A move writes the sum, difference, or product of any two polynomials already present. Can the polynomial $x$ ever appear?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2009wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2009_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Graphs",
+      "Extremal arguments",
+      "Combinatorial geometry"
+    ],
+    "statement": "A finite set of towns lies in the plane, with all pairwise distances distinct. Join each town by a straight road to its nearest neighbour. Prove that roads do not cross and the resulting graph has no cycle.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2009wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2010_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Equations & systems"
+    ],
+    "statement": "A real sequence satisfies $a_1+a_2=2010$ and $a_{n-1}a_{n+1}=a_n$ for every $n\\ge2$. Find all possible values of $a_{2011}+a_{2012}$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/",
+    "notes": "The UWA archive index links a worked video or PDF solution for this question; open its AMO year entry."
+  },
+  {
+    "id": "aus_amo_2010_5",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Power of a point",
+      "Coordinates & vectors"
+    ],
+    "statement": "Two concentric circles have radii $r<s$. Let $PA$ be a chord of the inner circle, and let the chord $BC$ of the outer circle pass through $P$ perpendicular to $PA$. Express $PA^2+PB^2+PC^2$ in terms of $r,s$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2010_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Algebraic identities",
+      "Radicals"
+    ],
+    "statement": "Prove the identity $$\\sqrt[3]{6+\\sqrt[3]{845}+\\sqrt[3]{325}}+\\sqrt[3]{6+\\sqrt[3]{847}+\\sqrt[3]{539}}=\\sqrt[3]{4+\\sqrt[3]{245}+\\sqrt[3]{175}}+\\sqrt[3]{8+\\sqrt[3]{1859}+\\sqrt[3]{1573}}.$$",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/",
+    "notes": "The UWA archive index links a worked video or PDF solution for this question; open its AMO year entry."
+  },
+  {
+    "id": "aus_amo_2011_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Divisibility & GCD"
+    ],
+    "statement": "Fix an integer $b\\ge2$, and let $S_b(n)$ be the sum of the base-$b$ digits of $n$. Find all positive integers $m$ such that $m\\mid S_b(n)$ implies $m\\mid S_b(n+1)-1$ for every positive integer $n$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2011wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2011_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Trigonometry",
+      "Regular polygons",
+      "Products"
+    ],
+    "statement": "A regular $2n$-gon $P_1P_2\\ldots P_{2n}$ lies on a unit circle. Put $a_i=P_1P_{i+1}$ for $1\\le i<n$. Prove $\\prod_{i=1}^{n-1}(4/a_i^2-1)=1$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2011wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2011_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Vieta’s formulas",
+      "Equations & systems"
+    ],
+    "statement": "The three roots of $x^3-30x^2+rx-780$ are the side lengths of a right triangle. Find $r$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2012_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Squares & powers",
+      "Diophantine equations"
+    ],
+    "statement": "Find the largest positive integer $n$ such that $4^n+2^{2012}+1$ is a perfect square.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2012_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Factorisation"
+    ],
+    "statement": "Prove that $(x+20)(y+12)(z-4)=(x+20)(y-12)(z+4)=(x-20)(y+12)(z+4)=1215$ has a unique real solution. Find the least integer $N>1215$ for which replacing all three right-hand sides by $N$ allows an integer solution.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2013_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Area",
+      "Similar triangles"
+    ],
+    "statement": "In parallelogram $ABCD$, choose $P\\in CD$. The line through $P$ parallel to $AD$ meets $AC$ at $Q$. Writing $[XYZ]$ for triangle area, prove $[BCP]^2=[QBP][ABP]$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2013_3",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Induction",
+      "Squares & powers"
+    ],
+    "statement": "If $n$ is a positive integer with $n\\equiv3\\pmod8$, prove for every integer $k>3$ that $2^k\\mid n^{2^{k-3}}-2^{k-1}-1$.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2013_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Squares & powers",
+      "Extremal arguments",
+      "Constructions"
+    ],
+    "statement": "What is the largest possible number of distinct positive integers whose squares sum to $2013$?",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2013_6",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Graphs",
+      "Parity",
+      "Pigeonhole principle"
+    ],
+    "statement": "Among 2013 people, every group of three contains an odd number of acquainted pairs. Prove there are 1007 people who all know one another.",
+    "solution": null
+  },
+  {
+    "id": "aus_amo_2016_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Squares & powers",
+      "Diophantine equations"
+    ],
+    "statement": "Find all positive integers $n$ such that $2^n+7^n$ is a perfect square.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2016wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2016_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Power of a point",
+      "Circles & tangency"
+    ],
+    "statement": "A circle meets the sides $BC,CA,AB$ of triangle $ABC$ at $U,V$; $W,X$; and $Y,Z$, respectively, in cyclic order $U,V,W,X,Y,Z$. If $AY=BZ$ and $BU=CV$, prove $CW=AX$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2016wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2016_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Factorisation"
+    ],
+    "statement": "Find all real triples $(x,y,z)$ satisfying $xy+1=2z$, $yz+1=2x$, and $zx+1=2y$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2016wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2016_6",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Factorisation",
+      "Parity",
+      "Divisibility & GCD"
+    ],
+    "statement": "Positive integers $a,b,c$ satisfy $a^3+b^3=2^c$. Prove $a=b$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2016wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2017_1",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Permutations & arrangements",
+      "Constructions",
+      "Induction"
+    ],
+    "statement": "For which integers $n\\ge2$ can $1,2,\\ldots,n$ be arranged in a row so that consecutive entries differ by either $2$ or $3$?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2017wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2017_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Substitution"
+    ],
+    "statement": "Find all functions $f:\\mathbb R\\to\\mathbb R$ satisfying $f(x^2+f(y))=f(xy)$ for all real $x,y$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2017wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2017_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Floor & ceiling functions",
+      "Divisibility & GCD",
+      "Counting"
+    ],
+    "statement": "How many positive integers $n<10^6$ make $\\sum_{k=1}^{n}\\frac1{2\\lfloor\\sqrt{k}\\rfloor+1}$ an integer?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2017wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2018_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Factorials & binomial coefficients",
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "statement": "Find all positive integer pairs $(n,k)$ satisfying $n!+8=2^k$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2018_3",
+    "topic": "Geometry",
+    "subtopics": [
+      "Regular polygons",
+      "Concurrency",
+      "Trigonometry"
+    ],
+    "statement": "For the regular 14-gon $ABCDEFGHIJKLMN$, prove that $AE,BG,CK$ pass through one point.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2018_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Divisibility & GCD",
+      "Factorials & binomial coefficients"
+    ],
+    "statement": "Define $a_1=1$ and $a_n=n(a_1+\\cdots+a_{n-1})$ for $n\\ge2$. Prove $2018^2\\mid a_{2018}$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2018_6",
+    "topic": "Geometry",
+    "subtopics": [
+      "Circles & tangency",
+      "Angle chasing",
+      "Collinearity"
+    ],
+    "statement": "Points $P,Q,R$ lie on circle $C$ with $PQ=PR>QR$. Circle $D$ has centre $P$ and passes through $Q,R$. The circle centred at $Q$ through $R$ meets $C$ again at $X$ and $D$ again at $Y$. Prove $P,X,Y$ are collinear.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2019_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Inequalities",
+      "Extremal arguments"
+    ],
+    "statement": "Find all real $r$ for which exactly one real $a$ makes every coefficient of $(x+a)(x^2+rx+1)$ nonnegative.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2019wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2019_2",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Algebraic identities",
+      "Figurate numbers"
+    ],
+    "statement": "Let $a<b<c$ be three consecutive positive triangular numbers. If $a+b+c$ is triangular, prove that $b$ is three times a triangular number.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2019wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2020_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Squares & powers",
+      "Factorisation"
+    ],
+    "statement": "Find all nonnegative integer pairs $(a,b)$ satisfying $\\frac{a+b}{2}-\\sqrt{ab}=1$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2020wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2021_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Diophantine equations",
+      "Counting",
+      "Factorisation"
+    ],
+    "statement": "A cuboid of positive integer dimensions $a,b,c$ is built from unit cubes, and its exterior is painted red. Once separated, the cubes have as many red faces as unpainted faces in total. Find all possible values of $abc$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2021wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2021_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Equations & systems"
+    ],
+    "statement": "Find all real pairs $(a,b)$ satisfying $a^{20}+b^{20}=a^{21}+b^{21}=1$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2021wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2024_8",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Irrationality",
+      "Valuations"
+    ],
+    "statement": "Let $r=0.d_0d_1d_2\\ldots$ in decimal, with $d_0=6$. For each $n\\ge0$, put $e_n=\\sum_{i=0}^n10^id_i$, allowing leading zeroes. Suppose $e_n^2\\equiv e_n\\pmod{10^{n+1}}$ for every $n$. Prove $r$ is irrational.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2024wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2021_4",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Integer polynomials",
+      "Valuations",
+      "Divisibility & GCD"
+    ],
+    "statement": "Let $P,Q$ be integer-coefficient polynomials, with $P$ monic. If $P(n)^n\\mid Q(n)^{n+1}$ for infinitely many positive integers $n$, prove $P(n)\\mid Q(n)$ for infinitely many positive integers $n$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2021wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2023_2",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Subsets",
+      "Modular arithmetic",
+      "Bijections"
+    ],
+    "statement": "How many subsets of $\\{1,2,\\ldots,2023\\}$ have an element sum congruent to $3$ modulo $4$?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2023wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2024_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Factorials & binomial coefficients",
+      "Parity",
+      "Diophantine equations"
+    ],
+    "statement": "Find all positive integer triples $(k,m,n)$ satisfying $k!+m!=k!n!$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2024wsoln.pdf"
+  },
+  {
+    "id": "aus_amo_2022_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Sequences & recurrences"
+    ],
+    "statement": "Real numbers $x_1,\\ldots,x_{2022}$ have positive sum. For some $1\\le k<2022$, $x_i\\le0$ when $i\\le k$ and $x_i\\ge0$ when $i>k$. Prove $\\sum_{i=1}^{2022}ix_i>0$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/AMO/AMO2022wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2021_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Similar triangles",
+      "Angle bisectors",
+      "Parallel lines"
+    ],
+    "statement": "Quadrilateral $ABCD$ has $\\angle DAB=\\angle CDA=90^\\circ$, and its diagonals meet at $M$. A point $K\\in AD$ satisfies $\\angle ABK=\\angle DCK$. Prove $KM$ bisects $\\angle BKC$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2021wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2022_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Factorials & binomial coefficients",
+      "Diophantine equations"
+    ],
+    "statement": "Find all positive integer triples $(a,b,n)$ with $2^a+b^2=n!+14$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2022wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2022_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "AM–GM inequality"
+    ],
+    "statement": "For nonnegative reals $x_1,\\ldots,x_n$, where $n\\ge2$, prove $$\\sum_{i=1}^{n-1}x_ix_{i+1}\\le\\frac{(x_1+\\cdots+x_n)^2}{4}.$$ ",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2022wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2024_1",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Colouring",
+      "Symmetry",
+      "Modular arithmetic"
+    ],
+    "statement": "A row contains $1\\,000\\,001$ coloured beads. Beads 100 positions apart have the same colour, and the colour sequence reads identically from either end. What is the maximum number of colours?",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2024wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2018_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Radicals",
+      "Inequalities",
+      "Factorisation"
+    ],
+    "statement": "For distinct nonnegative reals $a,b$ satisfying $a+\\sqrt b=b+\\sqrt a$, determine the largest value of $a+b$.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2018_3",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Pigeonhole principle",
+      "Counting"
+    ],
+    "statement": "Fourteen players play three matches, each time forming two teams of seven, with one winning team and one losing team. Nobody loses all three matches. Prove some three players are teammates in every match.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2018wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2019_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Angle chasing",
+      "Telescoping sums",
+      "Parity"
+    ],
+    "statement": "Points $A_1,\\ldots,A_n$ have strictly increasing $x$-coordinates, where $n\\ge3$. The consecutive segments have slopes alternating positive, negative, positive, and so on. Let $P$ and $V$ be the sums of the angles below $180^\\circ$ at the internal peaks and valleys, respectively. Prove $P\\le V$ implies $n$ is even.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2019wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2019_2",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Divisibility & GCD",
+      "Fractions & approximation"
+    ],
+    "statement": "Find all integers expressible as $\\frac1{a_1}+\\cdots+\\frac1{a_{10}}$, where the $a_i$ are nonzero integers and any two have no common positive divisor greater than one.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2019wsoln.pdf"
+  },
+  {
+    "id": "aus_amoc_2020_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Discriminants",
+      "Inequalities"
+    ],
+    "statement": "For all real $a,b$, prove that at least one of $x^2+2ax+b=0$, $ax^2+2bx+1=0$, and $ax^2+2x+b=0$ has a real solution.",
+    "solution": null,
+    "solutionUrl": "https://enrichedmaths.maths.uwa.edu.au/Olympiad/SMC/SMC2020wsoln.pdf"
+  }
+]

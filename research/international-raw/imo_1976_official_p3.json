@@ -1,0 +1,33 @@
+{
+  "id": "imo_1976_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "3",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Solid geometry"
+    ],
+    [
+      "Geometry",
+      "Packing"
+    ],
+    [
+      "Geometry",
+      "Floors"
+    ],
+    [
+      "Geometry",
+      "Divisibility"
+    ]
+  ],
+  "problem_markdown": "An integer-sided rectangular box is packed with as many axis-parallel cubes of volume two as possible. Their total volume is exactly $40\\%$ of the box. Determine its dimensions.",
+  "solutions_markdown": [
+    "Write $k=\\sqrt[3]2$ and $f(n)=\\lfloor n/k\\rfloor$. The maximum number packed is $f(a)f(b)f(c)$: partition the possible centre coordinates into $f(a),f(b),f(c)$ intervals of length below $k$; two centres in one resulting cell would give overlapping cubes. A rectangular array attains this bound. Hence $5f(a)f(b)f(c)=abc$.\n\nFor every integer $n\\ge3$, $f(n)/n\\ge3/5$: check $3,4,5$, and use $f(n)>n/k-1$ for $n\\ge6$. Since $(3/5)^3>1/5$, one side is two; a side one would pack nothing. The remaining ratios have product $2/5$.\n\nOne remaining side is divisible by five. For a multiple $m\\ge10$, $f(m)/m\\ge7/10$ (check ten; use the same bound from fifteen onwards). The other ratio would be at most $4/7<3/5$, forcing that side also to be two. This would require $f(m)/m=4/5>1/k$, impossible.\n\nThus one side is five. The last side $n$ satisfies $f(n)/n=2/3$, so $3\\mid n$. For $n\\ge9$ the lower bound exceeds $2/3$. Both $n=3,6$ work. The dimensions, up to order, are $(2,3,5)$ and $(2,5,6)$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln763.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

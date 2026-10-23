@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "3",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Recurrences"
+    ],
+    [
+      "Algebra",
+      "Binary digits"
+    ],
+    [
+      "Algebra",
+      "Counting"
+    ],
+    [
+      "Algebra",
+      "Induction"
+    ]
+  ],
+  "problem_markdown": "Define $f(1)=1$, $f(3)=3$, $f(2n)=f(n)$, $f(4n+1)=2f(2n+1)-f(n)$, and $f(4n+3)=3f(2n+1)-2f(n)$ for positive integers $n$. How many $n\\le1988$ satisfy $f(n)=n$?",
+  "solutions_markdown": [
+    "Let $R(n)$ be the integer obtained by reversing the binary digits of $n$, discarding leading zeros. Then $R(2n)=R(n)$. If $n$ has $\\ell$ binary digits, $R(2n+1)=2^\\ell+R(n)$. Consequently\n$$R(4n+1)=2^{\\ell+1}+R(n)=2R(2n+1)-R(n),$$\n$$R(4n+3)=2^{\\ell+1}+R(2n+1)=3R(2n+1)-2R(n).$$\nTogether with $R(1)=1,R(3)=3$, these prove by induction that $f=R$.\n\nThe fixed points are therefore exactly the binary palindromes. With $L$ digits their count is $2^{\\lceil L/2\\rceil-1}$: the first digit is one and the remaining first-half digits determine the rest. For lengths 1 through 10 the counts sum to $1+1+2+2+4+4+8+8+16+16=62$. There are 32 eleven-digit palindromes up to 2047, and exactly two exceed 1988: $2015=(11111011111)_2$ and $2047=(11111111111)_2$. Hence the answer is $62+30=92$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln883.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

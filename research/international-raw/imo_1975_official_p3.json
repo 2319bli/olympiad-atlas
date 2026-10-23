@@ -1,0 +1,29 @@
+{
+  "id": "imo_1975_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "3",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Similarity"
+    ],
+    [
+      "Geometry",
+      "Rotation"
+    ],
+    [
+      "Geometry",
+      "Auxiliary construction"
+    ]
+  ],
+  "problem_markdown": "Construct external triangles $ABR,BCP,CAQ$ on triangle $ABC$ so that $\\angle ABR=\\angle BAR=15^\\circ$, $\\angle CBP=\\angle CAQ=45^\\circ$, and $\\angle BCP=\\angle ACQ=30^\\circ$. Prove $RQ=RP$ and $\\angle QRP=90^\\circ$.",
+  "solutions_markdown": [
+    "Orient $ABC$ counterclockwise and construct the equilateral triangle $ABS$ externally. Put $k=1/(2\\cos15^\\circ)$. The sine rule gives $AQ=kAC$, $BP=kBC$, and $AR=BR=kAB$. Rotation through $45^\\circ$ about $A$, followed by scaling by $k$, maps $C$ to $Q$ and $S$ to $R$. Rotation through $-45^\\circ$ about $B$, with the same scale, maps $C$ to $P$ and $S$ to $R$. Thus the vectors $RQ$ and $RP$ are images of $SC$ under equal-scale rotations differing by $90^\\circ$. They have equal lengths and are perpendicular."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln753.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

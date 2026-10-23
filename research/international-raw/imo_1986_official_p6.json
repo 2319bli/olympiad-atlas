@@ -1,0 +1,33 @@
+{
+  "id": "imo_1986_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "6",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Graph theory"
+    ],
+    [
+      "Combinatorics",
+      "Colouring"
+    ],
+    [
+      "Combinatorics",
+      "Matchings"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Given finitely many integer-coordinate points in the plane, can they always be coloured red and white so that every horizontal or vertical line has colour counts differing by at most one?",
+  "solutions_markdown": [
+    "Yes. In each horizontal line, pair its points arbitrarily, leaving at most one unpaired. Do the same independently in each vertical line. Form a graph whose vertices are the given points and whose edges are these pairs.\n\nEach vertex has at most one horizontal edge and at most one vertical edge, so every component is a path, an isolated vertex, or a cycle. On a cycle the edge types alternate, so the cycle has even length. Therefore every component can be coloured alternately red and white, making the endpoints of every pair different colours.\n\nOn any horizontal line all its paired points cancel in the colour difference, leaving at most its one unpaired point. The same holds on every vertical line. Hence all required differences are at most one."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln866.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

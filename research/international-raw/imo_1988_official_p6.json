@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "6",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Vieta jumping"
+    ],
+    [
+      "Number Theory",
+      "Descent"
+    ],
+    [
+      "Number Theory",
+      "Diophantine equations"
+    ],
+    [
+      "Number Theory",
+      "Extremal principle"
+    ]
+  ],
+  "problem_markdown": "If positive integers $a,b$ satisfy $ab+1\\mid a^2+b^2$, prove that $(a^2+b^2)/(ab+1)$ is a square.",
+  "solutions_markdown": [
+    "Set $k=(a^2+b^2)/(ab+1)$. Among positive solutions $A^2+B^2=k(AB+1)$ choose one with the smaller coordinate minimal, and label it $B\\le A$.\n\nAs a quadratic in $A$, its other root is the integer $C=kB-A$, with $AC=B^2-k$. Hence $C<B$. Also\n$$(A+1)(C+1)=AC+A+C+1=B^2+(B-1)k+1>0.$$\nSince $A+1>0$, we obtain $C>-1$, so the integer $C\\ge0$.\n\nIf $C>0$, the pair $(C,B)$ is another positive solution for the same $k$ with a smaller minimum coordinate, a contradiction. Therefore $C=0$, and $AC=B^2-k$ gives $k=B^2$. Thus the original quotient is a perfect square."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln886.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

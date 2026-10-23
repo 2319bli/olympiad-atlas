@@ -1,0 +1,33 @@
+{
+  "id": "imo_1978_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "3",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Sequences"
+    ],
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Counting"
+    ],
+    [
+      "Algebra",
+      "Recurrences"
+    ]
+  ],
+  "problem_markdown": "Increasing positive-integer sequences $f(1),f(2),\\ldots$ and $g(1),g(2),\\ldots$ partition the positive integers and satisfy $g(n)=f(f(n))+1$. Determine $f(240)$.",
+  "solutions_markdown": [
+    "We have $f(1)=1$, since $g(1)\\ge2$. No two consecutive integers lie in the $g$ sequence: the predecessor of $g(n)$ is $f(f(n))$.\n\nIf $f(n)=k$, count the integers up to $g(n)=f(k)+1$. Exactly $k$ belong to the $f$ sequence and exactly $n$ to the $g$ sequence. Hence $f(k)=n+k-1$. The next integer after $g(n)$ belongs to the $f$ sequence, giving $f(k+1)=n+k+1$.\n\nStarting with $f(1)=1$, these two rules successively give\n$$f(2)=3,\\ f(3)=4,\\ f(4)=6,\\ f(6)=9,\\ f(9)=14,$$\n$$f(14)=22,\\ f(22)=35,\\ f(35)=56,\\ f(56)=90,$$\n$$f(91)=147,\\ f(148)=239,\\ f(240)=388.$$\nThus the required value is $388$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln783.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

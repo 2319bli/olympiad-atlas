@@ -1,0 +1,21 @@
+{
+  "bmo1-2017-q1": {"topic":"Combinatorics","subtopics":["Counting","Parity"]},
+  "bmo1-2017-q2": {"topic":"Algebra","subtopics":["Equations & systems","Functions & graphs"]},
+  "bmo1-2017-q3": {"topic":"Number Theory","subtopics":["Diophantine equations","Divisibility & GCD"]},
+  "bmo2-2017-q4": {"topic":"Combinatorics","subtopics":["Logic & information","Games & strategies","Extremal arguments"]},
+  "bmo1-2018-q3": {"topic":"Geometry","subtopics":["Similarity & congruence","Area & dissection","Triangle geometry"]},
+  "bmo2-2018-q4": {"topic":"Algebra","subtopics":["Functional equations","Functions & graphs","Sequences & recurrences"]},
+  "bmo1-2020-q1": {"topic":"Number Theory","subtopics":["Primes","Modular arithmetic"]},
+  "bmo2-2020-q3": {"topic":"Combinatorics","subtopics":["Colouring","Combinatorial geometry","Counting"]},
+  "bmo1-2021-q1": {"topic":"Algebra","subtopics":["Sequences & recurrences","Equations & systems"]},
+  "bmo1-2021-q2": {"topic":"Geometry","subtopics":["Triangle geometry","Area & dissection","Diophantine equations"]},
+  "bmo1-2021-q4": {"topic":"Number Theory","subtopics":["Digits & bases","Squares & powers"]},
+  "bmo2-2021-q3": {"topic":"Geometry","subtopics":["Triangle centres","Circles & tangency","Concurrency & collinearity"]},
+  "bmo2-2021-q4": {"topic":"Combinatorics","subtopics":["Permutations & arrangements","Algorithms & constructions","Recurrences & generating functions"]},
+  "bmo2-2022-q3": {"topic":"Combinatorics","subtopics":["Pigeonhole principle","Sets & partitions","Extremal arguments"]},
+  "bmo2-2022-q4": {"topic":"Geometry","subtopics":["Coordinates & vectors","Concurrency & collinearity","Circles & tangency"]},
+  "bmo1-2023-q1": {"topic":"Number Theory","subtopics":["Digits & bases","Divisibility & GCD"]},
+  "bmo1-2024-q2": {"topic":"Algebra","subtopics":["Sequences & recurrences","Invariants"]},
+  "bmo1-2025-q3": {"topic":"Combinatorics","subtopics":["Games & strategies","Parity"]},
+  "bmo2-2026-q4": {"topic":"Algebra","subtopics":["Sequences & recurrences","Extremal arguments"]}
+}

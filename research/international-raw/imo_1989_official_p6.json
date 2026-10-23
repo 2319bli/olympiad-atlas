@@ -1,0 +1,33 @@
+{
+  "id": "imo_1989_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "6",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Inclusion-exclusion"
+    ],
+    [
+      "Combinatorics",
+      "Counting"
+    ],
+    [
+      "Combinatorics",
+      "Permutations"
+    ],
+    [
+      "Combinatorics",
+      "Bounds"
+    ]
+  ],
+  "problem_markdown": "Among permutations $(x_1,\\ldots,x_{2n})$ of $\\{1,\\ldots,2n\\}$, prove more have an adjacent pair with $|x_i-x_{i+1}|=n$ than have none.",
+  "solutions_markdown": [
+    "Let $E_j$ be the event that $j$ and $j+n$ are adjacent. Treating the pair as a block in either order gives $|E_j|=2(2n-1)!$. For $j\\ne k$, treating both pairs as blocks gives $|E_j\\cap E_k|=4(2n-2)!$.\n\nThe two-term inclusion–exclusion bound gives\n$$\\left|\\bigcup_{j=1}^nE_j\\right|\\ge2n(2n-1)!-4\\binom n2(2n-2)!=2n^2(2n-2)!.$$\nThis exceeds half of $(2n)!$, because\n$$2n^2-n(2n-1)=n>0.$$\nThus the required property holds for a strict majority. The lower bound itself follows pointwise: an object belonging to $r$ events contributes $r-\\binom r2\\le1$ when $r\\ge1$, and zero when $r=0$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln896.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

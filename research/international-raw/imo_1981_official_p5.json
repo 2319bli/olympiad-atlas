@@ -1,0 +1,29 @@
+{
+  "id": "imo_1981_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1981,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Homothety"
+    ],
+    [
+      "Geometry",
+      "Triangle centres"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ]
+  ],
+  "problem_markdown": "Three distinct congruent circles lie inside a triangle, each touching a different pair of sides, and have a common point $O$. Prove that $O$, the triangle’s incenter, and its circumcenter are collinear.",
+  "solutions_markdown": [
+    "Let $I$ be the incenter, $r$ the inradius, and $\\rho$ the common circle radius. Let $D,E,F$ be the centres for the side pairs meeting at $A,B,C$. These centres lie on the respective angle bisectors. Because their distances to their two sides are $\\rho$, whereas those of $I$ are $r$, we have\n$$D=I+t(A-I),\\quad E=I+t(B-I),\\quad F=I+t(C-I),\\qquad t=1-\\rho/r.$$\nThe circles are distinct, so $\\rho<r$ and $t>0$. Thus homothety about $I$ with ratio $t$ maps $ABC$ to $DEF$. If $C_0$ is the original circumcenter, the circumcenter of $DEF$ is $I+t(C_0-I)$. But $OD=OE=OF=\\rho$, making $O$ precisely that circumcenter. Hence $O,I,C_0$ are collinear."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1981/1981_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln815.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

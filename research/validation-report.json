@@ -1,0 +1,1363 @@
+{
+  "problems": 4402,
+  "expressions": 75999,
+  "errors": [],
+  "warnings": [
+    {
+      "id": "pamo_2006_4",
+      "warning": "Unusually short difficulty justification"
+    },
+    {
+      "id": "pamo_2000_1",
+      "warning": "Unusually short difficulty justification"
+    },
+    {
+      "id": "ca-cmo-1971-1",
+      "warning": "Unusually short difficulty justification"
+    },
+    {
+      "id": "ca-cmo-1971-2",
+      "warning": "Unusually short difficulty justification"
+    }
+  ],
+  "images": {
+    "assets/diagrams/86c3a5b9fa2ed10cf763.png": [
+      {
+        "id": "chn_2025_05f740",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/100b1c371d4dd2a2d402.jpg": [
+      {
+        "id": "mem_2024_c7cdc2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/fa976f0018cb2b38c48c.png": [
+      {
+        "id": "sgp_2025_6b1e1e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/41200a6a627239f35da4.png": [
+      {
+        "id": "tur_2024_13f74e",
+        "key": "solution"
+      }
+    ],
+    "assets/range-restoration/denmark-2026-2.png": [
+      {
+        "id": "nordic-denmark-2026-2",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/a464151a96bd2a1d0eee.png": [
+      {
+        "id": "hkg_2023_f38e49",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/05ccd1b39b7a04135c45.png": [
+      {
+        "id": "jpn_2025_fef72c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/af2ebe12a619eae6b7a7.png": [
+      {
+        "id": "jpn_2025_fef72c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7fc4843db4e1d028c638.jpeg": [
+      {
+        "id": "nzl_2025_cae174",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/53a51805cfaed45caa38.png": [
+      {
+        "id": "sgp_2025_ce3fe1",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/eacfdcc790b5d5dc0231.jpg": [
+      {
+        "id": "zhk_2021_68f19c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/cee4a470f2a694b47a03.png": [
+      {
+        "id": "btw_2023_b1cac2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5f0e3211b33d8482727a.jpeg": [
+      {
+        "id": "egm_2025_d7e2db",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/619d61ae364bd680602f.png": [
+      {
+        "id": "tha_2017_fe597b",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8ccb1e089e124f6034dc.png": [
+      {
+        "id": "vnm_2024_5297be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ed006f68fbd7207f5649.png": [
+      {
+        "id": "vnm_2024_5297be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b7da06511ddb44a27ba7.png": [
+      {
+        "id": "vnm_2024_5297be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/dbae4f93349ccd34d57b.png": [
+      {
+        "id": "vnm_2024_5297be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/160e691a40abf4351bb2.png": [
+      {
+        "id": "vnm_2024_5297be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/denmark-2026-q4.svg": [
+      {
+        "id": "nordic-denmark-2026-4",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/a1a929e2aed9d1bc3446.jpeg": [
+      {
+        "id": "egm_2025_43d1db",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/2ed228cd73f8d30fba4b.png": [
+      {
+        "id": "jpn_2025_efabb8",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/d9bf7878a970b956a824.jpg": [
+      {
+        "id": "jbm_2023_825c53",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a8aacadead4012dcf0d3.jpg": [
+      {
+        "id": "nmo_2022_502d9c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/3073b8e42e1e8b81b696.jpg": [
+      {
+        "id": "apm_2024_455746",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/77a7bff54cb67521817f.png": [
+      {
+        "id": "chn_2025_e11d17",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f551854b5d5d69c4c671.jpeg": [
+      {
+        "id": "egm_2025_b50ee2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/16b94939c786a812a58a.jpeg": [
+      {
+        "id": "egm_2025_b50ee2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/6b7da5adea71e0224498.jpeg": [
+      {
+        "id": "egm_2025_b50ee2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0cad0f29ce073bf87132.jpg": [
+      {
+        "id": "mem_2024_b25895",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c1215e50a268a98f0cd4.jpeg": [
+      {
+        "id": "nzl_2025_25714c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/4813b97068148c5e5bdb.png": [
+      {
+        "id": "sau_2024_2de6ed",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/2bec7a805dbad147399d.png": [
+      {
+        "id": "tur_2024_48a50e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b105385ffa5b6900bc37.png": [
+      {
+        "id": "tur_2024_48a50e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/83c56b2b60501817c752.jpg": [
+      {
+        "id": "jbm_2022_ff3ba9",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bb3e0acb6772056c56a4.jpg": [
+      {
+        "id": "mem_2024_788788",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b40fd315a5b343d2f663.png": [
+      {
+        "id": "tha_2017_fb306c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/216800a52ab4bd03e0e0.png": [
+      {
+        "id": "bmo_2024_4d74e3",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0c8b7a40b4ee5cdd34aa.jpg": [
+      {
+        "id": "bxm_2024_12b450",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/ba262c52c9a84175ccae.jpg": [
+      {
+        "id": "rmm_2021_07c4be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7ab35543fc1f819fe6ce.png": [
+      {
+        "id": "vnm_2024_c66402",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5ee83d3708862662e58f.png": [
+      {
+        "id": "vnm_2024_c66402",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/481a8b16d73be3fcc047.png": [
+      {
+        "id": "bmo_2024_cb70a8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8b0de0d251fdff5d9699.jpg": [
+      {
+        "id": "egm_2024_82b391",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/00d1586464e6deabd8c2.jpg": [
+      {
+        "id": "nmo_2021_b37e40",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bfeca54e967ea75b9e46.png": [
+      {
+        "id": "zaf_2023_a0d35e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c0482be61eb34eb5e74e.jpg": [
+      {
+        "id": "apm_2024_5b1ccf",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e24f8e67e84684b1d6e7.png": [
+      {
+        "id": "bmo_2024_e13d37",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/203559d8ea5a3bbd747b.png": [
+      {
+        "id": "bmo_2024_e13d37",
+        "key": "solution"
+      }
+    ],
+    "assets/range-restoration/denmark-2025-4.png": [
+      {
+        "id": "nordic-denmark-2025-4",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/bcc0018ee0c2d251772e.jpeg": [
+      {
+        "id": "nzl_2025_7a6975",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0861a23cbf82dcd067b6.png": [
+      {
+        "id": "tur_2024_fa25de",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/edc391126da12f76d7f4.jpg": [
+      {
+        "id": "mem_2023_af6d21",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b86f86ec755476f788aa.jpg": [
+      {
+        "id": "nmo_2019_953df2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/12855892a33061a6ca86.png": [
+      {
+        "id": "sau_2024_3907b5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a097bb57766ff47a64a8.jpg": [
+      {
+        "id": "bxm_2023_bbdbc6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/597989e44e78446a8ad6.png": [
+      {
+        "id": "chn_2025_53da42",
+        "key": "solution"
+      },
+      {
+        "id": "chn_2025_53da42",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/79b2b5a6eb2ae960795c.jpg": [
+      {
+        "id": "rmm_2021_b2930f",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7b2f8b9715b6ea81fa34.png": [
+      {
+        "id": "sgp_2025_aa25f4",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/6338dea26c25ca6e09ce.jpg": [
+      {
+        "id": "apm_2023_8d15e5",
+        "key": "solution"
+      }
+    ],
+    "assets/range-restoration/denmark-2024-2.png": [
+      {
+        "id": "nordic-denmark-2024-2",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/cba17c39d4cd4628769e.png": [
+      {
+        "id": "sgp_2025_bbcd49",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a271237954a4f14f41ba.png": [
+      {
+        "id": "zaf_2023_ab4da3",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/dbd9dad5583086cd0761.jpg": [
+      {
+        "id": "egm_2023_4855fd",
+        "key": "statement"
+      },
+      {
+        "id": "egm_2023_4855fd",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8a06e8faf7f137664e34.jpeg": [
+      {
+        "id": "nzl_2024_a1b930",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/091d76009a073214825d.jpg": [
+      {
+        "id": "phl_2023_5722c6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/110d259d3f718edf4b2f.png": [
+      {
+        "id": "sgp_2025_c197be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/51658ecc830d8359bb38.png": [
+      {
+        "id": "zaf_2022_0249f3",
+        "key": "statement"
+      },
+      {
+        "id": "zaf_2022_0249f3",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/2fe08731bc423a08c7cd.jpg": [
+      {
+        "id": "apm_2023_effff8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f2450601b739d8847fec.jpg": [
+      {
+        "id": "apm_2023_effff8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/18e40f13f1891d4bef29.jpg": [
+      {
+        "id": "apm_2023_effff8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e44136a1c9fcd4a3796e.png": [
+      {
+        "id": "chn_2025_54b9d7",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/00b97a10cfd990230bb7.jpeg": [
+      {
+        "id": "nzl_2024_019b4a",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/9bac8efad015050b9f06.jpeg": [
+      {
+        "id": "nzl_2024_019b4a",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d4fb957d7cddbae3d68f.jpg": [
+      {
+        "id": "nmo_2016_615ff2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/51d7edd88e274925c3a4.jpg": [
+      {
+        "id": "bxm_2022_92f124",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0e13dcb50728e8b71f61.jpg": [
+      {
+        "id": "phl_2023_0ba146",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5b1fb2ff6ebf5f130d8c.jpg": [
+      {
+        "id": "apm_2022_76c60b",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/396035e0529c8853fdc4.jpg": [
+      {
+        "id": "egm_2022_a8807e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/36fc3ef1e51351e2d564.jpg": [
+      {
+        "id": "egm_2022_a8807e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5f216a1642d421abf03a.jpg": [
+      {
+        "id": "egm_2022_a8807e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/41f588549b1ec4698066.jpg": [
+      {
+        "id": "egm_2022_a8807e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/dcf2f524169afe85ee1c.jpeg": [
+      {
+        "id": "nzl_2024_81ef99",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0c9dbb664e55570a653e.jpeg": [
+      {
+        "id": "nzl_2024_81ef99",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ed9fdcbaa2d18951ea5d.png": [
+      {
+        "id": "zaf_2022_ad8e16",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/eed89c8b33c18fb176c5.png": [
+      {
+        "id": "zaf_2022_ad8e16",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/633265592864d64785ef.jpg": [
+      {
+        "id": "egm_2021_755fd4",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/48ecbdda97ce9e7d2dbe.jpg": [
+      {
+        "id": "egm_2021_755fd4",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/daa7b2991b8403f975be.jpg": [
+      {
+        "id": "egm_2021_755fd4",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0ec0ee8926fa8d565b89.jpg": [
+      {
+        "id": "imo_2024_7579e8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/9a9b30c4a5950cda56f2.jpg": [
+      {
+        "id": "imo_2024_7579e8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/45f10cd2868c14292114.png": [
+      {
+        "id": "zaf_2022_abe3dd",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/91dc086cc6613f918851.jpg": [
+      {
+        "id": "egm_2020_4c41d5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/37ac2e90ee15c24efee4.png": [
+      {
+        "id": "btw_2023_bff74d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a525b62564f3f0d5934b.jpeg": [
+      {
+        "id": "nzl_2024_bb7a20",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/865697f6688927071b9e.png": [
+      {
+        "id": "zaf_2021_d88600",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/82b8797817de1cf8b33f.jpg": [
+      {
+        "id": "apm_2020_1a86f9",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0a09042f8fdc99b96882.jpg": [
+      {
+        "id": "egm_2020_9202c0",
+        "key": "solution"
+      }
+    ],
+    "assets/range-restoration/belgium-2022-midi-3.png": [
+      {
+        "id": "belgium-omb-2022-midi-3",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/f48973622a5c4386dea7.png": [
+      {
+        "id": "zaf_2021_757d61",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f2f70f689fcdf26dc1b7.png": [
+      {
+        "id": "bmo_2023_5e97b2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d95a94ca8ed43333f40b.png": [
+      {
+        "id": "chn_2025_843721",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ab2f658d21e30db306cd.png": [
+      {
+        "id": "chn_2025_843721",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/395f98ab27974aa87e36.png": [
+      {
+        "id": "bmo_2023_3cf7b2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/46a3eb68d4ea646300ca.jpg": [
+      {
+        "id": "imo_2024_34fef6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ffbae979774c26724146.jpg": [
+      {
+        "id": "imo_2024_34fef6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7221e5d93f16ed47aab8.jpg": [
+      {
+        "id": "imo_2024_34fef6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d0e03e9a2236992c10fb.jpeg": [
+      {
+        "id": "nzl_2023_6849e8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/baa2cced24b83b3a189b.jpg": [
+      {
+        "id": "imo_2024_df1d5d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/0c484c99d31b569f8d12.jpg": [
+      {
+        "id": "imo_2024_df1d5d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c7ab0a2f901aa9042dbe.jpg": [
+      {
+        "id": "imo_2024_df1d5d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/177a6ee7cff4e524a6a6.png": [
+      {
+        "id": "bmo_2023_5e5234",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/6b681e03e27c8000b307.jpg": [
+      {
+        "id": "imo_2024_a2662d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f9d276ad884a0d72941d.jpg": [
+      {
+        "id": "imo_2024_a2662d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ecdd7218523e6b2ba8c7.png": [
+      {
+        "id": "zaf_2020_0df402",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/58a3881bbc261ddca9b4.jpg": [
+      {
+        "id": "apm_2019_96963d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b808439e18f281c0dd1b.png": [
+      {
+        "id": "bmo_2023_fea5bb",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/6a2133c734b08f65e0a2.png": [
+      {
+        "id": "btw_2023_b9b607",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/ba59a248494e12b5e2cf.png": [
+      {
+        "id": "chn_2024_9eb338",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/7f93d4f364737f6fe20d.jpg": [
+      {
+        "id": "apm_2019_3a3563",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/dd24ac982161843f7d8b.png": [
+      {
+        "id": "zaf_2020_b9cbc5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a6094453d2e92233e074.jpg": [
+      {
+        "id": "apm_2016_7112d6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/cfe1980e9b04b1b04a8f.png": [
+      {
+        "id": "bmo_2023_e7a0b1",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8d8493e2859f068f875c.png": [
+      {
+        "id": "bmo_2023_e7a0b1",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f061548b38664ecedd70.png": [
+      {
+        "id": "btw_2023_f6a9be",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/78058edf8d27375e9480.png": [
+      {
+        "id": "bmo_2023_0bb743",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a930666540b73e0d10d6.jpeg": [
+      {
+        "id": "nzl_2023_83d8c8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7bdb7f36588e53931721.png": [
+      {
+        "id": "zaf_2019_df4d67",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/cd7adb2ca2af9fb7fa12.png": [
+      {
+        "id": "zaf_2019_df4d67",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/1e260c6f1f1e4879ac74.png": [
+      {
+        "id": "zaf_2019_df4d67",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/050ede96f2baee7a9364.png": [
+      {
+        "id": "zaf_2019_df4d67",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5793381177a75ea60f63.jpg": [
+      {
+        "id": "imo_2024_a60b6c",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8eb281a3f49685cb09cb.jpg": [
+      {
+        "id": "imo_2024_d207ef",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e05d9ff3534a222bea8d.jpeg": [
+      {
+        "id": "nzl_2022_3c54f2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/03d59c5c03bd2360c91f.png": [
+      {
+        "id": "chn_2023_d22a16",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/7ed80894bdf32f87d2e9.png": [
+      {
+        "id": "chn_2023_d22a16",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5993f23c4c0e4ff292e1.jpg": [
+      {
+        "id": "apm_2015_f045f5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8dff8d529f83f56816ce.jpg": [
+      {
+        "id": "apm_2015_f045f5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8bad96a09ec611c46f0c.png": [
+      {
+        "id": "zaf_2018_d3dd8e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a96ed2600f3f9f21aaef.png": [
+      {
+        "id": "chn_2023_5c51dc",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/d8b871c81fc0a7e1ac9f.jpg": [
+      {
+        "id": "imo_2023_1ae32a",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/03ec2da909c1c350c667.png": [
+      {
+        "id": "zaf_2018_087067",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e5d3b4c5572fea39d2bc.jpg": [
+      {
+        "id": "apm_2013_8a2e44",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/63db65b56f98468e470d.jpg": [
+      {
+        "id": "imo_2023_a99802",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/fdedbd3d4788e6055808.jpg": [
+      {
+        "id": "imo_2023_a99802",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/624a2d696f81bb125cf2.jpg": [
+      {
+        "id": "imo_2023_a99802",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bb587c1f3d49f5fa59ea.jpg": [
+      {
+        "id": "imo_2023_1fa49d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/19cd0f929b81b28512d2.jpg": [
+      {
+        "id": "imo_2023_1fa49d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/3824c51c85b5c37cb6a8.jpeg": [
+      {
+        "id": "nzl_2022_01b556",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b215dd7db0f336e236f4.png": [
+      {
+        "id": "zaf_2016_89ba0d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ea3efc8d56ec62273d9a.jpg": [
+      {
+        "id": "imo_2023_da43cf",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a0a8ca04c9a90447eb88.jpeg": [
+      {
+        "id": "nzl_2021_b9824e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5d7bee8afae2427f53a8.png": [
+      {
+        "id": "jpn_2023_c14de8",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e0372ef39803d3ae2ac7.png": [
+      {
+        "id": "zaf_2016_6bd7a1",
+        "key": "solution"
+      }
+    ],
+    "assets/range-restoration/norway-2020-1a.png": [
+      {
+        "id": "nordic-norway-2020-1(a)",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/16c80d77e319541dc292.jpeg": [
+      {
+        "id": "nzl_2021_09239d",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/2b0201e61511ebab958b.jpeg": [
+      {
+        "id": "nzl_2021_e9c59b",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/308099ed6794d4aedd97.png": [
+      {
+        "id": "chn_2022_808a94",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e0d94bc2f451bb352cdd.png": [
+      {
+        "id": "chn_2022_808a94",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/68c50f3df07c6017ab06.jpg": [
+      {
+        "id": "imo_2022_34151b",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c96c8c85941b305d3088.jpg": [
+      {
+        "id": "imo_2022_34151b",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/39e9d909306d43af3c80.png": [
+      {
+        "id": "chn_2022_5809fa",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/1854b26397889e52e320.png": [
+      {
+        "id": "chn_2022_5809fa",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/a115d732793063d2ec71.jpeg": [
+      {
+        "id": "nzl_2021_9e5636",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/423715a11a0927c3ea88.jpeg": [
+      {
+        "id": "nzl_2020_94b6cb",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/51436b70be18fd59a8a0.png": [
+      {
+        "id": "chn_2022_d75bdf",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/19f4311e45a0eab4a050.png": [
+      {
+        "id": "chn_2022_d75bdf",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f5c8457498e6b5ee77d3.jpeg": [
+      {
+        "id": "nzl_2020_3fed2b",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f53c6b0bdd49f5ca2e3d.png": [
+      {
+        "id": "chn_2022_aece1e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/4d07fe210eee84181597.png": [
+      {
+        "id": "chn_2022_aece1e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/cf28fedabf16f875cbb7.png": [
+      {
+        "id": "chn_2022_aece1e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/9b24caf8113718261f79.png": [
+      {
+        "id": "chn_2022_eef565",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/392fd0c4ca7aa852c5bd.png": [
+      {
+        "id": "chn_2022_eef565",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c3ef061b2ef09f583e3e.png": [
+      {
+        "id": "chn_2022_eef565",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c0c5fbd8175dbe9edbe1.jpeg": [
+      {
+        "id": "nzl_2020_f90226",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/35007680495993d9c3a2.jpeg": [
+      {
+        "id": "nzl_2020_ba5f19",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c8dcafa1226218d3342c.jpeg": [
+      {
+        "id": "nzl_2020_ec31e6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/fea31426d8fbf6a3ca7e.jpeg": [
+      {
+        "id": "nzl_2020_ec82e1",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/9df82be4a51822271273.png": [
+      {
+        "id": "zaf_2014_c8f8c7",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5dd63a2cb9067c2ee489.png": [
+      {
+        "id": "zaf_2014_cc2e00",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/63fa6b58622bab0ff992.jpeg": [
+      {
+        "id": "nzl_2019_3676e6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/28c17e4f89eb977f3994.png": [
+      {
+        "id": "zaf_2012_1a4c79",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/4917751d987ec8c46981.jpeg": [
+      {
+        "id": "nzl_2019_f4b384",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b37b5730eb7252e1815f.png": [
+      {
+        "id": "zaf_2012_846aaa",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/5503e449d57fab580ad8.jpeg": [
+      {
+        "id": "nzl_2019_a6c9a7",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/4e72f1fabcb7f7a8a634.jpeg": [
+      {
+        "id": "nzl_2019_a6c9a7",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7fd34e224655e9e34945.png": [
+      {
+        "id": "chn_2021_c198eb",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/14ee877fb0cbb7e2f0e7.png": [
+      {
+        "id": "ind_2011_ce10dc",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/64977fe50f7a83589e14.jpeg": [
+      {
+        "id": "nzl_2019_2b2db5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/93059b2219d9fa5c2904.jpeg": [
+      {
+        "id": "nzl_2019_2b2db5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/ef98b92974b534249dcb.jpeg": [
+      {
+        "id": "nzl_2019_2b2db5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/5040d95d3349cd730838.jpeg": [
+      {
+        "id": "nzl_2019_2b2db5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/233aa0c5b2f12979c4b8.jpg": [
+      {
+        "id": "ind_2010_80ee68",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f5a4a5f804e5f437d92a.png": [
+      {
+        "id": "ind_2010_28fd09",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/e0890fc22ee1e384f201.jpg": [
+      {
+        "id": "ind_2009_f3300f",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/690fc8d4f31cb24023f1.jpg": [
+      {
+        "id": "ind_2009_f3300f",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/221c03e7ab546ed4db3c.jpg": [
+      {
+        "id": "ind_2009_f3300f",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7c625be8388785338b5e.jpg": [
+      {
+        "id": "ind_2009_f3300f",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/854c772daeffb2a8b101.png": [
+      {
+        "id": "ind_2009_88f876",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d86d60a383cbf9e13f5e.jpg": [
+      {
+        "id": "ind_2008_e0bfda",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bef8476748931dd7fce4.png": [
+      {
+        "id": "chn_2020_875b51",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/c7fa21ecb6e62973afa0.jpg": [
+      {
+        "id": "ind_2008_463220",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f24d64e4279c246328d7.jpg": [
+      {
+        "id": "ind_2008_463220",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/8089ec5771c21354425c.png": [
+      {
+        "id": "ind_2008_e75c65",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/f05f8758550155157a75.png": [
+      {
+        "id": "chn_2013_aab84c",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/cb5db514edd60a4172f1.jpg": [
+      {
+        "id": "ind_2007_b1834a",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bd1e0466aa9c8136a022.jpg": [
+      {
+        "id": "ind_2007_c3d5f2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/3d49a27f99f78735db54.png": [
+      {
+        "id": "ind_2007_923909",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/7e6f06f2c843ed4e6b58.jpg": [
+      {
+        "id": "ind_2006_2ee27e",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/bdcbac7a4cc4e0fee0ba.jpg": [
+      {
+        "id": "ind_2006_748949",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/b3bee2cb7c5183353779.jpg": [
+      {
+        "id": "ind_2006_fd18f3",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d67b5f60122e8831c196.png": [
+      {
+        "id": "chn_2012_8fb70f",
+        "key": "statement"
+      }
+    ],
+    "assets/diagrams/fcf1c2d00b5628704c02.png": [
+      {
+        "id": "ind_2006_e886f6",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/6b4041e45a177c676079.jpg": [
+      {
+        "id": "ind_2005_e9b8ca",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/1a17e31532fc09426185.jpg": [
+      {
+        "id": "ind_2004_e9a8e2",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/148f89d47a3748a024ae.jpg": [
+      {
+        "id": "ind_2003_929970",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/58980f1fb0bf9d777b8e.jpg": [
+      {
+        "id": "ind_2002_6aeb27",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/d6f90abf42498107a130.jpg": [
+      {
+        "id": "ind_2001_339b41",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/9549a9293ea5f518c460.jpg": [
+      {
+        "id": "ind_2001_339b41",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/2a554fec962b86b4f37a.jpg": [
+      {
+        "id": "ind_2001_9185f5",
+        "key": "solution"
+      }
+    ],
+    "assets/diagrams/34eccc5626bf4fb8a5b9.jpg": [
+      {
+        "id": "ind_2000_801c52",
+        "key": "solution"
+      }
+    ]
+  }
+}

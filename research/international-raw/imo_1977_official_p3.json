@@ -1,0 +1,33 @@
+{
+  "id": "imo_1977_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "3",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Multiplicative order"
+    ],
+    [
+      "Number Theory",
+      "Primes"
+    ],
+    [
+      "Number Theory",
+      "Factorisation"
+    ],
+    [
+      "Number Theory",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "For an integer $n>2$, let $V=\\{1+kn:k\\ge1\\}$. Call an element irreducible if it is not a product of two elements of $V$. Prove that some element of $V$ has two different factorizations into irreducibles, ignoring factor order.",
+  "solutions_markdown": [
+    "Some prime divisor $p$ of $n-1$ is not congruent to one modulo $n$; otherwise their product $n-1$ would be congruent to one. Let $d\\ge2$ be the multiplicative order of $p$ modulo $n$. Then $p^d$ is irreducible in $V$.\n\nChoose $a>1$ with $pa\\equiv1\\pmod n$ and $p\\nmid a$. Such an $a$ exists by varying an inverse of $p$ modulo $n$ through multiples of $n$. Factor $pa$ into irreducibles in $V$, which is possible by repeated splitting into smaller factors. Exactly one factor, say $m$, contains $p$, with exponent one.\n\nThe number $m^d$ has the factorization into $d$ copies of $m$. It also equals $p^d(m/p)^d$, where $(m/p)^d\\in V$ because $m/p\\equiv p^{-1}\\pmod n$, and $m/p>1$. Factor that second factor into irreducibles. This new factorization contains $p^d$, which differs from $m$ by its $p$-exponent. The factorizations are distinct."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln773.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

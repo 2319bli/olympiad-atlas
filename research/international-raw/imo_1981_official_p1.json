@@ -1,0 +1,29 @@
+{
+  "id": "imo_1981_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1981,
+  "problem_number": "1",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Cauchy–Schwarz"
+    ],
+    [
+      "Geometry",
+      "Triangle centres"
+    ]
+  ],
+  "problem_markdown": "For an interior point $P$ of triangle $ABC$, let $D,E,F$ be its perpendicular feet on $BC,CA,AB$. Determine all $P$ minimising $BC/PD+CA/PE+AB/PF$.",
+  "solutions_markdown": [
+    "Write $a=BC,b=CA,c=AB$ and $x=PD,y=PE,z=PF$. If the triangle's area is $\\Delta$, then $ax+by+cz=2\\Delta$. Cauchy–Schwarz gives\n$$\\left(\\frac ax+\\frac by+\\frac cz\\right)(ax+by+cz)\\ge(a+b+c)^2.$$\nEquality holds exactly when $x=y=z$. The unique interior point equidistant from all three sidelines is the incenter. Thus it uniquely minimises the expression, whose minimum is $(a+b+c)^2/(2\\Delta)$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1981/1981_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln811.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

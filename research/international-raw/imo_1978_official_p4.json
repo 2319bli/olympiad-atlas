@@ -1,0 +1,33 @@
+{
+  "id": "imo_1978_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "4",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Angles"
+    ],
+    [
+      "Geometry",
+      "Cyclic quadrilaterals"
+    ],
+    [
+      "Geometry",
+      "Triangle centres"
+    ]
+  ],
+  "problem_markdown": "Let $AB=AC$. A circle touches the circumcircle of $ABC$ internally and touches segments $AB,AC$ at $P,Q$. Prove that the midpoint of $PQ$ is the incenter of $ABC$.",
+  "solutions_markdown": [
+    "Let $M$ be the midpoint of $PQ$, and let the bisector of $\\angle A$ meet the circumcircle again at $R$. Symmetry places the small circle's centre on $AR$; its internal tangency point is $R$ (it cannot be $A$, which lies outside the small circle). Also $M\\in AR$ and $PQ\\perp AR$.\n\nSince $AR$ is a diameter of the circumcircle, $\\angle PBR=90^\\circ$. Since $PM\\perp MR$, the points $P,B,R,M$ are cyclic. The tangent-chord theorem for the small circle gives $\\angle PRQ=\\angle APQ=\\angle ABC$. Symmetry about $AR$ bisects $\\angle PRQ$, so\n$$\\angle PBM=\\angle PRM=\\tfrac12\\angle ABC.$$\nThus $BM$ bisects $\\angle B$, while $AM$ already bisects $\\angle A$. Their intersection $M$ is the incenter."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln784.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

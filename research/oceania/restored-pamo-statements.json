@@ -1,0 +1,596 @@
+[
+  {
+    "id": "pamo_2026_1",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Games & strategies"
+    ],
+    "statement": "Eight cards occupy eight consecutive positions in a row. Players alternate removing one card that still has a card in at least one of its two originally neighbouring positions. Gaps are never closed. The first player unable to move loses. Which player has a winning strategy?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2026_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Algebraic identities"
+    ],
+    "statement": "Find every polynomial $P$ with nonnegative integer coefficients satisfying $P(\\sqrt2)=\\sqrt{P(2)}$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review.",
+    "solution": "Write $P(x)=\\sum a_i x^i$. Squaring the equality yields $$\\sum_i(a_i^2-a_i)2^i+2\\sum_{i<j}a_i a_j2^{(i+j)/2}=0.$$ Every summand is nonnegative. Thus every coefficient is $0$ or $1$, and at most one coefficient is $1$. Conversely $P=0$ and $P(x)=x^k$ for every integer $k\\ge0$ all work.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "pamo_2025_2",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Counting",
+      "Parity",
+      "Recurrences & generating functions"
+    ],
+    "statement": "Count ordered pairs of binary sequences $(x_1,\\ldots,x_{20})$ and $(y_1,\\ldots,y_{20})$ such that $\\sum_{i=1}^{20}x_i y_i$ is even.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review.",
+    "solution": "At each index three choices of $(x_i,y_i)$ contribute zero and one contributes one. Therefore the even-minus-odd count is $(3-1)^{20}=2^{20}$, while their sum is $4^{20}$. The required number is $(4^{20}+2^{20})/2$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "pamo_2025_4",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Divisibility & GCD",
+      "Integer polynomials"
+    ],
+    "statement": "Determine all integers $n$ for which $x^5-nx-(n+1)=0$ has an integer root $x$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review.",
+    "solution": "The equation is $x^5-1=n(x+1)$. The value $x=-1$ is impossible. Reduction modulo $x+1$ gives $x+1\\mid2$, so $x\\in\\{0,1,-2,-3\\}$. These yield $n\\in\\{-1,0,33,122\\}$, respectively, and each is valid.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "pamo_2024_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Primes",
+      "Diophantine equations"
+    ],
+    "statement": "Find all positive integer triples $(a,b,c)$ such that $$(a+b)/(a+c)=(b+c)/(a+b)$$ and $ab+bc+ca$ is prime.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2000_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Trigonometry",
+      "Equations & systems"
+    ],
+    "statement": "Solve, on the real domain where the trigonometric expressions are defined, $$\\sin^3x(1+\\cot x)+\\cos^3x(1+\\tan x)=\\cos2x.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2000_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Polynomials",
+      "Sequences & recurrences"
+    ],
+    "statement": "Define $P_0(x)=x^3+213x^2-67x-2000$ and $P_n(x)=P_{n-1}(x-n)$ for $n\\ge1$. What is the coefficient of $x$ in $P_{21}(x)$?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review.",
+    "solution": "The successive shifts add to $1+\\cdots+21=231$, so $P_{21}(x)=P_0(x-231)$. Its linear coefficient is $3\\cdot231^2-426\\cdot231-67=61610$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "pamo_2000_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "statement": "Fix real numbers $a,b,c$ with $a^2+b^2=c^2$. Find all real triples $(x,y,z)$ satisfying $$z^2=x^2+y^2,\\qquad (z+c)^2=(x+a)^2+(y+b)^2.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2001_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Divisibility & GCD",
+      "Integer polynomials"
+    ],
+    "statement": "For which positive integers $n$ is $(n^3+3)/(n^2+7)$ a positive integer?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2001_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Counting"
+    ],
+    "statement": "Given $n\\ge1$ and real $a>0$, count the ordered real tuples $(x_1,\\ldots,x_n)\\in[0,a]^n$ satisfying $$\\sum_{i=1}^n\\bigl(x_i^2+(a-x_i)^2\\bigr)=na^2.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2001_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Squares & powers"
+    ],
+    "statement": "Evaluate $\\sum_{i=1}^{2001}\\lfloor\\sqrt i\\rfloor$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2002_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Induction"
+    ],
+    "statement": "Find every function $f:\\mathbb Z_{\\ge0}\\to\\mathbb Z_{\\ge0}$ such that $f(f(n))=f(n)+1$ for all $n\\ge0$ and the minimum value attained by $f$ is $1$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2002_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Coordinates & vectors",
+      "Constructions & loci"
+    ],
+    "statement": "Triangle $AOB$ is right-angled at $O$. Points $C,D$ vary on segments $AO,BO$, respectively, subject to $AC=BD$. Show that all perpendicular bisectors of $CD$ pass through one fixed point.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2002_3",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Induction",
+      "Modular arithmetic"
+    ],
+    "statement": "For each positive integer $n$, prove that some positive multiple of $2^n$ has a decimal expansion using only the digits $1$ and $2$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2002_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Algebraic identities"
+    ],
+    "statement": "If $a_1\\ge\\cdots\\ge a_n\\ge0$ and $\\sum_{i=1}^n a_i=1$, prove $$\\sum_{i=1}^n(2i-1)a_i^2\\le1.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2003_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Angles & cyclic quadrilaterals",
+      "Circles & tangency"
+    ],
+    "statement": "Four distinct points divide a circle into four consecutive arcs. Join the midpoints of those arcs to form a quadrilateral. Prove that its diagonals are perpendicular.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2003_3",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Divisibility & GCD"
+    ],
+    "statement": "Is there an integer base $b\\ge2$ in which all the numerals $10101$, $101010101$, $1010101010101$, and so on, represent primes? The $k$th numeral has $4k+1$ digits alternating $1,0$, beginning and ending with $1$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2003_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Multiplicative order"
+    ],
+    "statement": "Determine the positive integers $n$ such that $21\\mid2^{2^n}+2^n+1$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2003_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations"
+    ],
+    "statement": "Determine every function $f:\\mathbb R\\to\\mathbb R$ with $$f(x^2)-f(y^2)=(x+y)(f(x)-f(y))$$ for all real $x,y$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2004_1",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic",
+      "Diophantine equations"
+    ],
+    "statement": "Do any positive integers $m,n$ satisfy $3n^2+3n+7=m^3$? Prove your answer.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2004_2",
+    "topic": "Algebra",
+    "subtopics": [
+      "Algebraic identities",
+      "Rationality & irrationality"
+    ],
+    "statement": "Decide whether $4\\sqrt{4-2\\sqrt3}+\\sqrt{97-56\\sqrt3}$ is an integer, and justify the decision.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2004_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Divisibility & GCD"
+    ],
+    "statement": "A circle is labelled with $268$ numbers in order. Every $20$ consecutive labels sum to $75$. Positions $17,83,144$ contain $3,4,9$, respectively. Find the label in position $210$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2004_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Algebraic identities"
+    ],
+    "statement": "Find all real triples $(x,y,z)$ satisfying $(x+y+z)^2=x^2+y^2+z^2$ and $xy=z^2$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2005_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "For positive real $a,b,c$, establish both inequalities $$\\frac1a+\\frac1b+\\frac1c\\ge\\frac2{a+b}+\\frac2{b+c}+\\frac2{c+a}\\ge\\frac9{a+b+c}.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2005_3",
+    "topic": "Geometry",
+    "subtopics": [
+      "Area & dissection",
+      "Constructions & loci"
+    ],
+    "statement": "A point $P$ is given on a side of triangle $ABC$. Construct a line through $P$ that bisects the triangle’s area.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2005_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Equations & systems"
+    ],
+    "statement": "Solve $\\lfloor x\\rfloor\\{x\\}=2005x$ over the reals, where $\\{x\\}=x-\\lfloor x\\rfloor$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2006_1",
+    "topic": "Geometry",
+    "subtopics": [
+      "Coordinates & vectors",
+      "Circles & tangency"
+    ],
+    "statement": "Let $AB,CD$ be perpendicular diameters of a circle with centre $O$. For $M$ in the interior of $AB$, line $CM$ meets the circle again at $N$. Let $P$ be the intersection of the tangent at $N$ and the line through $M$ perpendicular to $AB$. Prove that $OP=CM$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2006_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Algebraic identities",
+      "Floors & fractional parts"
+    ],
+    "statement": "For distinct real $a,b,c$, show that $$\\frac{a^3}{(a-b)(a-c)}+\\frac{b^3}{(b-a)(b-c)}+\\frac{c^3}{(c-a)(c-b)}$$ is an integer exactly when $\\{a\\}+\\{b\\}+\\{c\\}$ is an integer, where $\\{t\\}=t-\\lfloor t\\rfloor$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2006_4",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Valuations",
+      "Factorials & binomial coefficients"
+    ],
+    "statement": "Write $v_2(k)$ for the largest integer $r$ with $2^r\\mid k$. Evaluate $\\sum_{k=1}^{2^n}v_2(k)$ for every positive integer $n$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2006_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Colouring",
+      "Counting",
+      "Sets & partitions"
+    ],
+    "statement": "In how many ways can $\\{1,2,\\ldots,2006\\}$ be partitioned into three nonempty, unlabelled sets, none containing two consecutive integers?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2007_2",
+    "topic": "Geometry",
+    "subtopics": [
+      "Transformations",
+      "Constructions & loci"
+    ],
+    "statement": "Fix a nondegenerate triangle $ABC$ and a line $\\ell$ not passing through $A$. Let $B'$ vary over $\\ell$, and choose $C'$ so that triangles $AB'C'$ and $ABC$ have corresponding equal angles. Determine the locus of $C'$, allowing both possible orientations.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2007_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Equations & systems",
+      "Inequalities"
+    ],
+    "statement": "Find all real solutions of $$x=\\sqrt{2y+3},\\qquad y=\\sqrt{2z+3},\\qquad z=\\sqrt{2x+3}.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2007_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Modular arithmetic"
+    ],
+    "statement": "Determine all positive integers $n$ for which $2007\\mid231^n-222^n-8^n-1$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2008_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations",
+      "Inequalities"
+    ],
+    "statement": "Find all functions $f:\\mathbb R\\to\\mathbb R$ satisfying $f(x+y)\\le f(x)+f(y)\\le x+y$ for every real $x,y$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2008_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Algebraic identities"
+    ],
+    "statement": "For positive reals $x,y$ and every integer $n\\ge0$, prove $$xy\\le\\frac{x^{n+2}+y^{n+2}}{x^n+y^n}.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2009_1",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Parity",
+      "Invariants"
+    ],
+    "statement": "Can signs $x_1,\\ldots,x_{2009}\\in\\{-1,1\\}$ satisfy $$x_1x_2+x_2x_3+\\cdots+x_{2008}x_{2009}+x_{2009}x_1=999?$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2010_2",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Permutations & arrangements",
+      "Counting"
+    ],
+    "statement": "Arrange $19$ people of distinct heights in a row so that no person is taller than both immediate neighbours. How many arrangements meet this condition? The two end positions impose no restriction.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2010_4",
+    "topic": "Geometry",
+    "subtopics": [
+      "Combinatorial geometry",
+      "Circles & tangency"
+    ],
+    "statement": "Seven distinct points lie on a circle of circumference $c$: three are the vertices of an equilateral triangle and the other four of a square. Prove that some arc between successive marked points has length at most $c/24$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2010_5",
+    "topic": "Number Theory",
+    "subtopics": [
+      "Digits & bases",
+      "Descent"
+    ],
+    "statement": "Begin with a positive decimal integer. If its final digit is at most $5$, delete that digit; otherwise multiply the integer by $9$. Continue, stopping when deletion leaves no digits. Can any starting integer produce an infinite sequence?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2012_3",
+    "topic": "Algebra",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Equations & systems"
+    ],
+    "statement": "Find every real $x$ satisfying $$\\lfloor x^2-2x\\rfloor+2\\lfloor x\\rfloor=\\lfloor x\\rfloor^2.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2012_4",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Invariants"
+    ],
+    "statement": "Initially a board contains $1,1/2,\\ldots,1/2012$. A move erases two entries $x,y$ and writes $x+y+xy$ in their place. Continue until a single entry remains. What values can it have?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review.",
+    "solution": "The product of one plus every entry is unchanged, since $1+(x+y+xy)=(1+x)(1+y)$. Initially that product is $\\prod_{k=1}^{2012}(k+1)/k=2013$. Therefore the final entry is always $2012$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas"
+  },
+  {
+    "id": "pamo_2012_5",
+    "topic": "Algebra",
+    "subtopics": [
+      "Functional equations"
+    ],
+    "statement": "Determine all functions $f:\\mathbb R\\to\\mathbb R$ with $$f(x^2-y^2)=(x+y)(f(x)-f(y))$$ for all real $x,y$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2013_6",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities",
+      "Equations & systems"
+    ],
+    "statement": "Solve, for real $x<y<z<6$, $$\\frac1{y-x}+\\frac1{z-y}\\le2,\\qquad \\frac1{6-z}+2\\le x.$$",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2015_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Inequalities"
+    ],
+    "statement": "Prove that $$\\sqrt{x-1}+\\sqrt{2x+9}+\\sqrt{19-3x}<9$$ whenever all three square roots are real.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2015_3",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Pigeonhole principle",
+      "Sets & partitions",
+      "Modular arithmetic"
+    ],
+    "statement": "For any integers $a_1,\\ldots,a_{11}$, show that there exist coefficients $b_i\\in\\{-1,0,1\\}$, not all zero, for which $2015\\mid\\sum_{i=1}^{11}a_i b_i$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2015_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Probability",
+      "Counting"
+    ],
+    "statement": "Seven cards bear the values $1,2,4,8,16,32,64$. Draw them uniformly at random without replacement, stopping when the sum drawn exceeds $124$. Which final sum is most likely?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2016_2",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Invariants",
+      "Modular arithmetic"
+    ],
+    "statement": "Begin with one pile of $2016$ cards. In a move, choose a pile, discard one of its cards, and split its remaining cards into two nonempty piles. Can a sequence of moves leave every pile with exactly three cards?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2017_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Squares & powers"
+    ],
+    "statement": "Set $x_0=0$, $x_1=1$, and $x_{n+2}=3x_{n+1}-2x_n$ for $n\\ge0$. Define $y_n=x_n^2+2^{n+2}$. Prove that $y_n$ is the square of an odd integer for every $n>0$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2017_4",
+    "topic": "Algebra",
+    "subtopics": [
+      "Floors & fractional parts",
+      "Equations & systems"
+    ],
+    "statement": "Find all real solutions, with nonzero denominators, of $$\\frac1{\\lfloor x\\rfloor}+\\frac1{\\lfloor2x\\rfloor}=\\{x\\}+\\frac13,$$ where $\\{x\\}=x-\\lfloor x\\rfloor$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2017_5",
+    "topic": "Combinatorics",
+    "subtopics": [
+      "Games & strategies",
+      "Parity"
+    ],
+    "statement": "The integers $1,2,\\ldots,2017$ are on a board. Deka moves first, and Deka and Farid then alternate erasing one entry. Whoever erases a number divisible by $2$, $3$ or $5$ immediately loses. Can Deka force a win?",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2018_4",
+    "topic": "Geometry",
+    "subtopics": [
+      "Angles & cyclic quadrilaterals"
+    ],
+    "statement": "In triangle $ABC$, let $D$ be the intersection of the line through $A$ perpendicular to $AB$ and the line through $B$ perpendicular to $BC$. For an interior point $P$, prove that $D,A,P,B$ are concyclic exactly when $\\angle BAP=\\angle CBP$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2019_1",
+    "topic": "Algebra",
+    "subtopics": [
+      "Sequences & recurrences",
+      "Induction"
+    ],
+    "statement": "A real sequence has $a_0=3$, $a_1=2$, $a_2=12$ and $$2a_{n+3}-a_{n+2}-8a_{n+1}+4a_n=0\\quad(n\\ge0).$$ Prove that every term is a positive integer.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  },
+  {
+    "id": "pamo_2001_3",
+    "topic": "Geometry",
+    "subtopics": [
+      "Transformations",
+      "Coordinates & vectors"
+    ],
+    "statement": "Triangle $ABC$ is equilateral. An exterior point $P_0$ makes $AP_0C$ a right isosceles triangle with right angle at $P_0$. Reflect $P_0$ in $A$ to obtain $P_1$, then reflect $P_1$ in $B$ to obtain $P_2$, then reflect in $C$, and repeat the centres $A,B,C$ cyclically. Compare $P_0P_n$ with $P_0P_1$ for every positive integer $n$.",
+    "sourceUrl": "https://www.pamoofficial.org/problems/",
+    "notes": "Statement independently paraphrased from the PAMO organisers’ archive. The numerical rating is retained from the existing individual review."
+  }
+]

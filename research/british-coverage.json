@@ -1,0 +1,6173 @@
+{
+  "source": "https://bmos.ukmt.org.uk/home/bmo.shtml",
+  "solutionIndex": "https://bmos.ukmt.org.uk/solutions/",
+  "fullyScreenedRange": "BMO 1973–1991; all accessible FIST papers (1972, 1974–1986, 1988–1991); BMO1 and BMO2 archive seasons 1992–2026.",
+  "papers": [
+    {
+      "competition": "BMO",
+      "archiveYear": 1973,
+      "status": "fully-screened",
+      "questionCount": 11,
+      "includedCount": 10,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1974,
+      "status": "fully-screened",
+      "questionCount": 10,
+      "includedCount": 10,
+      "questionNumbers": [
+        "A1",
+        "B2",
+        "A3",
+        "A4",
+        "A5",
+        "B6",
+        "B7",
+        "A8",
+        "B9",
+        "B10"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1975,
+      "status": "fully-screened",
+      "questionCount": 8,
+      "includedCount": 8,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1975.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1976,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1976.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1977,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1977.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1978,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1978.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1979,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1979.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1980,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1980.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1981,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1981.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1982,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1982.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1983,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1983.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1984,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1984.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1985,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1985.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1986,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1986.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1987,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1987.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1988,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1988.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1989,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1989.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1990,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1990.pdf"
+    },
+    {
+      "competition": "BMO",
+      "archiveYear": 1991,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1991.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1972,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1972.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1974,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4a",
+        "4b"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1974.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1975,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1975.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1976,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1976.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1977,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3a",
+        "3b",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1977.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1978,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1978.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1979,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1979.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1980,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1980.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1981,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1981.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1982,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1982.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1983,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        "G1",
+        "G2",
+        "G3",
+        "A4",
+        "A5",
+        "A6",
+        "A7"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1983.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1984,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1984.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1985,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1985.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1986,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1986.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1988,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1988.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1989,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1989.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1990,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1990.pdf"
+    },
+    {
+      "competition": "FIST",
+      "archiveYear": 1991,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/fist-1991.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1992,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1992.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1992,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1992.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1993,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1993.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1993,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1993.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1994,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1994.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1994,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1994.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1995,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1995.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1995,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1995.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1996,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1996.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1996,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1996.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1997,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1997,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1997.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1998,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1998.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1998,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1998.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 1999,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1999.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 1999,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-1999.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2000,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2000.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2000,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2000.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2001,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2001.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2001,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2001.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2002,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2002.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2002,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2002.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2003,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2003.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2003,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2003.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2004,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2004.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2004,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2004.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2005,
+      "status": "fully-screened",
+      "questionCount": 5,
+      "includedCount": 5,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2005.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2005,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2005.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2006,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2006.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2006,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2006.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2007,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2007.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2007,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2007.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2008,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2008.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2008,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2008.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2009,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2009.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2009,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2009.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2010,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2010.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2010,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2010.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2011,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2011.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2011,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2011.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2012,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2012.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2012,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2012.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2013,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2013.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2013,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2013.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2014,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2014.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2014,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2014.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2015,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2015.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2015,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2015.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2016,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2016.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2016,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2016.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2017,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2017.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2017,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2017.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2018,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2018.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2018,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2018.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2019,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2019.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2019,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2019.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2020,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2020.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2020,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2020.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2021,
+      "status": "fully-screened",
+      "questionCount": 7,
+      "includedCount": 7,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2021,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2021.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2022,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2022.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2022,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2022.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2023,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2023.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2023,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2023.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2024,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2024.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2024,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2024.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2025,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2025.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2025,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2025.pdf"
+    },
+    {
+      "competition": "BMO1",
+      "archiveYear": 2026,
+      "status": "fully-screened",
+      "questionCount": 6,
+      "includedCount": 6,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2026.pdf"
+    },
+    {
+      "competition": "BMO2",
+      "archiveYear": 2026,
+      "status": "fully-screened",
+      "questionCount": 4,
+      "includedCount": 4,
+      "questionNumbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo2-2026.pdf"
+    }
+  ],
+  "screening": [
+    {
+      "year": 1992,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Nonzero-digit counts of squares reduce to short digit bounds and a finite construction; both two-digit and three-digit parts were inspected."
+    },
+    {
+      "year": 1992,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Parallel chords give equations between consecutive arcs; solving the cyclic system determines whether all arcs coincide."
+    },
+    {
+      "year": 1992,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A scaling construction removes all pair-sum divisibility obstructions at once, rather than searching isolated examples."
+    },
+    {
+      "year": 1992,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A tailored sum-of-squares identity gives the sharp bound and equality cases; the indefinite constraint also permits an unbounded family."
+    },
+    {
+      "year": 1992,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Monotonicity and the iterated equation force values on expanding intervals; identifying and proving the interval pattern is the main challenge."
+    },
+    {
+      "year": 1992,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Separate the two possible gcds of the factors; one case forces consecutive squares and the other a prime difference of squares."
+    },
+    {
+      "year": 1992,
+      "round": 2,
+      "number": 2,
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "The lower reciprocal-sum bound is Cauchy directly, and the upper bound is the sum of six two-variable reciprocal inequalities."
+    },
+    {
+      "year": 1992,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The cosine rule and extended sine rule convert the identity into a sharp bound on a product of sines, forcing equality throughout."
+    },
+    {
+      "year": 1992,
+      "round": 2,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Viewing each friendship kind as a perfect matching makes both parity claims transparent, but a connected construction for every even size is still required."
+    },
+    {
+      "year": 1993,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Digit-block square search is below the chosen core band; modular factorisation suffices."
+    },
+    {
+      "year": 1993,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Requires examining which vertex the smaller triangle contains, then optimising a chord with fixed area; the symmetry-axis cut is not optimal."
+    },
+    {
+      "year": 1993,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Early divisibility constraints reduce the parameter to four cases; the surviving factorial sequences still need discovery and induction."
+    },
+    {
+      "year": 1993,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The key step is a homothety centred at the tangency point; afterwards the tangent-chord theorem closes the angle chase."
+    },
+    {
+      "year": 1993,
+      "round": 1,
+      "number": 5,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "AM–GM supplies bounds, but proving the full ranges and understanding unboundedness requires more than writing an inequality."
+    },
+    {
+      "year": 1993,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A sum bound on twelve distinct integer angles is only the start; the sharp assignment must also be geometrically realisable as an inscribed triangle."
+    },
+    {
+      "year": 1993,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Combines an order calculation modulo a composite number with Fermat modulo the prime parameter; the exponent divisibility is the key insight."
+    },
+    {
+      "year": 1993,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "General interior-point trigonometric identity needs a substantial auxiliary construction; above the core band."
+    },
+    {
+      "year": 1993,
+      "round": 2,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "An expectation or double-counting reformulation removes the enormous permutation count, followed by a nontrivial finite sum."
+    },
+    {
+      "year": 1994,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Digit equation reduces to bounded elementary factorisation."
+    },
+    {
+      "year": 1994,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Standard angle and angle-bisector calculations are below target."
+    },
+    {
+      "year": 1994,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Finding the six-term period is only half the work: all intermediate terms must remain integers."
+    },
+    {
+      "year": 1994,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Needs a coordinated angle chase across two circles and a tangent, rather than a single cyclic-quadrilateral observation."
+    },
+    {
+      "year": 1994,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A useful recurrence comes from comparing the sequences ending at successive largest elements; spotting the Fibonacci structure is the main hurdle."
+    },
+    {
+      "year": 1994,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The sum-of-squares formula leads to a Pell-type equation; certifying the first admissible solution requires a descent or systematic bound."
+    },
+    {
+      "year": 1994,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The triangle inequalities must be converted into a partition problem, with equal-side cases counted correctly."
+    },
+    {
+      "year": 1994,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A chord-length identity emerges from equal angular steps; selecting a sine or Ptolemy formulation is the non-routine step."
+    },
+    {
+      "year": 1994,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Requires classifying odd squares and then organising every even valuation; a complete proof goes beyond simple modular experiments."
+    },
+    {
+      "year": 1995,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Square endings are resolved by elementary modular cases."
+    },
+    {
+      "year": 1995,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The section is a non-rectangular parallelogram, and the second part requires two planar intersection ratios before a spatial distance calculation."
+    },
+    {
+      "year": 1995,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Factoring the alternating cubic is the key to turning a three-variable optimisation into a product of gaps."
+    },
+    {
+      "year": 1995,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Several linked angle-bisector and projection relationships must be coordinated; the invariant angle is not apparent from the diagram."
+    },
+    {
+      "year": 1995,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Alternating permutations require a recurrence obtained by placing the tallest person and splitting the remaining line."
+    },
+    {
+      "year": 1995,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Ordering bounds the smallest denominator; completing both resulting factorisations is the main proof task."
+    },
+    {
+      "year": 1995,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Both directions demand translating angle equalities into side or sine relationships involving the three medians."
+    },
+    {
+      "year": 1995,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Symmetric constraints give a cubic with controlled turning points; obtaining every strict interval requires exploiting distinctness."
+    },
+    {
+      "year": 1995,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The pairing count is standard, but the factorial divisibility calls for a deeper counting interpretation or careful prime-valuation argument."
+    },
+    {
+      "year": 1996,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Difference-of-squares factorisation must be combined with all six possible digit-position differences and checked without omissions."
+    },
+    {
+      "year": 1996,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Subtracting successive partial-sum identities gives a direct telescoping product."
+    },
+    {
+      "year": 1996,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "An auxiliary circle involving the circumcentre hides the perpendicularity; angle or power relationships have to be connected."
+    },
+    {
+      "year": 1996,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The useful observation is that the denominator changes only at a square; the discontinuity then needs an exact check."
+    },
+    {
+      "year": 1996,
+      "round": 1,
+      "number": 5,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Standard power-mean/cubic inequalities below core target."
+    },
+    {
+      "year": 1996,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Parity and modulus eight split the problem into branches; the surviving exponential factorisation must be exhausted rigorously."
+    },
+    {
+      "year": 1996,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The nonlinear triangle-side transformation requires a substantial angle-identity derivation."
+    },
+    {
+      "year": 1996,
+      "round": 2,
+      "number": 3,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Three mutually tangent circles and a common-tangent conclusion require deeper geometry."
+    },
+    {
+      "year": 1996,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Four-variable equality-case classification is above the chosen upper edge."
+    },
+    {
+      "year": 1997,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Bounded digit arithmetic and carrying are below core target."
+    },
+    {
+      "year": 1997,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Partial-sum recurrence gives a direct product formula."
+    },
+    {
+      "year": 1997,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Counting by the largest two denominations avoids a large enumeration, but the exact summation and boundary cases must be justified."
+    },
+    {
+      "year": 1997,
+      "round": 1,
+      "number": 4,
+      "difficulty": 2,
+      "decision": "include",
+      "reason": "Varignon midpoint-area identity; explicitly excluded despite being Q4."
+    },
+    {
+      "year": 1997,
+      "round": 1,
+      "number": 5,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "One counterexample and the standard reciprocal-sum inequality suffice."
+    },
+    {
+      "year": 1997,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Adding all digit changes gives a global congruence; recognising the role of the number of positions is the decisive step."
+    },
+    {
+      "year": 1997,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The two equalities connect a median and an altitude in a restrictive but indirect way; a substantial trigonometric or similarity argument is needed."
+    },
+    {
+      "year": 1997,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Reducing powers modulo the quadratic is approachable; the resulting constrained count of six distinct coefficients is the demanding part."
+    },
+    {
+      "year": 1997,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Requires a construction through common denominators and control of the two excluded endpoints, rather than a routine progression formula."
+    },
+    {
+      "year": 1998,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A sharp obstruction to four fives must be paired with a complete valid grid attaining the next feasible score."
+    },
+    {
+      "year": 1998,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Squares modulo eight depend on a short recurrence modulo four; below core band."
+    },
+    {
+      "year": 1998,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "One auxiliary line or a careful vector setup reveals a midpoint relation hidden by the parallelogram."
+    },
+    {
+      "year": 1998,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The initial constraint fixes a branch, then integrality forces uniqueness; a second-order linear recurrence supplies existence."
+    },
+    {
+      "year": 1998,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The median and trisection information must be converted into an angle identity, typically with a carefully chosen auxiliary point."
+    },
+    {
+      "year": 1998,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A weighted pigeonhole bound must be sharpened by constructing a feasible distribution for the exact total."
+    },
+    {
+      "year": 1998,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The constructed second triangle and circle tangency require deeper geometry than the target band."
+    },
+    {
+      "year": 1998,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The equation has a useful coprime parametrisation; keeping track of the common divisor is the main challenge."
+    },
+    {
+      "year": 1998,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The symmetric system needs a sharp inequality with equality control, followed by a separate existence argument outside the positive domain."
+    },
+    {
+      "year": 1999,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Subtracting the two time-shifted square equations gives a useful linear relation; the remaining bounded search needs justification."
+    },
+    {
+      "year": 1999,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "A right-triangle tangent calculation directly expresses the fixed ratio."
+    },
+    {
+      "year": 1999,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A construction must be accompanied by an exhaustive solution count; factorisation makes a small suitable constant tractable."
+    },
+    {
+      "year": 1999,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A descending bound reduces arbitrarily large inputs to a finite dynamical system; every residual cycle must then be accounted for."
+    },
+    {
+      "year": 1999,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The bijection condition forces long blocks of the sequence and constrains the possible starting values; local recurrence choices alone are misleading."
+    },
+    {
+      "year": 1999,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Divisibility gives only necessary conditions; systematic constructions for every valid residue class are required."
+    },
+    {
+      "year": 1999,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The tangent-hexagon concurrency involves deeper projective or trigonometric structure."
+    },
+    {
+      "year": 1999,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A sharp symmetric inequality can be assembled from Schur and the quadratic bound, but that decomposition is not obvious."
+    },
+    {
+      "year": 1999,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Combines low-digit-sum obstructions with a large explicit decimal construction; proving minimality is the harder direction."
+    },
+    {
+      "year": 2000,
+      "round": 1,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Requires joining tangent-chord identities across two intersecting circles and keeping the correct angle branches."
+    },
+    {
+      "year": 2000,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The modulus must be split into prime powers and the bases paired differently in the two congruences."
+    },
+    {
+      "year": 2000,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The minimiser must be compared on all three sides; projection and endpoint cases matter more than a generic Fermat-point argument."
+    },
+    {
+      "year": 2000,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Congruences restrict the parameter sharply, but alternating recurrence terms need bounds or explicit formulas to rule out later hits."
+    },
+    {
+      "year": 2000,
+      "round": 1,
+      "number": 5,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Counting by team-size patterns or a Stirling recurrence requires avoiding overcounting equal-sized teams."
+    },
+    {
+      "year": 2000,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The shared-base area claim reduces to a parallelism which must be extracted from the two-circle tangent configuration."
+    },
+    {
+      "year": 2000,
+      "round": 2,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Spotting the square $(x+2y)^2$ and balancing it against the product constraint yields the sharp bound and equality conditions."
+    },
+    {
+      "year": 2000,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Requires recognising a useful algebraic expression in the cubic field and comparing rational and radical components."
+    },
+    {
+      "year": 2000,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A simple sharp example is paired with a nontrivial zero-sum argument; grouping residues modulo two and three gives an elementary proof."
+    },
+    {
+      "year": 2001,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The enormous integer has a structured decimal complement; converting its digit sum to a small equation is the essential step."
+    },
+    {
+      "year": 2001,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Two tangent-chord relations or a tangency-centred homothety must be combined to obtain the doubled angle."
+    },
+    {
+      "year": 2001,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The shape classification must be exhaustive, and the packing question is resolved by an invariant rather than visual trial and error."
+    },
+    {
+      "year": 2001,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Requires identifying exactly how long the rounded square root stays constant and aligning the first valid interval."
+    },
+    {
+      "year": 2001,
+      "round": 1,
+      "number": 5,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Extended sine rule converts the assertion into a standard angle identity."
+    },
+    {
+      "year": 2001,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Tracking complete pairs of transfers yields an affine recurrence; its fixed point simplifies the iteration."
+    },
+    {
+      "year": 2001,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Solving linearly for one variable leaves a divisibility condition with a quadratic denominator, which needs a finite bound and exceptional-case check."
+    },
+    {
+      "year": 2001,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The second angle condition creates a useful cyclic or reflected configuration, but the construction needed to expose it is substantial."
+    },
+    {
+      "year": 2001,
+      "round": 2,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The minimum follows from two paths between the extremes; the maximum needs a global sign-counting bound and an alternating construction."
+    },
+    {
+      "year": 2002,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The reciprocal equation factors into a bounded divisor search."
+    },
+    {
+      "year": 2002,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Equal lengths interact with cyclic angle identities across an exterior intersection, requiring a multi-step chase."
+    },
+    {
+      "year": 2002,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "First integrality follows from the equation; the remaining work is a controlled residue-class analysis."
+    },
+    {
+      "year": 2002,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Splitting at the partner of one fixed person leads to the Catalan convolution; both the recurrence and the numerical count need justification."
+    },
+    {
+      "year": 2002,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Monotonicity and a functional shift must be used together to pin down the function; a few substitutions alone do not suffice."
+    },
+    {
+      "year": 2002,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A cyclic quadrilateral turns the projection length into a symmetric expression in the original triangle."
+    },
+    {
+      "year": 2002,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The seating pattern gives triangular residues; characterising when they form a permutation requires a careful factor-of-two argument."
+    },
+    {
+      "year": 2002,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "An apparent radical recurrence hides Fibonacci-type identities; a useful invariant or companion recurrence proves integrality."
+    },
+    {
+      "year": 2002,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A local inequality for two tangent spheres must be multiplied around all cycles; identifying the right squared-distance relation is key."
+    },
+    {
+      "year": 2003,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Missing factorial digits can be recovered with standard valuations and congruences."
+    },
+    {
+      "year": 2003,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Both directions connect an isosceles triangle to a right angle subtended by a diameter through the altitude configuration."
+    },
+    {
+      "year": 2003,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "A short chain of symmetric quadratic inequalities proves the bound."
+    },
+    {
+      "year": 2003,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Translating the forbidden triangle into row-column incidence reveals a star-forest structure and a sharp extremal bound."
+    },
+    {
+      "year": 2003,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Factorial divisibility forces a strong ordering restriction; parity and growth then need to eliminate all larger cases."
+    },
+    {
+      "year": 2003,
+      "round": 2,
+      "number": 1,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Classifying three-term progressions of 3-smooth numbers involves a lengthy exponential case analysis."
+    },
+    {
+      "year": 2003,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The prescribed angle is designed for a similarity or power relation; extracting the factor two requires a non-obvious comparison."
+    },
+    {
+      "year": 2003,
+      "round": 2,
+      "number": 3,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Long monotone arithmetic progressions under arbitrary permutations require a deeper combinatorial argument."
+    },
+    {
+      "year": 2003,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Difference-of-squares bounds force a binary-to-ternary recurrence, after which a digit-counting problem remains."
+    },
+    {
+      "year": 2004,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Subtracting opposite equations gives direct algebraic factorisation."
+    },
+    {
+      "year": 2004,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Coordinate or cyclic-quadrilateral proof of the isosceles triangle is short."
+    },
+    {
+      "year": 2004,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The winning strategy is a parity commitment fixed before play; recognising that Alice can enforce it is the central insight."
+    },
+    {
+      "year": 2004,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Encoding membership as binary strings yields a three-case recurrence, with initial values and endpoints needing care."
+    },
+    {
+      "year": 2004,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The divisibility conditions must be combined symmetrically with ordering bounds; testing small primes alone is not enough."
+    },
+    {
+      "year": 2004,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Power of a point and the equilateral geometry constrain the sums of intersection distances; a well-chosen algebraic formulation is needed."
+    },
+    {
+      "year": 2004,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A divisibility construction must preserve an exact balance of binary digits, so a routine pigeonhole repunit argument needs an additional idea."
+    },
+    {
+      "year": 2004,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The result follows from a power-sum identity under a zero-sum constraint; establishing the four-variable version is the main challenge."
+    },
+    {
+      "year": 2004,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The bounded-block-complexity implication of eventual periodicity is substantially beyond target."
+    },
+    {
+      "year": 2005,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Linear equations reduce the money puzzle to a small divisibility condition."
+    },
+    {
+      "year": 2005,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The external semicircles create right triangles; a symmetric length expression must be recognised."
+    },
+    {
+      "year": 2005,
+      "round": 1,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A forced-colouring proof of the threshold must be matched with a colouring avoiding the equation just below it."
+    },
+    {
+      "year": 2005,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Small-prime divisibility forces the common difference to be large, with exceptional progressions containing the divisor prime treated separately."
+    },
+    {
+      "year": 2005,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The proof runs the transformations backwards and uses descent on numerator plus denominator; discovering the correct inverse branch is key."
+    },
+    {
+      "year": 2005,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The solution count becomes the divisor count of $N^2$; the factorisation of 2005 then controls exponent parity."
+    },
+    {
+      "year": 2005,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Showing the required right angle between two angle-bisector feet needs a substantial use of the 120-degree hypothesis."
+    },
+    {
+      "year": 2005,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A cyclic inequality does not collapse to the basic symmetric AM–GM bound; careful rearrangement or substitution is needed."
+    },
+    {
+      "year": 2005,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Sharp intersecting-triple-family classification is beyond the intended range."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Splitting 720 into prime powers gives standard twin-prime congruences and an easy converse counterexample."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The two-team case is easy, but the three-team case needs a balanced incidence count and division by team symmetries."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Cyclic angles and the angle bisector create matching triangles; both directions require correct use of the extension."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The two triangle orientations give an upper bound on an alternating path, and a general construction is needed to attain it."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The converse requires extracting central symmetry from all area-bisecting directions; checking only the diagonals is insufficient."
+    },
+    {
+      "year": 2006,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "A parity invariant under rotating rays or moving a point converts a large triangle count into a structural argument."
+    },
+    {
+      "year": 2006,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A homogeneous substitution isolates the scale from the angle; the equality case must meet the original sign condition."
+    },
+    {
+      "year": 2006,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Difference-of-squares restricts the gap factors to powers of two, but a complete classification of the resulting smooth pairs is substantial."
+    },
+    {
+      "year": 2006,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The unusual equal-length construction has to be related to the circumcircle of ABC; the perpendicular-bisector condition alone is not enough."
+    },
+    {
+      "year": 2006,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The sharp six-question covering constraint leads to a difficult extremal set-system count."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Repeated difference-of-squares factorisation finds several factors, but the fourth requires an additional modular observation."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Area decomposition with trisection gives the result directly."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Relative-order permutation count is a direct factorial quotient subtraction."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Power of a point has to be connected to the shared-tangent and tangency geometry."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 5,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Recognising the Heron-type expression or finding a sum-of-squares difference makes the inequality tractable."
+    },
+    {
+      "year": 2007,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A Pell-type condition must be split into coprime consecutive factors; a modulus-three obstruction selects the square factor."
+    },
+    {
+      "year": 2007,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The angle-bisector theorem gives a divisibility condition, while both triangle inequalities narrow the remaining parameter."
+    },
+    {
+      "year": 2007,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A solution-generating quadratic-root transformation gives an infinite family, but positivity and genuine growth must be established."
+    },
+    {
+      "year": 2007,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The Euler line must be related to the two side intersections using the special sixty-degree angle; coordinate or vector work is substantial."
+    },
+    {
+      "year": 2007,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Counting connected labelled graphs requires subtracting disconnected cases without double counting, usually by the component of a fixed vertex."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 1,
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "A standard quartic identity evaluates the quotient."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Substitution reduces the system to a simple factor pair equation."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Several right-angle cyclic configurations have to be linked with the diameter; care with the obtuse angle is essential."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Complementary residue classes and the self-complementary classes 0 and 4 yield a sharp upper bound on an avoiding set."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A barycentric or area parametrisation turns the geometric ratios into a sharp three-variable product inequality."
+    },
+    {
+      "year": 2008,
+      "round": 1,
+      "number": 6,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Dividing by n exposes the binary digit-sum recurrence; the final count needs the truncated upper interval."
+    },
+    {
+      "year": 2008,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The cubic identity separates the sum from the sum of squares; maximising the remaining one-variable expression requires a sharp argument."
+    },
+    {
+      "year": 2008,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The prescribed incentre–circumcentre angles require an advanced triangle-centre calculation."
+    },
+    {
+      "year": 2008,
+      "round": 2,
+      "number": 3,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The sixty-query reconstruction needs a quantitative geometric information strategy."
+    },
+    {
+      "year": 2008,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The mixed cubic divisibility construction is above the selected band."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A short dynamic recurrence across columns is needed; treating all steps as independent would ignore the board edges."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Comparing the three products reduces the real system to a simple one-variable equation."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A circle-parallelogram configuration must be converted into an exact side or angle identity in both directions."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The two adjacent divisors impose interacting restrictions; reducing each separately is not sufficient for a clean complete classification."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Growth excludes values outside the unit interval; tracking reduced denominators then forces a very small rational list."
+    },
+    {
+      "year": 2009,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The cosine rule turns the claim into a factorised expression whose sign is controlled exactly by obtuseness."
+    },
+    {
+      "year": 2009,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Squaring forces the same squarefree part in the two radicands, after which the problem is a finite parameter count."
+    },
+    {
+      "year": 2009,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The isosceles symmetry simplifies the centres, but the required perpendicular-bisector intersection still needs a substantive calculation."
+    },
+    {
+      "year": 2009,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Substitutions establish scaling and oddness, but ruling out non-linear or pathological functions requires a complete structural argument."
+    },
+    {
+      "year": 2009,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Sharp counting and classification of distinct binary substrings is above the core upper edge."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Completing squares immediately reduces the system to four elementary cases."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The metric condition must be translated through the parallel-chord configuration; a Ptolemy or trigonometric identity is needed."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Recognising a multiset selection or stars-and-bars encoding avoids a long case count."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The configuration links a tangent-length relation with a perpendicular-bisector equation; the unequal-radius condition prevents a degeneracy."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The decisive step is evaluating a triple product in two ways; pointwise substitutions alone leave too much freedom."
+    },
+    {
+      "year": 2010,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Comparing two candidate points yields a product of two integers equal to one; both sign cases must then contradict the distinct outputs."
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A counterexample can be built from a low-degree tree; comparing its small graph diameter with the space required in a line is the key insight."
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The centroid ratios permit a coordinate or similarity reduction, but deriving the equivalence needs a full angle comparison."
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Cyclotomic factorisation isolates most prime powers, while the exceptional shared factors two and three require separate valuation control."
+    },
+    {
+      "year": 2010,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "This sharp cyclic cubic inequality has a boundary extremum; a rigorous smoothing or factorisation argument is needed to explain strictness."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Bounding the removed integer restricts the original set size to two simple cases."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Correctly counting the newly exposed internal faces is essential before the integer equation can be bounded."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Two circle-power relationships or a coordinated angle chase establish an unexpected line through the intersection points."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A signed binomial count or parity-sensitive recurrence gives the exact imbalance, which is not apparent from symmetry."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A moving two-circle configuration must be reduced to a fixed-angle or projective invariant; this needs a substantial auxiliary argument."
+    },
+    {
+      "year": 2011,
+      "round": 1,
+      "number": 6,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The triangle inequalities are essential: a substitution by semiperimeter differences or a sharp symmetric bound is needed."
+    },
+    {
+      "year": 2011,
+      "round": 2,
+      "number": 1,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The two parallel constructions must be combined with the original cyclic configuration, often via ratios and power of X."
+    },
+    {
+      "year": 2011,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The two nearby moduli must be linked to constrain the sum and product; handling their gcd and positivity is the main task."
+    },
+    {
+      "year": 2011,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The parity-dependent recurrence has to be decoded into a binary-string operation before the truncated count becomes manageable."
+    },
+    {
+      "year": 2011,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Sharp maximum for proper-parallelogram-free lattice sets requires a deeper extremal argument."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Completing the square gives a direct finite factor-pair equation."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "An upper bound using a middle value must be matched by a zigzag construction for both parities of n."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The two tangent-circle radii share a relation governed by the original chord; deriving the invariant requires more than a simple tangent-length equality."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A descent algorithm proves the positive result, while an invariant distinguishes the altered operation."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A near-square identity for four consecutive factors turns the problem into a strict gap between consecutive squares."
+    },
+    {
+      "year": 2012,
+      "round": 1,
+      "number": 6,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The orthic sides must be expressed in the original angles; the resulting sum reduces to a single cosine bound."
+    },
+    {
+      "year": 2012,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Midpoint similarities and cyclic angles must be combined to compare circumradii of two non-obvious triangles."
+    },
+    {
+      "year": 2012,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The floor recurrence creates irregular jumps; a rigorous bound or constructed counterexample requires tracking differences through residue classes."
+    },
+    {
+      "year": 2012,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "A prescribed-ratio monochromatic triple needs a nontrivial finite colouring configuration or a carefully justified Ramsey argument."
+    },
+    {
+      "year": 2012,
+      "round": 2,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The six bases suggest an integer-coefficient characteristic polynomial, providing a universal finite recurrence."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The row bound is easy; attaining it while respecting both diagonals needs an explicit balanced construction."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The common tangency and diameter give a short angle chase."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Adding completed-square forms forces the real solution."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Eliminating n creates a difference of two squares with a fixed composite product, followed by exact sign and parity checks."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 5,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Area is at most half the product of the two smaller side bounds, attained by a right triangle."
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The two tangencies encode a length ratio along the common chord; extracting the midpoint usually needs a carefully chosen coordinate or sine argument."
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A Vieta-style replacement generates further pairs, and its invariance and growth establish infinitude."
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The parallelogram converts the condition into a useful similarity, but the final angular relation involves a different vertex."
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The exact binary digit comparison of a large subset sum requires substantial binomial bookkeeping."
+    },
+    {
+      "year": 2013,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Combining the circle equation with four integer distances produces a delicate parity or descent obstruction."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Sophie Germain factorisation simplifies each quotient directly."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The tangent-chord relation and the two perpendicular feet combine into a less obvious cyclic-quadrilateral argument."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The huge digit count calls for a valuation argument proved by repeated repunit factorisation, rather than decimal expansion."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A recurrence with states for rest and the two symmetric sports is needed to handle adjacency restrictions."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The first projection identity is approachable; the weighted area identity requires an additional relation among the perpendicular distances."
+    },
+    {
+      "year": 2014,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The lower bound uses matching order of sides and angles; the strict upper bound needs the triangle inequalities in a non-obvious weighted form."
+    },
+    {
+      "year": 2014,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A large pairwise-crossing family supplies the lower bound; a uniform noncrossing decomposition must attain it."
+    },
+    {
+      "year": 2014,
+      "round": 2,
+      "number": 2,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Translating the three quantities into symmetric sums allows one sharp standard inequality to give a contradiction."
+    },
+    {
+      "year": 2014,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The second infinitude assertion needs a deeper prime-factor avoidance construction."
+    },
+    {
+      "year": 2014,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The six circumcentres and inversion-related concurrency are beyond accessible BMO2."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Comparing the five powers needs repeated small power comparisons but no substantial new idea."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Factoring b squared minus a squared forces the two factors to be 1 and p squared; both conclusions then follow directly."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "One must split the choice between the two sides and count nonadjacent selections using a gap transformation."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 4,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The useful recurrence is not stated; reducing it modulo t then separates odd and even indices."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Equal arc lengths must be combined with intersecting diagonal ratios; the required parallel line is not a direct angle chase."
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The condition is restricted to integer Egyptian-fraction identities, so recovering all values from a single scale requires a carefully chosen induction."
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Recognising a tangent subtraction or a projective transformation reveals a short period hidden by the irrational coefficients."
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A signed count packages all councils into one product; interpreting its sign uses both oddness assumptions."
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The angle-bisector geometry must be converted into a fixed relation for the incentre, and a locus proof must establish both directions."
+    },
+    {
+      "year": 2015,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Constructing a 100-cycle in the integer visibility graph while excluding every non-neighbour requires a substantial congruence construction."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Converting dates to intervals with a fixed shelf count gives a divisibility count, with a separate final partial interval."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A tangent-chord equality on the auxiliary circle has to be transferred through the original cyclic quadrilateral."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Finite differences restrict which Fibonacci blocks can agree with a quadratic; the upper bound must be matched by coefficients."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The admissible states form a triangular grid; a bipartite-colour bound must be attained by a long explicit path."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Several projection circles have to be connected to obtain a common Simson-type line; one isolated cyclic observation does not suffice."
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A naive ternary induction fails at the exceptional summand 2; a stronger representation invariant or careful simultaneous induction is needed."
+    },
+    {
+      "year": 2016,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The common tangent gives square-root radius relations; the sharp constant emerges only after using the middle-circle constraint."
+    },
+    {
+      "year": 2016,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Finding the optimal information guarantee needs both an adversarial partial-order construction and a matching strategy."
+    },
+    {
+      "year": 2016,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "A relation between a diagonal intersection and an external intersection must be translated into a midpoint orthogonality; coordinates or pole-polar ideas require sustained work."
+    },
+    {
+      "year": 2016,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The identity involving the sum and difference gives a square product, but a careful gcd and parity analysis is needed to isolate each factor."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Count odd digits separately at each place value, with a short correction for the final partial block."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The two breakpoints divide the equation into three elementary power equations."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Completing squares gives a difference of squares equal to minus five and an immediate factor-pair check."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The arithmetic condition becomes a residue restriction; one must then control an adversary using the inventory of residue classes."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The equal areas encode two side ratios; combining them with the tangent geometry to force a right angle is the substantive step."
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "number": 6,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Multiplying the congruences by two reveals a common multiple; positivity and parity then identify its least allowable value."
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The lattice boundary count reduces to three gcds, whose parity structure classifies all possible totals."
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The increasing subsequences follow from harmonic growth, while decreases require recognising divisor counts at prime indices."
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Two angle-bisector ratios occur in different triangles; cyclic chord relations must link them into the precise parallelism ratio."
+    },
+    {
+      "year": 2017,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The optimal three-digit query strategy requires a difficult worst-case information lower bound and construction."
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Compare the two remainder lists termwise, isolating exactly the divisors where wraparound occurs."
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Double counting gives both bounds, but balanced attendance constructions are needed to demonstrate attainability."
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The right triangles BAH and BNM are congruent: their hypotenuses AB and BN are equal and their angles at B coincide. Thus BM=BC/2 and MN=AH, immediately giving the area and boundary-length bisections. This is a short single-observation problem, reassessed below the preferred range.",
+      "duplicateAppearance": "Croatian Mathematical Competition 2019, County Round, Year 1 Variant A, Q4"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Although the terms are real, solving the transition shows they remain triangular numbers and become a constrained walk."
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The covering lower bound requires multiple overlapping placements, and attaining it demands a carefully arranged blocking pattern."
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Each next card is constrained by a changing modulus; proving a short row can exhaust its entire admissible residue class is the key construction."
+    },
+    {
+      "year": 2018,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A tangent-chord similarity must be paired with the median relation; the factor two comes from the midpoint rather than the circle alone."
+    },
+    {
+      "year": 2018,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Both a forcing construction and an obstruction to all possible instruction lists are needed; divisibility and signed partial sums interact."
+    },
+    {
+      "year": 2018,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The sum-of-cubes identity leads to an indefinite quadratic equation; resolving existence requires more than testing small values."
+    },
+    {
+      "year": 2018,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Monotone functions whose 2018th iterate is integer-valued require subtle order-theoretic constructions and obstructions."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The digits must first be paired by residues modulo three, followed by orientation and leading-zero corrections."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Comparing consecutive triple products gives period three; compatibility with the circle length produces two distinct families."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Completing the squares produces a fixed difference of two squares; negative factors and parity must be treated without overlooking solutions."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The equality of angles based at an arbitrary diameter point must be transferred to the central angle subtended by the tangent chord."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Similarity reduces the geometric data to a symmetric polynomial system; all positive branches must be checked."
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Rotating coordinates factors the walk count into two binomial counts; prime valuations are then needed for the exact trailing-zero exponent."
+    },
+    {
+      "year": 2019,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The two separate perpendicular constructions encode the same length, but a useful coordinate or cyclic configuration must be found."
+    },
+    {
+      "year": 2019,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The allowed displacement vectors impose a number-theoretic obstruction on permutation placements, and admissible cases need an explicit arrangement."
+    },
+    {
+      "year": 2019,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A symmetry or roots-of-unity filter is needed to distinguish the zero-sum class from other residue classes."
+    },
+    {
+      "year": 2019,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The functional relation alone allows oscillatory deviations; monotonicity and iteration toward one must be used to remove them."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "A small search supplies three prime constellations; residues modulo five force the unique longer one."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Factoring the quadratic is easy, but sufficiency requires selecting branches that preserve integrality indefinitely."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The shared tangent and tangency point connect the two circles; directed-angle care is needed for the exterior points."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The insertion rule builds a divisor tree whose traversal order is governed by least prime factors; both a global count and local neighbours must be extracted."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 5,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Chip-firing equations give arithmetic necessities, but one must also prove that legal nonnegative moves can attain the target."
+    },
+    {
+      "year": 2020,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The first identity reduces the function to a one-variable sequence, and the second forces its second differences to vanish."
+    },
+    {
+      "year": 2020,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Examining the distance from the fixed point reveals a strictly decreasing 2-adic valuation, which rules out every other starting value."
+    },
+    {
+      "year": 2020,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "A point outside one common circle creates an exceptional orthocentric configuration; proving the full classification needs more than recognising cyclic examples."
+    },
+    {
+      "year": 2020,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Counting all colourings balanced on every square requires a global structural classification before enumeration."
+    },
+    {
+      "year": 2020,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The nonlinear recurrence hides a sine parametrisation; one must handle nonzero terms and construct arbitrarily large amplitudes."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The two alternating affine recurrences reduce repeated values to a small family of powers-of-two equations."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 2,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Squaring the isosceles altitude formula and cancelling the perimeter leaves a bounded integer divisor equation."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A state graph of squares, rectangles and isosceles right triangles must be identified before counting the possible fold histories."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 4,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The large-number alphametic is mainly bounded digit and power checking; it was an answer-only Section A question."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The equal chord lengths on one circle must be combined with two-circle angle relations to obtain a length on the original triangle."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 6,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Comparing the binary expansions restricts the prime exponents, after which their parity must yield distinct square summands."
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "number": 7,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The moving interval gives a terminating game, but its winning states require a two-parameter parity classification and separate first-player counts."
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The divisor condition is equivalent to a distinct Egyptian-fraction representation containing the smallest reciprocal; a constructive closure argument is needed."
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Area divisibility is insufficient; a periodic colouring or weighted invariant must show that a or b divides the large side."
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "number": 3,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The incircle contact point and right-angle chord construction require a deep relation involving the arc midpoint."
+    },
+    {
+      "year": 2021,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The greedy mean sequence needs a global permutation structure to prove every signed displacement appears exactly once."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Turning each odd progression into a factor pair permits a systematic search, with positivity ruling out some divisors."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 2,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Rational percentages impose divisibility constraints, but the order of visits in a win-loss lattice must also be optimised."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Binary carries give a short recurrence, but the bounded multiplicity of each power must be accounted for correctly."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The fixed sixty-degree geometry must be combined with two moving angle bisectors to prove equal sides as well as a fixed angle."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "First optimise the set at each cardinality, then locate the optimal cardinality and solve its integrality constraints."
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The two operations produce an arithmetic encoding of the total; distinguishing lists from operation strings and counting the target encodings is substantial."
+    },
+    {
+      "year": 2022,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Completing squares gives a fixed factor product; infinitude is possible only when that product vanishes."
+    },
+    {
+      "year": 2022,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Fixing one variable gives multiplicative scaling, but the nested argument must then force the possible constants and values."
+    },
+    {
+      "year": 2022,
+      "round": 2,
+      "number": 3,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The bounded boxes encode a high-dimensional integer zero-sum partition; a finiteness theorem or strong combinatorial lemma is needed."
+    },
+    {
+      "year": 2022,
+      "round": 2,
+      "number": 4,
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The moving tangent intersections and three perpendicular directions produce a difficult projective or coordinate collinearity condition."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 1,
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Counting leading-two house numbers in three intervals reduces the problem to a few divisibility checks."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The paired recurrence traps most odd-indexed terms strictly between squares, while an exceptional start makes nearly every even-indexed term square."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Each right triangle converts an angle bisector into a midpoint-circle relation; both constructions must be linked to the same midline."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 4,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "An optimal domino-packing strategy needs both a guaranteed placement scheme and an adversarial upper bound."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 5,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Prime powers supply only powers of two; adjoining another prime creates a controllable linear factor in the count."
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "number": 6,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The apparently continuous motion has a hidden two-level coordinate invariant that restricts it to finitely many points."
+    },
+    {
+      "year": 2023,
+      "round": 2,
+      "number": 1,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The two auxiliary circles and internal angle bisectors create a coupled angle configuration; the obtuse case requires attention to point order."
+    },
+    {
+      "year": 2023,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The permitted local permutations preserve a residue-sensitive order invariant; sufficiency requires constructing the full cyclic shift."
+    },
+    {
+      "year": 2023,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Minimum rational mean differences force a very rigid recurrence, but the first two transitions must be treated separately."
+    },
+    {
+      "year": 2023,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The triple-angle sine relation gives a Diophantine parametrisation; primitivity must then force a perfect cube among the side factors."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A useful recurrence comes from the last position rather than tracking how far letters move early."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 2,
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "Successive differences either stay unchanged or multiply by minus two, so an ending difference of one immediately determines the starting magnitude."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 3,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The equal distances introduce a second circle, and its power relations must be translated into a perpendicular chord direction."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Factoring the neighbouring odd square roots gives severe 2-adic constraints; an exponential-versus-linear bound is needed to finish all cases."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A local four-point obstruction yields a global bound, attained by a periodic colouring."
+    },
+    {
+      "year": 2024,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Equal three-edge chord lengths constrain neighbouring turning angles; the resulting periodicity must be reconciled with convex closure and counterexamples."
+    },
+    {
+      "year": 2024,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The six-digit period permits factorisations by residue class of the length; sufficient prime-factor multiplicities must be established for almost all cases."
+    },
+    {
+      "year": 2024,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Iteration produces a linear recurrence with one contracting root; integrality rules out that component but must be used rigorously."
+    },
+    {
+      "year": 2024,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The midline of the tangent triangle controls two intersection ratios; these must combine with a symmedian relation to yield cyclicity."
+    },
+    {
+      "year": 2024,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A graph of operations yields a component-size divisibility obstruction, which can be matched by a chain construction."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Transitivity forces alternating divisibility directions outside the triangle case; even cycles then need explicit prime-based constructions."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Iterating the affine operation leaves an alternating sum; parity obstructions and an equal-sum partition construction determine the answer."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 3,
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Induction shows precisely the odd positions are losing: an odd product has even factor difference, while any even number can move to the preceding odd number."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The matching side and angle suggest a similarity, but the median condition is needed to force its scale and the final perpendicularity."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 5,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Factoring sixth roots into quadratic factors exposes neighbouring roots; the minimality condition removes the wrong direction of shift."
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The required pairs must be disjoint as well as congruent; a structured pairing of the spatial grid and a sharpened pigeonhole count are needed."
+    },
+    {
+      "year": 2025,
+      "round": 2,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The triangular denominator suggests a telescoping difference; selecting the finite endpoint is the key observation."
+    },
+    {
+      "year": 2025,
+      "round": 2,
+      "number": 2,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The perpendicular-bisector symmetry links two auxiliary circles, but carrying their intersection relation to the final circle requires several non-obvious steps."
+    },
+    {
+      "year": 2025,
+      "round": 2,
+      "number": 3,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Only row and column parity types matter, but even boards have a complementary restoration option absent on odd boards."
+    },
+    {
+      "year": 2025,
+      "round": 2,
+      "number": 4,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The first nontrivial divisibility restricts the second term, and reciprocal-polynomial symmetry propagates integrality indefinitely."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 1,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Factoring out the smallest term reduces the question to a factorisation of a prime power minus one, with a few small-prime exceptions."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 2,
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Subtracting equations creates two algebraic branches; their real solutions must be checked rather than assuming symmetry."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 3,
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The longest L must occupy a corner, giving a recursive description; the final square location translates into two independent binomial choices."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 4,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The two tangent circles provide an inversion-like relation centred at the midpoint; finding the correct angle and ratio chain is the key step."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 5,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Every excursion terminates, but proving or disproving universal coverage requires analysing inverse branches and their residue classes modulo 2025."
+    },
+    {
+      "year": 2026,
+      "round": 1,
+      "number": 6,
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Residue-class parity gives a stronger obstruction than the total frog parity; admissible starts then require a systematic reduction construction."
+    },
+    {
+      "year": 2026,
+      "round": 2,
+      "number": 1,
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Factoring out the gcd turns the count into coprime factorisations of four nearby prime powers; lower bounds on distinct prime factors must be simultaneously attained."
+    },
+    {
+      "year": 2026,
+      "round": 2,
+      "number": 2,
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Equal-distance conditions from the perpendicular bisectors must be combined with the interior angle-bisector condition in both directions."
+    },
+    {
+      "year": 2026,
+      "round": 2,
+      "number": 3,
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Distinct sums almost exhaust their allowed range; a global sum-of-squares inequality then uses the fixed number of nonzero entries."
+    },
+    {
+      "year": 2026,
+      "round": 2,
+      "number": 4,
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The arbitrary bounded-memory recurrence requires a nontrivial sign-variation or extremal argument to rule out infinitely many positive and negative terms."
+    }
+  ],
+  "counts": {
+    "papersFullyScreened": 107,
+    "included": 551,
+    "assessed": 552,
+    "excluded": 1,
+    "pending": 0,
+    "withOwnWorkedSolution": 161,
+    "withOfficialSolutionLink": 147,
+    "historicalPapersFullyScreened": 37
+  },
+  "gaps": [
+    {
+      "range": "Historical BMO and FIST extension",
+      "status": "all accessible official-archive papers fully screened",
+      "fullyScreenedPapers": [
+        "BMO 1973",
+        "BMO 1974",
+        "BMO 1975",
+        "BMO 1976",
+        "BMO 1977",
+        "BMO 1978",
+        "BMO 1979",
+        "BMO 1980",
+        "BMO 1981",
+        "BMO 1982",
+        "BMO 1983",
+        "BMO 1984",
+        "BMO 1985",
+        "BMO 1986",
+        "BMO 1987",
+        "BMO 1988",
+        "BMO 1989",
+        "BMO 1990",
+        "BMO 1991",
+        "FIST 1972",
+        "FIST 1974",
+        "FIST 1975",
+        "FIST 1976",
+        "FIST 1977",
+        "FIST 1978",
+        "FIST 1979",
+        "FIST 1980",
+        "FIST 1981",
+        "FIST 1982",
+        "FIST 1983",
+        "FIST 1984",
+        "FIST 1985",
+        "FIST 1986",
+        "FIST 1988",
+        "FIST 1989",
+        "FIST 1990",
+        "FIST 1991"
+      ],
+      "detail": "All 19 available BMO papers from 1973–1991 and all 18 available FIST papers are complete. Printed either/or alternatives are recorded as separate assessment decisions. No FIST was held in 1987; the archive mentions a Reading Selection Test but does not link its paper."
+    },
+    {
+      "range": "BMO 1965–1972; FIST 1973",
+      "status": "not available as papers in official archive",
+      "detail": "Official archive notes unavailable papers and points to historical books."
+    },
+    {
+      "range": "Solutions outside linked public video/written ranges",
+      "status": "partial",
+      "detail": "Own worked exposition included only where verified. Commercial-book solutions have not been copied. Missing solutions remain explicitly absent."
+    }
+  ],
+  "method": "Every decision was individually authored after reading the specific official problem and analysing its mathematical structure. Difficulty is a subjective AI estimate, not an official UKMT score; it is not inferred from question position. Some solutions were worked through directly; official linked videos/PDFs are identified as available resources, not claimed fully transcribed or individually watched.",
+  "yearConvention": "The year field follows official archive filenames. From BMO1-2002 onward, BMO1 was sat in the preceding calendar year and its season is recorded. BMO2 uses the January/February calendar year. BMO1-2026 was sat 19 November 2025 and is released. Historical BMO 1988 was sat 20 November 1987 and BMO 1989 was sat 13 December 1988. Per-record sittingDate fields retain the actual dated headers; undated 1973/1974 papers have no invented date.",
+  "copyright": "Statements are compact original paraphrases preserving mathematical conditions; linked official solutions remain on UKMT servers. Own solutions are original exposition.",
+  "historicalScreening": [
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The requested extension from tangent circles to arbitrary conics makes the full question substantially beyond modern hard-BMO1 geometry."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Partition the unit square into four smaller squares; three of the nine points lie in one, giving the area bound immediately."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 8.5,
+      "decision": "include",
+      "reason": "A geodesic crossing a hemisphere-cylinder seam requires spherical geometry and a variational argument beyond the target band."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "A complete numerical classification of triangular-lattice equiangular hexagon areas requires a substantial quadratic-form analysis."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The exponent must be shifted appropriately so that the new term avoids every prime already used."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Under the intended independent-answer model, total probability gives a single linear equation for the sex ratio; degeneracies also need noting."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "A1",
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Determining an area-bisecting curve from mixed horizontal and vertical boundaries involves a differential-equation interpretation outside the intended elementary range."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "B2",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Each group is an Eulerian five-edge graph with loops permitted; classifying the possible components and avoiding overcounted chains is substantial."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "A3",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Euler gives V-E+F=2 while six edges per face and at least three edges per vertex would force V-E+F at most zero."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "A4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The dense-looking matrix has a simple row-sum structure, so solving Mx=y reveals the inverse directly."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "A5",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Inclusion-exclusion must count compatible player-suit assignments and isolate exactly one event, rather than at least one."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "B6",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The equal distances put P on an angle bisector at C. Coordinates along that bisector make XY a line of constant first coordinate; the perpendicular condition then identifies CZ as the median. The construction must be followed carefully, but the resulting calculation is short."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "B7",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Quadratic interpolation around a cyclic permutation of cubic roots introduces the discriminant and must handle dependence on the root ordering."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "A8",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A coefficient comparison must be organised into induction modulo p; the familiar theorems are conclusions, so cannot be assumed."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Grouping terms between consecutive cubes gives a weighted polynomial sum; monotonicity then certifies the only solution."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Any prime factor of a common product difference cannot be among the initial primes, since those primes divide exactly one product."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Six angular sectors give the bound, but equality on sector boundaries requires a careful angular-gap argument."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "An affine coordinate calculation or Menelaus argument must accommodate intersections on extended sides and identify the universal ratio."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The even-term filter uses a shifted angle; the resulting ratio simplifies to a geometric sequence despite the oscillating cosine factor."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The rational expression must be shown increasing uniformly in n; a direct derivative has a non-obvious numerator requiring factorisation or an inequality."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "7",
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "Cauchy applied to the n+1 successive differences immediately forces equality and the arithmetic progression."
+    },
+    {
+      "year": 1975,
+      "competition": "BMO",
+      "number": "8",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The tilted section is an ellipse; computing the remaining conical volume requires relating its geometry to the two intercepted generators."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Optimising cuts at each vertex identifies the smallest-angle construction; the curved improvement adds a separate feasibility and length comparison."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "This is the direct three-variable Nesbitt inequality, obtainable immediately by Cauchy."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A greedy incidence count must exploit the strict half bound at every step; a naive probabilistic union bound would give six points."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Different small prime divisors cover three residue classes of the exponent; no single modulus handles every n."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The complicated sums are coefficients of the same generating polynomial, expanded either as two binomials or one trinomial."
+    },
+    {
+      "year": 1976,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 8.5,
+      "decision": "include",
+      "reason": "A shortest path across a cone-sphere seam needs spherical trigonometry and unfolding, substantially beyond the target elementary geometry."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "7",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Determining the constants is straightforward; interpreting conditional life expectancy as an integral of the survival curve is the essential modelling step."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "8",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Scalar multiples represent the same map, so finite order is a projective matrix condition rather than simply M to the fourth equal to I."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "9",
+      "difficulty": 4.5,
+      "decision": "exclude",
+      "reason": "The printed concurrency claim omits nondegeneracy hypotheses: equal scale parameters can give parallel lines with no finite concurrence. Excluded as under-specified rather than published with a silent repair."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "10",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Completeness requires finite search bounds for three apparently unbounded variables; the inequality gives a sharp product bound."
+    },
+    {
+      "year": 1973,
+      "competition": "BMO",
+      "number": "11",
+      "difficulty": 9,
+      "decision": "include",
+      "reason": "Coupled rigid-cylinder rolling dynamics and a nonlinear differential equation require advanced mechanics well beyond the target olympiad prerequisites."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "B9",
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "The unstable falling-rod model requires rotational dynamics and an improper integral; its infinite-time interpretation is outside modern elementary olympiad scope."
+    },
+    {
+      "year": 1974,
+      "competition": "BMO",
+      "number": "B10",
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Gravitational attraction of a spherical-shell-truncated cone requires spatial integration and mechanics beyond the target range."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Nonnegativity gives f(2)=f(5)=0; any remaining prime can be multiplied to end in 3, forcing its value to zero."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The tangent-length relations must be combined with a midpoint construction; this is a degenerate tangential-quadrilateral Newton-line configuration."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The first part is Schur, while the second needs a square substitution and a further pairwise inequality that remains valid for negative inputs."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The scaling of roots is hidden by the coefficients; Vieta then converts each transformed root into a ratio allowing a sharp real bound."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Symmetry locates the two centres, but deciding intersection needs an exact pentagon circumradius comparison rather than numerical trigonometry."
+    },
+    {
+      "year": 1977,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Comparing total coefficients restricts the number of summands; the remaining cases need balanced permutation constructions."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The three subtriangle areas provide the weighted linear constraint needed for AM–GM, identifying the centroid rather than the incentre."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A block anywhere in the expansion can be shifted to the decimal point; its narrow interval lies too close to one sixth for a small denominator."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Early divisibility forces the second term, but existence requires propagating integrality through a nonlinear recurrence."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Vector orthogonality gives the forward implication, while the converse must show all four altitude lines meet rather than just pairwise perpendicular conditions."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A carefully chosen subdivision almost saturates the numerical bound; its small cubes must fit strictly inside unit spheres."
+    },
+    {
+      "year": 1978,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The cosine recurrence gives monic integer polynomials; combining periodic angles with the rational-root theorem gives the classification."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The two constraints force equality in a geometric triangle inequality and a weighted Cauchy inequality."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Squaring each perimeter equation gives pairwise products in transformed radial variables; positivity is needed for uniqueness and existence."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The distinct-difference hypothesis must be converted into a strong bound on the sum, not merely on the largest element."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The functional equation first gives a period; rationality then turns repeated shifts into strong restrictions on every value."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Successive partition differences have a natural interpretation, after which an injective map proves their monotonicity."
+    },
+    {
+      "year": 1979,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Even and odd numbers of blocks require different factorisations; the denominator factors in the odd case must be allocated correctly."
+    },
+    {
+      "year": 1980,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Bounding the next nth power above the larger summand avoids any use of Fermat’s last theorem."
+    },
+    {
+      "year": 1980,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Factoring P(x)-x at five chosen integer roots reduces the construction to arranging one small product of gaps."
+    },
+    {
+      "year": 1980,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Equal areas determine the height of C; the resulting right triangle and square then require an exact incentre-coordinate or angle-bisector calculation."
+    },
+    {
+      "year": 1980,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The homogeneous recurrence component alternates and grows faster than the forcing term, so any nonzero coefficient eventually breaks monotonicity."
+    },
+    {
+      "year": 1980,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A degree split reduces the problem to the six-person Ramsey lemma, which must be proved or justified."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Perpendicularity explains equality within each pair, but the equality across all three vertices requires the orthocentre’s common dot-product invariant."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Writing each product as the sum of two consecutive rising factorials creates a cancellation not visible in the original notation."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "The cyclic cubic inequality is termwise weighted AM-GM; the second is immediate after the standard triangle-variable substitution, with non-triangle cases trivial."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "A spatial section is quadrilateral exactly for a two-two split of vertices; the resulting binomial product must be maximised."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A small example gives the candidate, but excluding every smaller absolute difference requires several complementary moduli."
+    },
+    {
+      "year": 1981,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The rational expression is a leading interpolation coefficient; dividing by a monic integer polynomial supplies integrality even for large k."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Bounding the four triangular areas produces two inequalities; tracking both equality conditions gives the full square conclusion."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The order of two modulo 17 restricts the three exponent residues; the length and trailing digit claims require careful boundary cases."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Two telescoping products convert the harmonic sum into arithmetic means to which strict AM-GM can be applied."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The cubic has three fixed points; monotonicity and invariant intervals distinguish two attracting basins and the separating unstable point."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "Comparing an elliptic cone-section arc with a surface geodesic requires difficult unfolding and intersection analysis."
+    },
+    {
+      "year": 1982,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Adding fixed endpoint symbols turns the count of oriented transitions into a free choice of change positions."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The centroid of the subsidiary triangle breaks the obvious symmetry; a vector or coordinate relation locates its perpendicular to CD."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The first three terms almost determine the modulus; the proposed exponential-linear sequence must then satisfy the Fibonacci recurrence."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The recurrence expresses each x term as an accumulated product; the desired identity then telescopes or follows by one strengthened induction."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The shortest surface path across a two-cylinder cupola and tower requires a substantial piecewise unfolding analysis."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A simple rectangular grid is too wasteful; a central disc and an annular-sector partition give nine sets of diameter below two."
+    },
+    {
+      "year": 1983,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Squaring gives two quadratic branches, but their domain and sign restrictions must be tracked to count genuine roots."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The three circles form a Miquel configuration; their centre-line directions must be related to the original triangle angles."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The residue pattern factors according to ternary digits; establishing that structure is the main step before a short signed count."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The product bound is elementary; the cyclic inequality needs recognising each reciprocal ratio as the product of the other four ratios."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Splitting x into integer and fractional parts converts the equality into a discrete denominator condition on each unit interval."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The slanted base prevents the usual right-cone formula; an area-projection or integration argument must exploit the cone’s constant generator angle."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "An inverse-like solution can be corrected using an idempotent product; guessing the right polynomial in a and x is the key insight."
+    },
+    {
+      "year": 1984,
+      "competition": "BMO",
+      "number": "7",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The incircle relates four different vertex-angle and altitude expressions; trigonometric tangent-length substitutions must expose a common invariant."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The first bisector follows from internal tangency, but the second angular condition fixes an exact radius ratio through the perpendicular tangent."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Multiplying the three proposed strict inequalities contradicts a(1-a)b(1-b)c(1-c) at most one sixty-fourth."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The linear weight can be interpreted as a second summation or as choices below a designated subset element."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Finding the quadratic closed form is only the start; a second quadratic expression for the required index must be discovered."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Four spatial contact constraints must be reduced to a tractable geometric locus; proving all points of the locus attainable is essential."
+    },
+    {
+      "year": 1985,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The sum-of-two-squares composition identity gives a family, but its parameters must be chosen to ensure primitivity."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Despite the long decimal numbers, the task is an exact Euclidean-algorithm reduction rather than a substantial olympiad proof."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Common-tangent right triangles give horizontal offsets involving square roots; the third tangency must be imposed consistently."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Splitting the odd exponent around an even power reveals a Pell relation that turns the rational coefficient minus one into a square."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The optimum is approached at an isosceles right triangle, so both a strict inequality and a limiting sharpness construction are needed."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The constraints propagate to every distance at least two, leaving only disjoint adjacent inversions and a Fibonacci recurrence."
+    },
+    {
+      "year": 1986,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The section shapes change with height; a piecewise area computation or a dissection must explain equality throughout all intervals."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A factor-pair argument solves the first equation; recognising an invertible linear change of variables reduces the second to it."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The resulting twenty-, forty- and sixty-degree angles call for an auxiliary equilateral construction or a nontrivial sine identity."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Separating the even and odd parts of a binomial expansion converts the ratio of sums into two dominant exponential terms."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Polynomial congruences at two points create a short divisor intersection; the third value eliminates the remaining candidate."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The parallel cut makes the radical axis a specific altitude; proving genuine intersection also requires the acute configuration."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Ratios of successive variables turn the denominator into a symmetric product with a fixed product constraint."
+    },
+    {
+      "year": 1987,
+      "competition": "BMO",
+      "number": "7",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Triangular numbers form a complete residue system modulo a power of two; the parity of the two difference factors establishes injectivity."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The large constants hide two neighbouring completed squares; respecting principal square roots turns the equation into an interval condition."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The missing small arguments prevent the usual direct induction; ratios on the tail must be extended back to the full domain."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The two endpoints are Farey neighbours; a determinant identity turns the denominator bound into a tiny positive-integer equation."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The perpendicular bisector axes give simple coordinates for H, but its altitude conditions must connect those coordinates to the side midpoint."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Division by m conceals integrality; recognising the closed form as a square of a binomial coefficient resolves it."
+    },
+    {
+      "year": 1988,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A ratio substitution reduces the ellipse optimisation to a quartic inequality with a hidden square factor."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Evaluating at x=10 makes the two integer factors multiply to one, leaving two immediate coefficient checks."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The centroid condition follows directly from the intercept equation of a line in oblique coordinates."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The three coordinate-plane areas are components of the area vector, giving a spatial Pythagorean identity."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The rows are trinomial coefficients; parity must rule out an entire row of odd coefficients, rather than one fixed coefficient."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The sine graph lies above its chord on the acute-angle interval; summing the three chord bounds gives the strict result."
+    },
+    {
+      "year": 1989,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The nearest-integer nonlinear rule hides a simple linear recurrence; proving the approximation error remains below one half is essential."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "The requested existence is witnessed by the familiar cyclic decimal number 142857, whose moved leading digit gives its triple."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The ratio of quadratic distance expressions has two external extremisers; a sharp discriminant or derivative calculation identifies both."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Sum-to-product identities factor the angular condition into adjacent- or opposite-angle supplementarity."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Overlapping patterns mean raw three-toss probabilities are insufficient; a small system of prefix states is needed."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The centroids give an easy vector difference, while the two orthocentre equations must be combined along nonperpendicular diagonals."
+    },
+    {
+      "year": 1990,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A difference-of-squares identity using the fifth powers extracts the desired square without solving the equation."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "1",
+      "difficulty": 3,
+      "decision": "include",
+      "reason": "Modulo eight the expression is three or five according to the parity of n, neither a square residue."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Reducing the higher power modulo the proposed divisor produces a fixed cubic; the surviving divisor then has period three."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The forward direction uses two right-angle coordinate axes; the converse requires recognising the exceptional case of diameters through the centre."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A regrouping turns the target into a quantity plus its reciprocal; equality must still be realised by positive variables."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Classifying a permutation by its first closed initial block yields an inclusion-free recurrence for indecomposable permutations."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "6",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "A two-variable Vieta descent preserves the square status of x while reducing the larger coordinate; the asymmetry of the linear term needs care."
+    },
+    {
+      "year": 1991,
+      "competition": "BMO",
+      "number": "7",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The intercept condition gives the product in terms of the sum of the two intercepts; solving the resulting quadratics requires both possible configurations and feasibility."
+    },
+    {
+      "year": 1972,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "An inductive reflected ordering must preserve adjacency at both joins, including the closing edge."
+    },
+    {
+      "year": 1972,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Pairing opposite denominators exposes two reciprocal-sum inequalities with the same total."
+    },
+    {
+      "year": 1972,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A local matching between the neighbours of adjacent vertices proves regularity; a second count determines the population."
+    },
+    {
+      "year": 1972,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A weighted centroid identity turns the three squared distances into one; recognising the centre as the incentre completes the locus."
+    },
+    {
+      "year": 1974,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The trigonometric identity for three triangle angles must be combined with the centroid-distance formula."
+    },
+    {
+      "year": 1974,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Bounding the area swept by a unit neighbourhood requires controlling the overlaps at bends and the endpoint caps."
+    },
+    {
+      "year": 1974,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The projection radius of a tilted circle converts the three tangencies into a spherical equation with coordinate restrictions."
+    },
+    {
+      "year": 1974,
+      "competition": "FIST",
+      "number": "4a",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "An integer linear relation between the cube roots can be cubed using the sum-of-three-cubes identity, forcing an impossible rational cube root."
+    },
+    {
+      "year": 1974,
+      "competition": "FIST",
+      "number": "4b",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Newton sums produce a two-valued symmetric sum; the extra inequality selects the correct branch."
+    },
+    {
+      "year": 1975,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Substitution handles the first part; a difference quotient propagates regularity and identifies the quadratic correction."
+    },
+    {
+      "year": 1975,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A signed base-four expansion supplies the representation; the two generators at each scale cover all four residues."
+    },
+    {
+      "year": 1975,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The final-room event depends on alternating runs controlled by first and second appearances of countries; a symmetry or pairing argument must track this dependence."
+    },
+    {
+      "year": 1975,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 7.5,
+      "decision": "include",
+      "reason": "Realising the specified twelve-circle tangency graph by equal circles on a sphere requires a substantial polyhedral construction and spherical-distance verification."
+    },
+    {
+      "year": 1976,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Barycentric coordinates make each median-parallel intercept a linear expression; the three expressions sum immediately to a constant."
+    },
+    {
+      "year": 1976,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The absent next-to-leading coefficient changes the usual root bound to the golden ratio via a geometric series."
+    },
+    {
+      "year": 1976,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The first quadratic form yields a parity descent; the sign change in the second permits a Pell family."
+    },
+    {
+      "year": 1976,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Multiplying by the conjugate traps a nonzero integer between zero and one, but the numerical bound must be kept tight."
+    },
+    {
+      "year": 1976,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "A glide reflection must be realised using a carefully chosen intersection pattern of the circles, while excluding accidental alternative symmetries."
+    },
+    {
+      "year": 1977,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The vertex position and nearest mesh points must be balanced against the endpoint constraints to obtain the sharp overshoot."
+    },
+    {
+      "year": 1977,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Matching tangent lengths on the lateral edges creates a shared spatial metric condition for the four contact points."
+    },
+    {
+      "year": 1977,
+      "competition": "FIST",
+      "number": "3a",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Choose x=12 and z=-7 so that the coefficient of y is 10x+17z=1; every integer right-hand side then follows directly."
+    },
+    {
+      "year": 1977,
+      "competition": "FIST",
+      "number": "3b",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "The terms a(1+d)^k all belong to the progression and have the fixed prime divisors of a(1+d), giving a short explicit construction."
+    },
+    {
+      "year": 1977,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The necklace is an Euler tour of a multigraph; odd vertex degrees explain exactly the extra edges needed beyond the complete graph."
+    },
+    {
+      "year": 1978,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Equal-area constraints force an affine pentagon shape with a quadratic ratio; area preservation under affine deformation supplies the infinite family."
+    },
+    {
+      "year": 1978,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "An exponent-lifting construction must control one new decimal digit at each stage while preserving earlier digits."
+    },
+    {
+      "year": 1978,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The alternating rational terms telescope after the numerator is shifted by one factor."
+    },
+    {
+      "year": 1978,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Inclusion-exclusion enforces use of all books, then coincident recipient sets must be counted without duplicating complementary pairings."
+    },
+    {
+      "year": 1979,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The order assumption has to be translated into a product or ratio bound before squaring the radical inequality."
+    },
+    {
+      "year": 1979,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The two sixty-degree rotations and midpoint maps must be combined around the centre of the first triangle."
+    },
+    {
+      "year": 1979,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Tracking the cumulative sum between consecutive squares reveals repeated blocks, but the initial phase and final index require care."
+    },
+    {
+      "year": 1979,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Binary subset expansion turns the sum into an iterated finite difference of a degree-n polynomial."
+    },
+    {
+      "year": 1980,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Barycentric coordinates determine the three edge ratios; AM-GM then compares their product."
+    },
+    {
+      "year": 1980,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Subtracting one reveals Fibonacci exponents; proving which exponents can be powers of two is the main completeness step."
+    },
+    {
+      "year": 1980,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "A telescoping square identity exposes a single Cauchy-Schwarz inequality and its equality condition."
+    },
+    {
+      "year": 1980,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 8,
+      "decision": "include",
+      "reason": "The necessity follows from divisibility and degree counts, but a complete four-cycle decomposition of every admissible complete graph requires a substantially harder uniform construction."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The allowed seven-region arrangement constrains how congruent triangles sit on the three intersecting lines; the global area ratio must then be recovered."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "Classifying a cube’s rotational axes gives the familiar face, vertex and edge axes directly; the paper does not demand formal proofs."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "For nonzero variables, three quotient substitutions linearise the equations; zero cases and sign compatibility must also be classified."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 2.5,
+      "decision": "include",
+      "reason": "Modulo x cubed minus x, every positive odd power is congruent to x, so the remainder is immediately 5x."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The nonlinear recurrence conceals a sum of two geometric progressions, whose determinant identity verifies integrality."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "6",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Two rational roots would force all three rational; the cubic discriminant then has an impossible square class."
+    },
+    {
+      "year": 1981,
+      "competition": "FIST",
+      "number": "7",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "The boundary slope suggests reducing y modulo five and representing the five minimal boundary points."
+    },
+    {
+      "year": 1982,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Expressing each bisector chord using half-angle trigonometry yields a strict bound by half the two adjacent sides."
+    },
+    {
+      "year": 1982,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Distinctness of the generated primes and a parity argument on a hypothetical power of five yield a valuation contradiction."
+    },
+    {
+      "year": 1982,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "After shifting to nonnegative variables, representability by three consecutive coefficients must be analysed by residue and interval overlap."
+    },
+    {
+      "year": 1982,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A difference of nth powers or a derivative estimate controls the determinant giving the triangle area."
+    },
+    {
+      "year": 1982,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "The two averaging operators commute; a degree comparison shows the defect must vanish, avoiding an explicit Bernoulli-polynomial formula."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "G1",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Completing squares in coordinates parallel and perpendicular to the line directly locates the weighted centroid minimiser and its three-point analogue."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "G2",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The external tangent geometry of the excircles must be related to the circumradius direction, requiring a non-obvious homothety or analytic relation."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "G3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "A vector parametrisation couples the two moving parameters; the variable parts of the two intersection coordinates then cancel."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "A4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Rewriting each fraction as a linear term minus a square quotient brings the inequality into Cauchy-Schwarz form."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "A5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Splitting at the maximum gives a recursive count of alternating permutations; the binomial choices of the two value sets must be included."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "A6",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Primality of n+1 reduces the large cases to even n; divisibility of the factorial by n squared then contradicts the exponent bound."
+    },
+    {
+      "year": 1983,
+      "competition": "FIST",
+      "number": "A7",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Labelling each mouse by the longest ancestral chain ending there converts the assertion to pigeonhole."
+    },
+    {
+      "year": 1984,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Two Apollonius conditions must be intersected and the full set of geometric solutions verified."
+    },
+    {
+      "year": 1984,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "An affine section relation gives one parameter; a spatial area formula then has to be minimised in terms of the two edge lengths."
+    },
+    {
+      "year": 1984,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "Cosine changes convexity over the allowed interval, so a direct Jensen argument fails; boundary and interior configurations need separate control."
+    },
+    {
+      "year": 1984,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "A bijection or generating-function telescoping must connect unrestricted binary partitions with partitions having no missing scale."
+    },
+    {
+      "year": 1984,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A polynomial with a high-order flat region must be arranged so the apparent denominator cancels from all coefficients."
+    },
+    {
+      "year": 1985,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Equal secant powers first impose a symmetric configuration; the angle condition and a polar or coordinate calculation then establish the tangent intersection."
+    },
+    {
+      "year": 1985,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Pairing consecutive binary integers gives one evil number in each pair; a second parity count handles the residual digit contributions."
+    },
+    {
+      "year": 1985,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Small common divisors of the five factors must be separated and combined with square restrictions; a simple interval bound alone does not settle all cases."
+    },
+    {
+      "year": 1985,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The extreme degrees pair off national delegations recursively, leaving the middle degree for the questioner’s deputy."
+    },
+    {
+      "year": 1985,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "Equal distances from the shared centre to all face planes must force the disphenoid edge equalities before the orthocentre relation becomes accessible."
+    },
+    {
+      "year": 1986,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Representing a direct similarity as a complex affine map reduces the centre to division of Gaussian rationals."
+    },
+    {
+      "year": 1986,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "The cyclic cubic requires an angular parametrisation or a discriminant identity; symmetry alone does not justify setting two variables equal."
+    },
+    {
+      "year": 1986,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Interpreting the subsets as graph edges makes the condition an equality between edge and line-graph counts; a sum-of-squares identity forces regularity."
+    },
+    {
+      "year": 1986,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 7,
+      "decision": "include",
+      "reason": "The adjacent binomial products require a uniform prime-valuation argument, and the final gcd adds a stronger divisibility statement than integrality alone."
+    },
+    {
+      "year": 1986,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "A shared chord direction gives two reflection formulae; adding them produces a circle, with a possible degenerate case."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The two tangencies determine the centre and radius by one cosine-rule equation; the contact point then divides the line of centres in known ratio."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The initial matching count feeds into inclusion-exclusion over the five forbidden spouse edges."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Adding the first two equations supplies a substitution; the requested intermediate relations then eliminate the variables without dividing by potentially zero coefficients."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Bounding the positive reciprocal sum isolates two infinite families and a small number of exceptional cases."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 5.5,
+      "decision": "include",
+      "reason": "The perpendicular-bisector equations put the sphere centre in a fixed plane; resolving the two line directions turns fixed PQ into fixed radius."
+    },
+    {
+      "year": 1988,
+      "competition": "FIST",
+      "number": "6",
+      "difficulty": 3.5,
+      "decision": "include",
+      "reason": "Apply the strict triangle inequalities componentwise, then the Euclidean triangle inequality to the two-dimensional side vectors; the same argument works cyclically."
+    },
+    {
+      "year": 1989,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The positive integer endpoint values and distinct interior roots impose a sharp lower bound on the leading coefficient."
+    },
+    {
+      "year": 1989,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Each colour has either one run of five or runs of lengths two and three; adjacent-run exclusions and indistinguishable letters must be counted together."
+    },
+    {
+      "year": 1989,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "Multiplying by x+1 creates a polynomial with all prescribed integer roots; evaluation at the pole determines its leading factor."
+    },
+    {
+      "year": 1989,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Equal inradii convert area ratios to semiperimeter ratios; Stewart’s theorem then produces a nontrivial equation for the cevian length."
+    },
+    {
+      "year": 1990,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Factoring out the four known integer roots forces four distinct integer differences to have product dividing seven."
+    },
+    {
+      "year": 1990,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The fractional-part equation forces x plus its reciprocal to be an integer; the rational-root restriction rules out rational solutions."
+    },
+    {
+      "year": 1990,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The radicals are distances between points on rays separated by sixty degrees; the requested inequality then becomes a triangle inequality."
+    },
+    {
+      "year": 1990,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6,
+      "decision": "include",
+      "reason": "Optimising a rectangle for one base is only the first step; a longest-side bound identifies the extremal triangle and all possible rectangle orientations."
+    },
+    {
+      "year": 1990,
+      "competition": "FIST",
+      "number": "5",
+      "difficulty": 5,
+      "decision": "include",
+      "reason": "Half-angle formulae for inradius and exradius connect the six centre-to-vertex distances; both identities require consistent internal and external bisectors."
+    },
+    {
+      "year": 1991,
+      "competition": "FIST",
+      "number": "1",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "Writing the angle as a difference of two arctangents leads to a sharp quadratic bound."
+    },
+    {
+      "year": 1991,
+      "competition": "FIST",
+      "number": "2",
+      "difficulty": 4,
+      "decision": "include",
+      "reason": "The number of disagreeing friendship edges is an integer potential that strictly falls at every switch."
+    },
+    {
+      "year": 1991,
+      "competition": "FIST",
+      "number": "3",
+      "difficulty": 4.5,
+      "decision": "include",
+      "reason": "The triangle inequalities make each complement 1 minus a side positive; factoring the difference exposes their product."
+    },
+    {
+      "year": 1991,
+      "competition": "FIST",
+      "number": "4",
+      "difficulty": 6.5,
+      "decision": "include",
+      "reason": "Scaling controls the leading digit for the first claim; sharpening the universal bound requires tracking decimal digits across several multiples, including recurring expansions."
+    }
+  ],
+  "sourceAudit": {
+    "archivePaperLinks": "Every included source URL matched against the official archive index.",
+    "sittingDates": "All included dated papers checked against their PDF headers and archive date labels; whitespace-normalised agreement. BMO 1973, BMO 1974 and FIST 1974 have only year labels.",
+    "publicSolutionRanges": [
+      "Official BMO1 videos: archive years 2006–2026",
+      "Official BMO2 written solutions: 2021 and 2022",
+      "Official BMO2 videos: 2024–2026"
+    ],
+    "publicSolutionCoverage": "Every included record in these public ranges links the official solution resource. No other free official solution range is advertised by the archive or video index. Historical book solutions have not been copied.",
+    "historicalAccessCheck": {
+      "checkedDate": "2026-10-23",
+      "officialIndex": "https://bmos.ukmt.org.uk/home/bmo.shtml",
+      "unavailableOriginalPapers": [
+        "BMO 1965–1972",
+        "FIST 1973"
+      ],
+      "bookAlternative": {
+        "title": "The Mathematical Olympiad Handbook",
+        "author": "Tony Gardiner",
+        "publisher": "Oxford University Press",
+        "year": 1997,
+        "url": "https://global.oup.com/academic/product/the-mathematical-olympiad-handbook-9780198501053",
+        "scope": "The official archive identifies this book as containing BMO statements from 1965–1996, with hints and outline solutions for 1975–1996.",
+        "accessResult": "The linked publisher page returned a JavaScript/robot-verification gate. No book pages or unavailable original papers were obtained or assessed."
+      },
+      "secondarySearchLeads": [
+        {
+          "url": "https://schoolexercisebooks.blogspot.com/2010/08/1st-british-mathematical-olympiad-1965.html",
+          "status": "Search surfaced a secondary reproduction; not verified against an original or authorized book page, so it was not promoted to assessed coverage."
+        },
+        {
+          "url": "https://imogeometry.blogspot.com/p/british.html",
+          "status": "Partial geometry-only secondary index; it cannot establish complete-paper coverage."
+        }
+      ],
+      "fist1973": "No verifiable accessible alternative paper found.",
+      "fist1987": "The official archive states no FIST was held; a Reading Selection Test replaced it. Its paper is not linked in the archive.",
+      "result": "British counts and assessed ranges are unchanged; the inaccessible years remain explicit source gaps."
+    },
+    "allRatingsRestoration": "110 previously omitted British questions restored from official papers with individually checked mathematical paraphrases and subtopics. The 107-paper archive has 552 numeric assessments and 551 usable published statements; BMO1973 Q9 is held as under-specified.",
+    "corrections": [
+      {
+        "id": "bmo-1974-qB6",
+        "previousDifficulty": 6,
+        "difficulty": 4.5,
+        "detail": "Restored the actual perpendicular-line construction and CZ midpoint conclusion from the official scan; replaced the rating rationale and supplied a verified coordinate solution."
+      }
+    ]
+  },
+  "preferredDifficultyRange": [
+    4,
+    7
+  ],
+  "publicationPolicy": "All individually assessed questions with verified usable statements are published, regardless of difficulty. Ratings 4–7 are a browsing preference only. BMO1973 Q9 remains held for missing nondegeneracy hypotheses."
+}

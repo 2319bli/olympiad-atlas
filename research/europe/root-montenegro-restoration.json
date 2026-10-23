@@ -1,0 +1,20 @@
+{
+  "mne_2025_lower_1": {
+    "statement": "When $2025$ is divided by $k$, the remainder is $225-\\frac32k$. Given that $k$ is the square of a positive integer, determine the quotient."
+  },
+  "mne_2025_lower_2": {
+    "statement": "For positive real numbers $x,y,z$, find the minimum of $\\left\\lfloor\\frac{x+y}{z}\\right\\rfloor+\\left\\lfloor\\frac{y+z}{x}\\right\\rfloor+\\left\\lfloor\\frac{z+x}{y}\\right\\rfloor$. Here $\\lfloor t\\rfloor$ is the greatest integer not exceeding $t$."
+  },
+  "mne_2025_lower_3": {
+    "statement": "The incircle of triangle $ABC$ touches $AB,AC$ at $D,E$, respectively. Let $I$ be the incenter of $ABC$ and $O$ the circumcentre of triangle $BCI$. Show that $\\angle ODB=\\angle OEC$."
+  },
+  "mne_2026_lower_1": {
+    "statement": "Prove that every odd positive integer $n$ satisfies $$\\left\\lfloor\\frac12+\\sqrt{n+\\frac12}\\right\\rfloor=\\left\\lfloor\\frac12+\\sqrt{n+\\frac1{2026}}\\right\\rfloor,$$ where $\\lfloor t\\rfloor$ is the greatest integer not exceeding $t$."
+  },
+  "mne_2026_lower_2": {
+    "statement": "The internal and external bisectors of angle $C$ of triangle $ABC$ meet line $AB$ at $D,E$, respectively, with $B$ between $D$ and $E$. If $CD$ is a median of triangle $AEC$, prove that $AC=3BC$."
+  },
+  "mne_2026_lower_3": {
+    "statement": "A prefix of a positive integer consists of its first one or more decimal digits, possibly all of them. For a positive integer $m$, count the $m$-digit integers none of whose prefixes is divisible by $3$."
+  }
+}

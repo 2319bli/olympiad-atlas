@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#6548a3">
+  <title>Olympiad Atlas — Your next proof</title>
+  <meta name="description" content="Explore individually assessed olympiad problems from around the world, calibrated to harder BMO1 and accessible BMO2.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/katex/katex.min.css"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="papers.css">
+  <script defer src="vendor/katex/katex.min.js"></script><script defer src="vendor/katex/contrib/auto-render.min.js"></script>
+  <script defer src="vendor/marked.js"></script><script defer src="bmo.js"></script><script defer src="paper-engine.js"></script><script defer src="papers.js"></script><script defer src="paper-pdf.js"></script><script defer src="account.js"></script>
+<script defer src="app.js"></script>
+<link rel="stylesheet" href="account.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#library" aria-label="Olympiad Atlas home"><span class="brandmark">∴</span><span>Olympiad<span class="brand-sub">ATLAS</span></span></a>
+  <nav aria-label="Main navigation"><a href="#library" data-view="library" class="active">Problem library</a><a href="#bmo" data-view="bmo">Recent BMO</a><a href="#papers" data-view="papers">Saved papers</a><a href="#practice" data-view="practice">My practice <span id="practice-count">0</span></a><a id="account-link" href="#account" data-view="account">Account</a>
+<a href="#coverage" data-view="coverage">Coverage</a></nav>
+  <button class="icon-button help-button" id="guide-button" aria-label="How difficulty ratings work">?</button>
+</header>
+<main>
+  <section class="intro" id="intro">
+    <div><p class="eyebrow"><span></span> A WORLD OF MATHEMATICAL IDEAS</p><h1>Find a problem.<br><em>Build a proof.</em></h1><p class="intro-copy">Olympiad problems from around the world,<br class="desktop-break"> individually rated for your next challenge.</p></div>
+    <div class="intro-right"><div class="math-art" aria-hidden="true"><svg viewBox="0 0 280 170"><g fill="none" stroke="currentColor" stroke-width="1.1"><circle cx="143" cy="86" r="65"/><circle cx="143" cy="86" r="43" stroke-dasharray="2 5"/><path d="M79 100L172 27L188 134Z M79 100L143 86L172 27 M143 86L188 134 M78 86H208 M143 21V151"/><path d="M32 143Q143-5 252 143" opacity=".35"/></g><g fill="currentColor"><circle cx="79" cy="100" r="3"/><circle cx="172" cy="27" r="3"/><circle cx="188" cy="134" r="3"/><circle cx="143" cy="86" r="3"/></g><g fill="currentColor" font-family="Georgia" font-style="italic" font-size="15"><text x="61" y="105">A</text><text x="174" y="18">B</text><text x="196" y="142">C</text><text x="150" y="83">O</text></g></svg></div><button class="button primary" id="random-button"><span>↝</span> Surprise me with a problem</button><p class="tiny">Draws from your current filters</p></div>
+  </section>
+  <section class="stats" aria-label="Collection statistics"><div><strong id="stat-problems">—</strong><span>individually rated problems</span></div><div><strong id="stat-sources">—</strong><span>countries & regional bodies</span></div><div><strong id="stat-years">—</strong><span>years represented</span></div><a href="#coverage" class="coverage-link"><span class="status-dot"></span><span>Explore the coverage<br><small>See reviewed papers and remaining gaps</small></span><span>↗</span></a></section>
+  <div id="library-view">
+    <div class="library-heading"><h2 id="library-title">The problem library <span id="result-total"></span></h2><button id="mobile-filters" class="button secondary">☷ Filters</button></div>
+    <div class="library-layout">
+      <aside class="filters" id="filters" aria-label="Problem filters">
+        <div class="filter-heading"><h3>Refine your search</h3><button id="reset-filters" class="text-button">Reset</button></div>
+        <fieldset><legend>Topic</legend><div id="topic-filters" class="topic-buttons"></div></fieldset>
+        <label class="select-label" for="subtopic-filter">Subtopic<select id="subtopic-filter"><option value="">All subtopics</option></select></label>
+        <fieldset><legend>Difficulty <button class="inline-help" id="rating-help" aria-label="Explain difficulty scale">?</button></legend><div class="range-selects"><label>From<select id="difficulty-min"><option value="1">1.0</option><option value="1.5">1.5</option><option value="2">2.0</option><option value="2.5">2.5</option><option value="3">3.0</option><option value="3.5">3.5</option><option value="4" selected>4.0</option><option value="4.5">4.5</option><option value="5">5.0</option><option value="5.5">5.5</option><option value="6">6.0</option><option value="6.5">6.5</option><option value="7">7.0</option><option value="7.5">7.5</option><option value="8">8.0</option><option value="8.5">8.5</option><option value="9">9.0</option><option value="9.5">9.5</option><option value="10">10.0</option></select></label><span>—</span><label>To<select id="difficulty-max"><option value="1">1.0</option><option value="1.5">1.5</option><option value="2">2.0</option><option value="2.5">2.5</option><option value="3">3.0</option><option value="3.5">3.5</option><option value="4">4.0</option><option value="4.5">4.5</option><option value="5">5.0</option><option value="5.5">5.5</option><option value="6">6.0</option><option value="6.5">6.5</option><option value="7" selected>7.0</option><option value="7.5">7.5</option><option value="8">8.0</option><option value="8.5">8.5</option><option value="9">9.0</option><option value="9.5">9.5</option><option value="10">10.0</option></select></label></div><div class="difficulty-presets" aria-label="Difficulty presets"><button type="button" data-difficulty-range="preferred" aria-pressed="true">Preferred 4–7</button><button type="button" data-difficulty-range="all" aria-pressed="false">All 1–10</button></div><p class="filter-note">4–7 is your preferred practice range.<br>Easier and harder questions are included.</p></fieldset>
+        <label class="select-label" for="country-filter">Country / regional body<select id="country-filter"><option value="">Everywhere</option></select></label>
+        <label class="select-label" for="competition-filter">Competition<select id="competition-filter"><option value="">All competitions</option></select></label>
+        <label class="select-label" for="year-filter">Year<select id="year-filter"><option value="">All years</option></select></label>
+        <label class="select-label" for="status-filter">Practice status<select id="status-filter"><option value="">All problems</option><option value="new">Not started</option><option value="saved">Saved</option><option value="attempted">Attempted</option><option value="solved">Solved</option></select></label>
+        <label class="check-label"><input id="solution-filter" type="checkbox"> With a solution or solution link</label>
+        <div class="sidebar-note"><span>✧</span><p>A rating is a guide, not a verdict.<br>Different ideas click for different people.</p></div>
+      </aside>
+      <section class="results" aria-label="Matching problems">
+        <div class="search-row"><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="Search problems, competitions, subtopics…" aria-label="Search problems"><kbd>/</kbd></label><label class="sort-label"><span class="sr-only">Sort problems</span><select id="sort"><option value="recommended">Suggested order</option><option value="difficulty-asc">Easier first</option><option value="difficulty-desc">Harder first</option><option value="year-desc">Newest first</option><option value="year-asc">Oldest first</option><option value="source">Competition A–Z</option></select></label></div>
+        <div class="results-summary"><p id="results-description" aria-live="polite">Loading the collection…</p><label class="check-label"><input id="show-subtopics" type="checkbox" checked> Show subtopics on cards <span title="Subtopics may hint at a method">ⓘ</span></label></div>
+        <div class="difficulty-summary"><span id="difficulty-description" aria-live="polite"></span><button class="text-button" id="all-difficulties" data-difficulty-range="all">Show all difficulties →</button></div>
+        <div id="active-filters" class="active-filters"></div>
+        <div id="problem-grid" class="problem-grid"><div class="loading">Loading your next mathematical challenge…</div></div>
+        <nav class="pagination" id="pagination" aria-label="Results pages"></nav>
+        <p class="practice-note" id="practice-note" hidden>Practice marks are saved in this browser. <button class="text-button" id="export-progress">Export a backup</button> · <button class="text-button" id="import-progress">Restore a backup</button><input type="file" id="import-file" accept="application/json" hidden></p>
+      </section>
+    </div>
+  </div>
+  <section id="account-view" hidden aria-label="Your account"></section>
+<section id="papers-view" hidden aria-label="Saved BMO1 papers"></section>
+  <section id="coverage-view" hidden></section>
+  <section id="bmo-view" hidden aria-label="Recent BMO question overview"></section>
+  <footer><a class="footer-brand" href="#library">∴ Olympiad Atlas</a><span>Individually assessed. Sources always credited.</span><button class="text-button" id="about-button">Sources & methodology</button></footer>
+</main>
+<dialog id="problem-dialog" aria-labelledby="problem-title"><div id="problem-detail"></div></dialog>
+<dialog id="guide-dialog" aria-labelledby="guide-title"><div class="guide-content"><button class="dialog-close icon-button" data-close="guide-dialog" aria-label="Close rating guide">×</button><p class="eyebrow">READING THE RATINGS</p><h2 id="guide-title">A common scale.<br>A personal challenge.</h2><p>Ratings are individual AI assessments of the ideas, prerequisites and proof required. They are approximate, not official contest ratings or measured solve probabilities.</p><div class="scale-guide"><div><b>1–3.5</b><span>Easier than the preferred range</span></div><div><b>4</b><span>Lower edge of harder BMO1</span></div><div><b>5–6</b><span>Core harder BMO1 territory</span></div><div><b>7</b><span>Upper edge · accessible BMO2</span></div><div><b>7.5–10</b><span>Harder than the preferred range</span></div></div><p>Half-point steps allow a little more detail. The bank includes every source-verified, individually assessed question regardless of rating. Your preferred range of 4–7 is the default filter; choose “All 1–10” to browse easier and harder questions too. Question number and competition name alone never set a rating.</p><h3>What “individually assessed” means</h3><p>Each published problem has been read and assessed from its mathematical content, using a sourced solution or independent solution analysis. The hidden rating note explains the main difficulty. An elegant short proof can still involve a demanding insight.</p><div id="anchors"></div><h3>Solutions and spoilers</h3><p>Solutions, detailed technique tags and rating explanations stay hidden until you reveal them. Each question also has consistent subtopics, such as Polynomials, Pigeonhole principle or Invariants. These appear on cards and can be filtered; untick “Show subtopics on cards” to hide them while browsing. Some entries link to a published worked solution; others contain an original exposition of the mathematics. The source and type are identified on each entry.</p><h3>Coverage and provenance</h3><p>This is a reviewed collection, not a claim that every historical olympiad has been exhausted. The Coverage page distinguishes papers actually screened from archives still to review. Translations and uncertain provenance are noted on the relevant problem.</p><div id="credits"></div></div></dialog>
+<div id="toast" class="toast" role="status"></div>
+</body>
+</html>

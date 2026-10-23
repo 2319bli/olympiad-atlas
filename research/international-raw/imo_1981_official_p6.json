@@ -1,0 +1,29 @@
+{
+  "id": "imo_1981_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1981,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Recurrences"
+    ],
+    [
+      "Algebra",
+      "Exponentiation"
+    ]
+  ],
+  "problem_markdown": "For nonnegative integers $x,y$, suppose $f(0,y)=y+1$, $f(x+1,0)=f(x,1)$, and $f(x+1,y+1)=f(x,f(x+1,y))$. Determine $f(4,1981)$.",
+  "solutions_markdown": [
+    "Induction along successive rows gives\n$$f(1,y)=y+2,\\qquad f(2,y)=2y+3.$$\nThen $f(3,0)=5$ and $f(3,y+1)=2f(3,y)+3$, so $f(3,y)=2^{y+3}-3$.\n\nPut $T_y=f(4,y)+3$. Since $f(4,0)=f(3,1)=13$, we have $T_0=16=2^{2^2}$. The defining recurrence gives $T_{y+1}=2^{T_y}$. Therefore $T_y$ is a right-associated tower of $y+3$ twos. The answer is a tower of $1984$ twos, minus three. These row inductions also show that the recurrence determines the value uniquely."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1981/1981_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln816.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

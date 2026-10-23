@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "1",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Locus"
+    ],
+    [
+      "Geometry",
+      "Algebraic identities"
+    ]
+  ],
+  "problem_markdown": "Concentric circles have radii $R>r$, and $P$ is fixed on the smaller. A variable line through $P$ cuts the larger circle at $B,C$; its perpendicular through $P$ meets the smaller circle again at $A$, allowing $A=P$ in the tangent case. Find the values of $AB^2+BC^2+CA^2$ and the locus of the midpoint of $BC$.",
+  "solutions_markdown": [
+    "Let $M$ be the midpoint of $BC$. Use coordinates $M=(0,0)$, $P=(p,0)$, $O=(0,h)$, $B=(t,0)$, $C=(-t,0)$. Then $p^2+h^2=r^2$, $t^2+h^2=R^2$, and the second smaller-circle intersection is $A=(p,2h)$, including $h=0$.\n\nTherefore\n$$AB^2+AC^2+BC^2=(p-t)^2+4h^2+(p+t)^2+4h^2+4t^2=6R^2+2r^2.$$\nThe set of values is this singleton.\n\nSince $OM\\perp PM$, the midpoint $M$ lies on the circle with diameter $OP$. Conversely every point of that circle is the perpendicular projection of $O$ onto a line through $P$ and hence is a corresponding chord midpoint. The endpoint $P$ arises from the line through $P$ perpendicular to $OP$, and $O$ from line $OP$. Thus the entire circle is attained."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln881.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "2",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Graph theory"
+    ],
+    [
+      "Combinatorics",
+      "Double counting"
+    ],
+    [
+      "Combinatorics",
+      "Parity"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Subsets $A_1,\\ldots,A_{2n+1}$ of $B$ each contain $2n$ elements, every pair intersects in exactly one element, and every element of $B$ lies in at least two subsets. For which $n$ can the elements be labelled zero or one with exactly $n$ zeros in each $A_i$?",
+  "solutions_markdown": [
+    "Fix $A_i$. Its $2n$ elements must each belong to another subset, while the $2n$ other subsets each intersect it only once. Thus every element belongs to exactly two subsets, and there is one element for every pair $\\{i,j\\}$. Regard that element as an edge of the complete graph on $2n+1$ vertices.\n\nZero-labelled edges would form a graph of degree $n$ at every vertex. Its degree sum $n(2n+1)$ must be even, forcing $n$ even.\n\nConversely suppose $n$ is even. Number the vertices modulo $2n+1$ and label an edge zero precisely when its cyclic difference is one of $\\pm1,\\ldots,\\pm n/2$. Each vertex then meets exactly $n$ zero edges; label the rest one. Therefore precisely the positive even integers $n$ work."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln882.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

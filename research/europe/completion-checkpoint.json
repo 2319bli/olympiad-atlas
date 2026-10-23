@@ -1,0 +1,1489 @@
+{
+  "status": "ready-for-parent-publication; historical coverage remains partial",
+  "counts": {
+    "inspectedAppearanceCount": 823,
+    "ratedAppearanceCount": 764,
+    "reviewedCount": 764,
+    "distinctRatedCount": 716,
+    "includedCount": 360,
+    "countsByDecision": {
+      "below-target": 320,
+      "included": 360,
+      "above-target": 36,
+      "duplicate-appearance": 49,
+      "quarantined": 35,
+      "outside-BMO-prerequisites": 23
+    }
+  },
+  "originalDiscoveredCorpus": {
+    "recordCount": 719,
+    "reviewedOrInspectedByEurope": 606,
+    "nonContestOrAuthorProposals": 107,
+    "alreadyAssessedByInternational": 6,
+    "remainingUnassignedRecords": 0
+  },
+  "nonContestCounts": {
+    "France": 60,
+    "Ukraine": 11,
+    "Romania": 36
+  },
+  "nonContestLedger": "research/europe/noncontest-corpus.json",
+  "internationalOwnershipLedger": "research/europe/corpus-ownership.json",
+  "knownMissingQuestionSlotCount": 18,
+  "knownMissingQuestionSlots": [
+    {
+      "country": "Belarus",
+      "competition": "Belarus IMO Selection Tests",
+      "year": 2024,
+      "section": "First Selection Test",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "2",
+        "3"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_19675f",
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_41fa6d"
+      ]
+    },
+    {
+      "country": "Belarus",
+      "competition": "Belarus IMO Selection Tests",
+      "year": 2024,
+      "section": "Second Selection Test",
+      "expectedQuestionNumbers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "missingQuestionNumbers": [
+        "5",
+        "7"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_d8428f",
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_f3d838"
+      ]
+    },
+    {
+      "country": "Belarus",
+      "competition": "Belarus IMO Selection Tests",
+      "year": 2024,
+      "section": "Third Selection Test",
+      "expectedQuestionNumbers": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "missingQuestionNumbers": [
+        "9"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_54321a",
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_a99734",
+        "https://mathnet.mit.edu/explorer.html?p=blr_2024_b71bb1"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "competition": "Bulgarian Spring Tournament",
+      "year": 2024,
+      "section": "Grade 10",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "2"
+      ],
+      "sourceUrls": [
+        "https://maths.bg/pms2024-10-1",
+        "https://maths.bg/pms2024-10-3",
+        "https://maths.bg/pms2024-10-4"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "competition": "Bulgarian Winter Tournament",
+      "year": 2024,
+      "section": "Grade 12",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "2",
+        "3"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_0d5bd9",
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_2dfc50"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "competition": "Bulgarian Winter Tournament",
+      "year": 2024,
+      "section": "Grade 8",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "2"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_2952e6",
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_2dde4d",
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_4385ef"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "competition": "Bulgarian Winter Tournament",
+      "year": 2024,
+      "section": "Grade 9",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "1",
+        "3"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_0185aa",
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_57ee64"
+      ]
+    },
+    {
+      "country": "Greece",
+      "competition": "Hellenic Mathematical Olympiad",
+      "year": 2024,
+      "section": "A. Juniors",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "3"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=grc_2024_16e818",
+        "https://mathnet.mit.edu/explorer.html?p=grc_2024_227681",
+        "https://mathnet.mit.edu/explorer.html?p=grc_2024_43eb6b"
+      ]
+    },
+    {
+      "country": "Romania",
+      "competition": "Romanian IMO Selection Test",
+      "year": 2025,
+      "section": "Test 1",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "missingQuestionNumbers": [
+        "1"
+      ],
+      "sourceUrls": [
+        "https://ssmr.ro/files/onm2025/faza_nationala/baraj1_seniori.pdf"
+      ]
+    },
+    {
+      "country": "Romania",
+      "competition": "Romanian IMO Selection Test",
+      "year": 2025,
+      "section": "Test 2",
+      "expectedQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "missingQuestionNumbers": [
+        "3"
+      ],
+      "sourceUrls": [
+        "https://ssmr.ro/files/onm2025/faza_nationala/baraj2_seniori.pdf"
+      ]
+    },
+    {
+      "country": "Russia",
+      "competition": "All-Russian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Final round, grade 10",
+      "expectedQuestionNumbers": [
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8"
+      ],
+      "missingQuestionNumbers": [
+        "10.8"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_6aa49c",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_7a4604",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_92724f",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_a22ad3",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_a38288",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_a4bdd1",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_e13350"
+      ]
+    },
+    {
+      "country": "Russia",
+      "competition": "All-Russian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Final round, grade 11",
+      "expectedQuestionNumbers": [
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "11.7",
+        "11.8"
+      ],
+      "missingQuestionNumbers": [
+        "11.5"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_1a6268",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_2d96d8",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_522ea4",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_8671a6",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_95c4c3",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_a9ef6b",
+        "https://mathnet.mit.edu/explorer.html?p=rus_2025_ab106a"
+      ]
+    },
+    {
+      "country": "Slovenia",
+      "competition": "Slovenian Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Competition — Year 3",
+      "expectedQuestionNumbers": [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "missingQuestionNumbers": [
+        "B3"
+      ],
+      "sourceUrls": [
+        "https://www.dmfa.si/Tekmovanja/GetPDF.ashx?src=MaSSA_Drzavno_2023.pdf"
+      ]
+    },
+    {
+      "country": "Slovenia",
+      "competition": "Slovenian Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Competition — Year 4",
+      "expectedQuestionNumbers": [
+        "A1",
+        "A2",
+        "A3",
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "missingQuestionNumbers": [
+        "B3"
+      ],
+      "sourceUrls": [
+        "https://www.dmfa.si/Tekmovanja/GetPDF.ashx?src=MaSSA_Drzavno_2023.pdf"
+      ]
+    }
+  ],
+  "unknownRangePaperCount": 9,
+  "unknownRangePapers": [
+    {
+      "country": "Bulgaria",
+      "competition": "Balkan Mathematical Olympiad TST (BMO TST)",
+      "year": 2024,
+      "section": "Day 1",
+      "questionNumbers": [
+        "1",
+        "2"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_72bcc3",
+        "https://mathnet.mit.edu/explorer.html?p=bgr_2024_bb6a28"
+      ],
+      "note": "The booklet publishes Day 1 questions 1 and 2; the author calls the last Day 2 question aggregate problem 8, so omitted Day 1 material remains unverified and no full-paper completeness is asserted."
+    },
+    {
+      "country": "Croatia",
+      "competition": "Croatian Junior Mathematical Olympiad",
+      "year": 2019,
+      "section": null,
+      "questionNumbers": [
+        "Booklet A1",
+        "Booklet C1",
+        "Booklet G1",
+        "Booklet N1"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=hrv_2019_17e870",
+        "https://mathnet.mit.edu/explorer.html?p=hrv_2019_77ac9e",
+        "https://mathnet.mit.edu/explorer.html?p=hrv_2019_9e1bcd",
+        "https://mathnet.mit.edu/explorer.html?p=hrv_2019_b7f6ee"
+      ],
+      "note": "Original within-paper question numbers have not yet been verified; compilation topic labels are retained explicitly."
+    },
+    {
+      "country": "Estonia",
+      "competition": "Estonian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Selected Problems from Open Contests",
+      "questionNumbers": [
+        "O1",
+        "O10",
+        "O11",
+        "O12",
+        "O13",
+        "O14",
+        "O15",
+        "O16",
+        "O17",
+        "O18",
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O6",
+        "O7",
+        "O8",
+        "O9"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_1ce03f",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_2d4f0c",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_39c08c",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_427d9e",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_42ed5c",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_4f6fb6",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_582da8",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_84d00b",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_8aae0a",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_8e09bb",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_9965b2",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_9d14b4",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_bee95e",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_c0a1eb",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_d099a0",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_d18606",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_d849f4",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_e3a9e2"
+      ],
+      "note": "Only the selected booklet was screened; this is not full-round coverage."
+    },
+    {
+      "country": "Estonia",
+      "competition": "Estonian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Selected Problems from the Final Round of National Olympiad",
+      "questionNumbers": [
+        "F1",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F19",
+        "F2",
+        "F20",
+        "F21",
+        "F22",
+        "F23",
+        "F24",
+        "F25",
+        "F26",
+        "F27",
+        "F28",
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "F7",
+        "F8",
+        "F9"
+      ],
+      "unratedQuestionNumbers": [
+        "F29"
+      ],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_087156",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_18de17",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_1d743a",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_25f413",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_274850",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_29d115",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_392c62",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_3addda",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_3fc636",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_4632c9",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_46d098",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_5b5036",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_68c56e",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_6e266c",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_707b33",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_7ea00a",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_8a1de2",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_9333dd",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_95aebd",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_95f4b2",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_9c1dc1",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_bb01de",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_c5e6a1",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_c6939b",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_d9f93c",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_e7b0e4",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_e84a17",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_ec0fd7",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_f0453a"
+      ],
+      "note": "Only the selected booklet was screened; this is not full-round coverage."
+    },
+    {
+      "country": "Estonia",
+      "competition": "Estonian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Selected Problems from the IMO Team Selection Contests",
+      "questionNumbers": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_300772",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_89b8d2",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_98578a",
+        "https://mathnet.mit.edu/explorer.html?p=est_2025_c05fe0"
+      ],
+      "note": "Only the selected booklet was screened; this is not full-round coverage."
+    },
+    {
+      "country": "Romania",
+      "competition": "Romanian IMO Selection Test",
+      "year": 2025,
+      "section": "Test 4",
+      "questionNumbers": [
+        "1"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=rou_2025_7a9f2d"
+      ],
+      "note": ""
+    },
+    {
+      "country": "Slovenia",
+      "competition": "Slovenian Mathematical Olympiad for Technical Schools",
+      "year": 2023,
+      "section": "Technical Schools — Naloge za 1. letnik",
+      "questionNumbers": [
+        "B1",
+        "B2"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=svn_2023_7ff433",
+        "https://mathnet.mit.edu/explorer.html?p=svn_2023_a87a13"
+      ],
+      "note": ""
+    },
+    {
+      "country": "Slovenia",
+      "competition": "Slovenian Mathematical Olympiad for Technical Schools",
+      "year": 2023,
+      "section": "Technical Schools — Naloge za 4. letnik",
+      "questionNumbers": [
+        "B1"
+      ],
+      "unratedQuestionNumbers": [],
+      "sourceUrls": [
+        "https://mathnet.mit.edu/explorer.html?p=svn_2023_9af862"
+      ],
+      "note": ""
+    },
+    {
+      "country": "Soviet Union",
+      "competition": "CIS Mathematical Olympiad",
+      "year": 1992,
+      "section": "Scholes compilation (original grade/day numbering unverified)",
+      "questionNumbers": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "19",
+        "2",
+        "20",
+        "22",
+        "23",
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "unratedQuestionNumbers": [
+        "18",
+        "21",
+        "4"
+      ],
+      "sourceUrls": [
+        "https://webee.technion.ac.il/people/aditya/www.kalva.demon.co.uk/soviet/sov92.html"
+      ],
+      "note": "Compilation identifiers 1–23 have been screened, but original grade/day mapping is unverified; this is not a full original-paper completeness claim."
+    }
+  ],
+  "unratedInspectionCount": 59,
+  "unratedInspections": [
+    {
+      "id": "est_2025_d9f93c",
+      "country": "Estonia",
+      "competition": "Estonian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Selected Problems from the Final Round of National Olympiad",
+      "number": "F29",
+      "difficulty": null,
+      "included": false,
+      "reason": "The radical in part (b) is inconsistent between the statement and the proposed construction; withheld rather than rated from a corrupted problem.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=est_2025_d9f93c",
+      "notes": ""
+    },
+    {
+      "id": "rus_2025_a9ef6b",
+      "country": "Russia",
+      "competition": "All-Russian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Final round, grade 11",
+      "number": "11.8",
+      "difficulty": null,
+      "included": false,
+      "reason": "The available solution omits definitions and most of its lower-bound argument; quarantined pending a complete primary proof.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rus_2025_a9ef6b",
+      "notes": ""
+    },
+    {
+      "id": "grc_2024_10e94f",
+      "country": "Greece",
+      "competition": "Greek IMO Selection Test",
+      "year": 2024,
+      "section": "B. Seniors",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Statement inspected, but no complete proof is available in the record; withheld pending a solution-based difficulty assessment.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=grc_2024_10e94f",
+      "notes": ""
+    },
+    {
+      "id": "grc_2024_3ac059",
+      "country": "Greece",
+      "competition": "Greek IMO Selection Test",
+      "year": 2024,
+      "section": "A. Juniors",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The statement introduces an undefined circle kappa and the transcribed proof has missing angle labels; quarantined pending the original paper.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=grc_2024_3ac059",
+      "notes": ""
+    },
+    {
+      "id": "grc_2024_76c633",
+      "country": "Greece",
+      "competition": "Greek IMO Selection Test",
+      "year": 2024,
+      "section": "B. Seniors",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "The available record has no proof; withheld until the strict-inequality condition can be fully assessed.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=grc_2024_76c633",
+      "notes": ""
+    },
+    {
+      "id": "bgr_2024_55a9f7",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Regional round — Grade 12",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "No worked solution available in the recovered record; not assigned a publishable difficulty.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=bgr_2024_55a9f7",
+      "notes": ""
+    },
+    {
+      "id": "bgr_2024_46d18a",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Regional round — Grade 12",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Exponent transcription is inconsistent and no solution was recovered; quarantined.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=bgr_2024_46d18a",
+      "notes": ""
+    },
+    {
+      "id": "bgr_2024_63b187",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Mathematical Olympiad",
+      "year": 2024,
+      "section": "National final",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The candidate f(x)=1/x satisfies the equation, but completeness has not been established from the available material.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=bgr_2024_63b187",
+      "notes": ""
+    },
+    {
+      "id": "bgr_2024_95f5ff",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Mathematical Olympiad",
+      "year": 2024,
+      "section": "National final",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "No verified sharp upper bound and construction recovered; no rating published.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=bgr_2024_95f5ff",
+      "notes": ""
+    },
+    {
+      "id": "bgr_2024_57ee64",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Winter Tournament",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Recovered solution changes floor/ceiling conventions and omits a verified two-colour extremal construction; quarantined.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=bgr_2024_57ee64",
+      "notes": ""
+    },
+    {
+      "id": "ukr_2023_e3eb6e",
+      "country": "Ukraine",
+      "competition": "Ukrainian National Mathematical Olympiad",
+      "year": 2023,
+      "section": "Fourth Round, April 2023 - First Day - 9th grade",
+      "number": "9-3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The concurrency claim needs a parallel-line exception: an isosceles acute triangle gives three parallel lines. This omission persists in the original paper; quarantined rather than silently changing the problem.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=ukr_2023_e3eb6e",
+      "notes": ""
+    },
+    {
+      "id": "ukr_2023_1a89cd",
+      "country": "Ukraine",
+      "competition": "Ukrainian National Mathematical Olympiad",
+      "year": 2023,
+      "section": "Fourth Round, April 2023 - First Day - 10th grade",
+      "number": "10-3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The recovered solution contains angle identities and an auxiliary lemma but omits the argument connecting them to the required tangency.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=ukr_2023_1a89cd",
+      "notes": ""
+    },
+    {
+      "id": "che_2023_b36296",
+      "country": "Switzerland",
+      "competition": "Swiss Mathematical Olympiad",
+      "year": 2023,
+      "section": "IMO Selection",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Quarantined: the official statement allows k=1, when a single station and single line is a counterexample; the supplied proof assumes at least two tangent lines.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://imosuisse.github.io/files/solutions/selection-2023-solution.pdf",
+      "notes": ""
+    },
+    {
+      "id": "svn_2023_05fbd9",
+      "country": "Slovenia",
+      "competition": "Slovenian Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Competition — Year 1",
+      "number": "B3",
+      "difficulty": null,
+      "included": false,
+      "reason": "Quarantined: the graph is supplied only in a diagram and the claimed attaining traversal is absent from the transcription.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://www.dmfa.si/Tekmovanja/GetPDF.ashx?src=MaSSA_Drzavno_2023.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_1d90f4",
+      "country": "North Macedonia",
+      "competition": "Macedonian Mathematical Olympiad",
+      "year": 2023,
+      "section": null,
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Full official solution located, but its long optimality argument is pending complete verification; no numerical rating published.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://smm.org.mk/wp-content/uploads/2023/04/resenija-1.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_5a0954",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for IMO",
+      "year": 2023,
+      "section": "Day 2",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Corrupt polynomial Q_p transcription repeats exponents and does not preserve coefficient placement; primary formula still needed.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_5a0954",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_65678e",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for BMO",
+      "year": 2023,
+      "section": null,
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "No worked solution supplied; projective concurrency proof remains unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_65678e",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_6c8d01",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for IMO",
+      "year": 2023,
+      "section": "Day 1",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "No worked solution supplied; sharp bounds and existence construction for the monotone iterative square root remain unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_6c8d01",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_ac7647",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for IMO",
+      "year": 2023,
+      "section": "Day 1",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "No worked solution supplied; auxiliary-point inequality remains unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_ac7647",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_bf5276",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for IMO",
+      "year": 2023,
+      "section": "Day 2",
+      "number": "6",
+      "difficulty": null,
+      "included": false,
+      "reason": "No worked solution supplied; classification of the restricted edge colourings remains unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_bf5276",
+      "notes": ""
+    },
+    {
+      "id": "mkd_2023_e60ce8",
+      "country": "North Macedonia",
+      "competition": "Team Selection Test for BMO",
+      "year": 2023,
+      "section": null,
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The functional equation reduces to f(n)=c(n−1), but the required prime-factor construction remains unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=mkd_2023_e60ce8",
+      "notes": ""
+    },
+    {
+      "id": "prt_2017_43c74e",
+      "country": "Portugal",
+      "competition": "Olympic Revenge",
+      "year": 2017,
+      "section": null,
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Country/contest provenance quarantined: Olympic Revenge is a Brazilian training-week event, despite the corpus Portugal label; this does not establish Portuguese national coverage.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=prt_2017_43c74e",
+      "notes": ""
+    },
+    {
+      "id": "prt_2017_79e3fd",
+      "country": "Portugal",
+      "competition": "Olympic Revenge",
+      "year": 2017,
+      "section": null,
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "Country/contest provenance quarantined: Olympic Revenge is a Brazilian training-week event, despite the corpus Portugal label; this does not establish Portuguese national coverage.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=prt_2017_79e3fd",
+      "notes": ""
+    },
+    {
+      "id": "prt_2017_4a5397",
+      "country": "Portugal",
+      "competition": "Olympic Revenge",
+      "year": 2017,
+      "section": null,
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "Country/contest provenance quarantined: Olympic Revenge is a Brazilian training-week event, despite the corpus Portugal label; this does not establish Portuguese national coverage.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=prt_2017_4a5397",
+      "notes": ""
+    },
+    {
+      "id": "prt_2017_cecca1",
+      "country": "Portugal",
+      "competition": "Olympic Revenge",
+      "year": 2017,
+      "section": null,
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "Country/contest provenance quarantined: Olympic Revenge is a Brazilian training-week event, despite the corpus Portugal label; this does not establish Portuguese national coverage.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=prt_2017_cecca1",
+      "notes": ""
+    },
+    {
+      "id": "mda_2023_81a4d4",
+      "country": "Moldova",
+      "competition": "Moldova Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Final — Grade 12, Day 2",
+      "number": "8",
+      "difficulty": null,
+      "included": false,
+      "reason": "Inspected: derivative of the reciprocal product gives 1+log squared; solving the resulting differential equation requires calculus outside the BMO prerequisite scope.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ance.gov.md/sites/default/files/orm_matem_12_solutii_ziua_2.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mda_2023_a250cf",
+      "country": "Moldova",
+      "competition": "Moldova Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Final — Grade 11, Day 1",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Inspected: monotone convergence followed by reciprocal differences and the derivative at zero gives the limit 1 via Stolz-Cesaro; calculus prerequisites are outside BMO scope.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ance.gov.md/sites/default/files/orm2023_solutii_ziua1.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mda_2023_dfee3a",
+      "country": "Moldova",
+      "competition": "Moldova Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Final — Grade 12, Day 1",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "Inspected: half-angle substitution and periodicity evaluate the integral as 2 times the square root of 2; integration is outside BMO scope.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ance.gov.md/sites/default/files/orm_matem_12_solutii_ziua_1.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mda_2023_f9cc8a",
+      "country": "Moldova",
+      "competition": "Moldova Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Final — Grade 12, Day 2",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Inspected: reflect x to minus x, add the integrals, and obtain log 2; integration is outside BMO scope.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ance.gov.md/sites/default/files/orm_matem_12_solutii_ziua_2.pdf",
+      "notes": ""
+    },
+    {
+      "id": "mda_2023_grade12_4",
+      "country": "Moldova",
+      "competition": "Moldova Mathematical Olympiad",
+      "year": 2023,
+      "section": "National Final — Grade 12, Day 1",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Inspected: factor column entries then apply the Vandermonde determinant, obtaining exactly the product of the odd factorials. Determinants are outside the BMO prerequisite scope.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ance.gov.md/sites/default/files/orm_matem_12_solutii_ziua_1.pdf",
+      "notes": ""
+    },
+    {
+      "id": "alb_2025_lower_4",
+      "country": "Albania",
+      "competition": "Albanian National Mathematical Olympiad",
+      "year": 2025,
+      "section": "Final Round — Lower Secondary (AMU)",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Quarantined: the statement says only a 1:2 ratio but the solution assumes angle BAM is the smaller one; the reversed assignment need not yield the claimed conclusion.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://www.ama.org.al/asset/58428ba7-2a27-46cc-95f8-eaa546d0a6a0/",
+      "notes": ""
+    },
+    {
+      "id": "alb_2026_upper_5",
+      "country": "Albania",
+      "competition": "Albanian National Mathematical Olympiad",
+      "year": 2026,
+      "section": "Final Round — Upper Secondary (AML)",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Quarantined: the published answer f(x)=x omits f(x)=-x and arbitrary additive involutions. The intended elementary classification is not valid over all real functions.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://www.ama.org.al/asset/02f09384-a96b-4c91-9974-dab5de844732/",
+      "notes": ""
+    },
+    {
+      "id": "aze_2025_j_16",
+      "country": "Azerbaijan",
+      "competition": "Azerbaijan National Mathematical Olympiad",
+      "year": 2025,
+      "section": "Semifinal — Junior (Grades 8–9)",
+      "number": "16",
+      "difficulty": null,
+      "included": false,
+      "reason": "The exact angle statement is verified in both language versions, but no complete proof of the incenter-crossline angle has yet been validated.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://arti.edu.az/wp-content/uploads/2025/03/Riyaziyyat_Az_AYQ_2025.pdf",
+      "notes": "Multiple-choice semifinal paper; mathematical reasoning assessed independently. The Azerbaijani original was used to repair corrupt letters in the Russian transcription."
+    },
+    {
+      "id": "bgr_2024_efc7b0",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Spring Tournament",
+      "year": 2024,
+      "section": "Grade 8",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The inequality part follows from a six-term AM–GM; the rational-attainment part reduces to Fermat’s cubic equation, whose nonexistence proof is not provided and is outside the elementary source treatment.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://maths.bg/pms2024-8-4",
+      "notes": "Original grade and within-paper number cross-checked against the Bulgarian archive; statement paraphrased in English when included."
+    },
+    {
+      "id": "bgr_2024_2e44d9",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Spring Tournament",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "A discriminant gives the logarithmic parameter range, while rationalising gives the limit 1/2; the question explicitly requires calculus beyond BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://maths.bg/pms2024-11-1",
+      "notes": "Original grade and within-paper number cross-checked against the Bulgarian archive; statement paraphrased in English when included."
+    },
+    {
+      "id": "bgr_2024_bf3b7a",
+      "country": "Bulgaria",
+      "competition": "Bulgarian Spring Tournament",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "A discriminant gives the logarithmic parameter range, while rationalising gives the limit 1/2; the question explicitly requires calculus beyond BMO prerequisites.",
+      "status": "duplicate-appearance",
+      "duplicateOf": "bgr_2024_2e44d9",
+      "sourceUrl": "https://maths.bg/pms2024-11-1",
+      "notes": "Duplicate transcription of the same source question."
+    },
+    {
+      "id": "rou_2025_5a3274",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 11",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "The solution uses continuity of second derivatives to force quadratic functions with the same leading coefficient; differentiability is outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/11_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 1."
+    },
+    {
+      "id": "rou_2025_5d4bd8",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 11",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "An affine map permutes the eigenvalues of AB; spectral theory and determinant invertibility are outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/11_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 2."
+    },
+    {
+      "id": "rou_2025_61ff37",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 11",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The equivalence requires the mean-value theorem and the sequential characterization of continuous differentiability, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/11_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 3."
+    },
+    {
+      "id": "rou_2025_c270f6",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 11",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The question is about matrix commutators, determinants and traces; it is outside BMO prerequisites. The raw statement also confuses determinant and trace in part (b), so the official original is authoritative.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/11_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 4."
+    },
+    {
+      "id": "rou_2025_78edd8",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 12",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "The proof uses units of a ring, characteristic three and the group of invertible elements; these algebraic structures are outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/12_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 1."
+    },
+    {
+      "id": "rou_2025_e13840",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 12",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "Integration by parts and integral Cauchy–Schwarz produce the constant 12; the entire question requires calculus.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/12_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 2."
+    },
+    {
+      "id": "rou_2025_be14df",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 12",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The proof combines an exponential integrating factor with factorized differential operators; these prerequisites lie outside BMO.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/12_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 3."
+    },
+    {
+      "id": "rou_2025_072a6e",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "National Final — Grade 12",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The argument uses cyclic finite-field groups and a roots-of-unity coefficient filter in characteristic two, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/12_solutii_bareme_ONM_2025.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 4."
+    },
+    {
+      "id": "rou_2025_df5099",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 11",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "The sequence rationalizes to 1+a_(n+1)=sqrt(1+a_n), giving explicit logarithmic sums; the requested limits are outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa11.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 1."
+    },
+    {
+      "id": "rou_2025_0fe4c5",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 11",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "A determinant expansion identifies a symmetric adjugate; matrix invertibility and adjugates are outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa11.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 2."
+    },
+    {
+      "id": "rou_2025_94e841",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 11",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "The argument uses continuous inverse functions and asymptotic limits, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa11.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 3."
+    },
+    {
+      "id": "rou_2025_84e147",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 11",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Expanding the three real 2-by-2 commutators makes sums of entry squares vanish, but the statement requires matrix algebra outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa11.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 4."
+    },
+    {
+      "id": "rou_2025_94000f",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 12",
+      "number": "1",
+      "difficulty": null,
+      "included": false,
+      "reason": "The proof relies on subgroup closure and translates in finite groups, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa12.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 1."
+    },
+    {
+      "id": "rou_2025_3f1caa",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 12",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "The question concerns group endomorphisms and the centre of a nonabelian group, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa12.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 2."
+    },
+    {
+      "id": "rou_2025_65fab9",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 12",
+      "number": "3",
+      "difficulty": null,
+      "included": false,
+      "reason": "Vanishing integrals of strictly monotone functions constrain the eventual sequence values; integral calculus is essential and outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa12.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 3."
+    },
+    {
+      "id": "rou_2025_4ffbdb",
+      "country": "Romania",
+      "competition": "Romanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "District Round — Grade 12",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The averaged integral function is treated by the fundamental theorem of calculus and endpoint limits, outside BMO prerequisites.",
+      "status": "outside-BMO-prerequisites",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_municipiu/barem_clasa12.pdf",
+      "notes": "Reviewed against the official paper and worked solution for problem 4."
+    },
+    {
+      "id": "rou_2025_7f8770",
+      "country": "Romania",
+      "competition": "Romanian Junior Balkan Selection Test",
+      "year": 2025,
+      "section": "Test 2",
+      "number": "2",
+      "difficulty": null,
+      "included": false,
+      "reason": "The stated arbitrary-triangle hypothesis permits an equilateral triangle, where the three points intended to define each circle are collinear. No nondegeneracy correction has been source-verified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/baraj2_juniori.pdf",
+      "notes": "Individual mathematical review of the source argument. "
+    },
+    {
+      "id": "rou_2025_14f1ca",
+      "country": "Romania",
+      "competition": "Romanian IMO Selection Test",
+      "year": 2025,
+      "section": "Test 2",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The supplied proof relies on an auxiliary spiral-similarity locus lemma whose degeneracy cases have not been fully verified, and the alternative complex proof is truncated. Held without a numerical rating.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/baraj2_seniori.pdf",
+      "notes": "Individual mathematical review of the source argument. "
+    },
+    {
+      "id": "rou_2025_junior1_4",
+      "country": "Romania",
+      "competition": "Romanian Junior Balkan Selection Test",
+      "year": 2025,
+      "section": "Test 1",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "Official question restored; a complete proof has not yet been verified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/baraj1_juniori.pdf",
+      "notes": ""
+    },
+    {
+      "id": "rou_2025_senior2_5",
+      "country": "Romania",
+      "competition": "Romanian IMO Selection Test",
+      "year": 2025,
+      "section": "Test 2",
+      "number": "5",
+      "difficulty": null,
+      "included": false,
+      "reason": "Official question restored; the sharp construction and complete proof remain unverified.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://ssmr.ro/files/onm2025/faza_nationala/baraj2_seniori.pdf",
+      "notes": ""
+    },
+    {
+      "id": "sun_1992_82184e",
+      "country": "Soviet Union",
+      "competition": "CIS Mathematical Olympiad",
+      "year": 1992,
+      "section": "Scholes compilation (original grade/day numbering unverified)",
+      "number": "18",
+      "difficulty": null,
+      "included": false,
+      "reason": "The source says the second plane merely intersects AB, but its proof requires the plane to contain AB. The stated claim is not justified; the intended stronger incidence condition needs original-source confirmation.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://webee.technion.ac.il/people/aditya/www.kalva.demon.co.uk/soviet/sov92.html",
+      "notes": "Compilation question 18, not claimed as original within-paper numbering. Individual mathematical review."
+    },
+    {
+      "id": "sun_1992_b1c0ee",
+      "country": "Soviet Union",
+      "competition": "CIS Mathematical Olympiad",
+      "year": 1992,
+      "section": "Scholes compilation (original grade/day numbering unverified)",
+      "number": "4",
+      "difficulty": null,
+      "included": false,
+      "reason": "The three-colour parity obstruction is verified, but the raw construction diagrams are corrupted and the full reduction to one or two pegs has not been checked.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://webee.technion.ac.il/people/aditya/www.kalva.demon.co.uk/soviet/sov92.html",
+      "notes": "Compilation question 4, not claimed as original within-paper numbering. Individual mathematical review."
+    },
+    {
+      "id": "sun_1992_compilation21",
+      "country": "Soviet Union",
+      "competition": "CIS Mathematical Olympiad",
+      "year": 1992,
+      "section": "Scholes compilation (original grade/day numbering unverified)",
+      "number": "21",
+      "difficulty": null,
+      "included": false,
+      "reason": "The original figure defining the second tile has not yet been verified, so no complete mathematical assessment is claimed.",
+      "status": "quarantined",
+      "duplicateOf": null,
+      "sourceUrl": "https://webee.technion.ac.il/people/aditya/www.kalva.demon.co.uk/soviet/sov92.html",
+      "notes": ""
+    }
+  ],
+  "duplicateCandidates": "research/europe/duplicate-candidates.json",
+  "recentBatches": {
+    "Croatia2019SchoolAndCounty": "48 official questions: all four Variant A school/city papers Q1–7 and all four county papers Q1–5; 13 included.",
+    "Ukraine2023KyivCity": "34 official questions including alternatives: Grade7 Q1–4 plus3.1,4.1; Grades8–11 Q1–5 plus4.1,5.1. All assessed, 14 included.",
+    "Romania2025Selection": "27 supplied questions inspected, 25 numerically assessed, 21 included. Official junior Test1 Q4 and senior Test2 Q5 restored as unresolved; senior Test1 Q1 and Test2 Q3 unavailable (Q3 expressly withheld for copyright); senior Test4 total range remains unverified.",
+    "CIS1992": "All 23 Scholes compilation identifiers inspected, 20 numerically assessed, 11 included; Q4,18,21 unresolved. Original grade/day mapping is unknown, so no full original-paper claim."
+  },
+  "limitations": [
+    "All unlisted years and paper ranges remain unreviewed.",
+    "107 training/proposal records are explicitly excluded from administered-olympiad completeness.",
+    "The six RMM2025 records are already assessed in the international contribution and are not counted twice here.",
+    "59 inspected appearances remain unrated; exact decisions are retained.",
+    "Known missing question slots and unknown original-paper ranges are separate quantities and must not be collapsed into a claim of exhaustive coverage."
+  ]
+}

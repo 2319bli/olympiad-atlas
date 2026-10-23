@@ -1,0 +1,33 @@
+{
+  "id": "imo_1977_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "2",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Invariants"
+    ],
+    [
+      "Combinatorics",
+      "Cycles"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ],
+    [
+      "Combinatorics",
+      "Extremal arguments"
+    ]
+  ],
+  "problem_markdown": "A finite real sequence has negative sum in every block of seven consecutive terms and positive sum in every block of eleven. What is its maximum length?",
+  "solutions_markdown": [
+    "The maximum is $16$. If there were at least seventeen terms, let $S_i$ be the first $i$ terms' sum for $0\\le i\\le17$. From any index $i$, move to $i+7$ when $i\\le10$, and to $i-11$ otherwise. Each move strictly decreases $S_i$ by the hypotheses. This is addition of seven modulo eighteen, which visits all eighteen indices and returns to its start, an impossibility.\n\nA length-sixteen example has value $-13$ at positions $3,7,10,14$ and value $5$ everywhere else. Every seven-term block contains two occurrences of $-13$, giving sum $-1$; every eleven-term block contains three, giving sum $1$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln772.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

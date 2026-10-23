@@ -28,7 +28,11 @@ Search, filters, random selection, hidden solutions and rating notes, and browse
 
 ## Publication
 
-Use the Sites source workflow and the exact project ID in `.openai/hosting.json`. Preserve the existing access policy. Never create a second Site for this project.
+This repository contains the application source, reviewed question data, static assets and schema-only database migrations. Production credentials, account records and the live Site identifier are excluded.
+
+For Sites hosting, copy `.openai/hosting.example.json` to the ignored `.openai/hosting.json` and configure the appropriate project ID. When working on the existing Olympiad Atlas Site, use its existing ID and preserve its access policy; do not create a second Site. The account API requires a server runtime and a D1 database, so GitHub Pages alone cannot host the full application.
+
+Live website: https://olympiad-atlas.pr141.chatgpt.site
 
 ## Collection checkpoint — 23 October 2026
 

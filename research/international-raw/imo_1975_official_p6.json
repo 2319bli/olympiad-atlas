@@ -1,0 +1,29 @@
+{
+  "id": "imo_1975_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Polynomials"
+    ],
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Homogeneity"
+    ]
+  ],
+  "problem_markdown": "Determine all real polynomials $P(x,y)$ homogeneous of some positive integer degree $n$, with $P(1,0)=1$, such that $P(b+c,a)+P(c+a,b)+P(a+b,c)=0$ for all real $a,b,c$.",
+  "solutions_markdown": [
+    "The solutions are $P(x,y)=(x+y)^{n-1}(x-2y)$ for every integer $n\\ge1$.\n\nPut $g(t)=P(1-t,t)$. Substitution of $(a,b,c)=(t,1-t,0)$ gives $g(t)+g(1-t)+1=0$. Using $(a,b,c)=(u,v,1-u-v)$ and this identity yields $g(u+v)=g(u)+g(v)-1$. Therefore the polynomial $f=g-1$ is additive. Comparing coefficients in $f(2t)=2f(t)$ forces $f(t)=ct$. Also $g(0)=1$ and the first identity gives $g(1)=-2$, so $c=-3$.\n\nFor $x+y\\ne0$, homogeneity now gives $P(x,y)=(x+y)^n g(y/(x+y))=(x+y)^{n-1}(x-2y)$. Polynomial continuity extends this to $x+y=0$. Direct substitution verifies the displayed family."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln756.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,1485 @@
+{
+  "downloadedRecords": 1627,
+  "pendingDownloadedRecords": 835,
+  "pendingUndownloadedRecords": 4394,
+  "originalDownloadedQueuePendingRecords": 835,
+  "archiveInventoryPath": "research/asia/archive-inventory.json",
+  "completeDownloadedPaperSets": [
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2002,
+      "section": "Second Day",
+      "availableQuestionNumbers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "includedRecords": 2
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2022,
+      "section": "Day One",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "includedRecords": 1
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2022,
+      "section": "Day Two",
+      "availableQuestionNumbers": [
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 0
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2023,
+      "section": "Day One",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "includedRecords": 2
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2023,
+      "section": "Day Two",
+      "availableQuestionNumbers": [
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 1
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2012,
+      "section": "",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2014,
+      "section": "",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2015,
+      "section": "",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 5
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2017,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2019,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2020,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2021,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 4
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2023,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 5
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2024,
+      "section": "National final",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2023,
+      "section": "Final Round",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "includedRecords": 4
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2023,
+      "section": "First Round",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "includedRecords": 6
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2024,
+      "section": "Final Round",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "includedRecords": 2
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2024,
+      "section": "First Round",
+      "availableQuestionNumbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "includedRecords": 7
+    }
+  ],
+  "paperCompletion": [
+    {
+      "country": "Bangladesh",
+      "competition": "Bangladesh Mathematical Olympiad — National",
+      "year": 2024,
+      "section": "Higher Secondary",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Bangladesh",
+      "competition": "Bangladesh Mathematical Olympiad — National",
+      "year": 2024,
+      "section": "Junior",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Bangladesh",
+      "competition": "Bangladesh Mathematical Olympiad — National",
+      "year": 2024,
+      "section": "Primary",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Bangladesh",
+      "competition": "Bangladesh Mathematical Olympiad — National",
+      "year": 2024,
+      "section": "Secondary",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2002,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2002,
+      "section": "Second Day",
+      "complete": true,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2010,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2010,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2011,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2011,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2012,
+      "section": "Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2012,
+      "section": "Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2012,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2013,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2013,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2022,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2023,
+      "section": "Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2023,
+      "section": "Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2024,
+      "section": "Day I",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2024,
+      "section": "Day II",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2020,
+      "section": "First Round, Test Paper A",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2020,
+      "section": "First Round, Test Paper B",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2021,
+      "section": "First Round, Test Paper A",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2021,
+      "section": "First Round, Test Paper A1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2021,
+      "section": "First Round, Test Paper A2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2021,
+      "section": "First Round, Test Paper B",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Competition",
+      "year": 2021,
+      "section": "First Round, Test Paper B1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2022,
+      "section": "Day One",
+      "complete": true,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2022,
+      "section": "Day Two",
+      "complete": true,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2023,
+      "section": "Day One",
+      "complete": true,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2023,
+      "section": "Day Two",
+      "complete": true,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Mathematical Olympiad (CMO)",
+      "year": 2024,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Southeastern Mathematical Olympiad",
+      "year": 2012,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Southeastern Mathematical Olympiad",
+      "year": 2012,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Southeastern Mathematical Olympiad",
+      "year": 2013,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Southeastern Mathematical Olympiad",
+      "year": 2013,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China TST",
+      "year": 2025,
+      "section": "Test 1 · Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China TST",
+      "year": 2025,
+      "section": "Test 1 · Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China TST",
+      "year": 2025,
+      "section": "Test 2 · Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China TST",
+      "year": 2025,
+      "section": "Test 2 · Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Invitational Mathematical Competition",
+      "year": 2012,
+      "section": "Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Invitational Mathematical Competition",
+      "year": 2012,
+      "section": "Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2011,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2011,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2011,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2012,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2013,
+      "section": "First Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2013,
+      "section": "Second Day",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "IMO TST",
+      "year": 2025,
+      "section": "Test 3 · Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "IMO TST",
+      "year": 2025,
+      "section": "Test 3 · Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "IMO TST",
+      "year": 2025,
+      "section": "Test 4 · Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "China",
+      "competition": "IMO TST",
+      "year": 2025,
+      "section": "Test 4 · Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Hong Kong",
+      "competition": "Hong Kong Mathematical Olympiad (HKMO)",
+      "year": 2023,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2000,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2001,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2002,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2003,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2004,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2005,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2006,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2007,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2008,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2009,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2010,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2011,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2011,
+      "section": "Indian National Mathematical Olympiad-2011",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2012,
+      "section": "",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2013,
+      "section": "",
+      "complete": false,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2014,
+      "section": "",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2015,
+      "section": "",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2016,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2017,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2019,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2020,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2021,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2023,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian National Mathematical Olympiad (INMO)",
+      "year": 2024,
+      "section": "National final",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "India",
+      "competition": "Indian Regional Mathematical Olympiad (RMO)",
+      "year": 2010,
+      "section": "Indian Regional Mathematical Olympiad-2010",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2006,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2007,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2008,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2009,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2010,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2011,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2017,
+      "section": "Selection problems",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Indonesia",
+      "competition": "Indonesia KSN — National",
+      "year": 2021,
+      "section": "National",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Indonesia",
+      "competition": "Indonesia OSN — National",
+      "year": 2022,
+      "section": "National",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Indonesia",
+      "competition": "Indonesia OSN — Provincial (OSP)",
+      "year": 2024,
+      "section": "Provincial proof",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Indonesia",
+      "competition": "Indonesia OSN — Provincial (OSP)",
+      "year": 2024,
+      "section": "Provincial short answer",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Iran",
+      "competition": "Iranian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Second Round",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Israel",
+      "competition": "Gillis Mathematical Olympiad",
+      "year": 2023,
+      "section": "National",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2022,
+      "section": "FINAL ROUND",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2022,
+      "section": "FIRST ROUND",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2023,
+      "section": "Final Round",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2023,
+      "section": "First Round",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2024,
+      "section": "Final Round",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2024,
+      "section": "First Round",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2025,
+      "section": "FINAL ROUND",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2025,
+      "section": "FIRST ROUND",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Kazakhstan",
+      "competition": "Kazakhstan National Mathematical Olympiad — Grade 10",
+      "year": 2024,
+      "section": "Grade 10",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Kazakhstan",
+      "competition": "Kazakhstan National Mathematical Olympiad — Grade 11",
+      "year": 2024,
+      "section": "Grade 11",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Kazakhstan",
+      "competition": "Kazakhstan National Mathematical Olympiad — Grade 9",
+      "year": 2024,
+      "section": "Grade 9",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Beginner",
+      "year": 2025,
+      "section": "Beginner",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Junior",
+      "year": 2020,
+      "section": "Junior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Junior",
+      "year": 2021,
+      "section": "Junior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Junior",
+      "year": 2022,
+      "section": "Junior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Junior",
+      "year": 2024,
+      "section": "Junior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Junior",
+      "year": 2025,
+      "section": "Junior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Pioneer",
+      "year": 2025,
+      "section": "Pioneer",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Primary",
+      "year": 2020,
+      "section": "Primary",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Primary",
+      "year": 2021,
+      "section": "Primary",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Primary",
+      "year": 2022,
+      "section": "Primary",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Primary",
+      "year": 2023,
+      "section": "Primary",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Primary",
+      "year": 2024,
+      "section": "Primary",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2020,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2021,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2022,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2023,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2024,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Malaysia",
+      "competition": "IMONST 2 — Senior",
+      "year": 2025,
+      "section": "Senior",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Mongolia",
+      "competition": "Mongolian Mathematical Olympiad — Round 2",
+      "year": 2025,
+      "section": "Category E (Grades 9-10)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Mongolia",
+      "competition": "Mongolian Mathematical Olympiad — Round 4",
+      "year": 2025,
+      "section": "Category E (Grades 9-10)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Mongolia",
+      "competition": "Mongolian Mathematical Olympiad — Round 4",
+      "year": 2025,
+      "section": "Category F (Grades 11-12)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Philippines",
+      "competition": "Philippine Mathematical Olympiad (PMO)",
+      "year": 2023,
+      "section": "National Stage (Day 1)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Philippines",
+      "competition": "Philippine Mathematical Olympiad (PMO)",
+      "year": 2023,
+      "section": "National Stage (Day 2)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Philippines",
+      "competition": "Philippine Mathematical Olympiad (PMO)",
+      "year": 2023,
+      "section": "PART I",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Philippines",
+      "competition": "Philippine Mathematical Olympiad (PMO)",
+      "year": 2023,
+      "section": "PART II",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Saudi Arabia",
+      "competition": "Saudi Arabia EGMO team selection — Test 1",
+      "year": 2024,
+      "section": "EGMO Team selection tests - Test 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Saudi Arabia",
+      "competition": "Saudi Arabia IMO programme — Camp Test 3",
+      "year": 2024,
+      "section": "Selected problems from camps - Test 3",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Saudi Arabia",
+      "competition": "Saudi Arabia IMO programme — Camp Test 4",
+      "year": 2024,
+      "section": "Selected problems from camps - Test 4",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Saudi Arabia",
+      "competition": "Saudi Arabia IMO programme — Preselection Test 1",
+      "year": 2024,
+      "section": "Selected problems from camps - Preselection tests - Test 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Saudi Arabia",
+      "competition": "Saudi Arabia IMO programme — Preselection Test 2",
+      "year": 2024,
+      "section": "Selected problems from camps - Preselection tests - Test 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Singapore",
+      "competition": "Singapore Mathematical Olympiad (SMO)",
+      "year": 2025,
+      "section": "Junior Section, Round 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Singapore",
+      "competition": "Singapore Mathematical Olympiad (SMO)",
+      "year": 2025,
+      "section": "Open Section, Round 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Singapore",
+      "competition": "Singapore Mathematical Olympiad (SMO)",
+      "year": 2025,
+      "section": "Senior Section, Round 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "South Korea",
+      "competition": "Korean Mathematical Olympiad (KMO)",
+      "year": 2023,
+      "section": "March 25, 2023 (Day 1)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "South Korea",
+      "competition": "Korean Mathematical Olympiad (KMO)",
+      "year": 2023,
+      "section": "March 26, 2023 (Day 2)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "South Korea",
+      "competition": "Korean Mathematical Olympiad (KMO)",
+      "year": 2024,
+      "section": "March 23, 2024 (Day 1)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "South Korea",
+      "competition": "Korean Mathematical Olympiad (KMO)",
+      "year": 2024,
+      "section": "March 24, 2024 (Day 2)",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Sri Lanka",
+      "competition": "Sri Lankan Mathematics Competition (SLMC)",
+      "year": 2018,
+      "section": "National",
+      "complete": true,
+      "scope": "All tasks in the original paper/section individually mathematically assessed, including exclusions. Identical appearances may share one bank entry."
+    },
+    {
+      "country": "Taiwan",
+      "competition": "Taiwan Mathematical Olympiad",
+      "year": 2024,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Thailand",
+      "competition": "Thailand Mathematical Olympiad",
+      "year": 2017,
+      "section": "Problems",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Thailand",
+      "competition": "Thailand Mathematical Olympiad",
+      "year": 2017,
+      "section": "Problems with Solutions",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Thailand",
+      "competition": "Thailand Third Mathematical Olympiad (T3MO)",
+      "year": 2017,
+      "section": "Problems",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Thailand",
+      "competition": "Thailand Third Mathematical Olympiad (T3MO)",
+      "year": 2017,
+      "section": "Problems with Solutions",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Turkey",
+      "competition": "IMO TST",
+      "year": 2024,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Turkey",
+      "competition": "Junior Balkan Mathematical Olympiad TST (JBMO TST)",
+      "year": 2024,
+      "section": "",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Vietnam",
+      "competition": "IMO TST",
+      "year": 2024,
+      "section": "Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Vietnam",
+      "competition": "IMO TST",
+      "year": 2024,
+      "section": "Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Vietnam",
+      "competition": "Vietnamese Mathematical Olympiad",
+      "year": 2024,
+      "section": "Day 1",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    },
+    {
+      "country": "Vietnam",
+      "competition": "Vietnamese Mathematical Olympiad",
+      "year": 2024,
+      "section": "Day 2",
+      "complete": false,
+      "scope": "Available records reviewed individually; original-paper completeness not asserted."
+    }
+  ]
+}

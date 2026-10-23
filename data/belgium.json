@@ -1,0 +1,594 @@
+[
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2022-maxi-1",
+    "number": "1",
+    "difficulty": 5,
+    "topic": "Number Theory",
+    "statement": "Let $P=1!\\,2!\\cdots100!$. (a) Can $a!$ be a square for an integer $2\\le a\\le100$? (b) Is $P$ a square? (c) Determine all $a\\in\\{1,\\ldots,100\\}$ such that $P/a!$ is a square. If there are none, investigate instead division by $a!b!$ for distinct $a,b$ in that range.",
+    "ratingReason": "Pairing factorials reveals their square-free contribution. Finding one removable factorial is easy afterward, but proving uniqueness requires additional prime-exponent restrictions.",
+    "tags": [
+      "factorials",
+      "prime valuations",
+      "pairing"
+    ],
+    "solution": "For every $a$ between $2$ and $100$ there is a prime $p$ with $p\\le a<2p$. One can check this range using just $p=2,3,5,7,13,23,43,83$: their intervals $[p,2p-1]$ cover it. The prime $p$ occurs exactly once in $a!$, which is therefore not a square.\n\nPair consecutive factorials:\n$$P=(1!\\,3!\\cdots99!)^2(2\\cdot4\\cdots100)=\\bigl(2^{25}1!\\,3!\\cdots99!\\bigr)^2 50!.$$\nThus $P$ is not a square, and $P/50!$ is a square.\n\nFor uniqueness, the exponents of every prime in $a!$ and $50!$ must have the same parity. The prime $47$ forces $47\\le a\\le93$; the prime $53$ then forces $a\\le52$. Among $47,48,49,50,51,52$, only $50$ works. Indeed, for $47$ the product $48\\cdot49\\cdot50$ has an odd exponent of $3$; for $48,49$ the quotient $50!/a!$ has an odd exponent of $2$; and for $51,52$ the quotient $a!/50!$ has an odd exponent of $3$.\n\nTherefore $\\boxed{a=50}$ is unique. The conditional two-factorial question does not arise.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2022-maxi-2",
+    "number": "2",
+    "difficulty": 4.5,
+    "topic": "Geometry",
+    "statement": "A square $ABCD$ of side $x$, where $0<x<1$, is contained in a rhombus $AECF$ of side $1$; the two figures have the same opposite vertices $A,C$. Find the area inside the rhombus and outside the square, and the value of $x$ which maximises it.",
+    "ratingReason": "The diagonal geometry gives a radical expression. Completing a unit-circle expression provides an elementary sharp maximum without calculus.",
+    "tags": [
+      "rhombus diagonals",
+      "inequalities",
+      "optimisation"
+    ],
+    "solution": "The rhombus diagonals are perpendicular bisectors. Since $AC=\\sqrt2x$ and its side is $1$, the other diagonal is $EF=\\sqrt{4-2x^2}$. The required area is\n$$A=x\\sqrt{2-x^2}-x^2.$$\nPut $v=1-x^2$, so $0<v<1$. Then $A=\\sqrt{1-v^2}+v-1$. By Cauchy–Schwarz,\n$$\\sqrt{1-v^2}+v\\le\\sqrt{2((1-v^2)+v^2)}=\\sqrt2.$$\nEquality holds exactly at $v=1/\\sqrt2$. Hence the maximum area is $\\boxed{\\sqrt2-1}$, attained for $\\boxed{x=\\sqrt{1-1/\\sqrt2}}$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2022-maxi-3",
+    "number": "3",
+    "difficulty": 4.5,
+    "topic": "Geometry",
+    "statement": "Build a square externally on each side of triangle $ABC$. At each vertex of the triangle, join the two new square vertices adjacent to that vertex; build another square on this joining segment. Find the ratio of the total area of these three new squares to the total area of the original three squares, first for a right triangle and then for any triangle.",
+    "ratingReason": "The right-angle rotations change each included angle to a supplement. Applying the cosine rule twice makes the three resulting expressions telescope.",
+    "tags": [
+      "squares",
+      "cosine rule",
+      "area identity"
+    ],
+    "solution": "Write $a=BC,b=CA,c=AB$. At vertex $A$, the two relevant sides of the original squares have lengths $b,c$ and included angle $180^\\circ-\\angle A$. Thus the new square there has area\n$$b^2+c^2+2bc\\cos A=2b^2+2c^2-a^2,$$\nusing the cosine rule in $ABC$.\n\nAdding the analogous expressions at $B,C$ gives $3(a^2+b^2+c^2)$. The original square areas total $a^2+b^2+c^2$, so the ratio is $\\boxed3$ for every triangle, including a right triangle.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2022-maxi-4",
+    "number": "4",
+    "difficulty": 4,
+    "topic": "Combinatorics",
+    "statement": "Distribute $590$ pupils into $25$ classes, each containing between $18$ and $28$ pupils inclusive. (a) Can $22$ classes have equal size? (b) What is the largest possible number of equal-sized classes? (c) Can every size occur at most twice? (d) What is the largest number of equal-sized classes guaranteed in every distribution?",
+    "ratingReason": "Pigeonhole gives one bound, but both extremal answers also need constructions meeting the exact total and class-size restrictions.",
+    "tags": [
+      "pigeonhole principle",
+      "extremal construction",
+      "integer bounds"
+    ],
+    "solution": "(a) Yes: $22\\cdot23+3\\cdot28=590$.\n\n(b) All $25$ cannot be equal since $25\\nmid590$. If $24$ classes had size $q$, the remaining class would imply $562\\le24q\\le572$, which contains no multiple of $24$. But $23\\cdot24+2\\cdot19=590$, so the answer is $\\boxed{23}$.\n\n(c) There are only $11$ allowed sizes. If each occurred at most twice, there would be at most $22$ classes, a contradiction.\n\n(d) Thus three equal sizes are guaranteed. To show four are not, use sizes $18,20,21,22,23,24,25,26,27,28$ with respective multiplicities\n$$2,1,3,3,3,3,3,2,3,2.$$\nThese multiplicities total $25$, their weighted sum is $590$, and none exceeds $3$. The sharp guarantee is $\\boxed3$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2023-maxi-2",
+    "number": "2",
+    "difficulty": 5,
+    "topic": "Geometry",
+    "statement": "Two congruent upright rectangles of height $a$ and width $b$, with $a>b>0$, initially occupy $[-b,0]\\times[0,a]$ and $[0,b]\\times[0,a]$. Rotate the left rectangle clockwise about $(0,0)$ until its initially upper-right corner first reaches the right edge of the stationary rectangle. (a) Prove the stationary upper-left corner lies on the rotated rectangle’s left edge. (b) Find the overlap area. (c) If $a,b$ and the overlap area are positive integers, minimise $a$.",
+    "ratingReason": "The rotation must first be related to a right triangle. Computing the intersection and then enforcing integrality combines geometry with a small Pythagorean-triple classification.",
+    "tags": [
+      "rotation",
+      "overlapping rectangles",
+      "Pythagorean triples"
+    ],
+    "solution": "Put $c=\\sqrt{a^2-b^2}$. At the stopping angle $\\theta$, we have $\\sin\\theta=b/a$, $\\cos\\theta=c/a$ and the moved corner is $F=(b,c)$.\n\nThe lower-left corner of the moved rectangle is $D=(-bc/a,b^2/a)$, and its left edge has unit direction $(b/a,c/a)$. Since\n$$D+c(b/a,c/a)=(0,(b^2+c^2)/a)=(0,a),$$\nthe stationary upper-left corner $A=(0,a)$ lies on that edge.\n\nLet $G$ be the intersection of the moved top edge with $y=a$. Its horizontal coordinate is $g=a(a-c)/b$. The overlap is the quadrilateral $OFG A$, where $O=(0,0)$. Triangles $OAG$ and $OFG$ are congruent right triangles, with common hypotenuse $OG$ and equal legs $OA=OF=a$. Thus the area is\n$$\\boxed{\\frac{a^2}{b}\\bigl(a-\\sqrt{a^2-b^2}\\bigr)}.$$\nIf the area and $a,b$ are integers, then $c$ is rational, hence an integer because $c^2$ is an integer. For $a<10$, the only positive integer right triangle is the $3,4,5$ triangle; the two orientations give areas $25/3$ and $25/2$, neither integral. With $a=10,b=8,c=6$, the area is $50$. Hence $\\boxed{a=10}$ is minimal.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2023-maxi-3",
+    "number": "3",
+    "difficulty": 4.5,
+    "topic": "Algebra",
+    "statement": "Find all real triples $(x,y,z)$ satisfying $x+y+1/z=x+1/y+z=1/x+y+z=3$.",
+    "ratingReason": "Subtracting equations gives a useful factorisation, but the possibility of opposite signs prevents simply declaring all variables equal.",
+    "tags": [
+      "symmetric system",
+      "factorisation",
+      "sign cases"
+    ],
+    "solution": "All variables are nonzero. Subtraction shows\n$$x-1/x=y-1/y=z-1/z.$$\nFor two variables, this equality factors as $(x-y)(xy+1)=0$. Thus any two are equal or negative reciprocals.\n\nIf all three are equal to $t$, then $2t+1/t=3$, so $t=1$ or $1/2$.\n\nOtherwise, exactly two of the three coincide: a quadratic $u^2-cu-1=0$ has at most two roots. Write the triple, up to permutation, as $(t,t,-1/t)$. Substitution into the equation whose reciprocal falls on one of the repeated entries gives $t=3$.\n\nThe complete answer is $\\boxed{(1,1,1),\\ (1/2,1/2,1/2)}$ and the three permutations of $\\boxed{(3,3,-1/3)}$. Each satisfies the original system.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2023-maxi-4",
+    "number": "4",
+    "difficulty": 4,
+    "topic": "Geometry",
+    "statement": "Three spheres lie on the same side of a plane, touch that plane, and are externally tangent to each other. Their three contact points on the plane form a triangle with side lengths $3,4,6$. Determine the radii.",
+    "ratingReason": "A spatial configuration becomes a right-triangle relation between each radius pair; the resulting three product equations must then be solved consistently.",
+    "tags": [
+      "three-dimensional geometry",
+      "tangency",
+      "Pythagoras"
+    ],
+    "solution": "If two radii are $r,s$ and their contact points are distance $d$ apart, their centres differ in height by $r-s$ and are distance $r+s$ apart. Pythagoras gives\n$$(r+s)^2=d^2+(r-s)^2,\\qquad 4rs=d^2.$$\nChoose labels with contact distances $AB=6$, $BC=3$, $CA=4$. Then $r_Ar_B=9$, $r_Br_C=9/4$ and $r_Cr_A=4$. Dividing products gives $r_A^2=16$, and positivity gives\n$$\\boxed{r_A=4,\\quad r_B=9/4,\\quad r_C=1}.$$\nThese values yield precisely the stated centre distances, so they are attainable.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MAXI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "id": "belgium-omb-2024-maxi-3",
+    "number": "3",
+    "difficulty": 4.5,
+    "topic": "Geometry",
+    "statement": "Points $B,C,D,E$ lie on a line in that order. Triangle $ABE$ is right-angled at $B$, and $\\angle BAC=\\angle CAD=\\angle DAE$. Express $DE$ in terms of $a=BC$ and $b=CD$.",
+    "ratingReason": "Equal angles must be converted into a relation among three successive intersections; a carefully chosen trigonometric or auxiliary-perpendicular argument eliminates the altitude.",
+    "tags": [
+      "angle trisection",
+      "tangent addition",
+      "similarity"
+    ],
+    "solution": "Let $AB=h$ and each of the three equal angles be $\\theta$. Then $\\tan\\theta=a/h$ and $\\tan2\\theta=(a+b)/h$. The double-angle identity gives\n$$\\frac{a+b}{h}=\\frac{2a/h}{1-a^2/h^2},\\qquad h^2=\\frac{a^2(a+b)}{b-a}.$$\nConsequently, by tangent addition,\n$$BE=h\\tan3\\theta=\\frac{(a+b)+a}{1-a(a+b)/h^2}=\\frac{a(2a+b)}{2a-b}.$$\nSubtracting $BD=a+b$ yields $\\boxed{DE=b^2/(2a-b)}$. The configuration has $3\\theta<90^\\circ$, which ensures the denominator is positive.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MIDI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "id": "belgium-omb-2022-midi-2",
+    "number": "2",
+    "difficulty": 4,
+    "topic": "Number Theory",
+    "statement": "Find all three-digit decimal numbers $100a+10b+c$ satisfying $100a+10b+c=a!+b!+c!$, where $0!=1$.",
+    "ratingReason": "Factorial growth progressively restricts every digit; a disciplined case reduction is needed to avoid an unjustified brute-force list.",
+    "tags": [
+      "decimal digits",
+      "factorials",
+      "bounding"
+    ],
+    "solution": "A digit at least $7$ would contribute at least $5040$, impossible. If any digit were $6$, the sum would be at least $722$, whereas the leading digit is at most $6$, also impossible. Thus all digits are at most $5$.\n\nNow the sum is at most $360$, so $a\\le3$. If $a=3$, it is at most $6+120+120=246<300$. If $a=2$, both other digits would need to be $5$ to reach $200$, but $255\\ne2+120+120$. Hence $a=1$.\n\nExactly one of $b,c$ must be $5$: without it the sum is at most $49$, and with both it exceeds $199$. If $b=5$, the equation $150+c=121+c!$ has no solution for $c=0,1,2,3,4$. If $c=5$, the equation $105+10b=121+b!$ gives only $b=4$. Therefore $\\boxed{145}$ is the unique answer.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MIDI final",
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "id": "belgium-omb-2023-midi-4",
+    "number": "4",
+    "difficulty": 4.5,
+    "topic": "Geometry",
+    "statement": "Three adjacent upright squares of side lengths $2,5,3$, in that left-to-right order, stand on the base $AB$ of a triangle $ABC$. The upper-left vertices of the first and second squares lie on $AC$; the upper-right vertices of the second and third lie on $BC$. Find the triangle’s area.",
+    "ratingReason": "Several local similarities must be combined to recover both the full base and the remaining height above the central square.",
+    "tags": [
+      "similar triangles",
+      "area",
+      "linear equations"
+    ],
+    "solution": "The left side rises $3$ units while moving $2$ units horizontally between the relevant square corners, so its slope is $3/2$. On the right, the magnitude of the slope is $2/3$.\n\nThe base therefore extends $2/(3/2)=4/3$ beyond the first square and $3/(2/3)=9/2$ beyond the third. Thus\n$$AB=\\frac43+2+5+3+\\frac92=\\frac{95}{6}.$$\nLet the height above the middle square be $y$. The horizontal distances from its top corners to the vertical through $C$ are $2y/3$ and $3y/2$, whose sum is $5$. Hence $y=30/13$, and the triangle’s full height is $5+y=95/13$.\n\nIts area is $\\boxed{\\frac12\\cdot\\frac{95}{6}\\cdot\\frac{95}{13}=\\frac{9025}{156}}$.",
+    "solutionKind": "original-exposition",
+    "solutionCredit": "Independent mathematical exposition for Olympiad Atlas",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the organiser’s French question and worked-solution booklet."
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MAXI final",
+    "number": "1",
+    "difficulty": 2.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases"
+    ],
+    "subtopics": [
+      "Digits & bases"
+    ],
+    "statement": "Find all digits $x,y,z\\in\\{0,1,\\ldots,6\\}$ with $x\ne0$ for which the numeral $xyz$ in base ten is twice the numeral $xyz$ in base seven.",
+    "id": "belgium-omb-2023-maxi-1",
+    "ratingReason": "Expanding the base-ten and base-seven numerals gives2x=4y+z, leaving a short bounded digit enumeration.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MAXI final",
+    "number": "1",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "topic": "Algebra",
+    "tags": [
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Equations & systems"
+    ],
+    "statement": "Two walkers start at sunrise from opposite ends $X,Y$ of the same path and walk toward each other at constant speeds. They meet at noon. The walker starting at $X$ reaches $Y$ at 16:00, and the other reaches $X$ at 21:00. When was sunrise?",
+    "id": "belgium-omb-2024-maxi-1",
+    "ratingReason": "The time from dawn to the meeting has square equal to the product of the two post-meeting journey times4 and9, so dawn is6am.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MAXI final",
+    "number": "2",
+    "difficulty": 2,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "topic": "Number Theory",
+    "tags": [
+      "Modular arithmetic"
+    ],
+    "subtopics": [
+      "Modular arithmetic"
+    ],
+    "statement": "Is the cube of a sum of integers minus the sum of their cubes always divisible by $3$? Prove your answer first for two integers, then for three, and then for any number $n$ of integers.",
+    "id": "belgium-omb-2024-maxi-2",
+    "ratingReason": "Every integer satisfiesx³≡x modulo3, immediately proving all parts including any number of summands.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MAXI final",
+    "number": "4",
+    "difficulty": 3.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases"
+    ],
+    "subtopics": [
+      "Digits & bases"
+    ],
+    "statement": "For an integer $n\\ge10$, let $S(n)$ be its decimal digit sum and $T(n)$ the sum of all positive-length proper prefixes of its decimal representation. For example, $T(2345)=234+23+2$. Prove that $(n-S(n))/T(n)$ is an integer independent of $n$.",
+    "id": "belgium-omb-2024-maxi-4",
+    "ratingReason": "Expanding by decimal place shows that each digit contributes a geometric sum to all proper prefixes, givingn−S(n)=9T(n).",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MIDI final",
+    "number": "1",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Geometry",
+    "tags": [
+      "Angles & cyclic quadrilaterals",
+      "Similarity & congruence"
+    ],
+    "subtopics": [
+      "Angles & cyclic quadrilaterals",
+      "Similarity & congruence"
+    ],
+    "statement": "Triangle $ABC$ has longest side $AC$. Points $D,E$ on $AC$ satisfy $AD=AB$ and $CE=CB$. Find $\\angle EBD$ (a) when $A=60^\\circ,C=20^\\circ$; (b) in terms of angle $B$ generally.",
+    "id": "belgium-omb-2022-midi-1",
+    "ratingReason": "The two isosceles triangles give the relevant base angles; subtracting them from angleB leaves(180°−B)/2.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MIDI final",
+    "number": "3",
+    "difficulty": 3.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Geometry",
+    "tags": [
+      "Coordinates & vectors",
+      "Area & dissection"
+    ],
+    "subtopics": [
+      "Coordinates & vectors",
+      "Area & dissection"
+    ],
+    "statement": "Six equal squares are arranged as follows: four share full edges in a row; one is attached above the second square, and one below the fourth. Rotate this assembly so that the row slopes upward at an angle strictly between $0^\\circ$ and $45^\\circ$. Its tight horizontal bounding rectangle has width $12$ and height $7$, with the lower-left corner of the first square on the bottom edge and the upper-right corner of the square above the row on the top edge, as in the diagram. Find the area of one square.\n\n![The six-square arrangement inside its bounding rectangle](assets/range-restoration/belgium-2022-midi-3.png)",
+    "id": "belgium-omb-2022-midi-3",
+    "ratingReason": "Resolve each tilted side into perpendicular componentsx,y. The bounding rectangle gives4x+2y=12 and2x+2y=7, followed by Pythagoras.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff. Diagram reproduced from the linked official competition paper.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2022,
+    "section": "MIDI final",
+    "number": "4",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Combinatorics",
+    "tags": [
+      "Extremal arguments",
+      "Counting"
+    ],
+    "subtopics": [
+      "Extremal arguments",
+      "Counting"
+    ],
+    "statement": "Athletes numbered $1$ through $100$ stand in that order. After some are disqualified, the remaining $n$ athletes move left without passing one another to occupy positions $1$ through $n$. If every remaining athlete moves a different number of positions, what is the least possible number disqualified?",
+    "id": "belgium-omb-2022-midi-4",
+    "ratingReason": "Two surviving neighbouring runners would shift equally, so survivors form a nonadjacent subset of the line. Alternating removal attains the bound50.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MIDI final",
+    "number": "1",
+    "difficulty": 3.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Number Theory",
+    "tags": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Digits & bases",
+      "Squares & powers"
+    ],
+    "statement": "Two sisters have two-digit ages. Concatenating their ages in a fixed order gives a perfect square. In $23$ years both ages will still have two digits, and concatenating them in the same order will again give a square. Find their current ages.",
+    "id": "belgium-omb-2023-midi-1",
+    "ratingReason": "The two concatenated age squares differ by2323=23·101. Factoring their difference determines roots39,62 and ages15,21.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MIDI final",
+    "number": "2",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Geometry",
+    "tags": [
+      "Area & dissection",
+      "Similarity & congruence"
+    ],
+    "subtopics": [
+      "Area & dissection",
+      "Similarity & congruence"
+    ],
+    "statement": "Parallel lines at equal height intervals divide a triangle into nine bands. Colour alternate bands grey, including the band beside the base. If the grey area totals $145$, find the white area. More generally, find the grey-to-white area ratio for any odd number $n\\ge3$ of such bands.",
+    "id": "belgium-omb-2023-midi-2",
+    "ratingReason": "Pairing a second rotated triangle gives equal-area bands in a parallelogram, hence the grey:white ratio(n+1):(n−1).",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2023,
+    "section": "MIDI final",
+    "number": "3",
+    "difficulty": 2.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Number Theory",
+    "tags": [
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "subtopics": [
+      "Modular arithmetic",
+      "Squares & powers"
+    ],
+    "statement": "For which positive integers $N$ is $1!+2!+\\cdots+N!$ a perfect square?",
+    "id": "belgium-omb-2023-midi-3",
+    "ratingReason": "ForN≥4 the factorial sum ends in3, excluding squares; direct checking givesN1 or3.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MIDI final",
+    "number": "1",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Number Theory",
+    "tags": [
+      "Diophantine equations"
+    ],
+    "subtopics": [
+      "Diophantine equations"
+    ],
+    "statement": "Find all integer triples $(a,b,c)$ satisfying $ab+c=2023$ and $a+bc=2024$.",
+    "id": "belgium-omb-2024-midi-1",
+    "ratingReason": "Subtracting the equations gives(b−1)(a−c)=−1, so b is0 or2 and both remaining linear systems are immediate.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MIDI final",
+    "number": "2",
+    "difficulty": 2.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Algebra",
+    "tags": [
+      "Invariants",
+      "Equations & systems"
+    ],
+    "subtopics": [
+      "Invariants",
+      "Equations & systems"
+    ],
+    "statement": "Transfer one spoonful of syrup from a large bottle into a smaller glass of water, mix thoroughly, then transfer the same volume of mixture back to the bottle. (a) Which container now has the greater volume of foreign liquid? (b) Which has the greater proportion of foreign liquid?",
+    "id": "belgium-omb-2024-midi-2",
+    "ratingReason": "Conservation of each liquid shows equal foreign volumes; their proportions are inversely related to the original container volumes.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MIDI final",
+    "number": "3",
+    "difficulty": 3.5,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Geometry",
+    "tags": [
+      "Circles & tangency",
+      "Coordinates & vectors"
+    ],
+    "subtopics": [
+      "Circles & tangency",
+      "Coordinates & vectors"
+    ],
+    "statement": "A circle of radius $12$ contains two equal circles of radius $a$, tangent to one another at its centre and internally tangent to it. A circle of radius $b$ is internally tangent to the large circle and externally tangent to both smaller circles. A further circle of radius $c$ is internally tangent to the large circle, externally tangent to one radius-$a$ circle, and tangent to the common tangent diameter of the two equal circles, lying between that diameter and the chosen radius-$a$ circle on the same side of the centre. Find $a,b,c$.",
+    "id": "belgium-omb-2024-midi-3",
+    "ratingReason": "The first radius is6; two right-triangle tangency equations give the remaining radii4 and3. The earlier subparts guide the setup.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  },
+  {
+    "country": "Belgium",
+    "competition": "Olympiade Mathématique Belge",
+    "year": 2024,
+    "section": "MIDI final",
+    "number": "4",
+    "difficulty": 3,
+    "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+    "topic": "Number Theory",
+    "tags": [
+      "Valuations"
+    ],
+    "subtopics": [
+      "Valuations"
+    ],
+    "statement": "For a positive integer $n$, let $P(n)$ be the exponent of the largest power of $2$ dividing $n$. Find (a) $P(336)$; (b) $P(ab)$ in terms of $P(a),P(b)$; (c) $P(10!)$; (d) $P(100!)$.",
+    "id": "belgium-omb-2024-midi-4",
+    "ratingReason": "Counting multiples of successive powers of2 gives the factorial valuation; the scaffolded parts culminate in50+25+12+6+3+1=97.",
+    "reviewStatus": "individually-assessed",
+    "notes": "English mathematical paraphrase checked against the original paper. The original individual difficulty assessment is retained; 4–7 is a preferred browsing range, not an inclusion cutoff.",
+    "solutionKind": "source-link",
+    "solutionCredit": "Official competition worked solutions, in the original language"
+  }
+]

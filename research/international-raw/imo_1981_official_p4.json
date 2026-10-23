@@ -1,0 +1,33 @@
+{
+  "id": "imo_1981_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1981,
+  "problem_number": "4",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Divisibility"
+    ],
+    [
+      "Number Theory",
+      "LCM"
+    ],
+    [
+      "Number Theory",
+      "Prime powers"
+    ],
+    [
+      "Number Theory",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "For which integers $n>2$ does an interval of $n$ consecutive positive integers have its largest member dividing the least common multiple of the others? For which $n$ is there exactly one such interval?",
+  "solutions_markdown": [
+    "Let the largest member be $N\\ge n$, and put $L=\\operatorname{lcm}(1,\\ldots,n-1)$. A prime power $p^e\\mid N$ occurs in one of $N-1,\\ldots,N-n+1$ exactly when $p^e\\le n-1$: subtracting a multiple of $p^e$ from $N$ is necessary, and $N-p^e$ supplies one when the bound holds. Thus the interval works exactly when $N\\mid L$ and $N\\ge n$.\n\nFor $n=3$, $L=2$, so none works. For $n=4$, $L=6$, whose only divisor at least four is six; the unique interval is $3,4,5,6$.\n\nFor every $n\\ge5$, consecutive integers $n-2,n-1$ are coprime, so $L\\ge(n-2)(n-1)\\ge2n$. Both $L$ and $L/2$ are distinct divisors of $L$ at least $n$, giving two intervals. Therefore existence holds exactly for $n\\ge4$, and uniqueness exactly for $n=4$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1981/1981_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln814.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

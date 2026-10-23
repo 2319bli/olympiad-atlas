@@ -1,0 +1,33 @@
+{
+  "id": "imo_1985_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "4",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Pigeonhole principle"
+    ],
+    [
+      "Number Theory",
+      "Prime exponents"
+    ],
+    [
+      "Number Theory",
+      "Squares"
+    ],
+    [
+      "Number Theory",
+      "Parity"
+    ]
+  ],
+  "problem_markdown": "A set contains 1985 distinct positive integers, with no prime divisor greater than 26. Prove that four distinct members have product equal to an integer fourth power.",
+  "solutions_markdown": [
+    "Only the nine primes $2,3,5,7,11,13,17,19,23$ can occur. Assign each integer the nine-bit vector of its prime-exponent parities. There are $2^9=512$ vectors, so any 513 available integers contain a pair whose product is a square.\n\nChoose 513 disjoint such pairs successively. This is possible: even after 512 pairs have been removed, $1985-1024=961>512$ integers remain. Write the pair products as $b_1^2,\\ldots,b_{513}^2$.\n\nApply the same parity-vector pigeonhole argument to the 513 integers $b_i$. Two, say $b_i,b_j$, have product $c^2$. The four original integers in those two disjoint pairs then have product $b_i^2b_j^2=c^4$. Their distinctness is guaranteed by the disjoint pairing."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln854.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

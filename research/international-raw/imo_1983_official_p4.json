@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "4",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Colouring"
+    ],
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ],
+    [
+      "Combinatorics",
+      "Combinatorial geometry"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Colour every point on the boundary of an equilateral triangle with one of two colours. Must there be three same-coloured points forming a right triangle?",
+  "solutions_markdown": [
+    "Yes. Mark $X,Y,Z$ two-thirds along the directed sides $BC,CA,AB$, respectively. Then $XY\\perp BC$, $YZ\\perp CA$, and $ZX\\perp AB$. Two marked points share a colour; by cyclic relabelling suppose $X,Y$ are red.\n\nIf no monochromatic right triangle exists, every point of $BC$ other than $X$ must be blue. Let $W$ be the perpendicular foot of $Z$ on $BC$; it is an interior point distinct from $X$. The points $B,W$ are blue, so $Z$ must be red, or $BWZ$ would be a blue right triangle.\n\nNow $Y,Z$ are red, forcing every point of $CA$ except $Y$ blue. In particular $A,C$ are blue. The midpoint $M$ of $BC$ is also blue, and $AM\\perp BC$. Thus $AMC$ is a blue right triangle, a contradiction."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln834.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

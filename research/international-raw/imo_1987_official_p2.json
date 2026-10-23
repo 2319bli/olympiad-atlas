@@ -1,0 +1,33 @@
+{
+  "id": "imo_1987_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Similarity"
+    ],
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ]
+  ],
+  "problem_markdown": "In acute triangle $ABC$, the angle bisector from $A$ meets $BC$ at $L$ and the circumcircle again at $N$. Let $K,M$ be the feet from $L$ to $AB,AC$. Prove quadrilateral $AKNM$ has the same area as $ABC$.",
+  "solutions_markdown": [
+    "Set $\\angle A=2\\alpha$. The equal right triangles $AKL,AML$ give $KM\\perp AN$. Also $AK=AL\\cos\\alpha$, so\n$$KM=2AK\\sin\\alpha=AL\\sin2\\alpha.$$\nThus the quadrilateral has area $AN\\cdot KM/2$.\n\nTriangles $ABL$ and $ANC$ are similar: their angles at $A$ agree, and $\\angle ABL=\\angle ANC$ by the inscribed-angle theorem. Therefore $AB\\cdot AC=AL\\cdot AN$. Consequently\n$$[ABC]=\\tfrac12 AB\\cdot AC\\sin2\\alpha=\\tfrac12 AN\\cdot AL\\sin2\\alpha=\\tfrac12 AN\\cdot KM=[AKNM].$$"
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln872.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1987_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "6",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Primes"
+    ],
+    [
+      "Number Theory",
+      "Induction"
+    ],
+    [
+      "Number Theory",
+      "Polynomial divisibility"
+    ],
+    [
+      "Number Theory",
+      "Bounds"
+    ]
+  ],
+  "problem_markdown": "Let $n\\ge2$. Suppose $k^2+k+n$ is prime for every integer $0\\le k\\le\\sqrt{n/3}$. Prove it is prime for every integer $0\\le k\\le n-2$.",
+  "solutions_markdown": [
+    "Write $F(k)=n+k(k+1)$ and $r=\\lfloor\\sqrt{n/3}\\rfloor$. Induct from the assumed range. Suppose $r<b\\le n-2$ and all earlier $F(i)$ are prime. Since $n<3b^2$, we have $F(b)<(2b+1)^2$.\n\nFor $b+1\\le j\\le2b$, put $i=j-b-1$, so $0\\le i<b$. Then $F(b)-F(i)=(b-i)j$. If $F(b)$ and $j$ shared a prime divisor, it would divide the prime $F(i)$, so $F(i)\\mid j$. But $j\\le2b\\le2n-4<2F(i)$, forcing $j=F(i)$. The equality $b+i+1=n+i(i+1)$ becomes $b+1=n+i^2$, impossible because $b\\le n-2$. Thus $F(b)$ is coprime to every integer in $(b,2b]$.\n\nEvery integer $d\\le b$ has a power-of-two multiple in $(b,2b]$, so $F(b)$ is also coprime to every $d\\le b$. It has no divisor between 2 and $2b$, while its square root is below $2b+1$. Hence it is prime. This completes the induction; $n=2$ is already in the assumed range."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln876.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "imo_1976_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "4",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Optimisation"
+    ],
+    [
+      "Algebra",
+      "Integer constraints"
+    ],
+    [
+      "Algebra",
+      "Local improvement"
+    ]
+  ],
+  "problem_markdown": "Find the largest product of a finite list of positive integers whose sum is $1976$.",
+  "solutions_markdown": [
+    "A maximal product has no factor one: merge it into another factor. Any factor $m\\ge5$ can be replaced by $3,m-3$, increasing the product. Replace every four by two twos without changing it. Three twos can be replaced by two threes, increasing the product, so at most two twos remain. The sum $1976=3\\cdot658+2$ forces exactly one two and 658 threes. The largest product is therefore $2\\cdot3^{658}$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln764.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

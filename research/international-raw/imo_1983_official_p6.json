@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Inequalities"
+    ],
+    [
+      "Algebra",
+      "Cauchy–Schwarz"
+    ],
+    [
+      "Algebra",
+      "Substitution"
+    ],
+    [
+      "Algebra",
+      "Equality cases"
+    ]
+  ],
+  "problem_markdown": "For the side lengths $a,b,c$ of a nondegenerate triangle, prove $a^2b(a-b)+b^2c(b-c)+c^2a(c-a)\\ge0$ and determine equality.",
+  "solutions_markdown": [
+    "Write $a=y+z$, $b=z+x$, $c=x+y$ with $x,y,z>0$. Expanding the target expression gives\n$$2\\bigl(xy^3+yz^3+zx^3-xyz(x+y+z)\\bigr)\n=2xyz\\left(\\frac{y^2}{z}+\\frac{z^2}{x}+\\frac{x^2}{y}-x-y-z\\right).$$\nCauchy–Schwarz gives\n$$\\frac{y^2}{z}+\\frac{z^2}{x}+\\frac{x^2}{y}\\ge\\frac{(x+y+z)^2}{x+y+z}=x+y+z.$$\nEquality requires $y/z=z/x=x/y$, forcing $x=y=z$ because they are positive. Thus equality holds exactly when $a=b=c$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln836.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

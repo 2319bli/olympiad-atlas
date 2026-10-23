@@ -1,0 +1,33 @@
+{
+  "id": "imo_1989_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "1",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Construction"
+    ],
+    [
+      "Combinatorics",
+      "Partitions"
+    ],
+    [
+      "Combinatorics",
+      "Parity"
+    ],
+    [
+      "Combinatorics",
+      "Magic sums"
+    ]
+  ],
+  "problem_markdown": "Partition $\\{1,\\ldots,1989\\}$ into 117 disjoint sets of seventeen elements, all having the same sum.",
+  "solutions_markdown": [
+    "For $1\\le i\\le117$, define a triple beginning with $i$. If $i\\le59$, complete it with $i+175$ and $353-2i$. If $i\\ge60$, complete it with $i+58$ and $470-2i$.\n\nEvery triple sums to 528. Their first entries cover 1 through 117. Their second entries cover 176 through 234 in the first case and 118 through 175 in the second. Their third entries cover the odd integers 235 through 351 and the even integers 236 through 350. Hence the triples partition 1 through 351.\n\nPair the remaining integers 352 through 1989 by pairing $j$ with $2341-j$. There are 819 disjoint pairs, each of sum 2341. Give any seven pairs to each of the 117 triples, using every pair once. Every resulting set has $3+14=17$ elements and sum $528+7\\cdot2341=16915$, as required."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln891.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

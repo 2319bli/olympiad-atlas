@@ -1,0 +1,59 @@
+{
+  "bankRecords": 450,
+  "preservedBaselineIds": 371,
+  "addedBankRecords": 79,
+  "inspectedRecords": 792,
+  "mathematicallyAssessedRecords": 786,
+  "heldUnratedRecords": 6,
+  "pendingDownloadedRecords": 835,
+  "pendingUndownloadedRecords": 4394,
+  "explicitCanonicalSubtopicsOnAllNewEntries": true,
+  "jmo2023Graph": {
+    "maximumGoodEdges": 17,
+    "maximizingParityPatterns": 10,
+    "maximizingLabelings": 1920
+  },
+  "jmo2023Tiling": {
+    "tiles": 8,
+    "coveredCells": 24,
+    "maximumMultiplicity": 2
+  },
+  "kmo2023SmallInstanceChecks": [
+    {
+      "n": 1,
+      "states": 3,
+      "maximumMoves": 2
+    },
+    {
+      "n": 2,
+      "states": 9,
+      "maximumMoves": 2
+    },
+    {
+      "n": 3,
+      "states": 27,
+      "maximumMoves": 3
+    },
+    {
+      "n": 4,
+      "states": 81,
+      "maximumMoves": 4
+    },
+    {
+      "n": 5,
+      "states": 243,
+      "maximumMoves": 4
+    },
+    {
+      "n": 6,
+      "states": 729,
+      "maximumMoves": 5
+    },
+    {
+      "n": 7,
+      "states": 2187,
+      "maximumMoves": 6
+    }
+  ],
+  "warning": "Finite checks support the independently written general proofs; they do not replace them."
+}

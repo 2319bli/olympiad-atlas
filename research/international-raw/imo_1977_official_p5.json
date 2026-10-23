@@ -1,0 +1,33 @@
+{
+  "id": "imo_1977_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "5",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Diophantine equations"
+    ],
+    [
+      "Number Theory",
+      "Bounds"
+    ],
+    [
+      "Number Theory",
+      "Squares"
+    ],
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ]
+  ],
+  "problem_markdown": "For positive integers $a,b$, write $a^2+b^2=q(a+b)+r$ with $0\\le r<a+b$. Determine all pairs for which $q^2+r=1977$.",
+  "solutions_markdown": [
+    "Let $s=a+b$. Since $a^2+b^2\\ge s^2/2$ and $q$ is the integer quotient, $s<2q+2$, hence $r\\le2q$. Also $q\\le44$. If $q\\le43$, then $q^2+r\\le q^2+2q\\le1935<1977$. Thus $q=44,r=41$.\n\nCompleting squares gives $(a-22)^2+(b-22)^2=1009$. Modulo eight, the even component must be divisible by four; its possible nonnegative magnitudes are $0,4,8,12,16,20,24,28$. Subtracting their squares from 1009 gives $1009,993,945,865,753,609,433,225$, of which only $225=15^2$ is square. Positivity leaves $(a,b)=(50,37),(37,50),(50,7),(7,50)$. For all four, $41<a+b$, so the quotient and remainder are valid."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln775.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1988_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1988,
+  "problem_number": "4",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Polynomials"
+    ],
+    [
+      "Algebra",
+      "Vieta"
+    ],
+    [
+      "Algebra",
+      "Monotonicity"
+    ],
+    [
+      "Algebra",
+      "Rational inequalities"
+    ]
+  ],
+  "problem_markdown": "Prove that the real solution set of $\\sum_{k=1}^{70}k/(x-k)\\ge5/4$ is a union of disjoint intervals whose total length is 1988.",
+  "solutions_markdown": [
+    "Let $F(x)=\\sum_{k=1}^{70}k/(x-k)$. On each interval between consecutive poles it is strictly decreasing, with limits $+\\infty$ and $-\\infty$. On $(70,\\infty)$ it decreases from $+\\infty$ to zero, and for $x<1$ it is negative. Thus $F(x)=5/4$ has one root $r_k\\in(k,k+1)$ for $k<70$ and one $r_{70}>70$. The solution intervals are $(k,r_k]$.\n\nPut $P(x)=\\prod_{j=1}^{70}(x-j)$ and $S=1+\\cdots+70=2485$. Their endpoints are all 70 roots of\n$$Q(x)=\\tfrac54P(x)-\\sum_{k=1}^{70}k\\frac{P(x)}{x-k}.$$\nThe leading coefficients of $Q$ are $5/4$ and $-(5/4)S-S=-(9/4)S$. Vieta gives $\\sum r_k=9S/5$. Therefore the total interval length is $\\sum(r_k-k)=4S/5=1988$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1988/1988_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln884.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

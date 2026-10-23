@@ -1,0 +1,191 @@
+1. Merkitään kirjaimilla a, b, c kolmion A korkeusjanoja.
+
+
+   1. Olkoon r > 0 reaaliluku. Osoita, että on olemassa kolmio A, jonka pinta-
+               1
+      ala on
+               2 , ja jolle abc < r .
+                                                                    1
+   2. Osoita, että kaikilla kolmioilla A, joiden pinta-ala on
+                                                                    2 , pätee että abc < 1.
+
+Ratkaisu:
+
+
+   1. Valitaan A tasakylkiseksi, jolle kannan d pituus < r , ja kannalle piirretty
+      korkeusjana a on pituudeltaan 1/d. Nyt kaksi muuta korkeusjanaa b, c
+      on < d (jos korkeusjanan päätepiste on sivun toinen päätepiste, sivu on
+      pidempi kuin korkeusjana) Nyt abc < (1/d) · d · d = d < r .
+
+   2. Olkoon d, e, f kolmion sivut. Olkoon a sivulle d piirretty korkeusjana.
+      Koska e ≥ a ja da = 1, pätee de ≥ 1. Symmetrisellä argumentilla df ≥ 1
+      ja ef ≥ 1. Koska yhtäsuuruus pätee vain, kun kyseiset sivut ovat suorakul-
+      maisen kolmion kateetit, ainakin yhden suuruusrelaation on oltava aito.
+                  2
+      Siis (def )     > 1 eli def > 1. Koska abcdef = 1, seuraa abc < 1.
+
+2. Etsi kaikki funktiot, jotka toteuttavat ehdon
+
+                                               y+1      1
+                             f (y · f (x)) =       −
+                                                y    y(x + 1)
+kaikille sellaisille reaaliluvuille x, y , joille y ̸= 0, x ̸= 0 ja x ̸= −1.
+
+Ratkaisu: Funktion f arvo pisteessä 1 on jokin vakio. Merkitään tätä luvulla
+a, jolloin f (1) = a. Sijoittamalla annettuun ehtoon x = 1 saamme
+                              y+1      1       1    1         1
+                  f (a · y) =      −     =1+ −        =1+ .
+                               y      2y       y 2y          2y
+                                               x
+Sijoittamalla edelliseen yhtälöön y =
+                                               a saamme
+                                           x      1      a
+                          f (x) = f (a ·     )=1+ x =1+    .
+                                           a     2a     2x
+
+Sijoittamalla tähän x = 1 saamme, että
+                                                   a
+                                        f (1) = 1 + .
+                                                   2
+                                                                           1
+Koska f (1) = a, niin tästä saadaan, että a/2 = 1 eli f (x) = 1 +
+                                                                           x.
+
+3. N ×N -shakkilaudalla (N ≥ 3 jokainen ruutu on väritetty valkoiseksi. Yhdel-
+lä kerralla voidaan muuttaa viiden ruudun väri (valkoisten ruutujen väri muut-
+tuu mustaksi ja mustien valkoiseksi) seuraavan kuvion mukaisesti:
+
+
+
+
+                                               1
+Kuviota voi kääntää. Millä ehdoilla laudan koolle     N voidaan kaikki ruudut
+muuttaa mustiksi äärellisellä määrällä kuvion mukaisia muutoksia?
+
+Ratkaisu:
+
+Kun n=3:
+
+
+
+
+Kun muutetaan ruutujen I ja II väriä kerran (kumpaakin), ruudun III väri
+vaihtuu kaksi kertaa. Siten on mahdotonta muuttaa kaikki ruudut mustiksi.
+
+Kun n ≥ 4, muodostetaan seuraavanlainen prosessi:
+
+
+
+
+Jos 2 | n, voidaan lauta jakaa 2 × 2-alueisiin ja muuttaa kaikki ruudut mustiksi.
+Prosessissa toki 2 × 2-alueen ulkopuoliset ruudut voivat hetkeksi vaihtaa väriä,
+mutta se ei haittaa.
+
+Jos 3 | n, niin käyttämällä edellistä prosessia saamme uuden prosessin:
+
+
+
+
+Alue saadaan jaettua siis 3 × 3-alueisiin ja saamme koko ruudukon muutettua
+mustaksi.
+
+Olkoon nyt n ≥ 4, 2 ∤ n ja 3 ∤ n. Väritetään jokaisen sarakkeen jokainen ruutu
+yhdellä kolmesta väristä siten, että ensimmäisen sarakkeen ruudut merkitään
+värillä 0, toisen sarakkeen ruudut värillä 1, kolmannen sarakkeen ruudut värillä
+
+
+
+                                       2
+2, neljännen sarakkeen ruudut taas värillä 0, viidennen sarakkeen ruudut värillä
+1 jne. Nyt näillä kolmella värillä väritettyjä ruutuja ei ole yhtä montaa, vaan
+on olemssa kaksi eri väriä, joiden väristen laattojen lukumäärien ero on n.
+
+Yksi prosessi
+
+
+
+
+voi muuttaa kahden eri värin määrien erotusta vain parillisella määrällä. Jos
+ruutu on jo väritetty, poistamme värin. Tällöin jokaiselle näistä kolmesta vä-
+ristä pätee, että kyseisellä värillä väritettyjen ruutujen määrä muuttuu yhdel-
+lä luvuista −3, −1, 1 tai 3. Koska lopullisessa värityksessä, johon haluaisimme
+päästä, ero n on pariton, erotukseen n ei voida koskaan päästä.
+
+Siten vastaus on, että 2 | n ja 3 | n, kun n ≥ 4.
+
+                                2
+4. Tiedetään, että (20 + 25)        = 2025. Etsi kaikki yhtälön
+                                    (x + y)2 = 100x + y
+positiiviset kokonaislukuratkaisut.
+
+Ratkaisu: Avataan sulut:
+
+
+                              y 2 + 2xy + x2 = 100x + y,
+eli
+                           x2 + (2y − 100)x + (y 2 − y) = 0.
+Toisen asteen yhtälön ratkaisukaavalla
+                           p
+           −(2y − 100) ±    (2y − 100)2 − 4(y 2 − y)            p
+      x=                                             = −y + 50 ± 2500 − 99y.
+                              2
+Koska 2500 − 99y ≥ 0, niin y ≤ 25. Lisäksi on oltava 2500 − 99y ≡ 1 (mod 8) tai
+4 | 2500 − 99y . Jos 2500 − 99y ≡ 1 (mod 8), niin y ≡ 1 (mod 8). Siispä y = 1
+tai y = 9 tai y = 17 tai y = 25.
+
+Jos taas 4 | 2500 − 99y , niin 4 | y . Toisaalta ei voi olla 2500 − 99y ≡ 8 (mod 16).
+Ei siis voi olla y ≡ 4 (mod 16). Mahdolliset vaihtoehdot ovat y = 8, y = 12,
+y = 16 tai y = 24.
+Lisäksi on oltava 2500 − 99y ≡ ±1 (mod 5) tai 2500 − 99y ≡ 0 (mod 5). Siispä
+y ≡ ±1 (mod 5) tai y ≡ 0 (mod 5).
+Mahdolliset arvot ovat siis y = 1, y = 9, y = 16, y = 24 tai y = 25.
+
+Jos y = 9, niin 2500 − 9 · 99 = 1609, mikä ei ole neliö. Ei ratkaisuja.
+
+Jos y = 16, niin 2500 − 16 · 99 = 916, mikä ei ole neliö. Ei ratkaisuja.
+
+Jos y = 20, niin 2500 − 20 · 99 = 520, mikä ei ole neliö. Ei ratkaisuja.
+
+Jos y = 24, niin 2500 − 24 · 99 = 124, mikä ei ole neliö. Ei ratkaisuja.
+
+                                                               2
+Jos y = 1, niin alkuperäinen yhtälö muuttuu muotoon x              + 2x + 1 = 100x + 1,
+jolloin x = 98 ja yhtälö toteutuu.
+
+
+
+                                             3
+Jos y = 25, niin x = 20 on tehtävänannon ratkaisu. Huomaamme myös, että
+x = 30, y = 25 on ratkaisu.
+5. Kolmiossa ABC pätee AB > AC . Sen sisäänpiirretty ympyrä sivuaa janoja
+AB ja AC pisteissä D ja E tässä järjestyksesä. Jana BE kohtaa sisäympyrän
+toisen kerran pisteessä K . Olkoon piste L janan BE jatkeella siten, että AL ⊥
+BE . Piste H on kolmion KM L korkeusjanojen leikkauspiste, kun M on janan
+DE keskipiste. Osoita, että ∠AHK = 90◦ ja että ∠LKA = ∠M KD.
+Käytetään kuvion merkintöjä. Osoitetaan ensin, että H , D ja K ovat samalla
+                                                                       ◦
+suoralla. Koska LM ⊥ KH , riittää osoittaa, että ∠M LE + ∠EKD = 90 .
+
+
+
+
+Koska ALEM on jännenelikulmio, niin ∠M LE= ∠M AE . Koska ∠AEO =
+∠ADO = 90◦ , niin ∠EOD = 180◦ − ∠EAD = 180◦ − 2∠M AE .
+Siten ∠EF D = 90◦ − ∠M AE → ∠EKD = 90◦ − ∠M AE , joten ∠M LE +
+∠EKD = 90◦ , joten H , D ja K ovat samalla suoralla.
+Koska ∠M AD = ∠M AE = ∠M LE = ∠KLX ja koska LXK     ∼ HY K , niin
+∠KLX = ∠Y HX = ∠M HD. Siten AM DH on jännennelikulmio ja ∠AM D =
+∠AHK = 90◦ .
+∠ALK = 90◦ = ∠AHD, joten ALKH on jännenelikulmio.
+                ◦
+Nyt ∠LKA = 90     − ∠LAK = 90◦ − ∠LHK = 90◦ − (180◦ − ∠ZM X). Edelleen
+                      ◦                    ◦     ◦      ◦
+tämä on yhtä kuin 90 − (180 − ∠LM K) = 90 − (180 − (180 − ∠KM X)),
+                    ◦      ◦      ◦     ◦
+joka on yhtä kuin 90 − (180 − (180 − (90 − ∠M KD))) = ∠M KD .
+
+
+
+
+                                      4
+

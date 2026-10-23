@@ -1,0 +1,25 @@
+{
+  "id": "imo_1975_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "2",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Pigeonhole principle"
+    ]
+  ],
+  "problem_markdown": "Let $(a_n)$ be a strictly increasing sequence of positive integers. Show that for each fixed $p$, infinitely many terms have a representation $a_m=xa_p+ya_q$ with positive integers $x,y$ and $q>p$.",
+  "solutions_markdown": [
+    "One residue class modulo $a_p$ contains infinitely many terms. Choose a term $a_q$ in that class with $q>p$. Every later term $a_m$ in the same class satisfies $a_m-a_q=xa_p$ for some positive integer $x$. Taking $y=1$ gives the required representation for infinitely many $m$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln752.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

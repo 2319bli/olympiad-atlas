@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "5",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Digits"
+    ],
+    [
+      "Combinatorics",
+      "Construction"
+    ],
+    [
+      "Combinatorics",
+      "Arithmetic progressions"
+    ],
+    [
+      "Combinatorics",
+      "Counting"
+    ]
+  ],
+  "problem_markdown": "Can one select 1983 distinct integers from $1,\\ldots,100000$ with no three forming an arithmetic progression? Prove the answer.",
+  "solutions_markdown": [
+    "Yes. Consider all integers with at most eleven ternary digits, each digit zero or one. There are $2^{11}=2048$ such integers, ranging from zero to $(3^{11}-1)/2=88573$.\n\nIf three members satisfy $x+z=2y$, neither the addition on the left nor the doubling on the right involves carries in base three. Digitwise, $x_i+z_i=2y_i$ with all digits in $\\{0,1\\}$. If $y_i=0$, both other digits are zero; if $y_i=1$, both are one. Thus $x=y=z$, so no nonconstant three-term progression occurs.\n\nAdd one to every member. This preserves the absence of progressions and produces 2048 positive integers at most 88574. Any 1983 of them are a valid selection."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln835.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

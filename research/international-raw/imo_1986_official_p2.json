@@ -1,0 +1,29 @@
+{
+  "id": "imo_1986_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Complex numbers"
+    ],
+    [
+      "Geometry",
+      "Rotation"
+    ],
+    [
+      "Geometry",
+      "Transformations"
+    ]
+  ],
+  "problem_markdown": "Start from any plane point $P_0$. Repeatedly rotate $120^\\circ$ clockwise about $A_1,A_2,A_3,A_1,\\ldots$ to obtain $P_1,P_2,\\ldots$. If $P_{1986}=P_0$, prove triangle $A_1A_2A_3$ is equilateral.",
+  "solutions_markdown": [
+    "Use complex coordinates and put $\\omega=e^{-2\\pi i/3}$. Rotation about $a$ sends $z$ to $\\omega z+(1-\\omega)a$. Composing the three rotations sends\n$$z\\longmapsto z+t,\\qquad t=(1-\\omega)(\\omega^2a_1+\\omega a_2+a_3),$$\nbecause $\\omega^3=1$. After 1986 steps there have been 662 identical blocks, so $P_{1986}=P_0$ forces $662t=0$, hence $t=0$.\n\nUsing $1+\\omega+\\omega^2=0$, this becomes\n$$a_3-a_1=-\\omega(a_2-a_1).$$\nThe multiplier $-\\omega$ has modulus one and angle $60^\\circ$. Thus $A_1A_3=A_1A_2$ and their included angle is $60^\\circ$, so all three sides are equal."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln862.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

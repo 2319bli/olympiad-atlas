@@ -1,0 +1,33 @@
+{
+  "id": "imo_1978_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "6",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ],
+    [
+      "Combinatorics",
+      "Colouring"
+    ],
+    [
+      "Combinatorics",
+      "Ramsey"
+    ],
+    [
+      "Combinatorics",
+      "Difference sets"
+    ]
+  ],
+  "problem_markdown": "Colour the integers $1,\\ldots,1978$ with six colours. Prove that some same-coloured integers $x,y,z$ satisfy $x+y=z$, allowing $x=y$.",
+  "solutions_markdown": [
+    "Suppose no such triple exists. Then a difference of two distinct members of a monochromatic set cannot have that set's colour.\n\nAt least 330 integers have one colour. Subtract the least from the others, obtaining 329 positive differences in the other five colours. Choose 66 of one colour, and again subtract the least, obtaining 65 differences in only four colours. Indeed, these new differences are differences of elements of both preceding monochromatic sets, so both preceding colours are excluded.\n\nRepeat. Pigeonhole supplies monochromatic sets of sizes $17$, then $6$, then $3$, then $2$: the corresponding difference-set sizes are $16,5,2$. At each stage the current set is a translate of a subset of every earlier monochromatic set, so differences exclude every colour used so far. The difference of the last two integers therefore has none of the six colours, a contradiction. All differences lie between 1 and 1978. Thus the required triple exists."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln786.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

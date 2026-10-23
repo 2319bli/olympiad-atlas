@@ -1,0 +1,29 @@
+{
+  "id": "imo_1982_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1982,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Collinearity"
+    ],
+    [
+      "Geometry",
+      "Polygons"
+    ]
+  ],
+  "problem_markdown": "In regular hexagon $ABCDEF$, points $M\\in AC$ and $N\\in CE$ satisfy $AM/AC=CN/CE=r$, with $0<r<1$. Determine $r$ when $B,M,N$ are collinear.",
+  "solutions_markdown": [
+    "Use coordinates $A=(1,0)$, $B=(1/2,\\sqrt3/2)$, $C=(-1/2,\\sqrt3/2)$ and $E=(-1/2,-\\sqrt3/2)$. Then\n$$M=(1-3r/2,\\sqrt3r/2),\\qquad N=(-1/2,\\sqrt3(1-2r)/2).$$\nThe determinant of $M-B$ and $N-B$ equals\n$$(1/2-3r/2)(-\\sqrt3r)-(\\sqrt3(r-1)/2)(-1)=\\frac{\\sqrt3}{2}(3r^2-1).$$\nIt vanishes exactly when $r=\\pm1/\\sqrt3$. The required interior value is $r=1/\\sqrt3$, and substituting it verifies collinearity."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1982/1982_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln825.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

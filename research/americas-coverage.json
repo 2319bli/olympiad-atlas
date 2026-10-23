@@ -1,0 +1,2183 @@
+{
+  "scope": "Americas",
+  "fullyScreened": [
+    {
+      "competition": "CMO",
+      "year": 2021,
+      "ratings": [
+        3,
+        4,
+        7,
+        7,
+        9
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2021,
+      "ratings": [
+        2.5,
+        4.5,
+        3,
+        4,
+        7
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2022,
+      "ratings": [
+        4.5,
+        5,
+        6.5,
+        5.5,
+        8.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2022,
+      "ratings": [
+        3,
+        3.5,
+        4.5,
+        5,
+        6.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2023,
+      "ratings": [
+        5,
+        4.5,
+        6.5,
+        7.5,
+        7.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2023,
+      "ratings": [
+        3.5,
+        3,
+        5,
+        4.5,
+        6.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2024,
+      "ratings": [
+        4,
+        4.5,
+        5.5,
+        6.5,
+        8
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2024,
+      "ratings": [
+        3,
+        3,
+        4,
+        4.5,
+        5.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2025,
+      "ratings": [
+        8,
+        6,
+        6.5,
+        7.5,
+        8.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2025,
+      "ratings": [
+        2.5,
+        5,
+        8,
+        6,
+        6.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2026,
+      "ratings": [
+        4.5,
+        6,
+        5.5,
+        6.5,
+        8.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2026,
+      "ratings": [
+        2.5,
+        3,
+        4.5,
+        6,
+        5.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2006,
+      "ratings": [
+        5.5,
+        6,
+        9,
+        6.5,
+        9,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2006-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2007,
+      "ratings": [
+        4.5,
+        8,
+        7,
+        7,
+        8,
+        8.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2007-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2010,
+      "ratings": [
+        5,
+        7,
+        8.5,
+        4.5,
+        6.5,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2010-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2011,
+      "ratings": [
+        5,
+        7,
+        9,
+        5.5,
+        6,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2011-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2012,
+      "ratings": [
+        5.5,
+        7,
+        9.5,
+        6.5,
+        6.5,
+        6
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2012-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2013,
+      "ratings": [
+        6,
+        8,
+        9,
+        6.5,
+        8,
+        9
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2013-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2014,
+      "ratings": [
+        5,
+        8,
+        6.5,
+        8,
+        7.5,
+        9.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2014-notes.pdf"
+    },
+    {
+      "competition": "OMM State Final",
+      "year": 2014,
+      "ratings": [
+        3,
+        4,
+        3,
+        2,
+        4.5,
+        5
+      ],
+      "source": "https://www.ommenlinea.org/wp-content/uploads/practica/finales/solfinal14.pdf"
+    },
+    {
+      "competition": "CMO",
+      "year": 2020,
+      "ratings": [
+        4.5,
+        5,
+        7,
+        6.5,
+        8
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CJMO",
+      "year": 2020,
+      "ratings": [
+        3,
+        6.5,
+        4.5,
+        5,
+        7
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2019,
+      "ratings": [
+        6.5,
+        4,
+        5,
+        7,
+        8
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2018,
+      "ratings": [
+        5,
+        4,
+        6.5,
+        7.5,
+        8.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2017,
+      "ratings": [
+        3.5,
+        6.5,
+        4,
+        6,
+        6.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2016,
+      "ratings": [
+        4.5,
+        5.5,
+        6,
+        9,
+        8.5
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "CMO",
+      "year": 2015,
+      "ratings": [
+        5.5,
+        4.5,
+        6.5,
+        7,
+        8
+      ],
+      "source": "https://cms.math.ca/competitions/cmo/"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2026,
+      "ratings": [
+        4,
+        6.5,
+        9,
+        6,
+        7,
+        6
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2026-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2025,
+      "ratings": [
+        5,
+        6,
+        7.5,
+        3,
+        5.5,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2025-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2024,
+      "ratings": [
+        3,
+        5.5,
+        7.5,
+        5.5,
+        5.5,
+        7
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2024-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2023,
+      "ratings": [
+        6,
+        4.5,
+        7.5,
+        5.5,
+        6,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2023-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2022,
+      "ratings": [
+        4.5,
+        6,
+        7,
+        5.5,
+        4.5,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2022-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2020,
+      "ratings": [
+        4.5,
+        6.5,
+        7,
+        4.5,
+        6,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2020-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2019,
+      "ratings": [
+        5,
+        5.5,
+        7,
+        5.5,
+        5.5,
+        6
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2019-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2018,
+      "ratings": [
+        3.5,
+        4.5,
+        7,
+        6,
+        5.5,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2018-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2021,
+      "ratings": [
+        5.5,
+        5.5,
+        7,
+        6,
+        7,
+        5.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2021-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2017,
+      "ratings": [
+        4.5,
+        5.5,
+        6,
+        6.5,
+        6,
+        5.5
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2017-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2016,
+      "ratings": [
+        5.5,
+        5.5,
+        7,
+        4,
+        5.5,
+        7
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2016-notes.pdf"
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2015,
+      "ratings": [
+        5.5,
+        5.5,
+        6.5,
+        4.5,
+        5.5,
+        6
+      ],
+      "source": "https://web.evanchen.cc/exams/JMO-2015-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2025,
+      "ratings": [
+        6,
+        6.5,
+        7,
+        5.5,
+        7.5,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2025-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2024,
+      "ratings": [
+        7,
+        7.5,
+        9,
+        6,
+        7,
+        7
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2024-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2023,
+      "ratings": [
+        4.5,
+        6.5,
+        7.5,
+        6,
+        6.5,
+        7.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2023-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2022,
+      "ratings": [
+        6,
+        7,
+        8,
+        4.5,
+        7,
+        8.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2022-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2021,
+      "ratings": [
+        5.5,
+        6.5,
+        9,
+        7,
+        5.5,
+        7.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2021-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2020,
+      "ratings": [
+        5.5,
+        7,
+        6.5,
+        6,
+        7,
+        7
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2020-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2019,
+      "ratings": [
+        6.5,
+        7,
+        9,
+        5.5,
+        6,
+        8.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2019-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2018,
+      "ratings": [
+        4.5,
+        7,
+        8,
+        5.5,
+        8,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2018-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2017,
+      "ratings": [
+        4.5,
+        7.5,
+        9,
+        5.5,
+        8,
+        5.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2017-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2016,
+      "ratings": [
+        7,
+        5.5,
+        8.5,
+        7,
+        7,
+        6.5
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2016-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2015,
+      "ratings": [
+        5.5,
+        6.5,
+        6.5,
+        6,
+        6.5,
+        8
+      ],
+      "source": "https://web.evanchen.cc/exams/USAMO-2015-notes.pdf"
+    },
+    {
+      "competition": "Cono Sur Mathematical Olympiad",
+      "year": 2024,
+      "ratings": [
+        3.5,
+        5.5,
+        8,
+        5.5,
+        3.5,
+        6.5
+      ],
+      "source": "https://www.obm.org.br/content/uploads/2024/09/ConeSul_2024.pdf"
+    },
+    {
+      "competition": "OMM National",
+      "year": 2015,
+      "ratings": [
+        3,
+        4.5,
+        5.5,
+        5.5,
+        6.5,
+        6.5
+      ],
+      "source": "https://www.ommenlinea.org/wp-content/uploads/2016/03/Tzaloa-1-2016.pdf"
+    },
+    {
+      "competition": "OMM National",
+      "year": 2016,
+      "ratings": [
+        4.5,
+        6,
+        4,
+        5.5,
+        7,
+        8
+      ],
+      "source": "https://www.ommenlinea.org/wp-content/uploads/2017/03/Tzaloa-1-2017.pdf"
+    },
+    {
+      "competition": "OMM National",
+      "year": 2017,
+      "ratings": [
+        4.5,
+        6,
+        6.5,
+        4,
+        6.5,
+        7
+      ],
+      "source": "https://www.ommenlinea.org/wp-content/uploads/2018/03/Tzaloa-1-2018.pdf"
+    },
+    {
+      "competition": "OMAPA Final Level 3",
+      "year": 2010,
+      "ratings": [
+        1.5,
+        2.5,
+        3,
+        3.5,
+        4
+      ],
+      "source": "https://www.omapa.org/wp-content/uploads/2015/01/ex-omapa-2010-juv-rf-n3-soluciones.pdf"
+    },
+    {
+      "competition": "OMAPA Final Level 3",
+      "year": 2012,
+      "ratings": [
+        1,
+        5.5,
+        2.5,
+        2.5,
+        4.5
+      ],
+      "source": "https://www.omapa.org/wp-content/uploads/2015/01/ex-omapa-2012-juv-r5-soluciones.pdf"
+    },
+    {
+      "competition": "SEdeM Juvenile Level III",
+      "year": 2024,
+      "ratings": [
+        3,
+        1.5,
+        2.5,
+        4,
+        4.5
+      ],
+      "source": "https://sedem.org.ec/archivos/pruebas/PruebasOlimpiadas2024.pdf"
+    },
+    {
+      "competition": "SEdeM Juvenile Level II",
+      "year": 2024,
+      "ratings": [
+        1,
+        3,
+        2.5,
+        2,
+        3.5
+      ],
+      "source": "https://sedem.org.ec/archivos/pruebas/PruebasOlimpiadas2024.pdf"
+    },
+    {
+      "competition": "OJM Final Year 3",
+      "year": 2023,
+      "ratings": [
+        3.5,
+        2,
+        4,
+        4.5
+      ],
+      "source": "https://acmfiles.s3.amazonaws.com/A%C3%B1o%202023/ojm2023%20problemas%20y%20soluciones.pdf"
+    },
+    {
+      "competition": "OJM Final Years 4–5",
+      "year": 2023,
+      "ratings": [
+        2,
+        4,
+        3.5,
+        4
+      ],
+      "source": "https://acmfiles.s3.amazonaws.com/A%C3%B1o%202023/ojm2023%20problemas%20y%20soluciones.pdf"
+    },
+    {
+      "competition": "OLCOMA Final Level III",
+      "year": 2017,
+      "ratings": [
+        3.5,
+        4.5,
+        6.5,
+        2.5,
+        4.5,
+        5
+      ],
+      "source": "https://revistas.tec.ac.cr/index.php/matematica/article/download/4233/3810/11561"
+    },
+    {
+      "competition": "Cuban National Olympiad – Pre-university common day 1",
+      "year": 2023,
+      "ratings": [
+        3.5,
+        4,
+        6.5
+      ],
+      "source": "https://es.scribd.com/document/880296012/Olimpiadas-Cuba-libro-de-olimpiadas-que-tienen-texto-y-graficos",
+      "notes": "Day 2 uses compilation question numbers: grade 10 = 1,2,3; grade 11 = 4,5,6; grade 12 = 5,7,8."
+    },
+    {
+      "competition": "Cuban National Olympiad – Grade 10 day 2",
+      "year": 2023,
+      "ratings": [
+        4.5,
+        4,
+        5.5
+      ],
+      "source": "https://es.scribd.com/document/880296012/Olimpiadas-Cuba-libro-de-olimpiadas-que-tienen-texto-y-graficos",
+      "notes": "Day 2 uses compilation question numbers: grade 10 = 1,2,3; grade 11 = 4,5,6; grade 12 = 5,7,8."
+    },
+    {
+      "competition": "Cuban National Olympiad – Grade 11 day 2",
+      "year": 2023,
+      "ratings": {
+        "4": 6.5,
+        "5": 5,
+        "6": 4.5
+      },
+      "source": "https://es.scribd.com/document/880296012/Olimpiadas-Cuba-libro-de-olimpiadas-que-tienen-texto-y-graficos",
+      "notes": "Day 2 uses compilation question numbers: grade 10 = 1,2,3; grade 11 = 4,5,6; grade 12 = 5,7,8."
+    },
+    {
+      "competition": "Cuban National Olympiad – Grade 12 day 2",
+      "year": 2023,
+      "ratings": {
+        "5": 5,
+        "7": 6,
+        "8": 5.5
+      },
+      "source": "https://es.scribd.com/document/880296012/Olimpiadas-Cuba-libro-de-olimpiadas-que-tienen-texto-y-graficos",
+      "notes": "Day 2 uses compilation question numbers: grade 10 = 1,2,3; grade 11 = 4,5,6; grade 12 = 5,7,8."
+    },
+    {
+      "competition": "Colombian Mathematical Olympiad, Superior Selection Round",
+      "year": 2017,
+      "ratings": {
+        "1": 2,
+        "2": 1,
+        "3": 2.5,
+        "4": 3.5,
+        "5": 2,
+        "6": 2.5,
+        "7": 2.5,
+        "8": 2.5,
+        "9": 2,
+        "10": 4,
+        "11": 3.5,
+        "12": 5
+      },
+      "source": "https://oc.uan.edu.co/images/Olimpiadas/Matematicas/documentos/2020/nspSel.pdf",
+      "exclusionNotes": {
+        "1": "Two 60-degree sectors; routine area fraction.",
+        "2": "Direct scale conversion.",
+        "3": "The fractional-linear recurrence repeats after three terms.",
+        "4": "List powers of two between 100 and 999 and count digit pairs by their sum.",
+        "5": "Four corner tetrahedra each have one eighth of the original volume.",
+        "6": "Pythagoras determines the hypotenuse; the perimeter then determines the leg product.",
+        "7": "A short sign split in two absolute-value equations.",
+        "8": "Check the three possible truth/lie patterns against a two-digit number.",
+        "9": "The centre triangle has side lengths 30, 40, 50.",
+        "11": "Relative to the central value the total offset is even and at most 12 in magnitude; this forces the centre to be 56."
+      }
+    },
+    {
+      "competition": "Uruguayan National Mathematical Olympiad Final Level V",
+      "year": 2017,
+      "ratings": {
+        "1": 1.5,
+        "2": 5.5,
+        "3": 5.5,
+        "4": 4
+      },
+      "source": "https://drive.google.com/file/d/1rWAk6EkR96oxj-XoQDycsXRJY1j9W8kW/view",
+      "exclusionNotes": {
+        "1": "2017 Level V: changing logarithm bases makes the sum log(2017!)/log(2017!)=1. 2017 Level IV: common chords are perpendicular to their centre lines, and the centre triangle is 3-4-5.",
+        "2": "2017 Level IV: gcd(2n+3,n+7)=gcd(n+7,11), so count n≡4 modulo 11."
+      }
+    },
+    {
+      "competition": "Uruguayan National Mathematical Olympiad Final Level IV",
+      "year": 2017,
+      "ratings": {
+        "1": 2,
+        "2": 2,
+        "3": 4.5,
+        "4": 4.5
+      },
+      "source": "https://drive.google.com/file/d/113mP5KbUDldF0i7Ef1MfV_O7t3f9wMnp/view",
+      "exclusionNotes": {
+        "1": "2017 Level V: changing logarithm bases makes the sum log(2017!)/log(2017!)=1. 2017 Level IV: common chords are perpendicular to their centre lines, and the centre triangle is 3-4-5.",
+        "2": "2017 Level IV: gcd(2n+3,n+7)=gcd(n+7,11), so count n≡4 modulo 11."
+      }
+    },
+    {
+      "competition": "Uruguayan National Mathematical Olympiad Final Level V",
+      "year": 2016,
+      "ratings": {
+        "1": 4,
+        "2": 5.5,
+        "3": 5,
+        "4": 4
+      },
+      "source": "https://drive.google.com/file/d/1-x0dZV1RDSgy8ZPmwmTkPZHiyOxEGDs4/view",
+      "exclusionNotes": {}
+    },
+    {
+      "competition": "CMO",
+      "year": 2010,
+      "ratings": {
+        "1": 7,
+        "2": 4.5,
+        "3": 5,
+        "4": 7,
+        "5": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2010.pdf",
+      "exclusionNotes": {}
+    },
+    {
+      "competition": "CMO",
+      "year": 2011,
+      "ratings": {
+        "1": 4,
+        "2": 5.5,
+        "3": 5.5,
+        "4": 3.5,
+        "5": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2011.pdf",
+      "exclusionNotes": {
+        "4": "A standard pigeonhole argument on 2012 suffix residues, followed by cancelling a power of 10."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2012,
+      "ratings": {
+        "1": 3,
+        "2": 6,
+        "3": 5.5,
+        "4": 6.5,
+        "5": 7
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2012.pdf",
+      "exclusionNotes": {
+        "1": "Apply (t−2)²≥0 to x,y,z with weights 1,x,xy; the middle terms telescope."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2013,
+      "ratings": {
+        "1": 4,
+        "2": 5,
+        "3": 5,
+        "4": 6.5,
+        "5": 7
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2013.pdf",
+      "exclusionNotes": {}
+    },
+    {
+      "competition": "CMO",
+      "year": 2014,
+      "ratings": {
+        "1": 4.5,
+        "2": 5,
+        "3": 6,
+        "4": 6,
+        "5": 8
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2014.pdf",
+      "exclusionNotes": {
+        "5": "Above target: a residue-dependent adversarial interval strategy needs a multi-level finite-occurrence termination proof."
+      }
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2010,
+      "ratings": {
+        "1": 4.5,
+        "2": 4.5,
+        "3": 5,
+        "4": 4.5,
+        "5": 4,
+        "6": 4.5
+      },
+      "source": "https://web.evanchen.cc/exams/JMO-2010-notes.pdf",
+      "assessmentNotes": {
+        "1": "Separate integers by squarefree part: admissible permutations act independently on each class. The product of factorials then reduces the threshold to the prime factor 67 of 2010.",
+        "2": "Adding the smallest term to all but the largest produces exactly as many distinct terms as there are available larger terms. Matching these in order forces an arithmetic progression.",
+        "3": "Same Simson-line and cyclic-quadrilateral argument as USAMO 2010 Q1.",
+        "4": "A symmetric pair of parabola points gives area a(b²−a²). Choosing a power of two and using consecutive odd factors turns the area into the required square; n=0 needs its own small example.",
+        "5": "Rotate 1006 values through the first 1006 positions. Pigeonhole guarantees that every permutation has one of those values in that block; the creative step is choosing a block larger than half.",
+        "6": "Same incentre-angle and irrational cosine-rule contradiction as USAMO 2010 Q4."
+      }
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2011,
+      "ratings": {
+        "1": 2.5,
+        "2": 5,
+        "3": 6.5,
+        "4": 5,
+        "5": 6,
+        "6": 5.5
+      },
+      "source": "https://web.evanchen.cc/exams/JMO-2011-notes.pdf",
+      "assessmentNotes": {
+        "1": "Even exponents fail modulo 3 and odd exponents at least 3 fail modulo 4; n=1 is checked directly.",
+        "2": "Same homogenization and product-one AM–GM argument as USAMO 2011 Q1.",
+        "3": "Intersecting pairs of tangents identifies the orthocentre on the directrix. The harder half is proving every point is attained: equality of centroid and orthocentre yields a cubic, and sign changes establish three distinct real roots.",
+        "4": "Reverse the shorter concatenation by induction, then use the Fibonacci concatenation to expose a palindrome surrounded by a word and its reverse. Choosing the right shorter indices is essential.",
+        "5": "The two tangents give a harmonic quadrilateral, and projection from E sends D to the point at infinity, forcing the midpoint. An elementary complex-coordinate alternative requires several linked chord identities.",
+        "6": "Same exponent reduction and n=25 counterexample as USAMO 2011 Q4."
+      }
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2012,
+      "ratings": {
+        "1": 4.5,
+        "2": 5.5,
+        "3": 5.5,
+        "4": 4.5,
+        "5": 5.5,
+        "6": 6.5
+      },
+      "source": "https://web.evanchen.cc/exams/JMO-2012-notes.pdf",
+      "assessmentNotes": {
+        "1": "Interpret the angle conditions as tangent-chord relations. A has equal powers to the circles PRS and QRS, yet is off their proposed radical axis RS; hence those circles coincide.",
+        "2": "Same sorted-square Fibonacci-growth argument as USAMO 2012 Q1.",
+        "3": "Split the cyclic numerator into two sums, multiply numerator and denominator to create fourth powers, and apply Cauchy separately. Bounding the two new denominators by six times the square sum is the key rearrangement.",
+        "4": "Assuming a+b>n produces the earlier index a+b−n. Its angular displacement is the sum of the two opposite signed neighbour displacements, so it lies strictly inside their empty arc, a contradiction.",
+        "5": "Pair invertible residues k and 2012−k to get the lower bound φ(2012)/2=502. Attaining it requires the less obvious pair a=4,b=1010, for which all non-units contribute nothing.",
+        "6": "Same reflected-ray Menelaus argument as USAMO 2012 Q5."
+      }
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2013,
+      "ratings": {
+        "1": 4.5,
+        "2": 5,
+        "3": 6,
+        "4": 5.5,
+        "5": 5.5,
+        "6": 6.5
+      },
+      "source": "https://web.evanchen.cc/exams/JMO-2013-notes.pdf",
+      "assessmentNotes": {
+        "1": "Modulo 9, multiples of 3 are eliminated first. Otherwise each shifted cube forces a residue in {5,7}; multiplying contradicts the sixth-power residue 1. Combining the two congruences is the key step.",
+        "2": "A filling is uniquely determined by its nonempty zero set: each entry must equal its shortest grid distance to that set. Both inequalities require proof, using bounded adjacent differences and descending paths.",
+        "3": "Same Miquel point and spiral similarity argument as USAMO 2013 Q1.",
+        "4": "The first-summand recurrence leads to the pattern n=2^j−1. Its parity induction counts representations of n+1 as two powers of two: unequal summands pair, while equal summands occur once.",
+        "5": "A cyclic quadrilateral converts the perpendicular condition into an angle sum. Two sine-rule computations then turn the requested ratio identity into the cosine subtraction formula.",
+        "6": "Same equality classification as USAMO 2013 Q4. Independently repaired the cached source’s reversed inequality signs and missing square in the intermediate equality condition."
+      }
+    },
+    {
+      "competition": "USAJMO",
+      "year": 2014,
+      "ratings": {
+        "1": 4.5,
+        "2": 6.5,
+        "3": 7,
+        "4": 5,
+        "5": 7.5,
+        "6": 6.5
+      },
+      "source": "https://web.evanchen.cc/exams/JMO-2014-notes.pdf",
+      "assessmentNotes": {
+        "1": "Bound the minimum by the geometric mean and rearrange each one-variable ratio. The resulting fifth-degree expression is exactly (a−1)^5, an unobvious but short factorization.",
+        "2": "The 60-degree condition places O,I,H on one auxiliary circle and makes AOMH a rhombus. These facts prove APQ equilateral with side (b+c)/3; an additional side-ratio analysis gives the open range.",
+        "3": "A prime-divisibility substitution forces f(0)=0, after which paired x and −x substitutions give the pointwise alternatives 0 and x². Eliminating mixtures requires propagating zeros to even integers and then the odd residue classes.",
+        "4": "Numbers just below a large power of b have many maximal digits, pushing their images beyond that power. Counting the remaining possible preimages gives arbitrarily many omissions without identifying them.",
+        "5": "Above target: preventing six in a line uses a three-colour strategy, while forcing five needs a sustained double-threat construction around two protected interior cells. The same problem was assessed at 7.5 in USAMO 2014 Q5.",
+        "6": "Coordinates along the A-angle bisector turn EF into a vertical line. The incenter-distance quadratic proves the first collinearity, and explicitly locating the arc midpoint proves the median assertion. This avoids relying on the source’s unproved specialized lemma."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2009,
+      "ratings": {
+        "1": 4,
+        "2": 3.5,
+        "3": 3.5,
+        "4": 6.5,
+        "5": 7
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2009.pdf",
+      "assessmentNotes": {
+        "1": "Condition on the position of the first white cell in the lower row. Before it columns have two choices, afterwards three; evaluating the resulting geometric sum gives 2·3ⁿ−2ⁿ.",
+        "2": "Across all 200 rotations, each sector agrees with exactly 100 opposite sectors; the average agreement count is 100.",
+        "3": "Rewrite as 1+xyz/((x+y)(y+z)(z+x)); three AM–GM bounds give the upper endpoint, and setting y=z gives all intermediate values by continuity.",
+        "4": "Modulo 4 forces opposite exponent parity. Factoring a difference of squares reduces each case to a prime-power difference; the harder branch needs divisibility of b by 3 and a second factorization to exclude larger exponents.",
+        "5": "The smallest enclosing circle is controlled by two antipodal boundary points or by three boundary points surrounding its centre. The unrestricted infinite-set statement additionally needs a compactness step beyond the official finite-set proof."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2008,
+      "ratings": {
+        "1": 4.5,
+        "2": 4.5,
+        "3": 4.5,
+        "4": 6.5,
+        "5": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2008.pdf",
+      "assessmentNotes": {
+        "1": "Equal areas first force MN parallel AC. Extend BA and BC to the parallel through D; a second area comparison makes M,N the midpoints of the enlarged triangle sides.",
+        "2": "The diagonal substitution forces f(9x)=9f(x), hence f(0)=0. Then f is an involution and the equation becomes additivity; rationality reduces it to f(x)=±x.",
+        "3": "Use a+bc=(a+b)(a+c), then combine the fractions into 1+4abc/((a+b)(b+c)(c+a)). The final bound is AM–GM, but the common-denominator identity is the decisive step.",
+        "4": "Prime inputs force f(p) to be either 1 or p. Infinitely many fixed primes force the identity by Fermat; finitely many require a Euclidean construction excluding any largest odd fixed prime. The surviving parity family must then be checked.",
+        "5": "Classifying paths by their use of the leftmost middle cell yields rₙ₊₁=2+2rₙ+rₙ₋₁. Proving the classification is exhaustive is the main work; shifting rₙ by 1 then solves the recurrence."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2007,
+      "ratings": {
+        "1": 5,
+        "2": 4.5,
+        "3": 5,
+        "4": 5,
+        "5": 7
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2007.pdf",
+      "assessmentNotes": {
+        "1": "The fixed diagonal barrier splits the free board into two regions with opposite checkerboard imbalances. Adding the two corner cells still permits only 14 additional dominoes per side; a matching construction reaches 34.",
+        "2": "If the triangles are not congruent, ordering their three side lengths forces the overlapping lengths to form a geometric progression. The triangle inequality becomes r²<r+1; the reciprocal gives the other endpoint.",
+        "3": "Choose xy=x+y so two function terms cancel, and show y−x covers every real number under this constraint. The polynomial example x²+4 emerges by completing a square.",
+        "4": "The substitution φ(x)=x/(1−x) turns the operation into addition. A complete proof also verifies closure of (0,1); the endpoint case follows because 1 is absorbing.",
+        "5": "The common point is the incentre. For concurrency, linked cyclic-angle similarities identify the lines with joins of contact points to circumcircle arc midpoints; a homothety then gives concurrence. This requires a sustained auxiliary-circle argument."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2006,
+      "ratings": {
+        "1": 5.5,
+        "2": 3.5,
+        "3": 5,
+        "4": 5.5,
+        "5": 6
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2006.pdf",
+      "assessmentNotes": {
+        "1": "The printed endpoint prevents the intended simple roots-of-unity count. Removing one child turns the sum into a partial coefficient sum of (1+x+x²)^2005, and inclusion–exclusion gives an exact finite binomial expression.",
+        "2": "The midpoint of the rectangle’s upper edge moves along the A-median; halving its altitude gives a segment joining the midpoint of BC to the midpoint of the altitude.",
+        "3": "Normalize each positive entry by its row sum, which equals its column sum. The resulting array has every row and column sum equal to 1, so double counting its total gives the result.",
+        "4": "Count noncyclic triples by their unique team with two wins, then minimize a sum of squared outdegrees. A regular cyclic tournament attains the upper bound; a transitive tournament gives zero.",
+        "5": "The midpoint-of-hypotenuse property converts the tangent condition into equal distances from A. Tangent-chord angle relations then show each relevant arc is one third of the circumference."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2005,
+      "ratings": {
+        "1": 4,
+        "2": 4.5,
+        "3": 6,
+        "4": 4.5,
+        "5": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2005.pdf",
+      "assessmentNotes": {
+        "1": "The path is determined uniquely by its crossing edge between each pair of consecutive rows. There are 1,2,…,n−1 independent choices; recognizing that independence gives (n−1)!.",
+        "2": "AM–GM gives the bound, with equality excluded by irrationality of √2. For integrality, reduce to a primitive triple and use that a rational square root of an integer is integral, then parity or coprimality gives a contradiction.",
+        "3": "Supporting lines at three convex-hull boundary points give the nearest-point witnesses, including a separate collinear case. The sharp counterexample uses three side midpoints of an equilateral triangle plus a central cluster.",
+        "4": "The sine rule rewrites the ratio as 4 sinA sinB sinC(sinA+sinB+sinC). AM–GM followed by concavity of sine makes the equilateral equality case sharp.",
+        "5": "A cubic-root recurrence links power sums three steps apart and immediately resolves the second part. Fermat and residues modulo 4 and 9 restrict the sum to 3 or 6, leaving a short enumeration for the first part."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2004,
+      "ratings": {
+        "1": 3,
+        "2": 4.5,
+        "3": 5.5,
+        "4": 5,
+        "5": 5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2004.pdf",
+      "assessmentNotes": {
+        "1": "Substituting a=x+1,b=y+1,c=z+1 gives ab=c,ac=b,bc=a; the zero and nonzero cases yield five triples.",
+        "2": "Split rows and columns by parity. One colour decomposes into 5×5 and 4×4 blocks, the other into two 5×4 blocks; tracking the empty row gives 14·5!·4!.",
+        "3": "The strict chord inequalities determine the order of X,Y and eliminate the two longer sides from the equal group. The remaining four equal arcs force both half-angles to be 45 degrees.",
+        "4": "Pair k and p−k, retain only the two surviving binomial terms modulo p², and use Fermat modulo p on the remaining even exponent. The modulus-squared bookkeeping is the main step.",
+        "5": "Prime-exponent coordinates give an upper bound by fixing the exponents of 3 and 167. The matching constant-total-exponent layer is possible because the exponent range for 2 is twice as long."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2003,
+      "ratings": {
+        "1": 3,
+        "2": 4,
+        "3": 2.5,
+        "4": 4,
+        "5": 6
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2003.pdf",
+      "assessmentNotes": {
+        "1": "The relative clock-hand angle is 11m/2 degrees; solve 11m≡±2 modulo 720 in the stated interval.",
+        "2": "Reduce the base modulo 1000, establish 3^100≡1, and reduce the inner exponent modulo 100 using modulo 25 and parity. A final truncated binomial expansion gives 241.",
+        "3": "The cubic equation forces one variable below 1 unless all equal 1; then the other two squares exceed the product by AM–GM.",
+        "4": "Project the three collinear centres onto the variable line. Their projections are the midpoints of AX,AY,AZ, so the desired ratio equals the fixed ratio between consecutive centres.",
+        "5": "Greedily choose a highest remaining point. Its nearby lower half-annulus splits into six 30-degree sectors of diameter less than 1; at most six neighbours are removed with each selection."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2002,
+      "ratings": {
+        "1": 4,
+        "2": 4.5,
+        "3": 3.5,
+        "4": 5,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2002.pdf",
+      "assessmentNotes": {
+        "1": "Six elements would give 15 sums filling the entire interval 3 to 17. Both endpoint pairs would then be forced, producing the collision 1+9=2+8; a five-element construction completes the argument.",
+        "2": "Write k=aq+b using one factor q, then represent a and b using divisors of the factors. Multiplying the first representation by q keeps its divisors disjoint from those in the remainder because the latter are strictly smaller than q.",
+        "3": "After multiplying by abc, two standard symmetric AM–GM steps show sum a⁴≥sum a²bc; equality is a=b=c.",
+        "4": "The auxiliary circle centred at B gives a 30-degree inscribed angle, hence AQ=r. A second angle chase makes triangle APQ isosceles, so PQ=AQ.",
+        "5": "The equation makes f(x²+y²) a strict weighted mean when f(x) and f(y) differ. Choose a pair with minimum positive value difference to contradict integrality; first handle the zero input so both weights are positive."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 2000,
+      "ratings": {
+        "1": 5,
+        "2": 5,
+        "3": 6,
+        "4": 5.5,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2000.pdf",
+      "assessmentNotes": {
+        "1": "Move to Anne’s frame and reflect either relative motion if necessary. When the two speed magnitudes are within a factor of two, a direct time works; otherwise the faster runner crosses a suitable arc while the slower remains in the middle third.",
+        "2": "After removing residue-zero terms, the nonzero residues are forced into one alternating pattern with an initial repeated 2. Choose the allowed zero positions and independently permute the numbers in each residue class.",
+        "3": "Reorder the terms by always choosing a sign opposite the current partial sum. The total-sum condition guarantees a choice, and all 2000 nonzero partial sums lie among only 1999 possible integers, forcing repetition.",
+        "4": "The two angle bisectors at B create a parallelogram. The angle-bisector theorem then shows its opposite side parallel AC, forcing BD through the midpoint of AC and yielding the required symmetry.",
+        "5": "Use a₁≤100−a₂ and the total sum ≤200 to rewrite the excess over 10000 as a sum of nonpositive products. Equality requires care when a₂=0; it gives the two distinct extremal sequences."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1999,
+      "ratings": {
+        "1": 4,
+        "2": 5,
+        "3": 5,
+        "4": 6,
+        "5": 6
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1999.pdf",
+      "assessmentNotes": {
+        "1": "The inequalities x−1<floor(x)≤x bound x into two short intervals. Testing the six possible integer parts then finds exactly four roots; both bounds and the final floor checks are needed.",
+        "2": "The circle centre travels on the parallel through C. Reflection across that parallel and the 60-degree apex angle force the intercepted arc to subtend a fixed 30-degree inscribed angle; a coordinate chord calculation is an alternative.",
+        "3": "The equation first makes n an odd square. Compare each prime-power factor p^β with 2β+1; equality can hold only for p=3,β=1, apart from the empty factorization n=1.",
+        "4": "Combine seven consecutive gaps and six two-step gaps: their total is at most 46, whereas multiplicity at most two forces at least 49. The matching seven-element construction requires a separate verified difference list.",
+        "5": "Cyclic symmetry alone does not allow arbitrary sorting. First compare the two orientations to choose x≥y≥z, then transfer z into x without decreasing the expression; AM–GM solves the two-variable boundary case."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1998,
+      "ratings": {
+        "1": 4.5,
+        "2": 4.5,
+        "3": 4,
+        "4": 5.5,
+        "5": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1998.pdf",
+      "assessmentNotes": {
+        "1": "The equation forces a to be integral. Writing a=30k+r cancels the linear contributions and gives exactly one integer k for each residue r=0,…,29, avoiding a large direct search.",
+        "2": "After determining the radical domain, square once and multiply by x; a hidden completed square avoids a sixth-degree expansion. The remaining golden-ratio candidate must be checked in the original equation.",
+        "3": "Separate the first odd reciprocal into two halves. Termwise comparison gives more than the even sum plus 1/2, and the even sum is less than n/2; the two bounds produce the required unequal denominators.",
+        "4": "An auxiliary equilateral triangle supplies two congruent triangles and forces BF=BC, which fixes the angle at C. Alternatively trigonometric Ceva reduces the concurrence to a double-angle identity.",
+        "5": "An invariant verifies all recurrence pairs. The converse requires Vieta descent: the other root m²a−b is a nonnegative integer smaller than a, and reversing the descent reconstructs the sequence."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1997,
+      "ratings": {
+        "1": 4,
+        "2": 4,
+        "3": 3.5,
+        "4": 5,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1997.pdf",
+      "assessmentNotes": {
+        "1": "For each of the 15 relevant primes, the two exponents must be the specified minimum and maximum, which differ. Independent assignments give 2^15 ordered pairs and symmetry halves the count.",
+        "2": "Choose 25 test points spaced slightly more than 2 apart inside the interval. Any covering unit intervals containing them are pairwise disjoint, so no greedy endpoint complications are needed.",
+        "3": "Termwise comparison gives the telescoping lower bound. Compare each odd/even factor to the next even/odd factor, obtaining P²<1/1999<1/44².",
+        "4": "Translate D to A and O to O′. The hypothesis makes AOBO′ cyclic; one circle-angle identity and the parallel translation vector give the requested equality.",
+        "5": "Factor the cubic as (k+2)(k+3)(k+4), convert to binomial coefficients with top n+4, and complete the two alternating binomial sums. The omitted boundary terms leave 1/[2(n+3)(n+4)]."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1996,
+      "ratings": {
+        "1": 3,
+        "2": 3.5,
+        "3": 6.5,
+        "4": 5,
+        "5": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1996.pdf",
+      "assessmentNotes": {
+        "1": "Combine the three rational root expressions over their product denominator, then apply Vieta and f(1)=−1 to obtain −7.",
+        "2": "Each cyclic equation is y=4x²/(1+4x²)≤x for nonnegative x; equality throughout gives 0 or 1/2.",
+        "3": "Classify permutations by the initial 2 or 3. The nonlocal constraint after a consecutive pair forces one exceptional alternating block, yielding f(n)=f(n−1)+f(n−3)+1; the recurrence has period 8 modulo 3.",
+        "4": "Mark BE=BD along BC so CE=AD. The angle-bisector ratio makes CED similar to CAB, revealing two isosceles triangles whose angle sum forces A=100 degrees.",
+        "5": "The expression is an integer sum of fractional parts, so it lies from 0 to m−1. A common denominator attains zero, and one less attains m−1; m=1 is the immediate endpoint case."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1995,
+      "ratings": {
+        "1": 3,
+        "2": 5,
+        "3": 5,
+        "4": 4,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1995.pdf",
+      "assessmentNotes": {
+        "1": "Pair x with 1−x: for f(x)=9^x/(9^x+3), the two values sum to 1, with the middle term 1/2.",
+        "2": "After cubing and dividing, factor the ratio into (a/b)^(a−b)(b/c)^(b−c)(a/c)^(a−c). Each factor is at least 1; identifying this pairwise-difference factorization is the substantive step.",
+        "3": "Every reflex vertex is interior and belongs to only one reflex quadrilateral, so it contributes a full 2π angle sum in the subdivision. Combine these disjoint contributions with the boundary angle sum and compare with 2πq.",
+        "4": "Set all xᵢ equal and balance the two exponents of n: xᵢ=n^(2k+1)q^(3k+2), y=n²q³. The problem reduces to choosing exponents so that 1+3(2k+1)=2(3k+2).",
+        "5": "Cauchy keeps every iterate nonnegative. For x≥u, bound the cross radical below by u(1−x) to obtain f(x)≤x−u. This uniform decrease, stronger than mere monotonicity, forces an iterate into the zero interval."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1994,
+      "ratings": {
+        "1": 3,
+        "2": 4.5,
+        "3": 4.5,
+        "4": 3.5,
+        "5": 5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol1994.pdf",
+      "assessmentNotes": {
+        "1": "Split (n²+n+1)/n! into (n+1)/(n−1)!+(n+1)/n!, so the alternating sum telescopes.",
+        "2": "Pair the power with its reciprocal (√2+1)^n. Their half-sum and half-difference have squares differing by 1; conjugation and parity of n show both squares are integers.",
+        "3": "Any adjacent agreeing pair remains fixed forever. Odd cycle length guarantees such a pair, and the set of fixed agreeing voters expands across every boundary until the entire circle stabilizes.",
+        "4": "The diameter gives two right triangles. Multiplying the cosine ratios gives cos²(angle APB)=st, with sign determined by whether P is outside or inside the circle.",
+        "5": "Extend DE and DF to the parallel to BC through A. Similar triangles express the two intercepts, and Ceva makes them equal. The altitude then bisects the resulting isosceles triangle angle."
+      }
+    },
+    {
+      "competition": "USAMO",
+      "year": 2008,
+      "ratings": {
+        "1": 6,
+        "2": 6.5,
+        "4": 7,
+        "5": 7.5,
+        "6": 8.5,
+        "3": 9
+      },
+      "assessmentNotes": {
+        "3": "Q3 above target: maximizing a boundary-path component and carefully rerouting edges enables induction after peeling a zigzag strip. The need to preserve the number of components while preventing cycles makes this a substantially advanced combinatorial argument."
+      },
+      "source": "https://web.evanchen.cc/exams/USAMO-2008-notes.pdf"
+    },
+    {
+      "competition": "USAMO",
+      "year": 2009,
+      "ratings": {
+        "1": 5.5,
+        "2": 6.5,
+        "4": 5,
+        "5": 8.5,
+        "6": 9,
+        "3": 9
+      },
+      "assessmentNotes": {
+        "3": "Q3 above target: existence requires a tiling-preserving lower-left induction, while uniqueness overlays two tilings into alternating cycles and propagates a staircase to a forced orientation contradiction. The simply connected hypothesis is essential."
+      },
+      "source": "https://web.evanchen.cc/exams/USAMO-2009-notes.pdf"
+    },
+    {
+      "competition": "CMO",
+      "year": 1970,
+      "ratings": {
+        "1": 3.5,
+        "2": 2.5,
+        "3": 1.5,
+        "4": 3.5,
+        "5": 3.5,
+        "6": 3.5,
+        "7": 2.5,
+        "8": 3.5,
+        "9": 3,
+        "10": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1970.pdf",
+      "assessmentNotes": {
+        "1": "Subtract the equations to get (x−y)(1−z)=0 and its cyclic analogues; the only triples are all 1 and all −2.",
+        "2": "The area identity ah=bk gives a+h−b−k=(a−b)(1−h/b)>0 for the stipulated obtuse angle.",
+        "3": "If two opposite-colour balls have equal weights, the required other weight must differ in both attributes from one of them.",
+        "4": "Writing the remaining digits as N gives 24N=6·10^k, hence 625 followed by zeros. The second equation 34N=d·10^k would require 17 to divide a leading digit.",
+        "5": "Expand the four squared side lengths into four terms t²+(1−t)², each between 1/2 and 1.",
+        "6": "Use the two parallel lines through A and B parallel to CM, where M is the midpoint of AB; C has equal distance from them.",
+        "7": "Either three integers have one residue modulo 3, or all three residues occur.",
+        "8": "If the midpoint is (x,y), the endpoints are (4x−2y,4x−2y) and (2y−2x,4y−4x). The length condition gives (2y−3x)²+(3y−4x)²=4.",
+        "9": "The partial sum is floor(n²/4); s+t and s−t have the same parity, so their rounding corrections cancel.",
+        "10": "Repeated integral factorization converts four equal values into a divisibility obstruction; the distinctness bound on the four factors is essential."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1971,
+      "ratings": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "8": 2.5,
+        "9": 3.5,
+        "7": 4,
+        "10": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1971.pdf",
+      "assessmentNotes": {
+        "1": "Power of E gives 3·5=1·(2r−1), so r=8.",
+        "2": "The product is 1+2/(xy), and xy≤1/4.",
+        "3": "Apply the cosine rule in ADC and BCD with equal adjacent side lengths and common CD; cosine decreases on (0,π).",
+        "4": "Subtract to get (a−1)(x−1)=0; a=1 works, otherwise x=1 forces a=−2.",
+        "5": "Every integer is congruent to 0 or 1 modulo 2, and the polynomial is odd at both residues.",
+        "6": "If 121 divided (n+1)²+11, then 11 would divide n+1, making the expression 11 modulo 121.",
+        "8": "Area decomposition gives five times the inradius, equal to 5r cos 36 degrees.",
+        "9": "Equality of elevation angles fixes the ratio of distances to the poles; the locus is an Apollonius circle, or the perpendicular bisector when the heights agree.",
+        "7": "The key is to bound the correction to ten times the shortened number below one full divisor, forcing the quotient exactly.",
+        "10": "The first person to know everything provides a useful time cut; a connectivity lower bound before that moment must be combined with separate recipients afterwards."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1972,
+      "ratings": {
+        "1": 3.5,
+        "2": 1.5,
+        "3": 2.5,
+        "4": 3,
+        "6": 1.5,
+        "8": 3.5,
+        "5": 4,
+        "7": 4.5,
+        "9": 4,
+        "10": 5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1972.pdf",
+      "assessmentNotes": {
+        "1": "The three centres form an equilateral triangle of side 2. Their common equidistant point gives the inner radius 2/√3−1 and enclosing radius 2/√3+1; a circle enclosing just one or two of the unit circles cannot also be tangent to the others.",
+        "2": "The least a_i has square no greater than each pairwise product, and hence no greater than their average.",
+        "3": "The base-b values factor as (b²+1)² and (b²+b+1)(b²−b+1).",
+        "4": "Reduce the trapezoid to a triangle having the two legs and the difference of the parallel bases as side lengths, then copy a parallel side.",
+        "6": "Choose (m,n)=(1,−1) or (−1,1) according to the sign of a−b.",
+        "8": "Pair each subset of promises with its complement. At most one member of each complementary pair can occur.",
+        "5": "Factoring the difference of cubes restricts the positive gap to a divisor below 11; a second modular obstruction then closes the proof.",
+        "7": "The quadratic produces a precise rational upper bound; distinguishing a repeating decimal from its finite truncation requires an independent exact square comparison.",
+        "9": "Signed distance coordinates turn the geometric locus into a piecewise linear level set; the minimum is a filled region, a case that must not be mistaken for only its boundary.",
+        "10": "Integrality constrains both endpoints through powers of the reduced numerator and denominator; combining this with the interval ratio gives the sharp obstruction."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1973,
+      "ratings": {
+        "1": 2.5,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 3,
+        "7": 3.5,
+        "6": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1973.pdf",
+      "assessmentNotes": {
+        "1": "The five short parts reduce to x<−1/2; largest integer −6; a mediant such as 17/37; 32·3125; and log_36(6)=1/2.",
+        "2": "Split at −3 and 1, solve each linear equation, and retain roots in their respective intervals.",
+        "3": "An odd twin-prime pair beyond 3 has middle term divisible by both 2 and 3.",
+        "4": "Vertices 2 and 5 force their triangles; successively vertices 4,1,3,6,7 force all remaining labels. There is exactly one labeling.",
+        "5": "Count each reciprocal 1/k in h(1)+...+h(n−1): its multiplicity is n−k.",
+        "7": "Use 1/n=1/(n+1)+1/[n(n+1)]. The consecutive sum telescopes to 1/i−1/(j+1); choose i=n−1 and j=n(n−1)−1.",
+        "6": "The moving diameter creates a nonstandard circle centred at the intersection of two tangents. A complex line equation establishes both the locus and its converse, including excluded endpoints."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1975,
+      "ratings": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 3.5,
+        "5": 3,
+        "6": 3.5,
+        "8": 3.5,
+        "7": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1975.pdf",
+      "assessmentNotes": {
+        "1": "Numerator and denominator are 8 and 27 times the same sum of cubes; the cube root is 2/3.",
+        "2": "Subtract consecutive partial-sum equations to get a_n=(n−1)a_(n−1)/(n+1), hence a_n=1/[n(n+1)].",
+        "3": "The floor pair must be one of (±2,0),(0,±2), giving four half-open unit squares.",
+        "4": "Writing integer part a and decimal part d gives a²=d(a+d). Then d=a(√5−1)/2<1 forces a=1.",
+        "5": "The two opposite arcs between consecutive arc-midpoints sum to a semicircle, so the intersecting chords are perpendicular.",
+        "6": "Across all rotations the total correct placements is 15. If the original rotation has none, one of the other 14 has at least two. The permutation i↦2i modulo15 has one match under every rotation.",
+        "8": "If P is nonconstant, its range is infinite and P(t)−t^k vanishes on that range, forcing P(x)=x^k. Constants satisfy c=c^k.",
+        "7": "The irregular spacing of zeros is not by itself a proof; choosing three particular zeros forces two incompatible rationality conditions on a hypothetical period."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1976,
+      "ratings": {
+        "1": 3.5,
+        "2": 4,
+        "3": 4.5,
+        "4": 3,
+        "5": 4.5,
+        "6": 4.5,
+        "7": 3,
+        "8": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1976.pdf",
+      "assessmentNotes": {
+        "1": "Weigh two pairs, then compare the members of the heavier pair. The pair containing the largest weight always outweighs the other: the only nontrivial case is r³+1>r²+r.",
+        "2": "Recognizing the factorial pattern after the two exceptional initial terms turns a second-order recurrence into a simple sum, with the initial exceptions needing separate treatment.",
+        "3": "The score identity creates a divisor restriction, but the count is not unique; feasibility constructions are needed to distinguish algebraic possibilities from actual tournaments.",
+        "4": "The printed relation is AC/CB=QC/CP, so CP is a fixed multiple of CQ. With ordinary unoriented lengths, both homotheties about C occur; their images of the original circle give the locus.",
+        "5": "The factorization of twice the sum gives the obstruction; constructing a positive run requires switching between odd and even lengths according to the size of the odd part.",
+        "6": "Three perpendicularity conditions isolate a possible out-of-plane component; the fourth forces its squared length to vanish.",
+        "7": "After dividing by x−y, symmetry makes the quotient antisymmetric. It vanishes at x=y and is divisible by x−y again.",
+        "8": "The sharp nine-vertex bound needs a parity improvement to the degree bound followed by the six-vertex Ramsey argument."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1977,
+      "ratings": {
+        "1": 3,
+        "2": 3.5,
+        "4": 3.5,
+        "5": 3.5,
+        "6": 3,
+        "3": 4,
+        "7": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1977.pdf",
+      "assessmentNotes": {
+        "1": "The equation becomes (2b+1)²−4(2a+1)²=−3; factor the two integers of product −3 to force a=0.",
+        "2": "The sine rule bounds sin(angle OPA) by OA/OP, with equality when AP is perpendicular to OA. The relevant angle is acute.",
+        "4": "Reduce the polynomial product modulo2; the polynomial ring over a field has no zero divisors. Both factors cannot be entirely even, since the product is not entirely divisible by4.",
+        "5": "Unroll the cone into a sector of angle120 degrees. The shortest path is its chord, whose distance from the apex is 3cos60=3/2.",
+        "6": "The interval 1<u_n≤1+u is preserved because 1/(1+u)+u>1 and 1/u_n+u<1+u.",
+        "3": "Divisibility of a fourth power forces its root to be a multiple of7, giving a sharp size lower bound that is exactly attained.",
+        "7": "The useful encoding is not a sequence of local turns but the mod-two region bounded by the route and a fixed boundary path; consistency and injectivity both require proof."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1978,
+      "ratings": {
+        "1": 2,
+        "2": 4.5,
+        "3": 4,
+        "4": 4.5,
+        "5": 5,
+        "6": 5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1978.pdf",
+      "assessmentNotes": {
+        "1": "Modulo4 leaves units 2,3,6,7 among numbers with tens digit7; modulo5 leaves only6.",
+        "2": "A complete parametrization needs separate exponent balances at2 and3, alongside the ordinary primes.",
+        "3": "Eliminating the other variables leaves a discriminant condition; checking its endpoint also proves attainability of the maximum.",
+        "4": "Affine coordinates at the external intersection cause the same determinant factor to appear in both areas, revealing an invariant ratio.",
+        "5": "The parity objective requires choosing the centre colour opposite to the player’s desired parity, then an antipodal response ensures four central points and two additional outer points.",
+        "6": "The rotation separates a squared difference from a sum variable, turning an opaque cubic curve into two explicitly controlled branches with a non-obvious asymptote."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1979,
+      "ratings": {
+        "1": 2,
+        "2": 4.5,
+        "3": 6.5,
+        "4": 4.5,
+        "5": 3.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1979.pdf",
+      "assessmentNotes": {
+        "1": "The geometric product is ab and the arithmetic product exceeds it by 2(a−b)²/9.",
+        "2": "A varying family avoids difficult exact counterexample arithmetic: the limiting flattening changes the sum, and continuity makes the comparison rigorous for nondegenerate tetrahedra.",
+        "3": "The sharp constant emerges only after strengthening the statement to arbitrary chain length and splitting according to whether the next integer at least doubles.",
+        "4": "The useful insight is a small circle through the arena centre; its double-angle arc relation proves the equal-speed condition without solving a differential equation.",
+        "5": "The first counts are4,12,36,100: from108 nonbacktracking four-step walks remove eight unit-square loops. Nonbacktracking gives the upper bound; the 2^n north/east walks plus at least one other give the strict lower bound."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1980,
+      "ratings": {
+        "1": 2,
+        "2": 4.5,
+        "3": 4.5,
+        "4": 4,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1980.pdf",
+      "assessmentNotes": {
+        "1": "Divisibility by8 forces b=2; divisibility by9 then forces a=3.",
+        "2": "The second sorting step destroys the original pair positions; comparing order statistics through the original pairings proves the claimed preservation.",
+        "3": "The inradius constraint is best converted to tangent lengths; optimizing the remaining cotangent sum identifies the equality configuration.",
+        "4": "The event is hitting a running total rather than stopping after a fixed number of tosses; conditioning gives a second-order recurrence with an alternating correction.",
+        "5": "A valid counterexample must work for all face directions. The octahedron’s parallel slices change shape but have alternating edge lengths whose sum stays fixed."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1981,
+      "ratings": {
+        "1": 3.5,
+        "2": 4,
+        "3": 3.5,
+        "4": 4,
+        "5": 6
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1981.pdf",
+      "assessmentNotes": {
+        "1": "If x<196, the sum of the six floors is at most195+391+783+1567+3135+6271=12342. If x≥196, it is at least63·196=12348. The target lies in the skipped interval.",
+        "2": "The area is a one-variable product with unequal exponents; splitting the repeated factor into three parts gives a sharp AM–GM bound.",
+        "3": "For finitely many lines, move a centre far along a direction parallel to none; all distances grow without bound. For infinitely many lines, the vertical lines with rational x-coordinate meet every positive-radius circle.",
+        "4": "Commutation relates the two crossed evaluations; combining them with the proposed equality creates opposite signs and invokes continuity.",
+        "5": "The schedules form an antichain rather than just distinct binary codes; a permutation-counting proof of the five-day upper bound is needed for the exact minimum."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1982,
+      "ratings": {
+        "1": 4,
+        "2": 4.5,
+        "3": 5.5,
+        "4": 4.5,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1982.pdf",
+      "assessmentNotes": {
+        "1": "The construction becomes successive edge vectors; expanding the shoelace determinants exposes a cancellation that gives the exact factor of two.",
+        "2": "The large exponent is handled symbolically: a generating function packages the divided differences and Vieta makes the entire series integral.",
+        "3": "The lower bound is geometric, while a three-point collinear construction uses an algebraic number of degree three to obstruct rational squared distances.",
+        "4": "A near-cancellation between two permutation classes becomes exact only after deriving and rearranging the derangement recurrence.",
+        "5": "Reciprocal altitudes become face areas after multiplying by the common volume; the closed-surface area-vector identity supplies the cancellation."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1983,
+      "ratings": {
+        "1": 2.5,
+        "2": 4.5,
+        "3": 5,
+        "4": 4.5,
+        "5": 3.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1983.pdf",
+      "assessmentNotes": {
+        "1": "Every summand factorial is smaller than w!, so w!≤3(w−1)!, giving w≤3. Positivity forces w=3, and then x=y=z=2.",
+        "2": "Scaling has separate positive and negative orbits; dividing by x reveals a logarithmic translation law and leaves two independent constants.",
+        "3": "A counterexample needs simultaneous control of all four faces. The symmetric coordinate family makes them congruent while leaving the volume adjustable.",
+        "4": "The exponent and the value of n are controlled in two coprime moduli; the Chinese remainder theorem joins the two requirements.",
+        "5": "Take logarithms. Across all nonempty subsets, each original logarithm has the same total coefficient, and the sum of all coefficients is 2^n−1; dividing by that count gives coefficient1/n for every original number."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1984,
+      "ratings": {
+        "1": 4.5,
+        "2": 4.5,
+        "3": 4,
+        "4": 4.5,
+        "5": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1984.pdf",
+      "assessmentNotes": {
+        "1": "The relevant modulus is64, matching the exact power of two in the interval length; the residue sum forces an odd valuation.",
+        "2": "The small cycles behave differently from the general case. An asymmetric three-mark pattern gives a uniform two-colour construction, while reflections obstruct it for n≤5.",
+        "3": "The number of digits must divide the repunit itself; tripling the length creates exactly the divisibility needed for an infinite family.",
+        "4": "The acute hypothesis identifies the circumcentre as an admissible point; maximizing the area of a triangle on a fixed circle gives the sharp radius bound.",
+        "5": "The fractional expression suggests tangent subtraction; pigeonholing the transformed angles also ensures the denominator is nonzero with the required sign."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1985,
+      "ratings": {
+        "1": 4.5,
+        "2": 3.5,
+        "3": 4,
+        "4": 4,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1985.pdf",
+      "assessmentNotes": {
+        "1": "Both bisections translate to sum and product conditions, but checking all three possible corner triangles and their side-length feasibility is essential for uniqueness.",
+        "2": "If the first digit is d and the remaining k-digit block is N, the condition is8N=d(2·10^k−1). Thus8 divides d, forcing d=8 and N=2·10^k−1, too large for the remaining block.",
+        "3": "The separate tangent and sine bounds go in opposite directions; a half-angle comparison combines them into a useful lower bound.",
+        "4": "Legendre’s count must be converted to binary digit sum; the near-maximal valuation then characterizes powers of two.",
+        "5": "An initial trapping interval gives a uniform contraction factor; checking the third term separately is needed for the exact power-of-two bound."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1986,
+      "ratings": {
+        "1": 4.5,
+        "2": 5,
+        "3": 4,
+        "4": 3.5,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1986.pdf",
+      "assessmentNotes": {
+        "1": "Coordinates turn the linked length and angle conditions into a quartic whose unexpected factorization gives a cube root.",
+        "2": "The score totals first restrict the number of events and award triples; the known winner then forces all placements, including an event not named in the totals.",
+        "3": "The midpoint coordinates factor into a variable scalar times a fixed direction, which makes the moving angle constant.",
+        "4": "Pair r with n−r modulo n, and r with n+1−r modulo n+1. For odd powers both show2F(n,k) divisible by the respective modulus. Coprimality gives n(n+1)|2F(n,k).",
+        "5": "An early zero alone does not imply infinitely many. Reversibility upgrades eventual periodicity of a finite-state recurrence to periodicity from the start."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1987,
+      "ratings": {
+        "1": 4.5,
+        "2": 4,
+        "3": 6,
+        "4": 4,
+        "5": 3.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1987.pdf",
+      "assessmentNotes": {
+        "1": "Small factorials are best eliminated by the parity of valuations at primes3 modulo4; the surviving case still requires a short divisibility descent.",
+        "2": "The digit sum creates a strong divisor condition on one less than the base; length bounds reduce that condition to two cases.",
+        "3": "Three isosceles conditions each have three possible equal-angle choices. An exhaustive angle-system analysis, including positivity and an existence check, is required to avoid losing the nonstandard seventh-turn cases.",
+        "4": "The nearest-neighbour rule forces directed cycles to be mutual pairs; a global indegree count then converts oddness into an unhit person.",
+        "5": "The square of √n+√(n+1) lies strictly between4n+1 and4n+2. No square lies between4n+1 and4n+3, since squares are0 or1 modulo4, so all stated floors agree."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1988,
+      "ratings": {
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 4,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1988.pdf",
+      "assessmentNotes": {
+        "1": "Subtracting the equations forces x²=1; substitution gives b=±10879.",
+        "2": "The enlarged region is the triangle, three rectangular strips of total area5P, and circular sectors whose total angle is2π. Total area is A+5P+25π.",
+        "3": "Selecting a smallest monochromatic area turns three blocked sides into a strictly smaller triangle of the opposite colour.",
+        "4": "The coupled quadratic identity becomes a multiplicative norm after combining the two sequences into one quadratic-field expression.",
+        "5": "The subset-product expansion fixes the sequence length before a signed factorization. The original integer wording allows zero and negative entries, which must not be silently excluded."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1989,
+      "ratings": {
+        "1": 3,
+        "2": 3.5,
+        "3": 3.5,
+        "4": 5,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1989.pdf",
+      "assessmentNotes": {
+        "1": "Read the order backwards: the final entry must be the least or greatest remaining number. Each of the first n−1 removals has two choices, giving2^(n−1).",
+        "2": "Put the right angle at(0,0), other vertices(b,0),(0,c), with bc=2. The reflected points are(−b,0),(0,−c),(2bc²/(b²+c²),2b²c/(b²+c²)); the determinant gives area3.",
+        "3": "The printed first term is1989^1989. It has fewer than7956 digits, so a2<71604, a3≤45, and a4≤12. All terms are positive multiples of9, so a4=a5=9.",
+        "4": "Ropes need not be horizontal, so height alone is not a valid monotone quantity. Reversible local routing rules exclude both cycles reached from an entrance and merging routes.",
+        "5": "A stronger identity for arbitrary positive entries makes the sum collapse when permutations are grouped by their last element."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1991,
+      "ratings": {
+        "1": 3.5,
+        "2": 3.5,
+        "3": 3,
+        "4": 4,
+        "5": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1991.pdf",
+      "assessmentNotes": {
+        "1": "Use the seed3²+(−1)^5=2³ and weighted scaling: (x,y,z)=(3t^15,−t^6,2t^10) gives infinitely many nonzero integer solutions.",
+        "2": "The leading bit contributes2^(2n−1)·C(2n−1,n−1); every other position is1 in C(2n−2,n−2) strings, giving the remaining contribution(2^(2n−1)−1)·C(2n−2,n−2). For n=1 the answer is2.",
+        "3": "The midpoint of each chord is the perpendicular projection of the circle centre O onto its line through P, so it lies on the circle with diameter OP. If P=O all midpoints coincide at O, which is contained in a circle.",
+        "4": "The diagram is an all-even-degree graph; summing edge differences modulo2 creates a global obstruction to the proposed distinct labels.",
+        "5": "Counting by orientation avoids overlap, and a lattice-coordinate parametrization turns containment in the large triangle into a stars-and-bars constraint."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1992,
+      "ratings": {
+        "1": 4,
+        "2": 4,
+        "3": 4.5,
+        "4": 3.5,
+        "5": 5.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1992.pdf",
+      "assessmentNotes": {
+        "1": "Cancelling the triangular sum reduces the problem to a factorial divisibility criterion; odd prime squares need separate handling because a factor cannot be counted twice without justification.",
+        "2": "Expanding reveals a symmetric cubic inequality hidden by an asymmetric statement; ordering the variables gives a nonnegative factorization and all equality cases.",
+        "3": "Two moving intersections make direct area comparisons awkward; coordinates reduce the deficit from the maximum to a square divided by a positive quantity.",
+        "4": "Set t=x+1 and u=t+1/t. The equation reduces to u²−2u−4=0; only u=1+√5 has |u|≥2. Thus x=(√5−1±√(2+2√5))/2.",
+        "5": "The middle vacancy changes the total-position parity; combining that obstruction with explicit verified arrangements resolves every requested size through10."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1993,
+      "ratings": {
+        "1": 4.5,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1993.pdf",
+      "assessmentNotes": {
+        "1": "A geometric size bound makes the integer search finite and small; checking integer right-triangle legs leaves two heights, and the base condition singles out one.",
+        "2": "The forward implication needs to rule out a vanishing coefficient; the converse constructs terms even when the original rational number is negative.",
+        "3": "The centroid makes the perpendicular-median condition into coordinate axes; the cotangent sum becomes a simple squared-length ratio.",
+        "4": "Encoding each school by its gender imbalance turns both global balance conditions into a sum-of-squares bound that counts odd-sized schools.",
+        "5": "The parity-dependent recursion is an adjacent-bit transform. An explicit inverse, rather than mere injectivity on initial blocks, proves every positive value occurs exactly once."
+      }
+    }
+  ],
+  "papersScreened": 118,
+  "problemAppearancesScreened": 724,
+  "uniqueIncluded": 663,
+  "gaps": [
+    "Canada: every CMO paper1969–2026 has been reviewed. Four individual questions remain held:1969Q1 (undefined denominator),1974Q7 (timetable assumptions),1990Q5 (unproved recurrence run-length law),2001Q5 (undefined ratio). All other CMO questions have individual numeric assessments. All CJMO2020–2026 fully screened. Official worked solutions are linked only from1994; earlier included questions have original independently checked proofs.",
+    "US: all USAJMO 2010–2026 and USAMO 2006–2025 papers fully screened. USAMO 1972–1995 Q1–5 and 1996–2005 Q1–6 remain unassessed (180 questions in34 papers), with usable historical archives located. USAMO2026 Q1 and Q3 remain held for incomplete source proofs. See research/americas/historical-inventory.json for exact year-by-year inventory.",
+    "USAMO 2026 Q1 source notes explicitly withdraw the key inequality proof; Q3 lacks a proof. Both remain unrated and unpublished.",
+    "Brazil: selected OBM Level 2/3 problems from 2021–2024 only; earlier years and remaining questions not yet fully assessed.",
+    "Argentina: four selected OMA National2024 Level2/3 questions only; remaining years/levels are pending.",
+    "Mexico: OMM State Final 2014 and OMM National 2015–2017 fully screened; 2013/2015 state finals and 2014 national paper partially screened. Other years pending.",
+    "Latin-American gaps: Chile 2021 junior/senior finals partially screened from indexed official papers; other Chile papers are blocked by intermittent organizer timeouts/503. Bolivia and other national competitions remain pending except as separately listed. Cono Sur 2024 fully screened; Ibero-American 2024/2025 partially screened. Other regional years pending.",
+    "Paraguay: OMAPA Final Level 3 2010 and 2012 fully screened; other years and levels pending. The 2012 path solution needed a complete constructive sufficiency argument, supplied independently.",
+    "Ecuador: SEdeM Juvenile Levels II and III 2024 fully screened; OMEC national papers and other years pending. SEdeM is a distinct national organizer/competition, not relabelled as OMEC.",
+    "Venezuela: OJM Final 2023 Year 3 and shared Years 4–5 papers fully screened. The shared digit-sum question is one bank entry with both appearances. Other years and levels pending.",
+    "Costa Rica: OLCOMA Final Level III 2017 fully screened from organizer-authored TEC volume. Q5 duplicates OMM National 2016 Q1 and is represented as an additional appearance. Other years and levels pending; contemporary OLCOMA web archive intermittently returns 503.",
+    "Peru: ONEM National Final Level 3 2024 Q1/Q3/Q4 individually assessed; Q2 geometry remains pending. The official exam is available through an indexed public mirror while the organizer archive returns HTTP 418. Other years/levels pending.",
+    "Cuba: 2023 Pre-university common day 1 and Grade 10/11/12 day-2 papers fully screened; the prime equation shared by grades 11/12 has one entry with both appearances. Official authorship and year verified by publisher EDUNIV catalogue; public mirror used for problem text. Secondary and team-selection papers and other years pending.",
+    "Colombia: official Superior Selection Round 2017 fully screened (12 questions). National final rounds and other selection years remain pending. The archive URL directory says 2020, but the examination itself unambiguously says 4 April 2017.",
+    "Uruguay: official national final Level V 2016/2017 and Level IV 2017 fully screened from real PDFs linked on the organizer’s level-specific archive. Its generic newer past-paper page contains placeholder links. Other years/levels remain pending."
+  ],
+  "method": "Each numerical rating is an individual statement-and-solution assessment. Every supported reviewed question is included irrespective of difficulty; 4–7 is only the preferred browsing range. Common problems share one entry with alternate appearances.",
+  "partiallyScreened": [
+    {
+      "competition": "OMM State Final",
+      "year": 2013,
+      "ratings": {
+        "2": 4,
+        "5": 4.5,
+        "7": 4.5,
+        "1": 3.5,
+        "4": 3.5,
+        "6": 3
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OMM State Final",
+      "year": 2015,
+      "ratings": {
+        "2": 4,
+        "4": 5.5,
+        "6": 6,
+        "3": 3.5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OMM National",
+      "year": 2014,
+      "ratings": {
+        "1": 4,
+        "2": 5.5,
+        "5": 5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 2",
+      "year": 2021,
+      "ratings": {
+        "5": 6,
+        "6": 5.5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 2",
+      "year": 2023,
+      "ratings": {
+        "3": 6.5,
+        "4": 4.5,
+        "5": 6
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 3",
+      "year": 2023,
+      "ratings": {
+        "1": 5.5,
+        "4": 4.5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 2",
+      "year": 2024,
+      "ratings": {
+        "4": 4
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 3",
+      "year": 2024,
+      "ratings": {
+        "2": 5.5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OMA National Level 2",
+      "year": 2024,
+      "ratings": {
+        "3": 4,
+        "5": 4
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OMA National Level 3",
+      "year": 2024,
+      "ratings": {
+        "1": 4.5,
+        "5": 4.5
+      },
+      "status": "partial; other paper questions are not yet fully assessed"
+    },
+    {
+      "competition": "OBM Level 2",
+      "year": 2022,
+      "ratings": {
+        "1": 3.5,
+        "2": 5,
+        "5": 5.5,
+        "6": 6.5
+      },
+      "pending": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "competition": "USAMO",
+      "year": 2026,
+      "ratings": {
+        "2": 7,
+        "4": 7,
+        "5": 7,
+        "6": 8
+      },
+      "pending": [
+        "1",
+        "3"
+      ],
+      "note": "Q1 source key inequality proof withdrawn as incorrect; Q3 source says solution to be added. Both remain unrated pending an independently completed proof. Q6 checked including the exceptional pair (1,1), omitted by the source’s first parity sentence."
+    },
+    {
+      "competition": "ONM Final — Senior",
+      "country": "Chile",
+      "year": 2021,
+      "ratings": {
+        "1": 2.5,
+        "2": 4,
+        "3": 4.5
+      },
+      "pending": [
+        "4"
+      ],
+      "source": "https://www.olimpiadadematematica.cl/index.php/pruebas-movil/category/17-pruebas-2021?download=47%3Afinal-2021-mayor"
+    },
+    {
+      "competition": "ONM Final — Junior",
+      "country": "Chile",
+      "year": 2021,
+      "ratings": {
+        "1": 2.5,
+        "2": 3,
+        "4": 4
+      },
+      "pending": [
+        "3"
+      ],
+      "source": "https://www.olimpiadadematematica.cl/index.php/pruebas-movil/category/17-pruebas-2021?download=48%3Afinal-2021-menor"
+    },
+    {
+      "competition": "Ibero-American Mathematical Olympiad",
+      "year": 2025,
+      "ratings": {
+        "1": 3.5,
+        "2": 4.5,
+        "4": 5.5
+      },
+      "pending": [
+        "3",
+        "5",
+        "6"
+      ],
+      "source": "https://www.obm.org.br/content/uploads/2025/10/Prova_Ibero_2025.pdf"
+    },
+    {
+      "competition": "Ibero-American Mathematical Olympiad",
+      "year": 2024,
+      "ratings": {
+        "1": 3.5,
+        "4": 6
+      },
+      "pending": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "source": "https://www.obm.org.br/content/uploads/2024/09/Ibero_2024.pdf"
+    },
+    {
+      "competition": "ONEM National Final Level 3",
+      "year": 2024,
+      "ratings": {
+        "1": 3.5,
+        "3": 6,
+        "4": 5.5
+      },
+      "pending": [
+        "2"
+      ],
+      "source": "https://www.scribd.com/document/818167155/2024f4n3"
+    },
+    {
+      "competition": "CMO",
+      "year": 2001,
+      "ratings": {
+        "1": 4.5,
+        "2": 6.5,
+        "3": 4.5,
+        "4": 6.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/sol2001.pdf",
+      "assessmentNotes": {
+        "1": "Evaluating a(x−R)(x−J) at 1 makes a product prime and forces the smaller root to be 2. Factoring −55 gives four cases, and primality of R−1 selects R=18.",
+        "2": "Translate the endpoint probabilities into binomial coefficients. The unreduced fraction permits eight candidate totals, requiring a constrained subset-sum analysis before optimizing which positive labels are red; the actual answer is 35, not the intended reduced-fraction answer 31.",
+        "3": "Recognize P as a circumcircle arc midpoint. Its pedal line is a Simson line, so Z is the midpoint of BC; alternatively congruent right triangles followed by Menelaus give the same ratio.",
+        "4": "Differences modulo n−1 rule out n≥3, with n=1 handled separately. For n=2, a carefully terminating row-doubling and column-subtraction procedure clears one column at a time while preserving earlier zero columns."
+      },
+      "pending": [
+        "5"
+      ],
+      "note": "Held: for t=2sin(15°) or 2sin(75°), the odd-indexed circumcentre sequence makes four quarter-turn steps with ratio 1 and returns to its start. Thus P1=P1001=P2001 and the requested ratio x/y is 0/0. The official answer includes these values without addressing the degeneracy; no corrected statement silently substituted."
+    },
+    {
+      "competition": "CMO",
+      "year": 1969,
+      "ratings": {
+        "2": 1.5,
+        "3": 2,
+        "4": 2.5,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 4.5,
+        "9": 2.5,
+        "10": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1969.pdf",
+      "assessmentNotes": {
+        "2": "Rationalize both differences. The second denominator is smaller, so the second difference is larger.",
+        "3": "Use (a+b)²≤2(a²+b²)=2c²; equality is a=b.",
+        "4": "Decompose the equilateral triangle into three triangles with common side length to obtain the altitude as the sum of distances.",
+        "5": "Use the angle bisector theorem to divide the opposite side, then compare areas using sin(C/2) and sin C.",
+        "6": "Each term k·k! equals (k+1)!−k!, giving (n+1)!−1.",
+        "7": "Squares modulo 8 are 0,1,4; no sum of two is 6.",
+        "8": "Strict integer monotonicity supplies the lower bound; comparing large powers of a hypothetical exceptional value with adjacent powers of two supplies the nontrivial upper bound.",
+        "9": "One of the four central gaps is at most 90 degrees, so its chord is at most √2.",
+        "10": "The three competing area expressions require splitting the interval at the two sharp transition points, rather than applying a single average bound."
+      },
+      "pending": {
+        "1": "Published assumptions do not ensure that the denominator is nonzero: take all a_i=b_i=1 and (p_1,p_2,p_3)=(1,−1,0). The displayed ratio is then 0/0. Held rather than silently adding a hypothesis."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1974,
+      "ratings": {
+        "1": 2.5,
+        "2": 3.5,
+        "3": 3.5,
+        "4": 4,
+        "5": 4.5,
+        "6": 4
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1974.pdf",
+      "assessmentNotes": {
+        "1": "Substitute the two powers for the first identity; pair consecutive squares or induct for the alternating-square identity.",
+        "2": "The angles have tangents 1/3,1/2,1, so the tangent-addition identity gives the result.",
+        "3": "The coefficient is at most a₀(a₁+...+aₙ)≤f(1)²/4, which is stronger than required.",
+        "4": "Sorting exposes the signed linear coefficients and identifies the correct extremal configuration; the final count depends on the parity of n.",
+        "5": "The coordinate proof requires finding the secant-tangent intersections and keeping the exceptional parallel case when the common intercept goes to infinity.",
+        "6": "One residue choice proves representability uniformly above the sharp gap; verifying only a few examples would not establish the threshold."
+      },
+      "pending": {
+        "7": "Bus timetable question is not published yet: original says only that each 12-mile circuit takes 20 minutes, without explicitly fixing speed along the route. Under the conventional common constant-speed interpretation, the supremum waiting-plus-travel time on the circle is (5/3) times the piecewise functions 12+x (1<x≤3),18−x (3≤x≤6),6+x (6≤x≤9),24−x (9≤x<11), giving w(2)=w(4)=70/3 and maximum25 at x=3,9. The shared stem, the junction endpoints, and the unstated speed assumption need source clarification before inclusion."
+      }
+    },
+    {
+      "competition": "CMO",
+      "year": 1990,
+      "ratings": {
+        "1": 4,
+        "2": 4.5,
+        "3": 4.5,
+        "4": 4.5
+      },
+      "source": "https://cms.math.ca/wp-content/uploads/2019/07/exam1990.pdf",
+      "assessmentNotes": {
+        "1": "The total-score condition is necessary but not sufficient; constructions handle the odd-round case and exclude the single-round candidate.",
+        "2": "The row maxima are not independent. Conditioning on the position of the global maximum preserves the smaller uniform problem and yields the exact product.",
+        "3": "Each pair of adjacent projections lies on a diameter circle; converting the four pedal lengths to sine products lets cyclicity cancel the two sums.",
+        "4": "The fastest route may use the axis before leaving it; optimizing that departure point creates tangent line segments joined to a circular arc."
+      },
+      "pending": {
+        "5": "The recursively defined slow-growing sequence appears to have each positive value m repeated1+v_2(m) times, which would put value1025 uniquely at index2048. A complete proof of this run-length law and the requested increment assertions has not been verified. No numerical rating or publishable answer assigned."
+      }
+    }
+  ],
+  "qualityNotes": [
+    "MathNet source text is not accepted without mathematical review: corrected USAMO 2011 Q4 exponent from 2^(2n) to 2^(2^n), checked against author PDF.",
+    "USAMO 2006 Q1 source solution floor/ceiling typo recognized; published statement unaffected.",
+    "US sources link author-maintained notes, labelled as such, rather than asserting they are official solutions.",
+    "MathNet Brazil2022 namespace held Romanian IMO-TST problems; rejected rather than assigning them to Brazil. Mexico namespace SpaMO metadata also not used.",
+    "Latin-American original solutions were worked through independently when a trustworthy inline solution was unavailable. State-final Mexico worked solution PDFs were read and linked.",
+    "Uruguay 2016 Level V Q3 domain corrected transparently from n positive to n≥2, since n=1 makes the published equivalence false. Uruguay 2017 Level V Pascal-triangle diagram visually checked for row numbering.",
+    "CMO 2014 Q1 B₀ typo, Q3 swapped linear/quadratic sum names, and Q4 inconsistent point names and angle/diagonal references corrected in independently reconstructed original proofs. CMO 2012 Q2 original exposition supplies the omitted check that p+1 divides the common interval LCM."
+  ],
+  "verificationNotes": [
+    "USAMO 2021 Q2 construction independently reconstructed from the stated walk: missing edges CD, CE, IJ; the resulting cubic rotation system has 10 vertices, 15 edges, 7 faces, and the alternating-turn walk CAHIFGDBAHEFGJBAC reaches A three times. USAMO 2022 Q5 source table expanded into a general binary-block proof; the reversed inequality sign in its lower-bound paragraph was corrected in independent reasoning.",
+    "USAMO 2018 Q6 is excluded above target: the concluding source bullets transpose the fantastic/non-fantastic categories, but the prior degree-parity argument gives the correct conclusion. USAMO 2019 Q3 is excluded above target; its displayed source proof implicitly assumes integer coefficients and omits a coefficient later, so that source is not treated as a verified complete proof for the stated real-coefficient problem. All included questions in these papers were checked separately. USAMO 2016 Q6 uses k<n, correcting the later source line saying k≤n; USAMO 2016 Q5 cyclic arc-midpoint names were checked against the geometry.",
+    "Cono Sur 2024 Q3 has expression 3^n−2^n−1; the organizer PDF text layer loses the exponent on 2. Cross-checked with independently posted original proofs. It is above the target band. Q1 has elementary family (t,t+2,t+10,t+6), rated below target. Q5 is a product of insertion counts, also below target. Q2 solution independently simplified to common gap ratios and translations; Q6 four-colour table independently computed and its two move properties checked.",
+    "USAJMO 2010–2014 reviewed individually in full. Eight shared USAMO appearances added without duplicate problem entries. USAMO 2013 Q4 / USAJMO 2013 Q6 now has an independently reconstructed proof correcting reversed inequality signs and a missing intermediate square in cached notes. USAJMO 2014 Q6 has a complete coordinate proof supplying the source’s omitted lemma.",
+    "CMO 2004–2009 individually reviewed in full. Official CMO 2007 Q2 prints the lower similarity bound twice; corrected upper endpoint is supported by its solution. CMO 2006 Q1 preserves the actual 1003 endpoint and supplies a corrected finite sum (j=0, not j=1); organizer intended endpoint 4012 is documented separately. CMO 2009 Q4 original proof repairs the source’s unjustified valuation step, and Q5 supplies the missing infinite-set argument with an explicit at-least-three-points qualification.",
+    "CMO 1996–2003: 39 questions individually assessed. CMO 2001 Q2 retains the officially acknowledged unreduced-fraction interpretation, whose maximum is 35 rather than 31. CMO 2001 Q5 held for a genuine periodic-orbit degeneracy making its requested distance ratio undefined. CMO 2002 Q5 independent solution supplies the missing positive-index justification in the minimal-difference argument."
+  ],
+  "restorationPending": []
+}

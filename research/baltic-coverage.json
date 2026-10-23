@@ -1,0 +1,759 @@
+{
+  "reviewedCount": 56,
+  "includedCount": 53,
+  "decisions": [
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 9–10",
+      "number": "1",
+      "difficulty": 3,
+      "included": true,
+      "reason": "The single substitution u=x−6/x reduces the rational equation to a quadratic, followed by two elementary quadratics and denominator checks.",
+      "id": "baltic-lithuania-2025-Grades-9–10-1"
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 9–10",
+      "number": "2",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "The perpendicular bisector of AB and the triangle midline immediately give similar triangles with scale2; only one auxiliary foot is needed.",
+      "id": "baltic-lithuania-2025-Grades-9–10-2"
+    },
+    {
+      "id": "baltic-lithuania-2025-Grades-9–10-3",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 9–10",
+      "number": "3",
+      "difficulty": 5.5,
+      "ratingReason": "An ordinary checkerboard does not give the required obstruction. A four-parity colouring bounds the number of pieces, then a separate overlapping construction must attain the bound.",
+      "included": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 9–10",
+      "number": "4",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "The floor-square-root interval leaves just two multiples of m+1, after which the requested divisibility is direct; part(a) illustrates the same idea.",
+      "id": "baltic-lithuania-2025-Grades-9–10-4"
+    },
+    {
+      "id": "baltic-lithuania-2025-Grades-11–12-1",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 11–12",
+      "number": "1",
+      "difficulty": 5,
+      "ratingReason": "Positivity has to be established rather than assumed. Individual AM–GM bounds and the product of all four equations then force simultaneous equality.",
+      "included": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 11–12",
+      "number": "2",
+      "difficulty": 3.5,
+      "included": true,
+      "duplicateOf": {
+        "section": "Grades 9–10",
+        "number": "2"
+      },
+      "reason": "Identical task appearing in the other age group; counted once in the bank."
+    },
+    {
+      "id": "baltic-lithuania-2025-Grades-11–12-3",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 11–12",
+      "number": "3",
+      "difficulty": 5,
+      "ratingReason": "Swapping the two digits cancels large complete ranges. The truncated final interval needs a careful count, including numbers with equal counts which contribute neither way.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2025-Grades-11–12-4",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 11–12",
+      "number": "4",
+      "difficulty": 4.5,
+      "ratingReason": "Modulo nine supplies candidates but does not exclude the smallest one. Counting carries in the sum 23n+77n provides the missing obstruction.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-9–10-1",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 9–10",
+      "number": "1",
+      "difficulty": 4,
+      "ratingReason": "The even case needs a counterexample, while the odd case requires multiplying by a suitable variable to exploit the rational pairwise products.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-9–10-2",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 9–10",
+      "number": "2",
+      "difficulty": 4,
+      "ratingReason": "The supplementary-angle condition hides a useful congruence; a second similarity between two isosceles triangles yields the product relation.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-9–10-3",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 9–10",
+      "number": "3",
+      "difficulty": 5,
+      "ratingReason": "A response strategy can maintain consecutive squares, but the cubic case requires shifting the response by a half-round and exploiting a cube-free interval.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-9–10-4",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 9–10",
+      "number": "4",
+      "difficulty": 5,
+      "ratingReason": "Adding and subtracting the equations exposes a two-squares product identity. The nonzero condition is essential when restricting the factor pairs, and existence must still be checked.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-11–12-1",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 11–12",
+      "number": "1",
+      "difficulty": 4.5,
+      "ratingReason": "The coefficient restrictions suggest an extremal allocation after ordering the variables. A separate equality example is needed to show the universal bound is sharp.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-11–12-2",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 11–12",
+      "number": "2",
+      "difficulty": 4.5,
+      "ratingReason": "Reframing the desired concurrency as a common circumcentre reveals the key task: proving an auxiliary quadrilateral cyclic using tangency and the given parallels.",
+      "included": true
+    },
+    {
+      "id": "baltic-lithuania-2026-Grades-11–12-3",
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 11–12",
+      "number": "3",
+      "difficulty": 5.5,
+      "ratingReason": "Closure conditions first force a useful anchor, then downward propagation by two. Completing the classification requires separating the case where zero belongs to both sets.",
+      "included": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 11–12",
+      "number": "4",
+      "difficulty": 5,
+      "included": true,
+      "duplicateOf": {
+        "section": "Grades 9–10",
+        "number": "4"
+      },
+      "reason": "Identical task appearing in the other age group; counted once in the bank."
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "number": "1",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "Subtracting successive triple parities makes the eight cyclic parities equal; the odd triple sum then forces every count odd.",
+      "id": "baltic-latvia-2025-Grade-9-1"
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "number": "2",
+      "difficulty": 3,
+      "included": true,
+      "reason": "A midpoint parallel or an elementary area-ratio computation proves the median intersection ratio directly.",
+      "id": "baltic-latvia-2025-Grade-9-2"
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-9-3",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "number": "3",
+      "difficulty": 5,
+      "ratingReason": "The two increments become one or two steps in a different residue cycle. Finding adjacent target residues then proves that no path can avoid them indefinitely.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-9-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "number": "4",
+      "difficulty": 4.5,
+      "ratingReason": "The balanced and unbalanced first outcomes leave different candidate structures; a complete adaptive decision tree must resolve both in just two further weighings.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "number": "5",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Erase2025 first and pair each remaining x with2025−x. Mirroring the opponent leaves one complementary pair, a standard pairing strategy.",
+      "id": "baltic-latvia-2025-Grade-9-5"
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "number": "1",
+      "difficulty": 1.5,
+      "included": true,
+      "reason": "Absolute differences have the same parity as ordinary differences, so the cyclic sum is always even.",
+      "id": "baltic-latvia-2025-Grade-10-1"
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-10-2",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "number": "2",
+      "difficulty": 4.5,
+      "ratingReason": "Routine angle chasing stalls until the symmetry axis is introduced. Two congruent triangles then create an unexpected isosceles triangle.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "number": "3",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "Pair complementary divisors of n+1: division by d gives quotient(n+1)/d−1 and remainder d−1, interchanging the lists.",
+      "id": "baltic-latvia-2025-Grade-10-3"
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-10-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "number": "4",
+      "difficulty": 5.5,
+      "ratingReason": "A checkerboard only gives an initial restriction. The decisive obstruction combines the four cells next to the centre with the limited number of pieces able to reach corners, or uses a finer colouring and symmetry.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-10-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "number": "5",
+      "difficulty": 5,
+      "ratingReason": "Deleting the last digit forces a trailing zero, and that restriction must be propagated to a shorter special number before the final two-digit classification.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "number": "1",
+      "difficulty": 4.5,
+      "included": true,
+      "duplicateOf": {
+        "section": "Grade 9",
+        "number": "4"
+      },
+      "reason": "Identical task appearing in the other age group; counted once in the bank."
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-11-2",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "number": "2",
+      "difficulty": 4,
+      "ratingReason": "The equal lengths look like a similarity setup, but expanding the intersecting-chord identity transfers the power relation to the required new circle.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-11-3",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "number": "3",
+      "difficulty": 4.5,
+      "ratingReason": "The useful lower bound is linear and telescopes after summing. The strict inequality depends on checking the equality condition against the distinct permutations.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-11-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "number": "4",
+      "difficulty": 5.5,
+      "ratingReason": "A specially designed four-weight colouring and its rotated or reflected versions pin down the leftover cell; a tiling must then establish attainability.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-11-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "number": "5",
+      "difficulty": 4,
+      "ratingReason": "A construction handles the possible target, while an odd-factor invariant of the gcd rules out the other. Finding either alone does not complete the problem.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "number": "1",
+      "difficulty": 2,
+      "included": true,
+      "reason": "Rewrite the expression as2·12^(n−1)+5^n and reduce12 modulo7; the resulting coefficient is7.",
+      "id": "baltic-latvia-2025-Grade-12-1"
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-12-2",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "number": "2",
+      "difficulty": 5.5,
+      "ratingReason": "The additive side condition needs a carefully chosen point on AD. Cyclic angles and an auxiliary circle then locate the two bisectors, with a tangency case requiring attention.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "number": "3",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "Using x+y+z=1 factors each denominator as(x+1)(y+1); the sum becomes4/[(x+1)(y+1)(z+1)] and one AM–GM application finishes.",
+      "id": "baltic-latvia-2025-Grade-12-3"
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-12-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "number": "4",
+      "difficulty": 4.5,
+      "ratingReason": "A difference-of-squares factorisation restricts the prime factors sharply. The apparent primality conclusion is obtained by determining the input primes.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2025-Grade-12-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "number": "5",
+      "difficulty": 5.5,
+      "ratingReason": "An evaluation modulo a prime supplies an obstruction, but the attainable target requires an explicit polynomial construction using only the permitted operations.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "1",
+      "difficulty": 2,
+      "included": true,
+      "reason": "Divide by the common gcd: the minimum sum of five distinct positive integers is15, giving the exact threshold and example1,2,3,4,5.",
+      "id": "baltic-latvia-2024-Grade-9-1"
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "2",
+      "difficulty": 3,
+      "included": true,
+      "reason": "The trapezium and a larger triangle have equal areas by direct formulas; subtracting their common region proves the result.",
+      "id": "baltic-latvia-2024-Grade-9-2"
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "3",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "Distinct reception counts would be0 through n−1; the maximum forces all other vertices to have sent, contradicting the minimum and minimum degree2.",
+      "id": "baltic-latvia-2024-Grade-9-3"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-9-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "4",
+      "difficulty": 4.5,
+      "ratingReason": "An online placement strategy must cope with adversarial digit choices. Sorting residues into partially filled factors guarantees two multiples of three before capacity becomes an issue.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-9-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "number": "5",
+      "difficulty": 4.5,
+      "ratingReason": "Parity propagates around the entire circle and forces an alternating pattern; only then does the largest entry create a sharp size contradiction.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "number": "1",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "All fifty odd numbers work by parity; fifty-one selected numbers force one of the adjacent pairs(1,2),…,(99,100), whose difference equals their gcd.",
+      "id": "baltic-latvia-2024-Grade-10-1"
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "number": "2",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "The two isosceles triangles and angle-bisector definitions reduce the desired equality to a direct angle sum, without an additional construction.",
+      "id": "baltic-latvia-2024-Grade-10-2"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-10-3",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "number": "3",
+      "difficulty": 4,
+      "ratingReason": "The system first forces positivity and a lower bound. Applying the equation at a largest variable then turns that bound into rigidity.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "number": "4",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Two average equations after moving the misclassified score give n+m=25 for the unaffected groups, hence26 students; the transfer direction follows from monotonicity.",
+      "id": "baltic-latvia-2024-Grade-10-4"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-10-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "number": "5",
+      "difficulty": 5,
+      "ratingReason": "The lower bound comes from analysing the first two activated lines, while a six-cell construction uses both diagonals to start a cascade.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "1",
+      "difficulty": 2,
+      "included": true,
+      "reason": "The square-root domain and the upper bound immediately squeeze b to0 and a to1/4.",
+      "id": "baltic-latvia-2024-Grade-11-1"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-11-2",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "2",
+      "difficulty": 4.5,
+      "ratingReason": "Several similar triangles share one scale factor. Recovering that factor from the two given areas requires a quadratic relation before the remaining region can be calculated.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-11-3",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "3",
+      "difficulty": 4.5,
+      "ratingReason": "The familiar equal-degree pigeonhole argument is insufficient because only some vertices send. Assuming all counts distinct and examining the three extreme counts produces the contradiction.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-11-4",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "4",
+      "difficulty": 5.5,
+      "ratingReason": "Ordering the entries makes two complementary block sums comparable. Using divisibility in both directions gives a stronger inequality than either condition alone.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-11-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "number": "5",
+      "difficulty": 4,
+      "ratingReason": "A complementary pairing makes every recorded curve pass through one common point; counting pairs then converts the geometric condition into the target formula.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "number": "1",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "Subtracting equations gives(x−y)(2xy−1)=0. Equality of two variables forces all three equal, while pairwise distinctness contradicts the three product equations.",
+      "id": "baltic-latvia-2024-Grade-12-1"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-12-2",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "number": "2",
+      "difficulty": 4.5,
+      "ratingReason": "The two cyclic quadrilaterals produce a congruence between triangles outside the original pair of circles. Their equal altitudes then reveal the angle-bisector locus.",
+      "included": true
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-12-3",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "number": "3",
+      "difficulty": 6,
+      "ratingReason": "The usual modulo-three strategy must respect individual consumption budgets. In the tighter case the second player needs a delayed switch of strategy and a quantitative proof that the switch occurs before the budget is exhausted.",
+      "included": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "number": "4",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "For concatenated2^n and14^n, odd n makes C−1 divisible by3 and even n makes it end in5; each divisor is proper.",
+      "id": "baltic-latvia-2024-Grade-12-4"
+    },
+    {
+      "id": "baltic-latvia-2024-Grade-12-5",
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "number": "5",
+      "difficulty": 5,
+      "ratingReason": "The multiplier may be negative, so a naive ratio minimisation is unsafe. Completing a square reduces the universal inequality to a discriminant condition and a sharp equality example.",
+      "included": true
+    }
+  ],
+  "papers": [
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 9–10",
+      "sourceUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2025/04/LMMO2025.pdf",
+      "solutionUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2025/09/LMMO2025s.pdf",
+      "sittingDate": "2025-04-26",
+      "complete": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grades 11–12",
+      "sourceUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2025/04/LMMO2025.pdf",
+      "solutionUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2025/09/LMMO2025s.pdf",
+      "sittingDate": "2025-04-26",
+      "complete": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 9–10",
+      "sourceUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2026/04/LMMO2026.pdf",
+      "solutionUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2026/04/LMMO2026s.pdf",
+      "sittingDate": "2026-04-03",
+      "complete": true
+    },
+    {
+      "country": "Lithuania",
+      "competition": "Lithuanian Mathematical Olympiad",
+      "year": 2026,
+      "section": "Grades 11–12",
+      "sourceUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2026/04/LMMO2026.pdf",
+      "solutionUrl": "https://www4352.vu.lt/matematikos-olimpiados/wp-content/uploads/2026/04/LMMO2026s.pdf",
+      "sittingDate": "2026-04-03",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 9",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_ATR_9_12_klase.pdf",
+      "sittingDate": "2025-04-14",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 10",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_ATR_9_12_klase.pdf",
+      "sittingDate": "2025-04-14",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 11",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_ATR_9_12_klase.pdf",
+      "sittingDate": "2025-04-14",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2025,
+      "section": "Grade 12",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_75_uzd_ATR_9_12_klase.pdf",
+      "sittingDate": "2025-04-14",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 9",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_atr_2024.pdf",
+      "sittingDate": "2024-03-27",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 10",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_atr_2024.pdf",
+      "sittingDate": "2024-03-27",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 11",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_atr_2024.pdf",
+      "sittingDate": "2024-03-27",
+      "complete": true
+    },
+    {
+      "country": "Latvia",
+      "competition": "Latvian Mathematical Olympiad",
+      "year": 2024,
+      "section": "Grade 12",
+      "sourceUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_9_12_klase.pdf",
+      "solutionUrl": "https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/nms.lu.lv/Arhivs/Olimpiades/VOL/2020-2030/VOL_74_uzd_atr_2024.pdf",
+      "sittingDate": "2024-03-27",
+      "complete": true
+    }
+  ],
+  "method": "Every rating is an individual mathematical assessment from the statement and analysed official proof. Duplicate grade appearances retain exact references but appear once in the bank.",
+  "gaps": [
+    "Lithuanian national archive2003–2026 discovered;2025–2026 reviewed here, earlier years pending.",
+    "Latvian official archive includes final and open competitions across many years; additional years and rounds remain pending."
+  ],
+  "inclusionPolicy": "All valid individually assessed questions are eligible on the 1–10 scale; 4–7 is only the preferred browsing range. Genuine unresolved source/proof issues remain held."
+}

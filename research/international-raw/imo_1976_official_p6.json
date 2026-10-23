@@ -1,0 +1,29 @@
+{
+  "id": "imo_1976_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Recurrences"
+    ],
+    [
+      "Algebra",
+      "Algebraic identities"
+    ],
+    [
+      "Algebra",
+      "Floors"
+    ]
+  ],
+  "problem_markdown": "Define $u_0=2$, $u_1=5/2$, and $u_{n+1}=u_n(u_{n-1}^2-2)-u_1$ for $n\\ge1$. Show that $\\lfloor u_n\\rfloor=2^{(2^n-(-1)^n)/3}$ for every $n\\ge1$.",
+  "solutions_markdown": [
+    "Put $e_n=(2^n-(-1)^n)/3$, a nonnegative integer, and $v_n=2^{e_n}+2^{-e_n}$. Then $v_0=2,v_1=5/2$. The identities\n$$e_n+2e_{n-1}=e_{n+1},\\qquad e_n-2e_{n-1}=(-1)^{n-1}$$\nshow, by multiplying the two reciprocal-power pairs, that\n$$v_n(v_{n-1}^2-2)=v_{n+1}+2+\\tfrac12.$$\nThus $v_n$ obeys the defining recurrence, and induction gives $u_n=v_n$. For $n\\ge1$, $e_n\\ge1$, so $2^{e_n}$ is an integer and $0<2^{-e_n}<1$. Taking floors proves the formula."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln766.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

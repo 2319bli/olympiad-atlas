@@ -1,0 +1,29 @@
+{
+  "id": "imo_1976_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "5",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ],
+    [
+      "Combinatorics",
+      "Counting"
+    ],
+    [
+      "Combinatorics",
+      "Linear algebra"
+    ]
+  ],
+  "problem_markdown": "A homogeneous system has $p$ equations in $q=2p$ unknowns, with all coefficients in $\\{-1,0,1\\}$. Prove it has a nonzero integer solution with every coordinate of absolute value at most $q$.",
+  "solutions_markdown": [
+    "Consider every integer vector $v\\in[-p,p]^{2p}$. There are $(2p+1)^{2p}=(4p^2+4p+1)^p$ such vectors. Each of the $p$ linear forms takes an integer value between $-2p^2$ and $2p^2$, so there are at most $(4p^2+1)^p$ possible output vectors. The first count is larger. By the pigeonhole principle two distinct inputs $v,w$ have equal outputs. Their difference is a nonzero integer solution, and every coordinate lies in $[-2p,2p]=[-q,q]$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln765.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "imo_1989_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Triangle centres"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Reflection"
+    ],
+    [
+      "Geometry",
+      "Geometric inequalities"
+    ]
+  ],
+  "problem_markdown": "In acute triangle $ABC$, the internal angle bisectors meet its circumcircle again at $A_1,B_1,C_1$. Let $A_0,B_0,C_0$ be the corresponding excenters. Prove $[A_0B_0C_0]=2[AC_1BA_1CB_1]\\ge4[ABC]$.",
+  "solutions_markdown": [
+    "Let $I$ be the incenter. The arc-midpoint lemma gives $A_1B=A_1C=A_1I=A_1A_0$; in particular $A_1$ is the midpoint of $IA_0$. One proof uses $\\angle IBA_0=\\angle ICA_0=90^\\circ$, placing $B,C$ on the circle with diameter $IA_0$, whose centre lies on $AA_0$ and on the perpendicular bisector of $BC$, hence at $A_1$ when the two lines are distinct. In the isosceles case the same midpoint identity follows by continuity from non-isosceles triangles.\n\nTherefore $[IBA_0C]=2[IBA_1C]$, and the two cyclic versions also hold. Summing these three area decompositions of the excentral triangle and the hexagon proves the identity.\n\nLet $H$ be the orthocenter, which lies inside $ABC$. Its reflection across $BC$ lies on the circumcircle on the arc $BC$ away from $A$. The arc midpoint $A_1$ maximises the perpendicular distance to $BC$ on that arc. Hence $[BCH]\\le[BCA_1]$. Summing the three versions gives\n$$[ABC]\\le[BCA_1]+[CAB_1]+[ABC_1].$$\nThe hexagon is the original triangle plus these three exterior caps, so its area is at least $2[ABC]$. The claimed second inequality follows from the identity."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln892.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

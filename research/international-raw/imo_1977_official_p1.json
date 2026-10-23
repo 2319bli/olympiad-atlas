@@ -1,0 +1,33 @@
+{
+  "id": "imo_1977_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "1",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Symmetry"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ],
+    [
+      "Geometry",
+      "Polygons"
+    ]
+  ],
+  "problem_markdown": "Inside square $ABCD$, construct equilateral triangles $ABK,BCL,CDM,DAN$. Prove that the midpoints of $KL,LM,MN,NK,AK,BK,BL,CL,CM,DM,DN,AN$ form a regular dodecagon.",
+  "solutions_markdown": [
+    "Take $A=(1,1),B=(-1,1),C=(-1,-1),D=(1,-1)$ and set $k=(\\sqrt3-1)/2$. Then $K=(0,-2k),L=(2k,0),M=(0,2k),N=(-2k,0)$. The first four midpoints are $(\\pm k,\\pm k)$, at angles $45^\\circ+90^\\circ j$ from the origin.\n\nPut $h=1/2$ and $v=(2-\\sqrt3)/2$. The other eight midpoints have coordinates $(\\pm h,\\pm v)$ or $(\\pm v,\\pm h)$. Since $h^2+v^2=2k^2$, they have the same radius as the first four. Also $v/h=2-\\sqrt3=\\tan15^\\circ$. Altogether the twelve angles are $15^\\circ+30^\\circ j$ for $0\\le j<12$, proving regularity."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln771.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

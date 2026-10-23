@@ -1,0 +1,33 @@
+{
+  "id": "imo_1977_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1977,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Extremal principle"
+    ],
+    [
+      "Algebra",
+      "Induction"
+    ],
+    [
+      "Algebra",
+      "Monotonicity"
+    ]
+  ],
+  "problem_markdown": "Let $f$ map positive integers to positive integers and satisfy $f(n+1)>f(f(n))$ for every $n\\ge1$. Prove $f(n)=n$ for all $n$.",
+  "solutions_markdown": [
+    "We prove by induction that $f(k)$ is the unique minimum of $\\{f(j):j\\ge k\\}$. For $k=1$, every $f(j)$ with $j>1$ exceeds the value $f(f(j-1))$, so cannot be a global minimum. A minimum exists among positive integers; therefore it occurs uniquely at one.\n\nAssume the assertion through $k$. The successive tail minima give $f(k)\\ge k$. For $j>k+1$, we have $f(j-1)>f(k)\\ge k$, so $f(f(j-1))$ belongs to the tail beginning at $k+1$. As $f(j)>f(f(j-1))$, the minimum of that tail cannot occur at $j>k+1$. It therefore occurs uniquely at $k+1$.\n\nThus $f$ is strictly increasing and $f(n)\\ge n$. If $f(n)\\ge n+1$, monotonicity would give $f(f(n))\\ge f(n+1)$, contrary to the hypothesis. Hence $f(n)=n$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1977/1977_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln776.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "imo_1976_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "2",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Polynomials"
+    ],
+    [
+      "Algebra",
+      "Trigonometry"
+    ],
+    [
+      "Algebra",
+      "Iteration"
+    ]
+  ],
+  "problem_markdown": "Set $P_1(x)=x^2-2$ and $P_{j+1}(x)=P_j(x)^2-2$. Prove that $P_n(x)-x$ has only real, simple roots for every positive integer $n$.",
+  "solutions_markdown": [
+    "Let $N=2^n$. Induction using $2\\cos(2t)=(2\\cos t)^2-2$ gives $P_n(2\\cos t)=2\\cos Nt$. Thus roots arise from $t=2k\\pi/(N-1)$ and $t=2k\\pi/(N+1)$ in $[0,\\pi]$. The first family has $N/2$ members and the second $N/2+1$. Their only common member is zero: since $\\gcd(N-1,N+1)=1$, equality of the fractions forces both numerators to be zero within the specified range. Cosine is injective on $[0,\\pi]$, giving exactly $N$ distinct real roots. The polynomial has degree $N$, so these are all its roots and each is simple."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln762.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

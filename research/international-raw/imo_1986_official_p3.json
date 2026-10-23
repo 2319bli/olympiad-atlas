@@ -1,0 +1,33 @@
+{
+  "id": "imo_1986_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "3",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Monovariants"
+    ],
+    [
+      "Combinatorics",
+      "Invariants"
+    ],
+    [
+      "Combinatorics",
+      "Termination"
+    ],
+    [
+      "Combinatorics",
+      "Algebraic identities"
+    ]
+  ],
+  "problem_markdown": "Integers on a pentagon have positive total. Whenever three consecutive labels are $x,y,z$ with $y<0$, one may replace them by $x+y,-y,z+y$. Must repeated legal moves always stop?",
+  "solutions_markdown": [
+    "Yes. Let the cyclic labels be $a_1,\\ldots,a_5$ and their total be $S>0$, which the operation preserves. Define the nonnegative integer\n$$V=\\sum_{i=1}^5a_i^2+\\sum_{i=1}^5(a_i+a_{i+1})^2,$$\nwith cyclic indices. Suppose the operated negative label is $a_1=a$, with neighbours $a_5=e,a_2=b$, and remaining labels $c,d$.\n\nThe change in the first sum is $2a(a+b+e)$. The adjacent pair sums change from $a+b,b+c,c+d,d+e,e+a$ to $b,a+b+c,c+d,d+e+a,e$, so their squared-sum change is $2a(c+d)$. Therefore\n$$V_{\\rm new}-V=2aS<0.$$\nA nonnegative integer cannot decrease strictly infinitely often. Thus every sequence of legal moves terminates, necessarily with all labels nonnegative."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln863.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "imo_1978_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Solid geometry"
+    ],
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Vectors"
+    ],
+    [
+      "Geometry",
+      "Locus"
+    ],
+    [
+      "Geometry",
+      "Continuity"
+    ]
+  ],
+  "problem_markdown": "Fix a point $P$ inside a sphere of radius $R$ and centre $O$. Three mutually perpendicular rays from $P$ meet the sphere at $U,V,W$. Complete the rectangular box with edges $PU,PV,PW$, and let $Q$ be opposite $P$. Determine the full locus of $Q$.",
+  "solutions_markdown": [
+    "The locus is the sphere centred at $O$ with radius $\\sqrt{3R^2-2OP^2}$.\n\nTake $O$ as origin, write $p=\\overrightarrow{OP}$, and put $c=R^2-|p|^2>0$. Let the three unit directions be $e_i$ and edge lengths $t_i$. The sphere equations give $t_i^2+2t_i(p\\cdot e_i)=c$. For $q=p+\\sum t_ie_i$, adding gives $|q|^2=|p|^2+3c$.\n\nConversely take any $q$ with that norm. Define $H(e)=(q\\cdot e)^2-(p\\cdot e)^2$ on unit vectors. Its values on every orthonormal triple sum to $3c$. Start with any such triple; its minimum and maximum values bracket $c$, so continuity along a spherical path supplies a unit $e_1$ with $H(e_1)=c$. On the perpendicular plane, the values at perpendicular unit vectors sum to $2c$; continuity around its unit circle supplies $e_2$ with value $c$, and its perpendicular $e_3$ then also has value $c$.\n\nOrient each $e_i$ so that $t_i=(q-p)\\cdot e_i>0$. This is possible because $H(e_i)=c>0$ rules out $t_i=0$. The equation $H(e_i)=c$ becomes $t_i^2+2t_i(p\\cdot e_i)=c$, so $p+t_ie_i$ lies on the original sphere. These rays yield exactly $q$, proving the converse."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln782.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

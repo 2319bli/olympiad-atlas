@@ -1,0 +1,25 @@
+{
+  "id": "imo_1978_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "5",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Rearrangement"
+    ],
+    [
+      "Algebra",
+      "Inequalities"
+    ]
+  ],
+  "problem_markdown": "For distinct positive integers $a_1,a_2,\\ldots$, prove $\\sum_{k=1}^n a_k/k^2\\ge\\sum_{k=1}^n1/k$ for every $n\\ge1$.",
+  "solutions_markdown": [
+    "Fix $n$ and sort the first $n$ values increasingly as $b_1<\\cdots<b_n$. Because the weights $1/k^2$ decrease, exchanging any inverted pair of values cannot increase the weighted sum. Therefore $\\sum a_k/k^2\\ge\\sum b_k/k^2$. Distinct positivity implies $b_k\\ge k$, so the latter is at least $\\sum k/k^2=\\sum1/k$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln785.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

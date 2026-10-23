@@ -1,0 +1,33 @@
+{
+  "id": "imo_1979_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "3",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Reflection"
+    ],
+    [
+      "Geometry",
+      "Rotation"
+    ],
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Congruence"
+    ]
+  ],
+  "problem_markdown": "Two intersecting circles share $A$. Two points start at $A$ and traverse the respective circles in the same direction, each at constant speed, completing one revolution simultaneously. Prove there is a fixed point equidistant from the moving points at every instant.",
+  "solutions_markdown": [
+    "Let the centres be $O_1,O_2$, and reflect $A$ across the perpendicular bisector of $O_1O_2$ to obtain $P$. Denote this reflection by $S$. At any instant the two radius vectors have undergone the same rotation $R_\\theta$. Since reflection reverses rotation, $SR_\\theta=R_{-\\theta}S$.\n\nWrite $u=A-O_1$, $v=A-O_2$, and let $L$ be the linear part of $S$. Then $P-O_2=Lu$ and $P-O_1=Lv$. Thus the squared distances from $P$ are $|R_\\theta u-Lv|^2$ and $|R_\\theta v-Lu|^2$. Their norm terms agree. Their dot-product terms agree too, since $LR_\\theta$ is a reflection and therefore a symmetric linear map:\n$$(R_\\theta u)\\cdot Lv=u\\cdot(LR_\\theta)v=(R_\\theta v)\\cdot Lu.$$\nConsequently the two distances are equal for every $\\theta$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln793.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

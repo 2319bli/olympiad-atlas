@@ -1,0 +1,154 @@
+{
+  "status": "Coherent publication checkpoint requested by parent; comprehensive Asian historical coverage remains incomplete.",
+  "snapshotDate": "2026-10-23",
+  "baselineBankRecords": 371,
+  "bankRecords": 450,
+  "addedBankRecords": 79,
+  "addedByCountry": {
+    "India": 36,
+    "China": 10,
+    "Japan": 29,
+    "South Korea": 4
+  },
+  "preservedAllBaselineIds": true,
+  "inspectedCount": 792,
+  "reviewedCount": 786,
+  "unratedCount": 6,
+  "discoveredRecords": 6021,
+  "downloadedRecords": 1627,
+  "originalDownloadedQueueRecords": 1573,
+  "originalDownloadedQueuePendingRecords": 835,
+  "pendingRecords": 5229,
+  "pendingDownloadedRecords": 835,
+  "pendingUndownloadedRecords": 4394,
+  "unassessedIncludingHeld": 5235,
+  "newCompleteNationalPapers": [
+    "India INMO 2017, 2019, 2020, 2021, 2023, 2024: all six questions individually assessed in each year.",
+    "China CMO 2022 and 2023: both days, all six questions individually assessed in each year.",
+    "Japan JMO 2023 and 2024: all twelve first-round and five final-round questions individually assessed in each year."
+  ],
+  "currentBatchAvailability": [
+    "China CMO 2024: Q1,2,3,5,6 individually assessed; Q4 not in the downloaded corpus.",
+    "China Girls 2002: every downloaded record inspected; Q4 absent and Q2 part (1)-only transcription held unrated.",
+    "Japan JMO 2022: first-round Q1,2,4,5,7,8,9,10,11,12 assessed; Q3,6 absent. Final Q1,2,4 assessed; Q3 held and Q5 absent.",
+    "South Korea 2023 final: Q1,2,5,6 assessed; Q3,4 absent."
+  ],
+  "holds": [
+    {
+      "id": "ind_2017_8680c5",
+      "country": "India",
+      "competition": "Indian team selection tests",
+      "year": 2017,
+      "number": "5",
+      "section": "Selection problems",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated: the supplied geometry proof has substantive gaps; a verified replacement or official solution is still required.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=ind_2017_8680c5",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved"
+    },
+    {
+      "id": "chn_2012_e3b71a",
+      "country": "China",
+      "competition": "China Western Invitational Mathematical Competition",
+      "year": 2012,
+      "number": "4",
+      "section": "Day 1",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated pending an independent proof or verified solution of the sharp ratio inequality and all equality positions.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=chn_2012_e3b71a",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved"
+    },
+    {
+      "id": "chn_2012_be2a8e",
+      "country": "China",
+      "competition": "China Western Mathematical Olympiad",
+      "year": 2012,
+      "number": "7",
+      "section": "Second Day",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated: the transcription of the constructive colouring needs original-source verification. The parity obstruction alone is not a complete solution.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=chn_2012_be2a8e",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved"
+    },
+    {
+      "id": "chn_2012_a355ed",
+      "country": "China",
+      "competition": "China Western Invitational Mathematical Competition",
+      "year": 2012,
+      "number": "7",
+      "section": "Day 2",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated; alternate transcription of chn_2012_be2a8e, whose even-order construction remains unresolved.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=chn_2012_a355ed",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved",
+      "duplicateOf": "chn_2012_be2a8e"
+    },
+    {
+      "id": "jpn_2022_3901aa",
+      "country": "Japan",
+      "competition": "Japanese Mathematical Olympiad (JMO)",
+      "year": 2022,
+      "number": "3",
+      "section": "FINAL ROUND",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated pending independent verification of the circumcentre identification and the possible tangent/intersection cases; the source explicitly flags a sidedness requirement.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=jpn_2022_3901aa",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved"
+    },
+    {
+      "id": "chn_2002_ea4526",
+      "country": "China",
+      "competition": "China Girls' Mathematical Olympiad (CGMO)",
+      "year": 2002,
+      "number": "2",
+      "section": "First Day",
+      "difficulty": null,
+      "included": false,
+      "reason": "Held unrated as an incomplete question transcription. The nine-point part has the affine-plane construction over F3, but that does not establish assessment of the entire original question.",
+      "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=chn_2002_ea4526",
+      "reviewStatus": "held-unrated",
+      "proofConfidence": "unresolved"
+    }
+  ],
+  "unverifiedCountryHistories": [
+    "Pakistan",
+    "Nepal",
+    "Macau",
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "reproducibility": {
+    "authoritativeReviews": "research/asia/reviews.json",
+    "manifest": "research/asia/manifest.json",
+    "existingRaw": "research/raw/asia",
+    "additionalRaw": "research/asia/extra",
+    "officialIndiaSources": "research/asia/india",
+    "officialJapanArchiveLinks": "research/asia/japan/official-archive-links.json",
+    "newReviewScripts": [
+      "research/asia/add_india_completion.py",
+      "research/asia/add_india2324.py",
+      "research/asia/add_china_completion.py",
+      "research/asia/add_eastasia2024.py",
+      "research/asia/add_japan2322.py",
+      "research/asia/add_china2002_2024.py"
+    ],
+    "statementRestatements": "research/asia/original_statements_completion.py",
+    "buildCommands": [
+      "python research/asia/build.py",
+      "python research/asia/build_inventory.py",
+      "python research/asia/validate_completion.py"
+    ],
+    "validationResult": "research/asia/completion-validation.json"
+  },
+  "importantCorrection": "reviewedCount and assessedRecords count only numeric mathematical assessments; inspectedCount also includes six held-unrated records. No held record is published in the bank."
+}

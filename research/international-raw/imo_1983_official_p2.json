@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "2",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Tangency"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ]
+  ],
+  "problem_markdown": "Two intersecting circles with distinct radii have centres $O_1,O_2$ and a common point $A$. Their two common tangents touch them at $P_1,P_2$ and $Q_1,Q_2$. If $M_i$ is the midpoint of $P_iQ_i$, prove $\\angle O_1AO_2=\\angle M_1AM_2$.",
+  "solutions_markdown": [
+    "Take $O_1=(0,0)$, $O_2=(d,0)$, radii $r_1,r_2$, and $A=(x,y)$ with $y>0$. The common external tangents have unit normals $(u,\\pm\\sqrt{1-u^2})$, where $u=(r_1-r_2)/d$. Hence\n$$M_1=(r_1u,0),\\quad M_2=(d+r_2u,0),\\quad x=\\frac{d^2+r_1^2-r_2^2}{2d}.$$\nThus $x$ is the midpoint of the two midpoint coordinates. Put $h=M_1M_2/2=[d^2-(r_1-r_2)^2]/(2d)>0$. The angle $\\phi=\\angle M_1AM_2$ has $\\tan(\\phi/2)=h/y$.\n\nSubtracting the two circle equations, or using the altitude formula, gives\n$$y^2=\\frac{((r_1+r_2)^2-d^2)(d^2-(r_1-r_2)^2)}{4d^2}.$$\nFor $\\theta=\\angle O_1AO_2$, the cosine rule yields\n$$\\tan^2(\\theta/2)=\\frac{d^2-(r_1-r_2)^2}{(r_1+r_2)^2-d^2}=\\frac{h^2}{y^2}=\\tan^2(\\phi/2).$$\nBoth half-angles lie in $(0,\\pi/2)$, so $\\theta=\\phi$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln832.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1985_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "3",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Polynomials"
+    ],
+    [
+      "Algebra",
+      "Binary digits"
+    ],
+    [
+      "Algebra",
+      "Induction"
+    ],
+    [
+      "Algebra",
+      "Parity"
+    ]
+  ],
+  "problem_markdown": "Let $w(P)$ count the odd coefficients of an integer polynomial $P$, and put $Q_i=(1+x)^i$. For $0\\le i_1<\\cdots<i_n$, prove $w(Q_{i_1}+\\cdots+Q_{i_n})\\ge w(Q_{i_1})$.",
+  "solutions_markdown": [
+    "Reduce coefficients modulo two, so $w$ counts nonzero coefficients. For a power of two $h$, repeated squaring gives $(1+x)^h=1+x^h$. Induct on the largest exponent, with exponent zero immediate.\n\nLet $h$ be its largest power-of-two place. If $i_1\\ge h$, factor the sum as $(1+x)^hB$ with $\\deg B<h$. Its coefficient blocks are $B$ and $x^hB$, so its weight is $2w(B)$. The induction hypothesis gives $w(B)\\ge w((1+x)^{i_1-h})$, and the same disjoint-block identity doubles that last weight to $w(Q_{i_1})$.\n\nIf $i_1<h$, split the terms into $A+(1+x)^hB$, where $A$ collects exponents below $h$ and $\\deg A,\\deg B<h$. The weight is $w(A+B)+w(B)$. Coefficientwise, every nonzero coefficient of $A$ must occur in at least one of $A+B,B$, hence this sum is at least $w(A)$. Induction gives $w(A)\\ge w(Q_{i_1})$. Both cases prove the claim."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln853.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

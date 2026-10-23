@@ -1,0 +1,33 @@
+{
+  "id": "imo_1987_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "3",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Pigeonhole principle"
+    ],
+    [
+      "Combinatorics",
+      "Cauchy–Schwarz"
+    ],
+    [
+      "Combinatorics",
+      "Approximation"
+    ],
+    [
+      "Combinatorics",
+      "Counting"
+    ]
+  ],
+  "problem_markdown": "If real $x_1,\\ldots,x_n$ satisfy $\\sum x_i^2=1$, prove that for each integer $k\\ge2$ there are integers $a_i$, not all zero, with $|a_i|\\le k-1$ and $|\\sum a_ix_i|\\le (k-1)\\sqrt n/(k^n-1)$.",
+  "solutions_markdown": [
+    "Consider the $k^n$ sums $\\sum b_i|x_i|$ for integer choices $0\\le b_i\\le k-1$. All lie in $[0,(k-1)\\sum|x_i|]$, an interval of length at most $(k-1)\\sqrt n$ by Cauchy–Schwarz.\n\nIf two sums coincide, subtract their distinct coefficient vectors to obtain a nonzero vector with dot product zero. Otherwise sort all sums increasingly. The $k^n-1$ consecutive gaps have total at most $(k-1)\\sqrt n$, so one gap is at most $(k-1)\\sqrt n/(k^n-1)$. Subtract the two coefficient vectors giving that gap. Their entries have absolute value at most $k-1$ and are not all zero. Finally reverse the sign of the corresponding coefficient wherever $x_i<0$ to replace $|x_i|$ by $x_i$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln873.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

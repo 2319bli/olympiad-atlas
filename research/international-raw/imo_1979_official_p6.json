@@ -1,0 +1,33 @@
+{
+  "id": "imo_1979_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "6",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Counting"
+    ],
+    [
+      "Combinatorics",
+      "Recurrences"
+    ],
+    [
+      "Combinatorics",
+      "Graph walks"
+    ],
+    [
+      "Combinatorics",
+      "Parity"
+    ]
+  ],
+  "problem_markdown": "A walk starts at vertex $A$ of a regular octagon and at each step moves to an adjacent vertex, stopping at its first visit to the opposite vertex $E$. If $a_n$ counts walks stopping after exactly $n$ steps, prove $a_{2n-1}=0$ and $a_{2n}=((2+\\sqrt2)^{n-1}-(2-\\sqrt2)^{n-1})/\\sqrt2$.",
+  "solutions_markdown": [
+    "Parity of distance to $E$ changes at every step, so odd stopping times are impossible. Put $A_n=a_{2n}$ and let $B_n$ count walks stopping at $E$ after $2n$ steps when starting two edges from $E$. Looking at the first two moves gives, for $n\\ge2$,\n$$A_n=2A_{n-1}+2B_{n-1},\\qquad B_n=A_{n-1}+2B_{n-1}.$$\nHere paths reaching $E$ during those first two moves contribute only when $n=1$, and are excluded for $n\\ge2$. Initially $A_1=0,B_1=1$, so $A_2=2$. Eliminating $B$ yields $A_n=4A_{n-1}-2A_{n-2}$ for $n\\ge3$. The two characteristic roots are $2\\pm\\sqrt2$; the initial values give\n$$A_n=\\frac{(2+\\sqrt2)^{n-1}-(2-\\sqrt2)^{n-1}}{\\sqrt2},$$\nas required."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln796.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

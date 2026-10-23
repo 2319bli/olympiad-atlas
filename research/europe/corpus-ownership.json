@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rou_2025_e406cf",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "FIRST DAY",
+    "number": "Problem 1.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_e406cf"
+  },
+  {
+    "id": "rou_2025_daceb6",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "FIRST DAY",
+    "number": "Problem 2.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_daceb6"
+  },
+  {
+    "id": "rou_2025_742b0e",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "FIRST DAY",
+    "number": "Problem 3.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_742b0e"
+  },
+  {
+    "id": "rou_2025_fb3b41",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "SECOND DAY",
+    "number": "Problem 4.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_fb3b41"
+  },
+  {
+    "id": "rou_2025_9e5c95",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "SECOND DAY",
+    "number": "Problem 5.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_9e5c95"
+  },
+  {
+    "id": "rou_2025_b5cc5a",
+    "competition": "Romanian Master of Mathematics (RMM)",
+    "year": 2025,
+    "section": "SECOND DAY",
+    "number": "Problem 6.",
+    "status": "assessed-in-international-contribution",
+    "coverageFile": "research/international-coverage.json",
+    "sourceUrl": "https://mathnet.mit.edu/explorer.html?p=rou_2025_b5cc5a"
+  }
+]

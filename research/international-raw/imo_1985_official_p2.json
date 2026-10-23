@@ -1,0 +1,29 @@
+{
+  "id": "imo_1985_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "2",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Coprimality"
+    ],
+    [
+      "Number Theory",
+      "Colouring"
+    ]
+  ],
+  "problem_markdown": "Let $1\\le k<n$ with $\\gcd(k,n)=1$. Colour $1,\\ldots,n-1$ with two colours so that $i,n-i$ always agree and, for $i\\ne k$, $i,|i-k|$ agree. Prove all numbers have the same colour.",
+  "solutions_markdown": [
+    "Let $r_j$ be the least positive residue of $jk$ modulo $n$, for $1\\le j\\le n-1$. Coprimality makes these a permutation of $1,\\ldots,n-1$.\n\nFor $1\\le j\\le n-2$, put $r=r_j,s=r_{j+1}$. If $s=r+k<n$, then $s$ and $s-k=r$ have the same colour. If $s=r+k-n$, then $n-r=k-s>0$. The first rule equates the colours of $r$ and $n-r$; the second equates those of $s$ and $k-s=n-r$. Thus consecutive residues $r_j,r_{j+1}$ always agree. The entire permutation, and hence every number, has one colour."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln852.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1985_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "6",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Recurrences"
+    ],
+    [
+      "Algebra",
+      "Continuity"
+    ],
+    [
+      "Algebra",
+      "Convexity"
+    ],
+    [
+      "Algebra",
+      "Nested intervals"
+    ]
+  ],
+  "problem_markdown": "For a real initial value $x_1$, define $x_{n+1}=x_n(x_n+1/n)$. Prove that exactly one initial value produces $0<x_n<x_{n+1}<1$ for every $n\\ge1$.",
+  "solutions_markdown": [
+    "Let $F_n(t)$ be the $n$th term starting at $t$. Each $F_n$ is a strictly increasing polynomial on $[0,\\infty)$ with nonnegative coefficients and $F_n(0)=0$. Define $a_n,b_n$ by $F_n(a_n)=1-1/n$ and $F_n(b_n)=1$; thus $a_1=0,b_1=1$.\n\nThe recurrence gives $F_{n+1}(a_n)=1-1/n<1-1/(n+1)$ and $F_{n+1}(b_n)=1+1/n>1$. Hence $a_n<a_{n+1}<b_{n+1}<b_n$. The nested closed intervals have a common point $t$, which lies strictly between every pair of endpoints. Therefore $1-1/n<F_n(t)<1$, giving positivity and $F_{n+1}(t)>F_n(t)$.\n\nFor uniqueness, convexity and $F_n(0)=0$ imply\n$$1-1/n=F_n(a_n)\\le\\frac{a_n}{b_n}F_n(b_n)=\\frac{a_n}{b_n}.$$\nThus $b_n-a_n\\le b_n/n\\le1/n$, so their common intersection is a single point. Conversely any initial value satisfying the requested inequalities must have $x_n>1-1/n$, hence belong to every interval. This proves exactly one exists."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln856.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

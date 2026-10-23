@@ -1,0 +1,29 @@
+{
+  "id": "imo_1984_official_p2",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "2",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Factorisation"
+    ],
+    [
+      "Number Theory",
+      "Valuations"
+    ],
+    [
+      "Number Theory",
+      "Construction"
+    ]
+  ],
+  "problem_markdown": "Find positive integers $a,b$ such that $7\\nmid ab(a+b)$ but $7^7\\mid (a+b)^7-a^7-b^7$.",
+  "solutions_markdown": [
+    "Take $(a,b)=(18,1)$. The identity\n$$(a+b)^7-a^7-b^7=7ab(a+b)(a^2+ab+b^2)^2$$\nfollows by expansion. Here $a^2+ab+b^2=324+18+1=343=7^3$, while $ab(a+b)=18\\cdot19=342\\equiv-1\\pmod7$. Thus the required difference is exactly $7^7\\cdot342$, and the first condition also holds."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln842.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

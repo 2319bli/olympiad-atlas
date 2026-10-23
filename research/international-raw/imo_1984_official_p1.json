@@ -1,0 +1,33 @@
+{
+  "id": "imo_1984_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "1",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Inequalities"
+    ],
+    [
+      "Algebra",
+      "AM-GM"
+    ],
+    [
+      "Algebra",
+      "Algebraic identities"
+    ],
+    [
+      "Algebra",
+      "Case analysis"
+    ]
+  ],
+  "problem_markdown": "For nonnegative $x,y,z$ with $x+y+z=1$, prove $0\\le xy+yz+zx-2xyz\\le7/27$.",
+  "solutions_markdown": [
+    "Write $F=xy+yz+zx-2xyz$. Since $xyz\\le xy$ and $xyz\\le xz$, we have $F\\ge yz\\ge0$.\n\nExpanding and using the sum condition gives\n$$4F-1=(1-2x)(1-2y)(1-2z).$$\nIf one variable exceeds $1/2$, exactly one factor is negative and the others nonnegative, so $F\\le1/4<7/27$. Otherwise all three factors are nonnegative and their sum is one. AM–GM bounds their product by $1/27$, yielding $F\\le(1+1/27)/4=7/27$. The upper bound is attained at $x=y=z=1/3$, and the lower at $(1,0,0)$ and its permutations."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln841.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "imo_1989_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1989,
+  "problem_number": "4",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Tangency"
+    ],
+    [
+      "Geometry",
+      "Extremal principle"
+    ],
+    [
+      "Geometry",
+      "Geometric inequalities"
+    ]
+  ],
+  "problem_markdown": "Let $ABCD$ be a convex quadrilateral with $AB=AD+BC$. An interior point $P$ has distance $h$ from the line $CD$ and satisfies $AP=AD+h$ and $BP=BC+h$. Prove $1/\\sqrt h\\ge1/\\sqrt{AD}+1/\\sqrt{BC}$.",
+  "solutions_markdown": [
+    "Write $a=AD$ and $b=BC$. The disks centred at $A$ and $B$ with radii $a,b$ are externally tangent, since $AB=a+b$. The disk centred at $P$ with radius $h$ is externally tangent to both and tangent to the line $CD$.\n\nThe open disk at $P$ meets none of the quadrilateral's sides: $AD$ and $BC$ lie in the first two disks, $AB$ is covered by those disks, and $CD$ lies on a tangent line. Because $P$ is inside the quadrilateral, its entire disk is contained in the quadrilateral. All four vertices belong to the convex hull of the first two disks, so the disk at $P$ is contained in that hull as well.\n\nOn the side of $AB$ containing $P$, the part of this hull outside the first two disks is the bounded gap between their arcs and their common external tangent $t$. Among disks in this gap tangent to both original disks, choose one of maximum radius $r$. Such a maximum exists by compactness. It must also touch $t$: otherwise increase $r$ slightly and move its centre along the continuous intersection of the circles of radii $a+r,b+r$ about $A,B$, on the same side of $AB$. The strict clearance from $t$ persists, contradicting maximality. The two centres exist continuously for every positive radius because the triangle inequalities are strict.\n\nLet $D_0,C_0$ be the contact points of the original disks with $t$, and let $E$ be the contact point of the maximum disk. The confinement places $E$ between $D_0,C_0$. Applying Pythagoras to each pair of centres gives\n$$D_0C_0=2\\sqrt{ab},\\qquad D_0E=2\\sqrt{ar},\\qquad EC_0=2\\sqrt{br}.$$\nThus $\\sqrt{ab}=\\sqrt r(\\sqrt a+\\sqrt b)$, so $r=ab/(\\sqrt a+\\sqrt b)^2$. Since $h\\le r$, taking reciprocal square roots proves the claimed inequality."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1989/1989_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln894.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

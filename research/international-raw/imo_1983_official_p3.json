@@ -1,0 +1,33 @@
+{
+  "id": "imo_1983_official_p3",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1983,
+  "problem_number": "3",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Chinese remainder"
+    ],
+    [
+      "Number Theory",
+      "Divisibility"
+    ],
+    [
+      "Number Theory",
+      "Extremal arguments"
+    ],
+    [
+      "Number Theory",
+      "Nonnegative representations"
+    ]
+  ],
+  "problem_markdown": "For pairwise coprime positive integers $a,b,c$, prove that $2abc-ab-bc-ca$ is the largest integer not expressible as $xbc+yca+zab$ with nonnegative integers $x,y,z$.",
+  "solutions_markdown": [
+    "Set $F=2abc-ab-bc-ca$. If $F=xbc+yca+zab$, reduction modulo $a,b,c$ gives $x\\equiv-1\\pmod a$, $y\\equiv-1\\pmod b$, $z\\equiv-1\\pmod c$. Nonnegativity then implies\n$$xbc+yca+zab\\ge(a-1)bc+(b-1)ca+(c-1)ab=F+abc>F,$$\na contradiction.\n\nNow take any integer $N>F$. Choose $0\\le x<a$, $0\\le y<b$, $0\\le z<c$ such that $xbc\\equiv N\\pmod a$, $yca\\equiv N\\pmod b$, $zab\\equiv N\\pmod c$. Pairwise coprimality makes these choices possible. For $S=xbc+yca+zab$, the difference $N-S$ is divisible by $abc$. Since $S\\le F+abc$ and $N>F$, we have $N-S>-abc$. Thus $N-S=tabc$ for an integer $t\\ge0$, and $N=(x+ta)bc+yca+zab$ is represented. The argument also covers parameters equal to one."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1983/1983_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln833.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

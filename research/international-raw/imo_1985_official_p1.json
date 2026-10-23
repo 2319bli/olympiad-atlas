@@ -1,0 +1,29 @@
+{
+  "id": "imo_1985_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "1",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Tangency"
+    ],
+    [
+      "Geometry",
+      "Cyclic quadrilaterals"
+    ],
+    [
+      "Geometry",
+      "Trigonometry"
+    ]
+  ],
+  "problem_markdown": "A circle has centre on side $AB$ of cyclic quadrilateral $ABCD$ and touches each of $BC,CD,DA$. Prove $AD+BC=AB$.",
+  "solutions_markdown": [
+    "Let the circle have centre $O$, radius $r$, and contacts $L\\in AD$, $M\\in CD$, $N\\in BC$. Write $\\angle A=\\alpha$ and $\\angle B=\\beta$. The right triangles at the tangencies give $AL=r\\cot\\alpha$, $BN=r\\cot\\beta$, $AO=r\\csc\\alpha$, and $BO=r\\csc\\beta$.\n\nCyclicity gives $\\angle C=\\pi-\\alpha$ and $\\angle D=\\pi-\\beta$. Since a circle's centre lies on the angle bisector between its two tangents, the other tangent lengths are\n$$CN=CM=r\\cot(\\angle C/2)=r\\tan(\\alpha/2),$$\n$$DL=DM=r\\tan(\\beta/2).$$\nUsing $\\cot t+\\tan(t/2)=\\csc t$, we obtain\n$$AD+BC=(AL+LD)+(BN+NC)=r(\\csc\\alpha+\\csc\\beta)=AO+OB=AB.$$"
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln851.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,947 @@
+{
+  "alb_2026_upper_3": [
+    "Diophantine equations",
+    "Valuations",
+    "Divisibility & GCD"
+  ],
+  "arm_2025_g9_1": [
+    "Divisibility & GCD",
+    "Primes",
+    "Extremal arguments"
+  ],
+  "aze_2025_j_24": [
+    "Valuations",
+    "Factorials & binomial coefficients",
+    "Digits & bases"
+  ],
+  "bgd_2024_national_higher_secondary_q1": [
+    "Diophantine equations",
+    "Modular arithmetic",
+    "Primes",
+    "Multiplicative order"
+  ],
+  "bih_2015_2": [
+    "Power of a point & radical axes",
+    "Circles & tangency"
+  ],
+  "cyp_2025_selection1_senior_3": [
+    "Transformations",
+    "Similarity & congruence",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "geo_2025_g10_1": [
+    "Diophantine equations",
+    "Modular arithmetic",
+    "Descent"
+  ],
+  "idn_2024_province_proof_q2": [
+    "Counting",
+    "Colouring",
+    "Extremal arguments",
+    "Combinatorial geometry"
+  ],
+  "isr_2023_gillis_q4": [
+    "Triangle centres",
+    "Transformations",
+    "Concurrency & collinearity"
+  ],
+  "kaz_2024_national_g10_q1": [
+    "Angles & cyclic quadrilaterals",
+    "Similarity & congruence",
+    "Circles & tangency"
+  ],
+  "mne_2026_upper_1": [
+    "Functional equations",
+    "Induction"
+  ],
+  "nzl_2025_bd37d9": [
+    "Permutations & arrangements",
+    "Extremal arguments",
+    "Algorithms & constructions"
+  ],
+  "phl_2023_109224": [
+    "Sets & partitions",
+    "Extremal arguments",
+    "Algorithms & constructions"
+  ],
+  "lka_2018_slmc_q13": [
+    "Logic & information",
+    "Games & strategies",
+    "Permutations & arrangements"
+  ],
+  "alb_2026_upper_4": [
+    "Inequalities"
+  ],
+  "arm_2025_g10_1": [
+    "Diophantine equations",
+    "Valuations",
+    "Primes"
+  ],
+  "bgd_2024_national_secondary_q2": [
+    "Power of a point & radical axes",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "bih_2015_3": [
+    "Primes",
+    "Modular arithmetic",
+    "Sequences & recurrences"
+  ],
+  "cyp_2025_selection1_junior_4": [
+    "Primes",
+    "Divisibility & GCD",
+    "Diophantine equations"
+  ],
+  "geo_2025_g10_3": [
+    "Similarity & congruence",
+    "Geometric inequalities"
+  ],
+  "idn_2024_province_short_q3": [
+    "Similarity & congruence",
+    "Trigonometry",
+    "Triangle geometry"
+  ],
+  "isr_2023_gillis_q5": [
+    "Sequences & recurrences",
+    "Primes",
+    "Modular arithmetic"
+  ],
+  "kaz_2024_national_g10_q2": [
+    "Valuations",
+    "Modular arithmetic",
+    "Divisibility & GCD"
+  ],
+  "mne_2026_upper_2": [
+    "Digits & bases",
+    "Modular arithmetic",
+    "Diophantine equations"
+  ],
+  "prt_2025_finalb_3": [
+    "Monovariants",
+    "Counting",
+    "Extremal arguments"
+  ],
+  "lka_2018_slmc_q16": [
+    "Counting",
+    "Combinatorial geometry"
+  ],
+  "alb_2025_upper_2": [
+    "Inequalities",
+    "Algebraic identities"
+  ],
+  "arm_2025_g10_2": [
+    "Angles & cyclic quadrilaterals",
+    "Triangle geometry"
+  ],
+  "bgd_2024_national_junior_q5": [
+    "Floors & fractional parts",
+    "Equations & systems"
+  ],
+  "bih_2015_4": [
+    "Squares & powers",
+    "Modular arithmetic"
+  ],
+  "cyp_2025_selection1_senior_4": [
+    "Diophantine equations",
+    "Squares & powers"
+  ],
+  "geo_2025_g11-12_3": [
+    "Digits & bases",
+    "Squares & powers"
+  ],
+  "idn_2024_province_short_q4": [
+    "Colouring",
+    "Parity",
+    "Counting"
+  ],
+  "isr_2023_gillis_q6": [
+    "Circles & tangency",
+    "Transformations",
+    "Quadrilaterals & polygons"
+  ],
+  "kaz_2024_national_g9_q1": [
+    "Diophantine equations"
+  ],
+  "mne_2026_upper_3": [
+    "Sets & partitions",
+    "Double counting",
+    "Extremal arguments"
+  ],
+  "prt_2025_finalb_5": [
+    "Divisibility & GCD",
+    "Extremal arguments"
+  ],
+  "lka_2018_slmc_q19": [
+    "Games & strategies"
+  ],
+  "alb_2025_upper_4": [
+    "Counting",
+    "Permutations & arrangements"
+  ],
+  "arm_2025_g11-12_2": [
+    "Sets & partitions",
+    "Double counting",
+    "Extremal arguments",
+    "Graph theory"
+  ],
+  "bgd_2024_national_higher_secondary_q5": [
+    "Triangle centres",
+    "Circles & tangency",
+    "Coordinates & vectors"
+  ],
+  "bih_2015_5": [
+    "Extremal arguments",
+    "Sets & partitions"
+  ],
+  "geo_2025_g10_4": [
+    "Triangle centres",
+    "Transformations",
+    "Circles & tangency"
+  ],
+  "idn_2024_province_proof_q4": [
+    "Modular arithmetic",
+    "Primes"
+  ],
+  "irn_2025_fbd658": [
+    "Games & strategies",
+    "Colouring"
+  ],
+  "kaz_2024_national_g9_q2": [
+    "Colouring",
+    "Parity",
+    "Combinatorial geometry",
+    "Extremal arguments"
+  ],
+  "mne_2026_lower_4": [
+    "Divisibility & GCD",
+    "Squares & powers",
+    "Modular arithmetic"
+  ],
+  "lka_2018_slmc_q30": [
+    "Quadrilaterals & polygons",
+    "Area & dissection",
+    "Similarity & congruence",
+    "Trigonometry"
+  ],
+  "arm_2025_g8_3": [
+    "Graph theory"
+  ],
+  "bmo_2024_54aaec": [
+    "Modular arithmetic",
+    "Digits & bases"
+  ],
+  "bgd_2024_national_secondary_q6": [
+    "Inequalities"
+  ],
+  "bih_2015_6": [
+    "Power of a point & radical axes",
+    "Circles & tangency",
+    "Triangle geometry"
+  ],
+  "geo_2025_g11-12_4": [
+    "Angles & cyclic quadrilaterals",
+    "Similarity & congruence",
+    "Triangle geometry"
+  ],
+  "idn_2024_province_short_q6": [
+    "Angles & cyclic quadrilaterals",
+    "Triangle geometry",
+    "Quadrilaterals & polygons"
+  ],
+  "kaz_2024_national_g9_q3": [
+    "Coordinates & vectors",
+    "Triangle centres",
+    "Concurrency & collinearity"
+  ],
+  "mne_2026_upper_4": [
+    "Concurrency & collinearity",
+    "Triangle centres",
+    "Transformations",
+    "Power of a point & radical axes"
+  ],
+  "sau_2024_6972c9": [
+    "Functional equations",
+    "Inequalities"
+  ],
+  "zaf_2023_979006": [
+    "Algebraic identities",
+    "Rationality & irrationality"
+  ],
+  "vnm_2024_9e7ac6": [
+    "Graph theory",
+    "Colouring",
+    "Invariants"
+  ],
+  "arm_2025_g9_3": [
+    "Sets & partitions",
+    "Counting",
+    "Extremal arguments"
+  ],
+  "bgd_2024_national_primary_q7": [
+    "Squares & powers",
+    "Modular arithmetic",
+    "Induction"
+  ],
+  "bih_2014_2": [
+    "Algebraic identities",
+    "Inequalities"
+  ],
+  "hrv_2019_hmo_day1_1": [
+    "Monovariants",
+    "Algorithms & constructions",
+    "Combinatorial geometry"
+  ],
+  "geo_2025_g10_5": [
+    "Colouring",
+    "Graph theory"
+  ],
+  "idn_2022_national_q1": [
+    "Functional equations"
+  ],
+  "kaz_2024_national_g9_q4": [
+    "Divisibility & GCD",
+    "Extremal arguments"
+  ],
+  "baltic-lithuania-2026-Grades-11–12-3": [
+    "Sets & partitions",
+    "Parity"
+  ],
+  "mys_2025_imonst2_10": [
+    "Algebraic identities"
+  ],
+  "mne_2025_upper_1": [
+    "Integer polynomials",
+    "Divisibility & GCD"
+  ],
+  "arm_2025_g10_3": [
+    "Parity",
+    "Algorithms & constructions",
+    "Counting"
+  ],
+  "bgd_2024_national_junior_q7": [
+    "Parity",
+    "Double counting",
+    "Colouring",
+    "Combinatorial geometry"
+  ],
+  "bih_2014_3": [
+    "Diophantine equations",
+    "Modular arithmetic"
+  ],
+  "hrv_2019_hmo_imo_1": [
+    "Functional equations"
+  ],
+  "egm_2024_10a8ce": [
+    "Extremal arguments",
+    "Counting",
+    "Algorithms & constructions"
+  ],
+  "geo_2025_g11-12_5": [
+    "Angles & cyclic quadrilaterals",
+    "Power of a point & radical axes"
+  ],
+  "idn_2022_national_q3": [
+    "Power of a point & radical axes",
+    "Coordinates & vectors",
+    "Concurrency & collinearity"
+  ],
+  "kaz_2024_national_g9_q5": [
+    "Coordinates & vectors",
+    "Triangle centres",
+    "Circles & tangency"
+  ],
+  "mne_2025_upper_2": [
+    "Primes",
+    "Multiplicative order",
+    "Modular arithmetic"
+  ],
+  "sgp_2025_aa25f4": [
+    "Combinatorial geometry",
+    "Quadrilaterals & polygons",
+    "Extremal arguments"
+  ],
+  "arm_2025_g11-12_3": [
+    "Circles & tangency",
+    "Similarity & congruence",
+    "Quadrilaterals & polygons"
+  ],
+  "bgd_2024_national_secondary_q7": [
+    "Coordinates & vectors",
+    "Quadrilaterals & polygons"
+  ],
+  "bih_2014_6": [
+    "Triangle centres",
+    "Transformations",
+    "Triangle geometry"
+  ],
+  "idn_2022_national_q4": [
+    "Combinatorial geometry",
+    "Double counting",
+    "Parity"
+  ],
+  "jbm_2022_2e5bd6": [
+    "Sets & partitions",
+    "Recurrences & generating functions",
+    "Bijections"
+  ],
+  "kaz_2024_national_g9_q6": [
+    "Sequences & recurrences",
+    "Inequalities",
+    "Monovariants"
+  ],
+  "mne_2025_upper_3": [
+    "Counting",
+    "Permutations & arrangements"
+  ],
+  "arm_2025_g10_4": [
+    "Floors & fractional parts",
+    "Inequalities"
+  ],
+  "btw_2023_db4b31": [
+    "Digits & bases",
+    "Modular arithmetic"
+  ],
+  "bgd_2024_national_higher_secondary_q7": [
+    "Functional equations",
+    "Floors & fractional parts"
+  ],
+  "bih_2013_1": [
+    "Triangle geometry",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "idn_2022_national_q6": [
+    "Transformations",
+    "Circles & tangency",
+    "Triangle centres"
+  ],
+  "mne_2025_lower_4": [
+    "Counting"
+  ],
+  "zaf_2022_abe3dd": [
+    "Colouring",
+    "Graph theory",
+    "Extremal arguments"
+  ],
+  "arm_2025_g11-12_4": [
+    "Diophantine equations",
+    "Valuations",
+    "Squares & powers"
+  ],
+  "bgd_2024_national_primary_q8": [
+    "Coordinates & vectors",
+    "Triangle geometry"
+  ],
+  "bih_2013_2": [
+    "Sequences & recurrences",
+    "Invariants"
+  ],
+  "idn_2022_national_q7": [
+    "Extremal arguments",
+    "Permutations & arrangements",
+    "Algorithms & constructions"
+  ],
+  "mne_2025_upper_4": [
+    "Power of a point & radical axes",
+    "Geometric inequalities",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "arm_2025_g8_5": [
+    "Extremal arguments",
+    "Squares & powers"
+  ],
+  "btw_2023_aaf831": [
+    "Digits & bases",
+    "Valuations"
+  ],
+  "bgd_2024_national_junior_q8": [
+    "Sequences & recurrences",
+    "Divisibility & GCD"
+  ],
+  "bih_2013_3": [
+    "Graph theory",
+    "Colouring",
+    "Induction"
+  ],
+  "hrv_2019_hmo_memo_2": [
+    "Tilings & dissections",
+    "Colouring",
+    "Invariants"
+  ],
+  "idn_2022_national_q8": [
+    "Inequalities"
+  ],
+  "arm_2025_g9_5": [
+    "Extremal arguments",
+    "Squares & powers"
+  ],
+  "btw_2023_c5f4ad": [
+    "Inequalities"
+  ],
+  "bgd_2024_national_secondary_q9": [
+    "Factorials & binomial coefficients",
+    "Valuations",
+    "Divisibility & GCD"
+  ],
+  "bih_2013_4": [
+    "Primes",
+    "Divisibility & GCD",
+    "Diophantine equations"
+  ],
+  "idn_2021_national_q2": [
+    "Power of a point & radical axes",
+    "Triangle geometry"
+  ],
+  "arm_2025_g10_5": [
+    "Games & strategies",
+    "Invariants",
+    "Parity"
+  ],
+  "bih_2013_5": [
+    "Inequalities"
+  ],
+  "idn_2021_national_q3": [
+    "Sequences & recurrences",
+    "Valuations",
+    "Primes"
+  ],
+  "arm_2025_g11-12_5": [
+    "Power of a point & radical axes",
+    "Circles & tangency",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "bih_2013_6": [
+    "Transformations",
+    "Triangle centres",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "chn_2023_935930": [
+    "Diophantine equations",
+    "Divisibility & GCD",
+    "Valuations"
+  ],
+  "idn_2021_national_q4": [
+    "Inequalities"
+  ],
+  "mys_2024_imonst2_06": [
+    "Combinatorial geometry",
+    "Permutations & arrangements"
+  ],
+  "arm_2025_g9_6": [
+    "Similarity & congruence",
+    "Triangle geometry"
+  ],
+  "bih_2011_4": [
+    "Extremal arguments",
+    "Permutations & arrangements"
+  ],
+  "idn_2021_national_q6": [
+    "Divisibility & GCD",
+    "Monovariants"
+  ],
+  "arm_2025_g10_6": [
+    "Power of a point & radical axes",
+    "Angles & cyclic quadrilaterals",
+    "Circles & tangency"
+  ],
+  "bih_2011_2": [
+    "Trigonometry",
+    "Circles & tangency",
+    "Diophantine equations"
+  ],
+  "ind_2014_5520b5": [
+    "Sets & partitions",
+    "Graph theory",
+    "Extremal arguments",
+    "Parity"
+  ],
+  "idn_2021_national_q8": [
+    "Tilings & dissections",
+    "Colouring",
+    "Algorithms & constructions"
+  ],
+  "arm_2025_g11-12_6": [
+    "Inequalities",
+    "Extremal arguments"
+  ],
+  "bih_2011_3": [
+    "Permutations & arrangements",
+    "Invariants"
+  ],
+  "pamo_2022_3": [
+    "Algebraic identities"
+  ],
+  "bih_2011_6": [
+    "Concurrency & collinearity",
+    "Trigonometry",
+    "Angles & cyclic quadrilaterals"
+  ],
+  "nzl_2023_e48fce": [
+    "Sets & partitions",
+    "Bijections",
+    "Counting"
+  ],
+  "apm_2015_af5968": [
+    "Functional equations"
+  ],
+  "aus_amo_2022_1": [
+    "Quadrilaterals & polygons",
+    "Parity"
+  ],
+  "apm_2014_345bdc": [
+    "Digits & bases"
+  ],
+  "hrv_2019_nat3_3": [
+    "Combinatorial geometry",
+    "Extremal arguments",
+    "Counting"
+  ],
+  "baltic-latvia-2024-Grade-12-5": [
+    "Inequalities"
+  ],
+  "mys_2022_imonst2_08": [
+    "Diophantine equations",
+    "Parity"
+  ],
+  "zaf_2016_ddea36": [
+    "Games & strategies",
+    "Induction"
+  ],
+  "ind_2012_official_q5": [
+    "Similarity & congruence",
+    "Trigonometry",
+    "Triangle geometry"
+  ],
+  "apm_2010_deb386": [
+    "Squares & powers",
+    "Modular arithmetic"
+  ],
+  "hrv_2019_nat3_5": [
+    "Angles & cyclic quadrilaterals",
+    "Trigonometry",
+    "Triangle centres"
+  ],
+  "zaf_2015_2dc78b": [
+    "Graph theory",
+    "Recurrences & generating functions",
+    "Combinatorial geometry"
+  ],
+  "ca-cmo-2018-3": [
+    "Divisibility & GCD",
+    "Parity",
+    "Graph theory"
+  ],
+  "nzl_2020_ba5f19": [
+    "Games & strategies"
+  ],
+  "pamo_2015_4": [
+    "Arithmetic functions",
+    "Bijections"
+  ],
+  "chn_2013_2a047b": [
+    "Modular arithmetic",
+    "Divisibility & GCD"
+  ],
+  "us-usajmo-2021-5": [
+    "Divisibility & GCD",
+    "Arithmetic functions",
+    "Double counting"
+  ],
+  "bmo1-2022-q5": [
+    "Extremal arguments",
+    "Diophantine equations"
+  ],
+  "aus_amo_2020_5": [
+    "Recurrences & generating functions",
+    "Permutations & arrangements"
+  ],
+  "bmo1-2020-q4": [
+    "Graph theory",
+    "Counting"
+  ],
+  "chn_2012_b4de15": [
+    "Parity",
+    "Recurrences & generating functions",
+    "Bijections"
+  ],
+  "chn_2012_98c085": [
+    "Sets & partitions",
+    "Graph theory",
+    "Extremal arguments"
+  ],
+  "bmo2-2019-q3": [
+    "Modular arithmetic",
+    "Counting"
+  ],
+  "chn_2011_debcf5": [
+    "Sets & partitions",
+    "Extremal arguments"
+  ],
+  "ind_2008_b44206": [
+    "Rationality & irrationality"
+  ],
+  "chn_2010_6536f0": [
+    "Permutations & arrangements",
+    "Induction",
+    "Extremal arguments"
+  ],
+  "irmo-1992-1": [
+    "Inequalities",
+    "Functions & graphs"
+  ],
+  "ind_2008_f91c94": [
+    "Tilings & dissections"
+  ],
+  "ind_2005_9a0816": [
+    "Counting",
+    "Permutations & arrangements"
+  ],
+  "irmo-1988-13": [
+    "Triangle geometry",
+    "Similarity & congruence"
+  ],
+  "ind_2002_0a9bb3": [
+    "Combinatorial geometry",
+    "Counting"
+  ],
+  "ind_2000_430770": [
+    "Bijections",
+    "Counting",
+    "Combinatorial geometry"
+  ],
+  "fist-1981-q6": [
+    "Polynomials",
+    "Rationality & irrationality"
+  ],
+  "bmo-1973-q7": [
+    "Calculus & modelling"
+  ],
+  "apm_2025_0453f0": [
+    "Floors & fractional parts",
+    "Inequalities",
+    "Functions & graphs"
+  ],
+  "sau_2024_0695e4": [
+    "Combinatorial geometry",
+    "Invariants"
+  ],
+  "zaf_2024_a58f93": [
+    "Invariants",
+    "Parity",
+    "Extremal arguments"
+  ],
+  "bmo_2024_17dc50": [
+    "Tilings & dissections",
+    "Parity",
+    "Extremal arguments"
+  ],
+  "btw_2023_227d69": [
+    "Invariants",
+    "Parity",
+    "Algorithms & constructions"
+  ],
+  "egm_2025_23b350": [
+    "Sequences & recurrences",
+    "Algebraic identities"
+  ],
+  "nzl_2025_1a7685": [
+    "Permutations & arrangements",
+    "Induction",
+    "Extremal arguments"
+  ],
+  "kor_2024_10ef8b": [
+    "Games & strategies",
+    "Extremal arguments"
+  ],
+  "apm_2024_91e126": [
+    "Parity",
+    "Algorithms & constructions",
+    "Combinatorial geometry"
+  ],
+  "hkg_2023_1dd7f6": [
+    "Inequalities",
+    "Games & strategies"
+  ],
+  "jpn_2025_efabb8": [
+    "Graph theory",
+    "Sequences & recurrences"
+  ],
+  "jbm_2023_78057b": [
+    "Games & strategies"
+  ],
+  "mem_2024_1fcf5e": [
+    "Sequences & recurrences"
+  ],
+  "mng_2025_8b6a73": [
+    "Games & strategies",
+    "Monovariants"
+  ],
+  "sau_2024_5429e4": [
+    "Divisibility & GCD",
+    "Primes",
+    "Invariants",
+    "Parity"
+  ],
+  "chn_2024_4390da": [
+    "Games & strategies",
+    "Extremal arguments"
+  ],
+  "ibe_2003_38dcd3": [
+    "Parity",
+    "Permutations & arrangements",
+    "Algorithms & constructions"
+  ],
+  "nzl_2025_40a702": [
+    "Parity",
+    "Combinatorial geometry"
+  ],
+  "nmo_2021_5655c2": [
+    "Primes",
+    "Divisibility & GCD",
+    "Extremal arguments"
+  ],
+  "rmm_2021_03b2ae": [
+    "Induction",
+    "Algebraic identities"
+  ],
+  "bmo_2024_37ccab": [
+    "Games & strategies",
+    "Invariants",
+    "Monovariants"
+  ],
+  "jpn_2025_42febe": [
+    "Counting",
+    "Permutations & arrangements",
+    "Combinatorial geometry"
+  ],
+  "tur_2024_bb0acb": [
+    "Sequences & recurrences",
+    "Invariants",
+    "Inequalities"
+  ],
+  "chn_2023_d22a16": [
+    "Combinatorial geometry",
+    "Extremal arguments",
+    "Algorithms & constructions"
+  ],
+  "egm_2023_fc0b21": [
+    "Modular arithmetic",
+    "Descent"
+  ],
+  "phl_2023_dd654e": [
+    "Monovariants",
+    "Algorithms & constructions"
+  ],
+  "ibe_2002_95db74": [
+    "Combinatorial geometry",
+    "Invariants",
+    "Parity"
+  ],
+  "bxm_2022_fe31d1": [
+    "Induction",
+    "Counting",
+    "Algorithms & constructions"
+  ],
+  "zaf_2021_7cf93c": [
+    "Modular arithmetic",
+    "Games & strategies"
+  ],
+  "bmo_2023_aef8b8": [
+    "Games & strategies",
+    "Invariants"
+  ],
+  "ind_2014_8036c9": [
+    "Polynomials",
+    "Games & strategies",
+    "Monovariants"
+  ],
+  "imo_2024_657c6a": [
+    "Double counting",
+    "Extremal arguments"
+  ],
+  "imo_2024_0968d7": [
+    "Parity",
+    "Induction",
+    "Modular arithmetic"
+  ],
+  "btw_2023_38796d": [
+    "Coordinates & vectors",
+    "Constructions & loci"
+  ],
+  "ibe_2001_461dd2": [
+    "Games & strategies",
+    "Invariants"
+  ],
+  "imo_2023_a99802": [
+    "Floors & fractional parts",
+    "Extremal arguments",
+    "Monovariants"
+  ],
+  "nzl_2022_1310f5": [
+    "Monovariants",
+    "Inequalities",
+    "Games & strategies"
+  ],
+  "ibe_2000_6e6cb0": [
+    "Games & strategies",
+    "Invariants",
+    "Modular arithmetic"
+  ],
+  "nzl_2022_c16754": [
+    "Double counting",
+    "Graph theory",
+    "Algorithms & constructions"
+  ],
+  "zaf_2018_fb89ce": [
+    "Divisibility & GCD",
+    "Primes",
+    "Induction",
+    "Extremal arguments"
+  ],
+  "imo_2022_b034b8": [
+    "Colouring",
+    "Algorithms & constructions",
+    "Monovariants"
+  ],
+  "zaf_2015_6185c8": [
+    "Parity",
+    "Combinatorial geometry",
+    "Counting"
+  ],
+  "ind_2011_9fc5bb": [
+    "Coordinates & vectors",
+    "Monovariants"
+  ],
+  "chn_2013_6a34a4": [
+    "Invariants",
+    "Parity",
+    "Permutations & arrangements"
+  ],
+  "chn_2013_574514": [
+    "Games & strategies",
+    "Monovariants",
+    "Counting"
+  ],
+  "chn_2012_e47881": [
+    "Monovariants"
+  ],
+  "chn_2012_a41233": [
+    "Modular arithmetic",
+    "Digits & bases"
+  ],
+  "chn_2011_5019b8": [
+    "Monovariants",
+    "Algorithms & constructions"
+  ],
+  "ind_2008_5d6c9a": [
+    "Diophantine equations",
+    "Descent"
+  ],
+  "ind_2005_430964": [
+    "Sequences & recurrences",
+    "Parity"
+  ],
+  "ind_2004_17ca0b": [
+    "Arithmetic functions",
+    "Diophantine equations",
+    "Parity"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "imo_1986_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1986,
+  "problem_number": "1",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Squares"
+    ],
+    [
+      "Number Theory",
+      "Case analysis"
+    ]
+  ],
+  "problem_markdown": "For every positive integer $d\\notin\\{2,5,13\\}$, prove some distinct $a,b\\in\\{2,5,13,d\\}$ make $ab-1$ nonsquare.",
+  "solutions_markdown": [
+    "Suppose $2d-1,5d-1,13d-1$ were all squares. Squares modulo sixteen lie in $\\{0,1,4,9\\}$. The first condition forces $d\\equiv1,5,9,13\\pmod{16}$. For $d\\equiv1$ or 13, $13d-1$ has residue 12 or 8, impossible for a square. For $d\\equiv5$ or 9, $5d-1$ has residue 8 or 12, also impossible. Hence at least one of the three products involving $d$ is nonsquare. Its two factors are distinct by the hypothesis on $d$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1986/1986_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln861.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

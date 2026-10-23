@@ -1,0 +1,25 @@
+{
+  "id": "imo_1987_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1987,
+  "problem_number": "1",
+  "primary_domain": "Combinatorics",
+  "topics": [
+    [
+      "Combinatorics",
+      "Double counting"
+    ],
+    [
+      "Combinatorics",
+      "Permutations"
+    ]
+  ],
+  "problem_markdown": "Let $p_n(k)$ count permutations of $\\{1,\\ldots,n\\}$ with exactly $k$ fixed points. Prove $\\sum_{k=0}^n k\\,p_n(k)=n!$.",
+  "solutions_markdown": [
+    "Count pairs $(\\sigma,i)$ where $\\sigma$ is a permutation and $\\sigma(i)=i$. Grouping by the permutation gives $\\sum k\\,p_n(k)$. Choosing $i$ first gives $n$ choices and then $(n-1)!$ permutations of the other elements. Hence the same count is $n(n-1)!=n!$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1987/1987_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln871.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

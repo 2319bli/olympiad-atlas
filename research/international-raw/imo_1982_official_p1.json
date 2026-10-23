@@ -1,0 +1,29 @@
+{
+  "id": "imo_1982_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1982,
+  "problem_number": "1",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Functional equations"
+    ],
+    [
+      "Algebra",
+      "Superadditivity"
+    ],
+    [
+      "Algebra",
+      "Integer bounds"
+    ]
+  ],
+  "problem_markdown": "A function $f:\\mathbb Z_{>0}\\to\\mathbb Z_{\\ge0}$ has $f(m+n)-f(m)-f(n)\\in\\{0,1\\}$, $f(2)=0$, $f(3)>0$, and $f(9999)=3333$. Determine $f(1982)$.",
+  "solutions_markdown": [
+    "The condition at $1+1$ gives $f(1)=0$, and then $f(3)=1$. Repeated superadditivity gives $f(3k)\\ge k$. If this were strict for any $k\\le3333$, adding $3333-k$ further threes would contradict $f(9999)=3333$. Thus $f(3k)=k$ throughout that range.\n\nNow $1982=1980+2$ gives $f(1982)\\ge f(1980)=660$. On the other hand,\n$$3f(1982)\\le f(5946)=1982,$$\nso the integer $f(1982)\\le660$. Hence it equals $660$. The data are consistent, for example with $f(n)=\\lfloor n/3\\rfloor$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1982/1982_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln821.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

@@ -1,0 +1,19 @@
+lithuania-2025-Grades-9–10-1|A|Equations & systems|Solve over the reals $\frac{x^2+11x-6}{x^2-x-6}=\frac{26x}{x^2-6}$, requiring both denominators to be nonzero.
+lithuania-2025-Grades-9–10-2|G|Similarity & congruence,Triangle geometry|In acute triangle $ABC$, let $D$ be the midpoint of $BC$ and $H$ the altitude foot from $C$ onto $AB$. Put $K=AD\cap CH$. A point $N$ on $AD$ satisfies $AN=BN$. Find the ratio $AK:DN$.
+lithuania-2025-Grades-9–10-4|N|Floor functions,Divisibility & GCD|Call a positive integer $n$ good if $\lfloor\sqrt n\rfloor+1$ divides $n+1$. (a) Find all good $n$ with $\lfloor\sqrt n\rfloor=44$. (b) Prove that for every good $n\ge4$, $\lfloor\sqrt n\rfloor-1$ divides $(n-1)(n-3)$.
+latvia-2025-Grade-9-1|C|Parity|Eight children sit around a circular table. Every three consecutive children have an odd total number of sweets. Prove that each child has at least one sweet.
+latvia-2025-Grade-9-2|G|Similarity & congruence,Area & dissection|In triangle $ABC$, a point $D\in AB$ satisfies $AD:DB=2:1$. The median $BE$ meets $CD$ at $F$. Prove $BF=FE$.
+latvia-2025-Grade-9-5|C|Games & strategies|The integers $1,2,\ldots,2025$ are written on a board. Alice and Kate alternately erase one integer, Alice first, until only two remain. Alice wins if their sum is a perfect square; otherwise Kate wins. Determine who can force a win.
+latvia-2025-Grade-10-1|N|Parity|Can integers $a,b,c,d$ satisfy $|a-b|+|b-c|+|c-d|+|d-a|=2025$? Justify your answer.
+latvia-2025-Grade-10-3|N|Divisibility & GCD|For each positive divisor $d$ of $n+1$, where $n>1$, divide $n$ by $d$ and record the quotient and remainder. Prove that the multiset of quotients equals the multiset of remainders.
+latvia-2025-Grade-12-1|N|Modular arithmetic|Prove that $2^{2n-1}3^{n-1}+5^n$ is divisible by $7$ for every positive integer $n$.
+latvia-2025-Grade-12-3|A|Inequalities|Positive reals $x,y,z$ sum to $1$. Prove $\frac1{xy-z+2}+\frac1{yz-x+2}+\frac1{xz-y+2}\ge27/16$.
+latvia-2024-Grade-9-1|N|Divisibility & GCD,Extremal arguments|Can five distinct positive integers have arithmetic mean equal to (a) three times, (b) twice their greatest common divisor? Prove your answers.
+latvia-2024-Grade-9-2|G|Area & dissection|Point $C$ lies inside segment $AB$ with $AC<CB$. On the same side of $AB$, construct squares $ADEC$ and $CFGB$. Let $H=AG\cap CE$. Prove triangles $ACH$ and $HEG$ have equal areas.
+latvia-2024-Grade-9-3|C|Graph theory,Pigeonhole principle|A network has $n\ge3$ computers, each connected to at least two others. At various times a computer which has not previously sent a message sends one to every connected neighbour. Prove that at every time, two computers have received equal numbers of messages.
+latvia-2024-Grade-10-1|N|Divisibility & GCD,Pigeonhole principle|Can one choose (a) $50$, (b) $51$, distinct integers from $1$ through $100$ so that the positive difference of any two chosen integers is never equal to their greatest common divisor?
+latvia-2024-Grade-10-2|G|Angle chasing,Angle bisectors|A convex quadrilateral $ABCD$ has $AB=BC=CD$. Its diagonals meet at $E$, and the internal bisectors of $\angle BAD$ and $\angle ADC$ meet at $F$. Prove $\angle EAF=\angle EDF$.
+latvia-2024-Grade-10-4|A|Equations & systems|Two classes initially have average contest scores $37$ and $11$. One contestant's paper was assigned to the wrong class. After moving it to the correct class, both averages increase by $1$, to $38$ and $12$. How many contestants were there altogether?
+latvia-2024-Grade-11-1|A|Inequalities,Equations & systems|Find all real pairs $(a,b)$ satisfying $4a+4b^2+\sqrt{4a-4b^2-1}\le1$.
+latvia-2024-Grade-12-1|A|Equations & systems|Solve over the reals $x+1/x=y+z$, $y+1/y=x+z$, $z+1/z=x+y$.
+latvia-2024-Grade-12-4|N|Digits & bases,Modular arithmetic|For a positive integer $n$, concatenate the decimal representations of $2^n$ and $14^n$, in that order, to form $C$. Can $C-1$ be prime? Prove your answer.

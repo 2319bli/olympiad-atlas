@@ -1,0 +1,1882 @@
+{
+  "apm_2025_0453f0": [
+    6,
+    "The key step is to turn the visit labels into the sequence 0,1,2,... and compare their linear growth with the bounded distance from the diagonal; the alternating-path construction then proves sufficiency."
+  ],
+  "apm_2025_7619c0": [
+    8,
+    "Requires infinitely many suitable polynomial prime divisors, combined with coprime periods modulo each prime; proving the prime-divisor lemma adds substantial number-theoretic depth."
+  ],
+  "apm_2025_e1a993": [
+    8.5,
+    "The eventual period needs a structural argument about successive visits or an Eulerian rotor walk; discovering and proving the propagation mechanism is beyond the target band."
+  ],
+  "apm_2025_092270": [
+    9.5,
+    "The proof has a difficult bounded-versus-linear dichotomy involving lcm estimates and propagation of additive relations across indices."
+  ],
+  "apm_2024_455746": [
+    5.5,
+    "A non-obvious radical-axis reformulation turns the required collinearity into a ratio identity supplied by the parallel lines; the technical work after the insight is short."
+  ],
+  "apm_2024_91e126": [
+    7,
+    "One must identify the inaccessible central square, distinguish the parity obstruction, and prove reachability of the remaining cells by constructing short move sequences."
+  ],
+  "apm_2024_531576": [
+    7,
+    "The unusual powers suggest an iterative two-variable inequality, but finding the product-merging lemma and the telescoping sequence of applications takes sustained ingenuity."
+  ],
+  "apm_2024_299020": [
+    8.5,
+    "Lucas/Kummer parity must be combined with a global binary-digit count and a recursively forced matching; considerably more structure than typical harder BMO1."
+  ],
+  "apm_2024_5b1ccf": [
+    9,
+    "Requires a sophisticated Miquel-point construction and several interacting cyclic configurations or substantial barycentric algebra."
+  ],
+  "apm_2016_7112d6": [
+    7,
+    "Reverse-constructing the tangent reduces the claim to a ratio, followed by Menelaus and nontrivial excircle length/area identities."
+  ],
+  "apm_2016_6dfebe": [
+    6.5,
+    "The 57-cycle gives the extremal example, while the upper bound needs the insight of replacing reachability by adjacency and inductively deleting a low-degree vertex."
+  ],
+  "apm_2016_e3d4e1": [
+    8.5,
+    "The functional equation needs an unboundedness argument, a positive linear-system substitution, and several stages to force additivity and identity."
+  ],
+  "apm_2015_b2f406": [
+    5,
+    "Finding the second cyclic quadrilateral unlocks a compact angle chase and equality of chords; accessible but the auxiliary concyclicity is not supplied."
+  ],
+  "apm_2015_af5968": [
+    6.5,
+    "The unequal-input restriction prevents standard diagonal substitutions; an auxiliary large variable first establishes a constant square ratio before forcing a contradiction."
+  ],
+  "apm_2015_52c15f": [
+    7.5,
+    "Conjugating the two rational maps to binary affine maps and proving the minimum via multiplicative order requires two substantial transformations."
+  ],
+  "apm_2023_fb45d1": [
+    7,
+    "The central difficulty is inventing a cycle-shaped geometric construction, then balancing side-length sums and proving that the square chains do not overlap."
+  ],
+  "apm_2023_ffbe63": [
+    6.5,
+    "Factoring the divisor sum is standard; the decisive insight is bounding the Euler product by a telescoping product to force the largest prime below four."
+  ],
+  "apm_2023_8d15e5": [
+    6.5,
+    "One first extracts equality of opposite inradii from the incenter parallelogram, then uses a cyclic chain of strict side inequalities to force symmetry."
+  ],
+  "apm_2023_44bc62": [
+    7,
+    "A cancelling substitution gives a lower bound; subtracting the expected linear solution produces a nonnegative function whose iterated inequality forces it to vanish."
+  ],
+  "apm_2023_effff8": [
+    9,
+    "Combines a planar two-colouring obstruction with a carefully strengthened noncrossing-path induction to establish every attainable endpoint."
+  ],
+  "apm_2022_789d8c": [
+    5,
+    "Introducing the integer quotient a cubed over b squared and reducing modulo a minus one turns divisibility into a sharp size dichotomy."
+  ],
+  "apm_2022_76c60b": [
+    5.5,
+    "The fixed point is found by extending EF and discovering an isosceles trapezium through cyclic angle chasing and the midpoint hypothesis."
+  ],
+  "apm_2022_a90b58": [
+    6.5,
+    "Summing integer parts yields a strong prime-divisibility restriction, but a separate carefully grouped residue construction is needed for the exceptional value."
+  ],
+  "apm_2022_04f0c2": [
+    8,
+    "Both directions require a delicate recursive decomposition of the marble moves; the impossibility argument needs reversibility and the last move of a carefully chosen marble."
+  ],
+  "apm_2022_1b0270": [
+    7,
+    "Sorting the cyclic differences, eliminating the translation by a quadratic discriminant, and matching equality cases in AM-GM gives a substantial but elementary optimization."
+  ],
+  "apm_2021_b4cc15": [
+    7,
+    "The main challenge is organizing half-angle identities and recognizing a trigonometric-Ceva or sine-ratio route to the collinearity."
+  ],
+  "apm_2020_1a86f9": [
+    5,
+    "A compact cyclic-angle chase first reveals equal angles at A and B, then supplies a new cyclic quadrilateral whose parallel lines finish the concurrency."
+  ],
+  "apm_2020_9793f2": [
+    7,
+    "The sharp threshold comes from gaps between consecutive squares; the proof needs a carefully strengthened induction that freezes one parity subsequence and bounds the other."
+  ],
+  "apm_2020_f3d3c1": [
+    9,
+    "Classifying eventual constant subset-sum representation counts requires proving that the infinite set eventually doubles, a strong and difficult structural lemma."
+  ],
+  "apm_2020_2b1cf6": [
+    8,
+    "Combines a refined prefix-sum pigeonhole argument with an infinite construction exploiting growing gaps between polynomial values."
+  ],
+  "apm_2019_8b0117": [
+    6.5,
+    "Initial substitutions give bounds, but the decisive route is fixing the function on primes and then using arbitrarily large divisors to force every value."
+  ],
+  "apm_2019_b28acf": [
+    7.5,
+    "The odd-part monovariant needs three valuation cases, eventual stabilization, and analysis of the surviving power-of-two dynamics."
+  ],
+  "apm_2019_96963d": [
+    8.5,
+    "Several successive radical-center constructions, auxiliary fixed points, and cyclic quadrilaterals are needed before the fixed point becomes visible."
+  ],
+  "egm_2025_f62485": [
+    5.5,
+    "The initial consecutive residues force a factor of three; choosing consecutive coprime numbers around the remaining cofactor excludes all other odd candidates."
+  ],
+  "egm_2025_23b350": [
+    5.5,
+    "Subtracting the odd-number sequence turns the mean condition into zero partial sums, and an integer step-size observation forces infinitely many exact crossings."
+  ],
+  "egm_2025_d7e2db": [
+    6.5,
+    "Reflecting two exterior vertices across the midpoints creates parallel lines and several useful cyclic quadrilaterals; the construction is the main obstacle."
+  ],
+  "egm_2025_43d1db": [
+    5.5,
+    "Two carefully chosen triangle similarities connect the angle bisectors and parallelograms; both the angle equality and side ratio need to be identified."
+  ],
+  "egm_2025_b50ee2": [
+    7.5,
+    "The periodic Hamiltonian construction is accessible, but the optimality proof requires comparing two tours at a corner and ruling out the reversed traversal."
+  ],
+  "egm_2025_af59a0": [
+    9,
+    "A sharp matrix extremum needs an elaborate grouped-maxima inequality plus a structured doubly stochastic construction achieving it."
+  ],
+  "egm_2024_86f588": [
+    5.5,
+    "Finding the universal root minus one unlocks the construction; careful treatment of distinct coefficients, sign obstructions and exceptional pairs is required."
+  ],
+  "egm_2024_82b391": [
+    6.5,
+    "The angle condition first gives a cyclic quadrilateral, then equal tangent lengths; an additional tangent construction at the arc midpoint supplies the final collinearity."
+  ],
+  "egm_2024_96da66": [
+    9,
+    "One essentially classifies the composite peculiar numbers through strong divisor bounds and two-prime arithmetic before deducing the common-divisor result."
+  ],
+  "egm_2024_10a8ce": [
+    5,
+    "The upper bound pairs the two distances from each interior point to the endpoints; an explicit power-of-two construction makes the sharp count attainable."
+  ],
+  "apm_2019_3a3563": [
+    8,
+    "The obstruction is a nonconstant harmonic pattern modulo five, extended by reflections; seeing finite-field harmonicity is a substantial leap."
+  ],
+  "apm_2019_4f40a7": [
+    8.5,
+    "After basic substitutions, the equation still needs a nontrivial nonnegativity argument and strong equal-value propagation to classify the function."
+  ],
+  "apm_2016_703ac5": [
+    6,
+    "The universal condition must be tested at two strategically chosen points, the angle-bisector foot and the side midpoint, before a separate converse angle chase."
+  ],
+  "apm_2016_55401b": [
+    6.5,
+    "Binary representation gives the construction, while a minimal-counterexample argument reducing exponents modulo 101 proves the sharp obstruction."
+  ],
+  "apm_2015_f045f5": [
+    8,
+    "One needs a carefully chosen neighbouring pair in the angular order of lines and a continuous geometric construction avoiding every intersection."
+  ],
+  "apm_2014_345bdc": [
+    5.5,
+    "Constructing numbers from only ones and twos separates digit sum from digit product; a sufficiently large power of two then closes the cyclic conditions."
+  ],
+  "apm_2013_4c0b59": [
+    4.5,
+    "The main task is identifying the correct pairs of areas; two right-triangle similarities involving the circumcenter prove the required product identities."
+  ],
+  "apm_2013_8a2e44": [
+    7,
+    "The tangent configuration must be converted into product identities using similarity and Ptolemy, then compared through two independently computed ratios."
+  ],
+  "apm_2010_4c0e80": [
+    4,
+    "The diameter produces symmetric right triangles, allowing the central-angle relation and a cyclic-angle chase to establish the two parallel pairs."
+  ],
+  "apm_2010_deb386": [
+    5,
+    "A single common scaling factor must simultaneously repair the sum and preserve the product power; solving those exponent congruences yields the construction."
+  ],
+  "apm_2010_bde43c": [
+    5.5,
+    "A star supplies the example; the upper bound needs the observation that components can be joined without losing qualifying pairs and a connected graph has at least n minus one edges."
+  ],
+  "apm_2010_de8361": [
+    8.5,
+    "The intended geometry discovers two similar rhombi involving altitude intersections and then relates two circumcenters through a further projection argument."
+  ],
+  "egm_2024_efd366": [
+    8.5,
+    "Forcing all prime powers to map to one prime base is followed by a second induction using divisor counts; two intertwined structural inductions make this substantially harder than the target band."
+  ],
+  "egm_2024_c245c8": [
+    9,
+    "The obstruction needs a detailed interlacing and multiplicity argument for level sets of a polynomial, followed by a delicate equality case; well beyond the target."
+  ],
+  "egm_2023_4855fd": [
+    5.5,
+    "The useful extra point is the midpoint of KL: two cyclic quadrilaterals then show that it lies on both altitudes, identifying the orthocentre."
+  ],
+  "egm_2023_3c6e1c": [
+    6,
+    "The threshold requires a sharp obstructing dictionary and the unexpected complementary-word construction, whose grid is built from the partition of indices into two letter classes."
+  ],
+  "egm_2023_fc0b21": [
+    5.5,
+    "Two twists decrease the number by a multiple of s squared minus one; combining this descent with the alternating residue classes proves both necessity and sufficiency."
+  ],
+  "egm_2022_a8807e": [
+    5.5,
+    "Recognising the orthocentre on the angle bisector at S and proving P,T,Q,S cyclic makes ST the same bisector; this requires linked angle observations."
+  ],
+  "egm_2021_755fd4": [
+    7.5,
+    "The natural solution introduces the orthocentre and an auxiliary circumcircle, then needs a separate isosceles-triangle lemma proved by powers and cyclic quadrilaterals."
+  ],
+  "egm_2020_0b3206": [
+    6.5,
+    "A carefully chosen two-variable inequality uses the unit-width restriction; resolving all equality pairs and the permutation constraint is the second essential stage."
+  ],
+  "egm_2020_4c41d5": [
+    7,
+    "Extending alternate sides to two equilateral triangles exposes an invariant sum of signed distances; both the construction and its use to transfer concurrence are substantial insights."
+  ],
+  "egm_2020_d0be5e": [
+    5.5,
+    "Insertion gives only n minus one natural images; finding a disjoint extra image by replacing the largest entry and appending it completes the injection."
+  ],
+  "egm_2020_9202c0": [
+    7,
+    "A second intersection of CP with the circumcircle, power of a point, and a rhombus reveal an arc midpoint; the final incenter characterisation completes a substantial geometry chain."
+  ],
+  "egm_2020_2eb0ec": [
+    7,
+    "Reducing modulo primes dividing m minus one forces a power of three; factoring the fourth square then gives the candidates, and a second-order square-root recurrence verifies them."
+  ],
+  "bxm_2022_0a0d9d": [
+    4.5,
+    "Recognising the polynomial as a convex combination of its partial coefficient sums proves the uniform bound; an alternative induction merges the final coefficient."
+  ],
+  "bxm_2022_92f124": [
+    4.5,
+    "The equal-distance conditions identify two perpendicular bisectors. Their intersections with the sides give one cyclic quadrilateral and a parallel midline, after which a short angle chase finishes."
+  ],
+  "bxm_2022_f04e6f": [
+    5,
+    "Part a needs the prime divisibility of square roots followed by a difference-of-squares size contradiction; part b requires constructing a set whose prime divisor is forced."
+  ],
+  "bxm_2025_253cc8": [
+    4.5,
+    "The sharp bound comes from partitioning all schedules into cyclic-shift classes and observing that no two students can share a class; fixing one common day attains it."
+  ],
+  "bxm_2025_503188": [
+    5,
+    "The equation first forces bijectivity, then oddness away from zero, and finally f(0)=0; the resulting values at one contradict the composition identity."
+  ],
+  "bxm_2025_be509d": [
+    5,
+    "Angle chasing identifies a parallelogram with vertices E,D prime,F,I. Recognising that auxiliary quadrilateral turns the required collinearity into the diagonal midpoint property."
+  ],
+  "nmo_2022_009808": [
+    5,
+    "For a fixed edge, toggling all edges of a cycle through it is an involution on even subgraphs; this equidistribution followed by double counting yields the exact total."
+  ],
+  "nmo_2022_502d9c": [
+    6,
+    "The second intersection of the circumcircles of ABC and ADE is the useful construction; spiral similarity and a directed-angle argument identify the required antipodal points."
+  ],
+  "nmo_2022_b252c5": [
+    4.5,
+    "Composite n is defeated by choosing a prime divisor; for prime n the complementary-pair strategy makes the final product a nonzero square and Fermat gives the win."
+  ],
+  "nmo_2022_fee2e2": [
+    4.5,
+    "Symmetry under x to 1 minus x combines with the composition identity to force an iterated value to be a fixed point, hence to be one half."
+  ],
+  "bxm_2025_13a940": [
+    6.5,
+    "Subset-sum uniqueness leads to two global congruence counts, first over all sums and then the even sums; these force exactly one odd term and allow an induction after dividing by two."
+  ],
+  "bxm_2024_08c5e4": [
+    3,
+    "Completing the square gives the sharp per-term bound immediately; the second part follows from a sequence constant after its first term. Below the target band."
+  ],
+  "bxm_2024_42a533": [
+    5,
+    "Pair consecutive steps and switch the first mixed pair to reverse area parity; the exceptional doubled-step paths account for the extra central binomial term."
+  ],
+  "bxm_2024_12b450": [
+    6.5,
+    "The common geometric condition is D on EF. Finding EF perpendicular to AI, then establishing each direction through several cyclic quadrilaterals, makes this a substantial angle-chasing problem."
+  ],
+  "bxm_2024_b97b66": [
+    6,
+    "The construction must keep a and a plus b supported on fixed primes while making b divisible by a large prime square; Euler modulo that square then gives the radical saving."
+  ],
+  "bxm_2023_9b0016": [
+    5,
+    "One first forces f(0)=0 and oddness; swapping x and y turns the inequality into equality, and replacing y by minus y forces linearity."
+  ],
+  "bxm_2023_e478d0": [
+    4.5,
+    "A modulo-three colouring gives the obstruction, while the two-colour case needs the clever choice of successive powers of two to extend a chain or produce an entire chain in the other colour."
+  ],
+  "bxm_2023_bbdbc6": [
+    7,
+    "Several cyclic configurations reveal an orthocentre and a diameter; a separate power-of-a-point argument involving the arc-midpoint circle places I on the needed altitude."
+  ],
+  "bxm_2023_3bd2e0": [
+    5.5,
+    "Finding a repeatable friendly block divisible by 64 is the construction challenge; repeated-block residues and cancellation of powers of ten then handle every allowed odd modulus."
+  ],
+  "bxm_2022_fe31d1": [
+    6.5,
+    "The finite-collision condition constrains the order of speeds; inductively counting neighbouring collisions gives the bound, while attaining it needs a carefully arranged slow-ant construction."
+  ],
+  "nmo_2021_5655c2": [
+    6.5,
+    "After showing every sufficiently large prime is eventually written, one must prove that infinitely many exponent vectors contain a coordinatewise increasing subsequence, giving a forbidden divisibility chain."
+  ],
+  "nmo_2021_677e33": [
+    4,
+    "Recognising the increasing bijection g(x)=x(1+absolute x) turns the two inequalities into opposite bounds for g(f(x)); solving its inverse finishes."
+  ],
+  "nmo_2021_fefcb6": [
+    5.5,
+    "The key averaging argument finds a shift covering at least half of the still-uncovered residues; iterating it n plus one times proves complete coverage."
+  ],
+  "nmo_2021_b37e40": [
+    4.5,
+    "Reflection transfers one cyclic-angle relation to a new quadrilateral AYFE; a second angle chase with the parallel line proves the desired collinearity."
+  ],
+  "nmo_2019_c75e0c": [
+    4.5,
+    "A factorial exponent and factorial scaling satisfy every finite-subset size; ruling out an infinite set uses two large equal-size subsets differing by only one member."
+  ],
+  "nmo_2019_953df2": [
+    5,
+    "Constructing two angle bisectors exposes a parallelogram; the angle-bisector theorem then gives equal triangle areas and hence the required angle equality."
+  ],
+  "nmo_2017_a3735a": [
+    4,
+    "Discovering the identity P(n)P(n+1)=P((n+1)^2) supplies the required construction; the verification is short but the choice of factors is the main insight."
+  ],
+  "nmo_2017_6b04bc": [
+    4.5,
+    "Replacing the four trigonometric components by variables allows legitimate squaring and cancellation; the remainder is a visibly nonnegative square."
+  ],
+  "nmo_2016_044543": [
+    5,
+    "Consecutive large indices force the upper half of the sequence to be constant; selecting a coprime index in a short top interval then propagates that value to every earlier entry."
+  ],
+  "nmo_2016_615ff2": [
+    4.5,
+    "Placing an auxiliary point on the longest side uses the side-sum equality twice; two isosceles-triangle observations force an equilateral triangle."
+  ],
+  "mem_2024_c7cdc2": [
+    8,
+    "The adaptive support-line algorithm requires tracking four different kinds of irreversible progress to obtain a uniform bound; significantly more involved than the target band."
+  ],
+  "mem_2024_3fcfa6": [
+    4.5,
+    "Evaluating at products of two distinct primes and reducing modulo p plus one forces P at every negative prime to be divisible by arbitrarily large integers, hence to vanish."
+  ],
+  "mem_2024_10c0bb": [
+    4.5,
+    "Shifting the recurrence by one reveals that products of consecutive terms increase by one; the resulting exact product and AM-GM give the bound."
+  ],
+  "mem_2024_1fcf5e": [
+    7,
+    "Considering all palindromic prefix endpoints and composing three reflections forces consecutive gaps eventually to agree; two further reflections then give a global period."
+  ],
+  "mem_2024_b25895": [
+    5,
+    "The crucial construction is an arc midpoint producing an equilateral triangle and the other circumcentre; two equal-radius circles then identify EF as a chord perpendicular bisector."
+  ],
+  "mem_2024_788788": [
+    6.5,
+    "Reflecting the constructed points in the midpoint reveals two excentres; reflecting their intersection identifies the large excentre, after which an orthocentre argument gives the perpendicularity."
+  ],
+  "mem_2024_2aa484": [
+    7,
+    "The construction needs equal-length representatives of all residues, an Euler-period choice of block length, and swapping a block across one digit to produce an invertible factor nine."
+  ],
+  "mem_2024_1c96e4": [
+    6.5,
+    "For each prime, an increase of its exponent forces the next exponent below half the exponent in k; from there the exponents cannot increase again, so all eventually stabilise."
+  ],
+  "mem_2023_7aad50": [
+    5.5,
+    "Symmetrising the inequality first forces the parameter sum to be two through the values at plus and minus one; these same substitutions then squeeze every function value."
+  ],
+  "mem_2023_af6d21": [
+    6,
+    "The desired chord direction is obtained by proving two circles tangent at D; this relies on recognising the circumcentre of BIC on AI and linking two right-angle cyclic quadrilaterals."
+  ],
+  "bmo_2024_12ce9d": [
+    7,
+    "Factoring the quartic and isolating the 2- and 3-adic cases reduces to a coprime cube factor; the final obstruction needs a prime congruent to three modulo four dividing a sum of two squares."
+  ],
+  "bmo_2024_54aaec": [
+    6.5,
+    "A complete-residue-system contradiction is only visible in the sum of cubes; tracking first, second and third moments modulo powers of four gives the required obstruction."
+  ],
+  "bmo_2024_17dc50": [
+    7,
+    "The lower bound uses independent two-by-two blocks; uniqueness at the sharp bound needs the alternating-cycle difference of two tilings and an odd-interior parity obstruction."
+  ],
+  "bmo_2024_37ccab": [
+    5.5,
+    "The winning construction replaces the current smallest entry with the largest missing integer; proving the increments are distinct and decrease is the crucial invariant."
+  ],
+  "bmo_2024_4b7efa": [
+    7,
+    "The extremal bounds are accessible, but attaining every intermediate integer requires a carefully controlled construction of image sizes, fibre sizes, and fixed points."
+  ],
+  "bmo_2024_4d74e3": [
+    7,
+    "The area identities reduce the problem to a Fermat-point length inequality; constructing two exterior equilateral triangles and combining Ptolemy with the triangle inequality supplies the proof and equality case."
+  ],
+  "bmo_2024_22c656": [
+    8.5,
+    "Both players require detailed modular and backwards-induction strategies whose viable distances change with the round; considerably above the target band."
+  ],
+  "bmo_2024_3c60be": [
+    8,
+    "The construction combines primes congruent to three modulo four, a simultaneous congruence choice, and exact inclusion-exclusion errors from fractional parts."
+  ],
+  "bmo_2024_e13d37": [
+    8.5,
+    "The proof engineers reflected pairs of triangles, then derives and combines functional identities on similar rectangles to force arbitrary point values to agree."
+  ],
+  "bmo_2024_3cdd5b": [
+    3.5,
+    "Dividing each equation by its product and adding makes a direct three-term AM-GM equality case; below the intended hard-BMO1 band."
+  ],
+  "bmo_2024_3a17e7": [
+    6.5,
+    "Division of exponents gives a small signed remainder, but a second congruence controlling the quotient is necessary to strengthen the size estimate to a quadratic bound."
+  ],
+  "bmo_2024_0c40d1": [
+    7.5,
+    "A bounded integer two-step increment and divisibility of a linear expression force eventual arithmetic growth; a finiteness argument and reverse propagation complete the classification."
+  ],
+  "bmo_2024_c7a652": [
+    7,
+    "A roots-of-unity filter produces a third-order recurrence; its invertibility modulo a large power of ten then supplies the desired trailing digits through a backwards period step."
+  ],
+  "bmo_2024_7b3222": [
+    8.5,
+    "This functional equation needs a lower bound, polynomial-degree reduction, a complex nested substitution, and eventual-linearity propagation."
+  ],
+  "jbm_2022_4c362e": [
+    4,
+    "The difference-of-cubes factorisation bounds the positive integer a minus b by three; checking these few cases finishes the classification."
+  ],
+  "jbm_2022_ff3ba9": [
+    5.5,
+    "The midpoint condition suggests a second midpoint on AB; combining tangent angles with two midline relations proves the required lines are each perpendicular to the tangent."
+  ],
+  "jbm_2022_82fcd4": [
+    5.5,
+    "Parity reduces to one prime being two, then modular constraints and difference-of-squares or geometric-series factors bound the remaining prime powers in several cases."
+  ],
+  "jbm_2022_2e5bd6": [
+    6,
+    "The largest element forces a complete interval of complementary pairs; stripping that interval gives a bijective recurrence for nice numbers in successive power-of-three ranges."
+  ],
+  "jbm_2023_8168d9": [
+    5,
+    "Factorial divisibility forces the smaller entry to be a power of five; controlling the remaining five-adic valuation and handling the small equal or unit cases gives the full list."
+  ],
+  "jbm_2023_59d0e1": [
+    4.5,
+    "Adding two to each fraction exposes a shared numerator and a Cauchy-Schwarz inequality; the equality condition needs solving three quadratic-value equalities."
+  ],
+  "jbm_2023_78057b": [
+    6.5,
+    "Complementary-number pairing can equalise all row sums, but forcing a strict win requires a deliberate crossed pairing in one row that makes equal column sums impossible."
+  ],
+  "jbm_2023_825c53": [
+    6.5,
+    "Several perpendicular bisectors meet at one point, converting the target cyclicity to a power identity; a further auxiliary cyclic quadrilateral supplies the missing product equality."
+  ],
+  "balkan_2024_official_p1": [
+    5.5,
+    "Removing the variable intersections through the tangent-chord theorem leaves a fixed angle equality; recognising an excentre and a reflected pair of points supplies it."
+  ],
+  "bmo_2024_cb70a8": [
+    7.5,
+    "Repeated uses of Menelaus and Desargues require constructing three auxiliary triangles and proving their perspective relationships; above the target band."
+  ],
+  "bmo_2024_cfc998": [
+    7.5,
+    "A Vieta-style descent constructs a new square-related pair, with separate proofs of strict decrease and preservation of the greatest common divisor."
+  ],
+  "bmo_2023_0ab85a": [
+    6,
+    "The zeros x plus f(x) lead to a dichotomy between an affine reflection and f(0)=0; the second branch then requires ruling out mixed zero and negative-identity values."
+  ],
+  "bmo_2023_8709be": [
+    6.5,
+    "Factoring the target as three pairwise sums reveals a sum-of-two-squares criterion; the third given square rules out the bad factor in each prime valuation."
+  ],
+  "bmo_2023_0b3edf": [
+    5.5,
+    "An auxiliary incircle calculation converts intersections of the circumcircle into side-length differences; applying it twice makes the desired equality equivalent to the tangential-quadrilateral side sum."
+  ],
+  "bmo_2023_aef8b8": [
+    4.5,
+    "The second player controls each two-move total to one of two consecutive integers, allowing a precisely chosen total before the final winning pair of moves."
+  ],
+  "imo_2024_071598": [
+    5.5,
+    "Separating the integer and fractional parts reduces to two parity cases; the divisibility condition inductively forces either all floors to be zero or all to be n minus one, leaving only even integers."
+  ],
+  "imo_2024_5877d2": [
+    5.5,
+    "The integer constraint is essential: either a minimum-cost recurrence or the unique factorisation of marginal costs into a power of two and an odd number reveals the triangular-number minimum."
+  ],
+  "imo_2024_46c203": [
+    5.5,
+    "The useful dichotomy is whether the sequence is bounded; a maximum-term estimate handles unbounded inputs while a linear-over-quadratic estimate handles bounded ones."
+  ],
+  "imo_2024_ce5613": [
+    8,
+    "The restriction to powers of two creates a rigid cocycle identity, but exploiting it requires overlapping-block multiset lemmas and a separate floor-function construction."
+  ],
+  "imo_2024_240890": [
+    9,
+    "Encoding arithmetic steps through fractional-linear ratios is followed by delicate integer-valued monotonicity arguments that bound and stabilise the gaps between steps."
+  ],
+  "imo_2024_55cccf": [
+    9,
+    "The disjunctive functional equation first forces bijectivity and an inverse relation, then needs a structural argument comparing two nonzero displacement values and an extremal construction."
+  ],
+  "imo_2024_71a184": [
+    9,
+    "Sliding-window extrema require several global minimum/maximum lemmas before coprime periods force a linear sequence; substantial multi-stage rigidity."
+  ],
+  "imo_2024_657c6a": [
+    6.5,
+    "Relating each score to a sharp upper bound on that student’s total ranks gives a global double-counting bound; finding this individual inequality is the key challenge."
+  ],
+  "imo_2024_0968d7": [
+    7,
+    "Parity propagation through nested subboards rules out odd factors, while the converse needs an inductive four-block construction with carefully chosen swaps."
+  ],
+  "imo_2024_7579e8": [
+    7.5,
+    "Finding the sharp three-attempt strategy requires separate interior and boundary-monster constructions; the boundary case uses a staircase exploration and a guaranteed safe escape route."
+  ],
+  "imo_2024_1fd9d0": [
+    8,
+    "The misere condition defeats naive symmetry; classifying positions needs recursive odd-even joins and several interacting winning/losing lemmas."
+  ],
+  "imo_2024_91fd1f": [
+    7.5,
+    "The balanced-marble reversal needs a global connectivity argument among legal configurations, including a procedure to unite complementary pairs and exchange them."
+  ],
+  "imo_2024_95e706": [
+    9,
+    "The self-counting sequence must first be partitioned into recurrent small and transient large values, then a delicate repeated-block argument forces one parity subsequence to stabilise."
+  ],
+  "imo_2024_34fef6": [
+    9,
+    "The obstruction requires a tree representation of all colouring moves, parity restrictions on its junctions, and a recursive compression of the board."
+  ],
+  "imo_2024_a60b6c": [
+    6.5,
+    "Proving EF parallel to AD turns the construction into two parallelograms; identifying an arc midpoint as the centre of another circle then supplies the required equidistance."
+  ],
+  "imo_2024_7db46b": [
+    5.5,
+    "Reflecting A in the incentre converts the two tangent conditions into parallel sides; a homothety and two cyclic quadrilaterals reduce the angle sum to the angles of one triangle."
+  ],
+  "imo_2024_d207ef": [
+    7,
+    "A non-obvious auxiliary point on the target parallel and two side midpoints reveal a pair of similar triangles; distance ratios then prove the target direction."
+  ],
+  "imo_2024_df1d5d": [
+    8,
+    "The geometry requires relating three circles through powers and their centres, followed by a double angle-bisector argument or isogonal-conjugate construction."
+  ],
+  "imo_2024_a2662d": [
+    8.5,
+    "The natural solutions use a Miquel-point configuration or the combination of poles, polars and Monge’s theorem for three circles; significantly beyond the target."
+  ],
+  "imo_2024_bbfb5c": [
+    9,
+    "The equivalence requires several incenter-circle incidence lemmas, tangent-circle arguments and two radical-axis applications, with delicate order conditions."
+  ],
+  "imo_2024_268bb8": [
+    5.5,
+    "Taking the largest odd divisor forces the odd part to be one less than a power of two; two neighbouring power-of-two divisors then yield a modulo-three obstruction."
+  ],
+  "imo_2024_41dbe2": [
+    6,
+    "The useful modulus is ab plus one: Euler produces a large exponent where it divides both terms, and eventual constancy forces it to divide the next terms too, leaving a short contradiction."
+  ],
+  "imo_2024_1d16c9": [
+    8.5,
+    "A convergent Euler product separates exceptional integer-sum cases; the general construction needs simultaneous prime-power congruences and quantitative control of the correction."
+  ],
+  "imo_2024_3f4e9a": [
+    8,
+    "The odd-prime construction must force repeated values of a quotient by a nonresidue quadratic; combined with the separate modulo-four case this is structurally demanding."
+  ],
+  "imo_2024_7201b9": [
+    9,
+    "The iff functional equation requires a long chain of coprimality and valuation lemmas to identify all possible prime supports, followed by a construction achieving every support-compatible value."
+  ],
+  "rmm_2021_07c4be": [
+    5.5,
+    "The key geometric recognition is that the four circle centres form a parallelogram. Projecting their midpoint identity onto the transversal then gives the required alternating chord-gap identity."
+  ],
+  "rmm_2021_d11caf": [
+    7,
+    "Two overlapping queries and CRT give the upper bound; the difficult half is an adversarial cyclic reassignment using gcd compatibility to rule out every single query."
+  ],
+  "rmm_2021_7ba909": [
+    8.5,
+    "The polynomial encoding, reduction over the field of 17 elements and coefficient extraction require several advanced ideas beyond the target band."
+  ],
+  "rmm_2021_03b2ae": [
+    6.5,
+    "A strong-induction construction reduces the board to an evenly scaled interval; the odd-number pairings and exceptional residue classes require substantial discovery and checking."
+  ],
+  "rmm_2021_b2930f": [
+    8.5,
+    "A delicate geometric peeling and lattice-like point construction must control perimeter, point counts and distances across several tiles."
+  ],
+  "rmm_2021_b2e860": [
+    9,
+    "The classification requires deep polynomial interpolation and point-merging arguments under restricted operations, with separate leading-coefficient obstructions."
+  ],
+  "zhk_2021_620b3f": [
+    4.5,
+    "A short but non-obvious scale change raises a small remainder past the threshold while keeping it below a fixed power of two."
+  ],
+  "zhk_2021_68f19c": [
+    6.5,
+    "Parallel lines from equal arcs lead to auxiliary parallelograms; two tangent-circle power identities and a final similarity establish the midpoint."
+  ],
+  "zhk_2021_ef5d05": [
+    8,
+    "The reduction to nonnegative entries is a substantial assignment-duality or matching-decomposition argument, substantially beyond elementary BMO1 combinatorics."
+  ],
+  "zhk_2021_bd8594": [
+    5,
+    "The geometry gives a half-angle formula for each small radius, followed by a concavity bound and a reciprocal Cauchy inequality."
+  ],
+  "zhk_2021_96d201": [
+    8,
+    "Both optimal strategies require careful local case analysis around the unique sparse stable configuration and a maintained partition invariant."
+  ],
+  "zhk_2021_2a917c": [
+    5.5,
+    "Evaluating at one root of the irreducible polynomial gives at most n outputs; proving injectivity uses a concise but conceptual minimal-polynomial argument."
+  ],
+  "ibe_2003_38dcd3": [
+    4.5,
+    "The total sum creates a parity obstruction, while the odd case needs an explicit interlaced permutation producing consecutive sums."
+  ],
+  "ibe_2003_2960db": [
+    5.5,
+    "One must exploit the common circle to show the two circumcentres have the same homothety ratio with respect to the chord midpoints; the vector calculation is compact once set up."
+  ],
+  "ibe_2003_06bf4f": [
+    4.5,
+    "Choosing the last unsaturated inequality reveals that the final positive coefficient dominates every preceding negative contribution through a geometric series."
+  ],
+  "ibe_2003_e467f0": [
+    5,
+    "The extremal bound is elementary, but counting all maximisers requires encoding omitted points by nine bounded gaps and a stars-and-bars deficit count."
+  ],
+  "ibe_2003_733d39": [
+    6,
+    "Two triangle inequalities are quick; the third needs a carefully chosen quarter-turn and a strict comparison of two angles, including endpoint cases."
+  ],
+  "ibe_2003_447c32": [
+    5,
+    "Fermat reduces the recurrence for the product to (c+1)^2/c; the key is recognising the invariant nonzero quadratic-residue class and excluding minus one."
+  ],
+  "btw_2023_236a65": [
+    3,
+    "A direct application of Holder, or weighted Jensen to the power three-halves, gives the entire inequality."
+  ],
+  "btw_2023_f8098f": [
+    5.5,
+    "Subtracting consecutive sum identities gives a doubling recurrence; parity strengthens strict increase to gaps of two, after which strong induction forces the sequence."
+  ],
+  "btw_2023_c5f4ad": [
+    5,
+    "The useful route is a contrapositive: isolate the unique term at least one, bound it using a binomial estimate, and split the remaining exponents at the midpoint."
+  ],
+  "btw_2023_c14e22": [
+    5,
+    "Cubing and subtracting the constant term produces a monotone additive function; substitution then reduces the classification to a polynomial identity."
+  ],
+  "btw_2023_3a179b": [
+    5.5,
+    "Reciprocal symmetry provides two disjoint injections for the lower bound; the upper bound comes from counting binary expression trees with two operation types."
+  ],
+  "btw_2023_22414b": [
+    4,
+    "Parity controls which variable dominates, while odd exponents require a sign-reversal counterexample with three distinct coordinates."
+  ],
+  "btw_2023_9cdd34": [
+    3.5,
+    "Multiplying the cyclic constraints, applying AM-GM and then the vector triangle inequality gives the sharp value directly."
+  ],
+  "btw_2023_49de42": [
+    4.5,
+    "The sharp constant requires both a twice-squared inequality and a limiting family close to equality; it is more than a direct mean inequality."
+  ],
+  "btw_2023_100db6": [
+    5,
+    "Freeing the product variable forces the third iterate to be linear, after which the excluded points in the domain determine the remaining constant."
+  ],
+  "btw_2023_78199f": [
+    4,
+    "The coefficients suggest two different weighted AM-GM applications; discovering the matching factorisations of 2023 is the main step."
+  ],
+  "btw_2023_955aea": [
+    5.5,
+    "Specialisations force invariance on prime powers and multiplicativity on coprime inputs; the answer is a family indexed by arbitrary subsets of primes."
+  ],
+  "btw_2023_90f36a": [
+    6,
+    "First classify the possible trailing octal carries for x, then translate carries for y into a decimal divisibility equation and eliminate the remaining patterns."
+  ],
+  "btw_2023_63fd11": [
+    4.5,
+    "A finite Fibonacci generating-sum identity produces a long block of trailing binary ones; a simple growth bound then controls all other digits."
+  ],
+  "btw_2023_566210": [
+    5,
+    "The construction combines positive and negative squares and uses primes congruent to three modulo four to keep both polynomial images nonzero and disjoint."
+  ],
+  "btw_2023_641459": [
+    6.5,
+    "A necessary-and-sufficient prime-factor criterion for complete divisor subset sums is the conceptual core; it then settles factorials and large powers."
+  ],
+  "btw_2023_ca27be": [
+    4.5,
+    "The binomial expansion must be retained modulo the square of the prime, requiring control of each coefficient after removing its single prime factor."
+  ],
+  "btw_2023_79a624": [
+    3,
+    "The standard product formulas for divisor count and Euler phi make each prime factor contribute at least one, with equality immediately classified."
+  ],
+  "btw_2023_db4b31": [
+    5.5,
+    "A digit-length estimate sharply bounds both parameters; congruences modulo nine reduce the remaining search to a short explicit check."
+  ],
+  "btw_2023_73ec51": [
+    7,
+    "The large-image case is pigeonhole; the equality case needs a multiplicative subgroup argument, identification of quadratic residues, and a nonzero difference-of-squares construction."
+  ],
+  "btw_2023_aaf831": [
+    6.5,
+    "The difficult insight is to bound gaps between nonzero digits using powers of two dividing truncated decimal expansions, then iterate this bound."
+  ],
+  "btw_2023_a9bf63": [
+    6,
+    "The colour graph is a path or cycle; in the cyclic case a consistent integer lift of grid colours supplies the diameter bound, with a special two-by-two exception."
+  ],
+  "btw_2023_38796d": [
+    5,
+    "Alternating coordinate changes give divisibility by four; excluding length eight and constructing every later multiple require separate geometric arguments."
+  ],
+  "btw_2023_409ecd": [
+    6,
+    "One case needs a permutation avoiding the four multiples of 13; the other needs a primitive-root construction whose exponent sum is independent of the rook placement."
+  ],
+  "btw_2023_f1476e": [
+    6,
+    "Successive largest-prime reports almost determine the walk; handling the exceptional houses two and four and enumerating initial states yields a finite capture strategy."
+  ],
+  "btw_2023_8b7d30": [
+    7.5,
+    "A sharp extremal area bound needs rotated coordinates, parity-sensitive boundary estimates and a nontrivial explicit construction."
+  ],
+  "btw_2023_bff74d": [
+    4.5,
+    "The key construction uses the altitude of a right triangle with leg ratio ten, followed by a square-number subdivision of one similar piece."
+  ],
+  "btw_2023_227d69": [
+    4.5,
+    "A parity invariant rules out odd sizes; a two-step reduction reduces the constructive direction to a four-point configuration."
+  ],
+  "btw_2023_1f3051": [
+    5.5,
+    "Translate both word counts into finite power sums; the quadratic binomial coefficients have vanishing third differences, giving the high-power congruence."
+  ],
+  "btw_2023_b9b607": [
+    5,
+    "A region-count induction gives a quadratic upper bound; generic rotations of congruent triangles attain it without triple intersections."
+  ],
+  "btw_2023_2631fd": [
+    4.5,
+    "Label the blocks to convert partitions into surjections, then apply inclusion-exclusion and Fermat before cancelling a factorial modulo p."
+  ],
+  "btw_2023_58a295": [
+    3,
+    "A short backward game table, organised by residues modulo six until the first exceptional square, determines the winner."
+  ],
+  "btw_2023_b1cac2": [
+    5.5,
+    "Two spiral similarities link the reflected excentre to the altitude foot; their angle identities produce the required cyclicity."
+  ],
+  "btw_2023_6c3187": [
+    4.5,
+    "Two incenter/circumcenter angle calculations reveal one cyclic quadrilateral; an angle bisector then gives the equal chords."
+  ],
+  "btw_2023_efdb2f": [
+    6.5,
+    "The angle condition must be converted into a metric relation involving the inradius and altitude; a coordinate proof uses tangent subtraction and the semiperimeter."
+  ],
+  "btw_2023_f3f121": [
+    6,
+    "The circumcentres are best handled through scalar products with centroid at the origin; both X and the midpoint of EF lie on the perpendicular bisector of BC."
+  ],
+  "btw_2023_2c5c1f": [
+    5.5,
+    "Tangent-chord angles place five points on one circle, while equal tangent lengths produce a second cyclic quadrilateral through power of a point."
+  ],
+  "bmo_2023_83afda": [
+    5.5,
+    "A useful incircle contact-chord lemma forces a right angle in the original triangle; applying the same lemma again finishes the unusual incidence claim."
+  ],
+  "bmo_2023_e5c358": [
+    9,
+    "The polynomial classification needs a Schur-type prime-divisor lemma and a substantial simultaneous-prime construction, well outside the target band."
+  ],
+  "bmo_2023_be5fcc": [
+    7.5,
+    "After the extremal sum bound, the difficult direction needs complementary target sums, many disjoint pairs and delicate small-remainder estimates."
+  ],
+  "baltic_2023_official_p4": [
+    5.5,
+    "A chain of substitutions establishes idempotence, a unique zero and translation by one before forcing the identity function; the zero solution must be separated."
+  ],
+  "rou_2025_e406cf": [
+    4.5,
+    "Choose the largest index among a point and its ten nearest neighbours; the ordering hypothesis and triangle inequality then bound the entire cluster."
+  ],
+  "rou_2025_daceb6": [
+    6.5,
+    "The key invariant is strict increase of the largest prime factor; proving it combines multiplicative order with an odd valuation preserved by lifting the exponent."
+  ],
+  "rou_2025_742b0e": [
+    8.5,
+    "The sharp multivariate degree bound requires a roots-of-unity obstruction, generic linear combinations, star decompositions of trees and an interpolation correction."
+  ],
+  "rou_2025_fb3b41": [
+    6.5,
+    "Multiplicative factorisation identities first remove the constant shift, then an adjacent-square identity forces constant second differences and polynomial behaviour."
+  ],
+  "rou_2025_9e5c95": [
+    8,
+    "The proof uses inversion combined with reflection, a rotational homothety between auxiliary circles and a final directed-angle argument."
+  ],
+  "rou_2025_b5cc5a": [
+    8,
+    "A sharp intersecting-family bound needs a carefully balanced representation by odd cycles and a uniform multiplicity double count."
+  ],
+  "btw_2023_3ab5ed": [
+    5.5,
+    "Radical axes convert the property into concurrency of three diagonals; the converse uses signed power and the fact that the concurrency point is inside the original circle."
+  ],
+  "btw_2023_aa63a1": [
+    5.5,
+    "Isogonality of circumcentre and orthocentre turns the collinearity assumption into two angle-bisector ratios, forcing equal distances from two vertices."
+  ],
+  "btw_2023_df10b2": [
+    7,
+    "Several auxiliary projections and contact-triangle angle chases are needed to place both pairs of altitude feet on the same line."
+  ],
+  "btw_2023_82adde": [
+    6.5,
+    "Successive cyclic quadrilaterals identify an auxiliary orthocentre and angle bisector; a final symmetry of a diameter circle yields concurrency."
+  ],
+  "btw_2023_f6a9be": [
+    6.5,
+    "Power of a point places five auxiliary points on one circle; angle chasing then produces an angle-bisector ratio matching a tangent ratio from the original triangle."
+  ],
+  "btw_2023_2782d4": [
+    6,
+    "Reflect the original circumcircle and introduce the second intersection of KF; two cyclic quadrilaterals then make A the radical centre."
+  ],
+  "bmo_2023_bc3f7d": [
+    5.5,
+    "Ordering the variables identifies the useful opposite-pair product; harmonic-mean and interval bounds reduce the reciprocal constraint to a squared difference."
+  ],
+  "bmo_2023_423d32": [
+    6.5,
+    "A periodic/nonperiodic dichotomy is essential; in the nonperiodic branch a hypothetical nonzero root creates a period before oddness forces the identity."
+  ],
+  "bmo_2023_2ac979": [
+    7,
+    "Sorting a long block converts separation into reciprocal gap bounds; an extremal count of repeated indices and a harmonic-sum limit improve the three-quarter threshold."
+  ],
+  "bmo_2023_bfc001": [
+    6.5,
+    "The construction designs one polynomial with no roots and another with exactly one root, while prescribing the level sets needed for the two composition counts."
+  ],
+  "bmo_2023_a23af0": [
+    7.5,
+    "After establishing bijectivity, the inverse equation must be composed in two orders to create arbitrary translations on an unbounded positive domain."
+  ],
+  "bmo_2023_5e97b2": [
+    5.5,
+    "Translate swaps into connectivity of a square-sum graph; a descent to three small exceptional vertices identifies the sharp threshold."
+  ],
+  "bmo_2023_3cf7b2": [
+    5.5,
+    "A longest path forces its last vertex to have degree two; reversing its terminal cycle rules out extra neighbours at a second vertex sharing a friend."
+  ],
+  "bmo_2023_4f2ba4": [
+    8,
+    "The upper bound is an adaptive adversary argument using Hall deficiency and induction on the remaining query budget."
+  ],
+  "bmo_2023_5e5234": [
+    6.5,
+    "Midpoint parallels reveal an auxiliary circle with centre X; a converse butterfly argument then turns the equal halves of CD into a perpendicular bisector."
+  ],
+  "bmo_2023_fea5bb": [
+    7,
+    "A signed inversion about the orthocentre exchanges the difficult intersections with side midpoints; the Euler line then puts the remaining image on one simple circle."
+  ],
+  "bmo_2023_e7a0b1": [
+    7.5,
+    "The construction requires multiple cyclicities, Simson or Miquel geometry, and either a harmonic-bundle argument or a final radical-centre configuration."
+  ],
+  "bmo_2023_0bb743": [
+    7.5,
+    "The side conditions hide a congruent-triangle construction and an unexpected auxiliary circumcentre, followed by a complete-quadrilateral projection lemma."
+  ],
+  "bmo_2023_82c96f": [
+    6.5,
+    "Coprimality and a quadratic residue give the necessary prime restriction; the reverse construction uses a square root of minus one and adjacent values of b,c to force the exact gcd."
+  ],
+  "imo_2023_2e005b": [
+    5,
+    "The decisive step reverses the ordered divisors using complementary divisors, producing a prime-divisibility contradiction at the first new prime."
+  ],
+  "imo_2023_1ae32a": [
+    6.5,
+    "Two cyclicities give a right angle at P; an auxiliary diameter and a second intersection of the tangent produce parallel corresponding sides and a homothety centre."
+  ],
+  "imo_2023_d4d6f3": [
+    8.5,
+    "The classification needs monotonicity via infinite descent, uniform coefficient comparison and an extremal argument forcing eventual arithmetic progression before a backward extension."
+  ],
+  "imo_2023_7a9af0": [
+    5.5,
+    "AM-GM controls the increment, but the key is studying equality twice: consecutive unit increments force two forbidden equal x-values."
+  ],
+  "imo_2023_a99802": [
+    7,
+    "The optimal logarithmic construction and a row-sum potential are both needed; the latter amplifies a maximum path count across successively doubled row ranges."
+  ],
+  "imo_2023_1fa49d": [
+    9.5,
+    "Several unexpected circumcentres, two radical-centre constructions and delicate nondegeneracy arguments are required to obtain a shared secant line."
+  ],
+  "imo_2023_da43cf": [
+    6,
+    "An isosceles-triangle symmetry suggests reflecting P in CD; one carefully chosen congruence then proves both required perpendicularities."
+  ],
+  "imo_2023_7d3fd0": [
+    6,
+    "An iterate inequality gives a fixed positive decrease along even iterates unless f is an involution; positivity rules this out, leaving a reciprocal family."
+  ],
+  "imo_2023_1ffb42": [
+    6,
+    "Introduce the divisibility quotients; infinitely many prime factors make them unbounded, and their one-step growth bound forces a crossing yielding divisibility by any n."
+  ],
+  "imo_2023_73cc8d": [
+    9,
+    "The sharp Hamiltonian-path colouring bound requires a substantial edge-recolouring scheme and a structural reduction before the logarithmic extremal argument."
+  ],
+  "imo_2022_b034b8": [
+    6,
+    "Track the number of monochromatic blocks, isolate the cyclic last-block obstruction, and construct counterexamples on both sides of the permitted interval."
+  ],
+  "imo_2022_e1fe8a": [
+    5,
+    "Uniqueness first excludes unequal admissible pairs by AM-GM; a nearby input then rules out strict inequality in the bound f(x)≤1/x."
+  ],
+  "imo_2022_cd4ff4": [
+    4.5,
+    "SSS congruence creates a second triangle similarity, whose length relation gives the auxiliary cyclic quadrilateral needed for the final angle chase."
+  ],
+  "imo_2022_230fa0": [
+    6.5,
+    "Prime valuation and factorial growth first force a=p; the final obstruction is a tailored congruence modulo (p+1) squared."
+  ],
+  "imo_2022_34151b": [
+    8,
+    "The path-count lower bound is accessible, but equality requires a difficult general construction of an induced spanning tree with independent complement in every grid size."
+  ],
+  "imo_2022_official_p3": [
+    7.5,
+    "The unusual interaction between a quadratic congruence and cycle uniqueness requires discovering a closure lemma for the two smaller prime neighbours, then inducting after deleting the largest prime."
+  ],
+  "ibe_2002_098b42": [
+    4.5,
+    "Reverse the deletion map on the infinite list to obtain a rounded multiplication recurrence, then identify the last term below 2002."
+  ],
+  "ibe_2002_95db74": [
+    4.5,
+    "A moving-point argument makes triangle containment into a parity invariant; the key is counting the six triangles that change at a crossed segment."
+  ],
+  "ibe_2002_68f137": [
+    5,
+    "The locus requires identifying a second fixed point on the moving circumcircle, or deriving a linear relation between the two side parameters, and checking the entire open segment is attained."
+  ],
+  "ibe_2002_4afa52": [
+    4,
+    "Reflect across the angle bisector and use two cyclic quadrilaterals; the auxiliary perpendicular foot links the two target angles."
+  ],
+  "ibe_2002_779f08": [
+    4.5,
+    "A quantitative decrease estimate is needed, rather than merely proving eventual negativity; squaring the recurrence gives a suitable bound after controlling the small-value phase."
+  ],
+  "ibe_2002_a4c329": [
+    8,
+    "The lower bound uses a three-colour invariant and a long delayed capture, while the upper bound needs a substantial pursuit strategy with several boundary configurations."
+  ],
+  "ibe_2001_c98425": [
+    4,
+    "Construct decimal numbers divisible by all possible four-digit products; a fixed suffix and a digit-sum congruence give an unbounded family."
+  ],
+  "ibe_2001_33a740": [
+    5,
+    "Reflecting in the two angle bisectors reveals that the contact triangle is similar to the original; translating the equal-distance hypothesis then forces equal base angles."
+  ],
+  "ibe_2001_6d6ba6": [
+    4.5,
+    "Double-count pairwise symmetric differences by individual elements and apply t(k−t)≤k²/4, then convert a small symmetric difference into a large intersection."
+  ],
+  "ibe_2001_7126e6": [
+    3,
+    "Counting progressions by their middle element immediately gives the sharp sum of minimum left/right counts, attained by consecutive integers."
+  ],
+  "ibe_2000_a16b2e": [
+    4,
+    "A modular construction labels each edge by the average of its endpoints; invertibility of two simultaneously verifies both constraints."
+  ],
+  "ibe_2000_c6fad8": [
+    6.5,
+    "Parity and two congruences set up a prime-valuation argument; simultaneous lifting of odd and even prime exponents gives an exponential lower bound that conflicts with a<b."
+  ],
+  "ibe_2000_eed830": [
+    4.5,
+    "Three retained terms force the arithmetic difference to be rational, and unbounded denominator powers then force the geometric ratio to be integral; the constant case needs separate treatment."
+  ],
+  "ibe_2000_6e6cb0": [
+    6,
+    "The previous move must be included in the game state; the winning invariant has four states modulo 13 and needs a complete legal-response table."
+  ],
+  "imo_2025_official_p1": [
+    5.5,
+    "Count the boundary points to force deletion of a triangle side, then resolve the exceptional three-row configuration and construct all three possible counts."
+  ],
+  "imo_2025_official_p2": [
+    7,
+    "The tangent is found at an unexpected fourth concyclic point. Two parallelograms, auxiliary cyclicities and a power-of-a-point ratio then identify the required parallel through the orthocentre."
+  ],
+  "imo_2025_official_p3": [
+    8.5,
+    "The argument first separates the identity function from all other functions through prime inputs, eliminates every odd prime factor, then needs a sharp 2-adic bound and an exceptional construction."
+  ],
+  "imo_2025_official_p4": [
+    6,
+    "Two descending-sequence obstructions force divisibility by six. A case split on the third-smallest divisor then tracks powers of two and three to classify all possible starting values."
+  ],
+  "imo_2025_official_p5": [
+    6.5,
+    "The three parameter regimes require two different strategies: saturating a quadratic budget and saving a linear budget for one large move, with a separate boundary draw proof."
+  ],
+  "imo_2025_official_p6": [
+    9,
+    "The sharp lower bound needs a global barrier and disjoint alternating chains through the exposed squares, followed by an extremal chain count; the matching rectangular construction is also highly structured."
+  ],
+  "imo_2026_official_p1": [
+    5.5,
+    "Termination needs a two-part decreasing quantity; uniqueness is a separate invariant, the gcd of the exponents of each prime, revealed by the Euclidean algorithm."
+  ],
+  "imo_2026_official_p2": [
+    6.5,
+    "The angle hypotheses become three cyclic quadrilaterals. The main discovery is a circle through two auxiliary midpoints and both interior points, allowing equality of powers to settle the centre distances."
+  ],
+  "imo_2026_official_p3": [
+    8.5,
+    "The minimax value requires matching cuts for nearly equal subset sums and a separate lower bound for a powers-of-two division, using a graph component or a strengthened induction."
+  ],
+  "imo_2026_official_p4": [
+    6,
+    "The winning angles arise from an integer-multiple reduction and a right-triangle cut. The converse needs a stronger invariant excluding every integer multiple, rather than just the target angle."
+  ],
+  "imo_2026_official_p5": [
+    6.5,
+    "Equality at a composed input yields arithmetic function iterates. One must then prove monotonicity of both the function and its displacement and rule out a mixture of fixed and translated points."
+  ],
+  "imo_2026_official_p6": [
+    8,
+    "A finite-state description is hidden behind unbounded prime factors. The key induction shows every sufficiently large prime occurs only in a redundant term, after which a periodic residue-class argument applies."
+  ],
+  "ibero_2000_official_p2": [
+    5,
+    "Putting the common tangent on an axis makes the circle equations linear after subtraction; a rotated vector identifies the required intersection and the diameter supplies the final perpendicularity."
+  ],
+  "ibe_2001_461dd2": [
+    5,
+    "Copy the opponent’s previous acceleration while maintaining a unit velocity offset; the relative position then advances diagonally through every square by coprimality of the board dimensions."
+  ],
+  "imo_1959_official_p1": [
+    1.5,
+    "A single integer linear combination of numerator and denominator equals one, immediately forcing coprimality."
+  ],
+  "imo_1959_official_p2": [
+    2.5,
+    "Squaring once reduces the radical sum to $2x+2|x-1|$, followed by a short domain and interval check."
+  ],
+  "imo_1959_official_p3": [
+    3.5,
+    "Eliminate $\\cos x$ using the double-angle formula and square once; the special case needs attention to the extra sign choices introduced by squaring."
+  ],
+  "imo_1959_official_p4": [
+    3,
+    "The hypotenuse median is half the hypotenuse; the geometric-mean condition gives $\\sin2A=1/2$, leaving a standard 15-degree construction."
+  ],
+  "imo_1959_official_p5": [
+    4.5,
+    "One coordinate choice handles the circle intersection, reveals the fixed radical-axis point and then identifies the entire midpoint locus."
+  ],
+  "imo_1959_official_p6": [
+    5.5,
+    "First reduce the two-plane construction to one plane. The tangency condition then becomes a circle-line intersection, with a genuine existence condition and two configurations."
+  ],
+  "imo_1960_official_p1": [
+    4.5,
+    "Divisibility by eleven creates two digit cases. A parity observation and a square bound reduce the second case to two candidates without a brute-force search."
+  ],
+  "imo_1960_official_p2": [
+    2.5,
+    "Rationalising cancels the apparent fraction and leaves one square-root inequality; retain the excluded value $x=0$."
+  ],
+  "imo_1960_official_p3": [
+    3,
+    "Coordinates on the hypotenuse give the tangent of the angle as cross product divided by dot product; the right-angle identity supplies the desired denominator."
+  ],
+  "imo_1960_official_p4": [
+    4.5,
+    "The given median locates a line at the given altitude; the second altitude becomes an Apollonius ratio, reducing the construction to two standard loci."
+  ],
+  "imo_1960_official_p5": [
+    2.5,
+    "Both loci are affine images of two perpendicular segments, hence a square and a rectangle with immediately determined dimensions."
+  ],
+  "imo_1960_official_p6": [
+    4.5,
+    "The cone and insphere formulas reduce the volume ratio to one dimensionless variable; a sharp AM–GM inequality identifies the unique extremal shape and its constructible apex angle."
+  ],
+  "imo_1960_official_p7": [
+    3.5,
+    "The two right-angle conditions coincide by symmetry and reduce to $y(h-y)=ac/4$; its discriminant settles all cases."
+  ],
+  "imo_1961_official_p1": [
+    3.5,
+    "Eliminating $xy$ determines $z$ and a quadratic for $x,y$; the discriminant and signs provide the complete parameter conditions."
+  ],
+  "imo_1961_official_p2": [
+    2.5,
+    "Weitzenböck’s inequality follows directly from Heron’s formula and a sum-of-squares identity, with equality only for the equilateral triangle."
+  ],
+  "imo_1961_official_p3": [
+    3,
+    "A short split into odd and even exponents, using $|\\sin x|,|\\cos x|\\leq1$, settles all powers; the first power is a separate elementary trig equation."
+  ],
+  "imo_1961_official_p4": [
+    2.5,
+    "Area coordinates sum to one, so one is at most one third and another at least one third; the cevian ratios are their complementary ratios."
+  ],
+  "imo_1961_official_p5": [
+    4.5,
+    "Introduce the median and half-base as two unknown lengths; the cosine rule determines their squares and product, leading to a constructible quadratic and an exact existence boundary."
+  ],
+  "imo_1961_official_p6": [
+    2.5,
+    "The centroid is an affine average of three fixed and three freely varying points; choosing the three varying points equal proves the whole parallel plane is attained."
+  ],
+  "imo_1962_official_p1": [
+    3.5,
+    "Writing the digit rotation algebraically reduces the task to powers of ten modulo thirteen; the first suitable exponent gives 153846."
+  ],
+  "imo_1962_official_p2": [
+    2.5,
+    "The radical difference is strictly decreasing on its domain; two controlled squarings find the single boundary value."
+  ],
+  "imo_1962_official_p3": [
+    2.5,
+    "During each quarter of the motion both endpoints move linearly; their midpoint traces four readily computed sides of a rhombus."
+  ],
+  "imo_1962_official_p4": [
+    3,
+    "Double-angle formulas turn the equation into $2t(2t-1)(t+1)=0$ for $t=\\cos2x$, followed by elementary trigonometric solutions."
+  ],
+  "imo_1962_official_p5": [
+    5.5,
+    "Combine the opposite-side tangency condition with the supplementary-angle cosine rule. This determines the two unknown sides by their difference and product and makes the cyclic construction explicit."
+  ],
+  "imo_1962_official_p6": [
+    2.5,
+    "An axial coordinate calculation in an isosceles triangle proves Euler’s inradius–circumradius identity with little additional invention."
+  ],
+  "imo_1962_official_p7": [
+    6.5,
+    "The crucial step classifies all possible edge-tangent spheres using planar incircles and excircles. Equal tangent lengths then force regularity, and the converse needs an explicit spatial construction."
+  ],
+  "imo_1963_official_p1": [
+    1.5,
+    "For the nested radical printed in the official English paper, squaring immediately gives $2\\sqrt{x^2-1}=p$; the domain completes the solution."
+  ],
+  "imo_1963_official_p2": [
+    4.5,
+    "Replace the moving point on the segment by a parameter. The perpendicularity expression is linear in that parameter, so opposite endpoint signs give a precise three-dimensional region between two diameter spheres."
+  ],
+  "imo_1963_official_p3": [
+    5.5,
+    "Closure of the equiangular polygon is rewritten in terms of successive side-length drops. All regular-polygon prefix vectors lie in one open half-plane, so nonnegative drops cannot cancel."
+  ],
+  "imo_1963_official_p4": [
+    4.5,
+    "Summing isolates one exceptional parameter. Combining neighbouring equations on the zero-sum subspace then yields a quadratic for the remaining exceptional parameters and a two-parameter solution family."
+  ],
+  "imo_1963_official_p5": [
+    3,
+    "Multiplication by $2\\sin(\\pi/7)$ makes the sine terms telescope, leaving a standard trigonometric identity."
+  ],
+  "imo_1963_official_p6": [
+    3.5,
+    "There are only three possible choices of two disjoint consecutive pairs in the second prediction; treating each as a block gives a short finite case check and the order EDACB."
+  ],
+  "imo_1964_official_p1": [
+    1.5,
+    "The powers of two modulo seven have the three-term cycle 2,4,1; this immediately answers both parts."
+  ],
+  "imo_1964_official_p2": [
+    2.5,
+    "After collecting terms this is Schur’s degree-three inequality. Ordering the three variables gives an immediate nonnegative factorisation."
+  ],
+  "imo_1964_official_p3": [
+    3.5,
+    "Similarity gives the three small inradii as $r(s-a)/s$, $r(s-b)/s$, $r(s-c)/s$; Heron’s formula then expresses their squared sum in the given side lengths."
+  ],
+  "imo_1964_official_p4": [
+    4.5,
+    "Apply pigeonhole at one vertex to obtain six edges of one colour, then establish the two-colour six-vertex lemma inside that neighbour set."
+  ],
+  "imo_1964_official_p5": [
+    5.5,
+    "Count pairs of the thirty perpendiculars, then subtract unavoidable parallel pairs and both kinds of multiple intersections. Attainment requires checking that an actual five-point configuration has no additional coincidences."
+  ],
+  "imo_1964_official_p6": [
+    4.5,
+    "Use barycentric weights of the chosen base point. Each opposite-plane intersection has reciprocal height, which cancels its corresponding area weight in a determinant expansion."
+  ],
+  "imo_1965_official_p1": [
+    2.5,
+    "The radical expression is $2\\min(|\\sin x|,|\\cos x|)$; the upper bound is automatic and the lower one gives a single angular interval."
+  ],
+  "imo_1965_official_p2": [
+    3,
+    "Choose an unknown of maximum absolute value. Strict diagonal dominance makes its equation impossible unless every unknown is zero."
+  ],
+  "imo_1965_official_p3": [
+    4.5,
+    "A parallel slice fixes four equal edge-division ratios. Triangulating one truncated solid into three tetrahedra gives a cubic fraction and avoids a calculus prerequisite."
+  ],
+  "imo_1965_official_p4": [
+    4,
+    "Subtracting two equations factors a difference of variables. A careful split between equal and unequal pairs then collapses the four-variable system to a quadratic."
+  ],
+  "imo_1965_official_p5": [
+    4.5,
+    "The orthocentre equations expose a fixed reflection followed by a contraction. Identifying that map proves both the locus and its full attainability."
+  ],
+  "imo_1965_official_p6": [
+    5.5,
+    "Turn the longest segments into a graph on a convex polygon. Pairwise intersection forces a leaf whenever some vertex has three neighbours, making induction possible."
+  ],
+  "imo_1966_official_p1": [
+    3.5,
+    "Venn-region variables reduce the conditions to $9z+4w=26$ in nonnegative integers, determining that six students solved only B."
+  ],
+  "imo_1966_official_p2": [
+    3.5,
+    "The sine rule and sum-to-product formulas reduce the hypothesis to equality between the product of two cosines and the square of their mean-angle cosine, forcing the two angles equal."
+  ],
+  "imo_1966_official_p3": [
+    4,
+    "Project each distance onto the corresponding radial direction. The four linear terms cancel because the tetrahedron’s vertex vectors sum to zero, and the equality case requires care."
+  ],
+  "imo_1966_official_p4": [
+    2,
+    "The double-angle identity $1/\\sin2u=\\cot u-\\cot2u$ makes the entire sum telescope."
+  ],
+  "imo_1966_official_p5": [
+    4.5,
+    "Order the parameters and regard the equations as equal values of a piecewise linear function. Its interior slope jumps must vanish, leaving only the two extreme variables."
+  ],
+  "imo_1966_official_p6": [
+    3,
+    "The three corner-area ratios have product $x(1-x)y(1-y)z(1-z)\\leq1/64$, so one is at most one quarter."
+  ],
+  "imo_1967_official_p1": [
+    5,
+    "Recognise the covering radius of an acute triangle as its circumradius and prove that the opposite parallelogram vertex cannot cover its circumcentre. The final inequality is a cosine-rule calculation."
+  ],
+  "imo_1967_official_p2": [
+    5.5,
+    "Combine the four short-edge square lengths using the two opposite-edge midpoints. This bounds the perpendicular separation, and a constrained three-factor product gives the sharp volume limit."
+  ],
+  "imo_1967_official_p3": [
+    4,
+    "Factor the quadratic differences into two consecutive-integer products. The prime hypothesis lets one insert and then cancel one extra factor to gain the required additional factorial."
+  ],
+  "imo_1967_official_p5": [
+    4.5,
+    "Infinitely many zero moments must be odd. Comparing the multiplicities of the largest positive and negative magnitudes, then repeating after cancellation, forces a symmetric multiset."
+  ],
+  "imo_1967_official_p6": [
+    4.5,
+    "An affine shift solves the remaining-medal recurrence. The terminal condition creates a strong divisibility constraint, leaving just one possible number of days."
+  ],
+  "imo_1968_official_p1": [
+    4.5,
+    "Translate a doubled-angle relation into a side-length identity, then treat all three possible ordered angle pairs. Only one yields a nondegenerate integer triangle."
+  ],
+  "imo_1968_official_p2": [
+    3.5,
+    "The digit product is at most the number itself. These lower and upper bounds on the quadratic leave only $x=12$, which verifies directly."
+  ],
+  "imo_1968_official_p3": [
+    3,
+    "Compare the quadratic map to the identity: a constant strict sign forbids a cycle, a double root forces the only constant cycle, and two fixed points give two solutions."
+  ],
+  "imo_1968_official_p4": [
+    2.5,
+    "Choose a longest edge. If the three incident lengths failed the triangle inequality at both endpoints, adding those failures would contradict the two face triangle inequalities."
+  ],
+  "imo_1968_official_p5": [
+    3.5,
+    "The range is forced into $[1/2,1]$, on which the given transformation is an involution. Alternating its endpoint values on unit intervals supplies an example."
+  ],
+  "imo_1968_official_p6": [
+    4,
+    "Each floor counts the positive integers up to $n$ with one specified exponent of two. These disjoint classes exhaust all integers from one to $n$."
+  ],
+  "imo_1967_official_p4": [
+    6.5,
+    "The right construction maximises a projection between two fixed circle centres. A complete solution must also prove the extremal triangle encloses the prescribed contact triangle; both acuteness assumptions enter that feasibility check."
+  ],
+  "imo_1969_official_p1": [
+    4,
+    "Discover a family matched to Sophie Germain’s factorisation, then check that neither factor can degenerate to one."
+  ],
+  "imo_1969_official_p2": [
+    4,
+    "Combine the phase-shifted cosines into one sinusoid. The dominant first coefficient is essential to rule out the identically zero function."
+  ],
+  "imo_1969_official_p3": [
+    5.5,
+    "Classify the two possible placements of two exceptional edges, obtain exact nondegeneracy intervals, and use reciprocal scaling for four and five edges. The three-edge case needs a separate construction."
+  ],
+  "imo_1969_official_p4": [
+    5.5,
+    "Compute the two auxiliary radii using the semicircle tangency condition. The unexpected key is that the original incenter is the midpoint of the other two centres, giving a common tangent by reflection."
+  ],
+  "imo_1969_official_p5": [
+    5.5,
+    "First prove the five-point convex-quadrilateral lemma, then double-count its occurrences in five-element subsets. An integer polynomial comparison turns the resulting stronger bound into the requested one."
+  ],
+  "imo_1969_official_p6": [
+    4.5,
+    "Rewrite the mixed determinant terms as a positive square plus two reciprocal terms, then apply AM–GM twice. Track equality through all three steps."
+  ],
+  "imo_1970_official_p1": [
+    3.5,
+    "Express the inradius-to-opposite-exradius ratio as the product of two half-angle tangents. The two angles at the dividing point are supplementary, so their factors cancel."
+  ],
+  "imo_1970_official_p2": [
+    3,
+    "Normalise both numeral values by the leading power of the base. The resulting sum of nonnegative negative powers is strictly decreasing, which determines the ratio order."
+  ],
+  "imo_1970_official_p3": [
+    4.5,
+    "Bound each summand by a telescoping difference of reciprocal square roots. The sharpness part needs a geometric sequence with ratio approaching one, not just equality analysis."
+  ],
+  "imo_1970_official_p4": [
+    4,
+    "A prime at least seven can occur in only one of the six terms. Restricting the remaining prime factors and examining the three odd terms then forces an impossible small case."
+  ],
+  "imo_1970_official_p5": [
+    4,
+    "The projection hypothesis turns the right angle into three pairwise perpendicular edges. Pythagoras and Cauchy–Schwarz then give the inequality and equality case."
+  ],
+  "imo_1970_official_p6": [
+    4.5,
+    "A four-point geometric obstruction gives a 75% bound. Applying it to five points and using integrality improves it to 70%, which a second double count transfers to the full set."
+  ],
+  "imo_1971_official_p1": [
+    5,
+    "Order the variables and pair the alternating-sign terms for the two valid sizes. Repeated variables then isolate a single negative term to build counterexamples for all other sizes."
+  ],
+  "imo_1971_official_p2": [
+    4,
+    "All nine translates fit inside one doubled copy by convexity. Their total volume exceeds that container’s volume, forcing interior overlap."
+  ],
+  "imo_1971_official_p3": [
+    4.5,
+    "Use induction on a selected finite set and choose the next exponent so the new term is minus one modulo the product of all previous terms."
+  ],
+  "imo_1971_official_p4": [
+    7.5,
+    "Unfolding four faces converts the path to a moving-endpoint straight segment, but the holonomy condition and boundary nonattainment require a substantial spatial optimisation argument. Above the target band."
+  ],
+  "imo_1971_official_p5": [
+    5,
+    "Build the desired unit-distance graph inductively by adjoining a translated copy. The key is proving that a generic unit translation creates only the intended new neighbour for each point."
+  ],
+  "imo_1971_official_p6": [
+    4.5,
+    "Choose the smallest row or column sum. Its zero positions force large sums in the perpendicular direction, while integrality bounds how many nonzero positions it can have."
+  ],
+  "imo_1972_official_p1": [
+    3.5,
+    "There are 1024 subsets but at most 991 possible sums. Equal-sum subsets become disjoint by removing their intersection."
+  ],
+  "imo_1972_official_p2": [
+    6.5,
+    "Construct a four-piece cyclic dissection with one isosceles trapezoid, then subdivide that piece arbitrarily. The delicate step is proving the four rays meet the intended sides rather than their extensions."
+  ],
+  "imo_1972_official_p3": [
+    4.5,
+    "Legendre’s factorial formula reduces every prime valuation to a floor inequality. The two fractional parts must cross one half whenever their sum crosses one."
+  ],
+  "imo_1972_official_p4": [
+    5.5,
+    "Summing the five constraints reveals a hidden sum-of-squares identity. Positivity of the variables then propagates equality around the cyclic indices."
+  ],
+  "imo_1972_official_p5": [
+    4,
+    "Use the actual supremum of the bounded nonzero function. Inputs approaching that supremum turn the functional equation into a sharp bound on the multiplier, without any regularity assumption."
+  ],
+  "imo_1972_official_p6": [
+    5,
+    "Encode a regular tetrahedron by four symmetric vectors. Every four prescribed heights with zero sum arise as their projections onto a suitable vector; scaling and rotation realise the planes."
+  ],
+  "imo_1973_official_p1": [
+    4.5,
+    "Project onto the median unit-vector direction. Pair the directions on opposite sides of the median; the semicircle condition ensures each pair has a nonnegative projection."
+  ],
+  "imo_1973_official_p2": [
+    5,
+    "Combine two centrally symmetric planar examples along a common diameter. Central reflection supplies parallel partners for cross-plane pairs while the hexagon handles diameters."
+  ],
+  "imo_1973_official_p3": [
+    4.5,
+    "The reciprocal polynomial reduces to a quadratic in $x+1/x$. Cauchy–Schwarz then minimises the coefficient norm over the feasible parameter range."
+  ],
+  "imo_1973_official_p4": [
+    5.5,
+    "The two far vertices impose a shortest route through two disks. Symmetry identifies the first contact, and convexity of segment neighbourhoods verifies that the optimal route actually covers the entire triangle."
+  ],
+  "imo_1973_official_p5": [
+    4.5,
+    "A commutator has slope one and must have a fixed point, so it is the identity. Commutativity then transports one unique fixed point to itself under every group element."
+  ],
+  "imo_1973_official_p6": [
+    5,
+    "Smooth the data with a two-sided geometric kernel. Separate the contributions on either side of each index to control adjacent ratios, then use the geometric-series sum for the total bound."
+  ],
+  "imo_1974_official_p1": [
+    4,
+    "Use the total count to fix the number of rounds, then extremal individual totals restrict the three card values to two possibilities. The last-round condition then determines both earlier deals."
+  ],
+  "imo_1974_official_p2": [
+    4.5,
+    "Stewart’s theorem converts the distance condition into a reciprocal sum with a fixed total. Its minimum is given by Cauchy–Schwarz, and half-angle identities connect the resulting side condition to the stated one."
+  ],
+  "imo_1974_official_p3": [
+    5,
+    "Extract odd binomial terms with conjugate radicals, derive an integer recurrence, and establish a short nonzero residue cycle modulo five."
+  ],
+  "imo_1974_official_p4": [
+    5,
+    "The distinct even areas give a sharp partition bound, but one formal size list is geometrically impossible. Four explicit tilings are needed to prove all remaining lists attainable."
+  ],
+  "imo_1974_official_p5": [
+    4,
+    "Simple denominator comparisons give strict bounds, but determining the entire range also requires two different limiting families and continuity."
+  ],
+  "imo_1974_official_p6": [
+    4,
+    "Choose the least integer at which the polynomial is plus or minus one. The polynomial difference divisibility restricts every opposite-sign occurrence to the next two integers."
+  ],
+  "imo_1975_official_p1": [
+    3,
+    "Expand the squares and use the elementary pairwise-swap proof of rearrangement; a single standard inequality settles the question."
+  ],
+  "imo_1975_official_p2": [
+    3,
+    "An infinite residue class modulo the chosen term immediately supplies every required representation, with the second coefficient equal to one."
+  ],
+  "imo_1975_official_p3": [
+    5,
+    "An auxiliary external equilateral triangle creates two equal-scale similarities, whose opposite 45-degree rotations force both the equal lengths and right angle."
+  ],
+  "imo_1975_official_p4": [
+    4,
+    "A decimal-length bound reduces the second digit sum to a short interval; congruence modulo nine then determines its digit sum without computing the original power."
+  ],
+  "imo_1975_official_p5": [
+    4.5,
+    "Parameterise rational unit vectors and double their angles. The chord length between doubled directions becomes a rational determinant, avoiding any irrational-angle existence argument."
+  ],
+  "imo_1975_official_p6": [
+    5.5,
+    "Restrict a homogeneous polynomial to the line x+y=1 to obtain a polynomial Cauchy equation, then use homogeneity to reconstruct the full two-variable polynomial."
+  ],
+  "imo_1976_official_p1": [
+    4,
+    "Two area bounds must both attain equality; their equality conditions determine a perpendicular configuration and hence the other diagonal."
+  ],
+  "imo_1976_official_p2": [
+    4.5,
+    "The substitution x=2 cos t converts iterated squaring into angle doubling; the key remaining step is to count the distinct fixed-point angles accurately."
+  ],
+  "imo_1976_official_p3": [
+    6,
+    "Translate optimal packing into three floor ratios, force one side to be two by a uniform bound, then use divisibility by five and sharper bounds to finish the finite classification."
+  ],
+  "imo_1976_official_p4": [
+    3.5,
+    "Local replacements reduce all factors to twos and threes, after which the residue of the fixed sum determines the maximum; the standard integer-product argument is below the target band."
+  ],
+  "imo_1976_official_p5": [
+    4.5,
+    "Count bounded integer inputs and the vectors of linear-form outputs; a collision produces the required small nonzero kernel vector."
+  ],
+  "imo_1976_official_p6": [
+    5,
+    "Identify a reciprocal-power closed form for the nonlinear recurrence, and verify it by two exponent identities before taking the floor."
+  ],
+  "imo_1977_official_p1": [
+    4,
+    "Exploit the fourfold symmetry to compute only two midpoint types; a 15-degree tangent identity proves the required common radius and angular spacing."
+  ],
+  "imo_1977_official_p2": [
+    5,
+    "Prefix sums turn the two window inequalities into a strictly decreasing cycle on eighteen indices; a two-valued construction attains the resulting bound."
+  ],
+  "imo_1977_official_p3": [
+    6.5,
+    "Use multiplicative order to construct one atom with a prime exponent of one and another consisting solely of that prime; taking a power then forces two distinct atomic factorizations."
+  ],
+  "imo_1977_official_p4": [
+    4.5,
+    "Choose pairs of angles that cancel one Fourier harmonic while maximising the other; two carefully selected evaluations yield both sharp coefficient bounds."
+  ],
+  "imo_1977_official_p5": [
+    5,
+    "A quadratic mean bound forces the quotient and remainder; completing squares then reduces the positive integer classification to a short parity-restricted square check."
+  ],
+  "imo_1977_official_p6": [
+    6,
+    "A minimum argument on successive tails establishes strict monotonicity even though none is assumed; the original inequality then traps the function between n and n."
+  ],
+  "imo_1978_official_p1": [
+    4.5,
+    "Separate the modulus into eight and 125, then determine the exact multiplicative order using a binomial congruence rather than testing exponents."
+  ],
+  "imo_1978_official_p2": [
+    7,
+    "A vector identity gives the containing sphere, but proving the entire sphere is attained requires choosing an orthonormal basis on which a quadratic form has equal diagonal values."
+  ],
+  "imo_1978_official_p3": [
+    6,
+    "Complementarity yields two self-indexing recursion rules; use a carefully chosen chain of known values to reach the requested index."
+  ],
+  "imo_1978_official_p4": [
+    5,
+    "Identify the internal tangency point on the symmetry axis; a right-angle cyclic quadrilateral transfers the small circle’s tangent angle into an angle bisector of the original triangle."
+  ],
+  "imo_1978_official_p5": [
+    3,
+    "Rearrangement sorts the distinct integers increasingly, and the kth smallest positive integer is at least k; this standard direct inequality is below the intended band."
+  ],
+  "imo_1978_official_p6": [
+    6.5,
+    "Iterate pigeonhole on difference sets while retaining the fact that new differences occur between elements of every earlier monochromatic set; all six colours are eventually exhausted."
+  ],
+  "imo_1979_official_p1": [
+    5,
+    "Rewrite the alternating harmonic sum as a consecutive tail, then pair denominators summing to 1979; primality ensures the numerator factor survives cancellation."
+  ],
+  "imo_1979_official_p2": [
+    5.5,
+    "A three-vertex majority in a pentagon always contains adjacent vertices; applying this twice forces each face monochromatic and then forces their colours to agree."
+  ],
+  "imo_1979_official_p3": [
+    4.5,
+    "Reflect the starting point in the perpendicular bisector of the centres; the resulting crossed radii and reflection-reversed angles give congruent triangles throughout the common rotation."
+  ],
+  "imo_1979_official_p4": [
+    4.5,
+    "For each fixed distance from P, move toward the perpendicular foot to minimise the denominator; Cauchy–Schwarz then gives the exact maximum and its equality locus."
+  ],
+  "imo_1979_official_p5": [
+    4,
+    "A weighted sum of the three moment equations becomes a sum of nonnegative squares; its vanishing confines all nonzero coordinates to one index, with zero needing separate attention."
+  ],
+  "imo_1979_official_p6": [
+    5.5,
+    "Introduce an auxiliary starting vertex to obtain a two-state recurrence, then eliminate it and solve the resulting second-order recurrence with the correct absorbing boundary."
+  ],
+  "imo_1981_official_p1": [
+    3.5,
+    "The area decomposition fixes a weighted sum of the perpendicular distances, and one standard Cauchy–Schwarz application identifies the incenter as the unique equality case."
+  ],
+  "imo_1981_official_p2": [
+    4,
+    "Count pairs consisting of a subset and an integer below its minimum by adjoining that integer after shifting the subset; the bijection yields the average directly."
+  ],
+  "imo_1981_official_p3": [
+    5.5,
+    "A descent replacing a solution pair by consecutive differences proves that all positive solutions are consecutive Fibonacci numbers; the size bound then fixes the maximal pair."
+  ],
+  "imo_1981_official_p4": [
+    5,
+    "Characterise the admissible largest term through its prime powers, reducing both existence and uniqueness to divisors of lcm(1,...,n−1)."
+  ],
+  "imo_1981_official_p5": [
+    4.5,
+    "Equal distances from the sides make the three circle centres a homothetic copy of the original triangle about its incenter; the common point is the smaller triangle’s circumcenter."
+  ],
+  "imo_1981_official_p6": [
+    4.5,
+    "Resolve the nested recurrence one row at a time, shifting by three in the third and fourth rows to expose repeated doubling and then a power tower."
+  ],
+  "imo_1982_official_p1": [
+    5,
+    "Superadditivity forces exact values on multiples of three up to the prescribed endpoint; tripling the requested input then squeezes its value between consecutive integers."
+  ],
+  "imo_1982_official_p2": [
+    7,
+    "Represent the incircle contacts by unit complex numbers to prove the reflected-contact triangle is homothetic to the original; Euler’s radius inequality rules out the exceptional parallel-line case."
+  ],
+  "imo_1982_official_p3": [
+    4.5,
+    "A square identity supplies a telescoping lower bound when the sequence tends to zero; a positive limiting value instead forces divergence. A geometric sequence attains the limiting constant."
+  ],
+  "imo_1982_official_p4": [
+    4.5,
+    "Find an order-three linear transformation preserving the cubic form, then analyse its possible residues modulo nine to rule out the specified value."
+  ],
+  "imo_1982_official_p5": [
+    4,
+    "Affine coordinates turn both equal division ratios into linear point formulas; a determinant for collinearity reduces to a single quadratic."
+  ],
+  "imo_1982_official_p6": [
+    6.5,
+    "Split the path at its first approach to an adjacent corner. A last-covered-point argument on the opposite side, using compactness, produces two nearby points separated by a long excursion."
+  ],
+  "imo_1983_official_p1": [
+    5,
+    "The limit first eliminates a scaling period, giving an involution and then multiplicativity; powers of a nonunit fixed point contradict the limit."
+  ],
+  "imo_1983_official_p2": [
+    5.5,
+    "Use the common tangent normals to locate both chord midpoints, then compare half-angle formulas in the two triangles; the unequal radii enter only through their difference."
+  ],
+  "imo_1983_official_p3": [
+    5.5,
+    "Choose three bounded residues independently modulo the pairwise coprime parameters; their combined upper bound leaves a nonnegative multiple of abc, while the proposed exception forces all three residues maximal."
+  ],
+  "imo_1983_official_p4": [
+    5.5,
+    "Three specially placed boundary points contain a same-colour pair whose perpendicular line forces almost an entire side to the other colour; repeating this creates a monochromatic altitude triangle."
+  ],
+  "imo_1983_official_p5": [
+    4.5,
+    "Base-three digits restricted to zero and one prevent carries in the arithmetic-progression equation, giving a large explicit progression-free set."
+  ],
+  "imo_1983_official_p6": [
+    4.5,
+    "The triangle-side substitution exposes a cyclic reciprocal sum; Cauchy–Schwarz proves it and its equality condition gives the equilateral case."
+  ],
+  "imo_1984_official_p1": [
+    4,
+    "A cubic product identity centres the expression at one quarter; a sign case is essential before applying AM–GM to the transformed factors."
+  ],
+  "imo_1984_official_p2": [
+    4,
+    "Factor the seventh-power difference to isolate a squared quadratic, then choose a small exact value of that quadratic equal to 7 cubed."
+  ],
+  "imo_1984_official_p3": [
+    5.5,
+    "Apply pigeonhole to the finite sets of colours appearing on concentric circles, then tune an angle so that a point on the smaller circle generates the larger one."
+  ],
+  "imo_1984_official_p4": [
+    4.5,
+    "Express tangency as the ratio of half-chord length to midpoint distance from the intersection of the supporting lines; equality of the two ratios is exactly the intercept theorem."
+  ],
+  "imo_1984_official_p5": [
+    6,
+    "The lower bound comes from summing strict triangle inequalities for crossing diagonals; the upper bound requires counting boundary arcs separately for odd and even vertex counts."
+  ],
+  "imo_1984_official_p6": [
+    6,
+    "Compare the two power-of-two sums, then use the exact 2-adic behaviour of b−a and b+a to force their sum to be a single power of two and finish by oddness."
+  ],
+  "imo_1985_official_p1": [
+    5,
+    "Express the tangent lengths and centre distances using the angles at the endpoints of the diameter-side; cyclicity supplies supplementary angles and a half-angle identity completes the length equality."
+  ],
+  "imo_1985_official_p2": [
+    4.5,
+    "The two colour invariances combine into invariance under adding k modulo n; coprimality makes the nonzero multiples of k visit every required residue."
+  ],
+  "imo_1985_official_p3": [
+    6.5,
+    "Work modulo two and split the exponents at their largest binary place; disjoint coefficient blocks double the weight in one case, while the Hamming-weight triangle inequality handles cancellation in the other."
+  ],
+  "imo_1985_official_p4": [
+    5.5,
+    "Apply pigeonhole twice to parity vectors of nine prime exponents: first create many disjoint pairs with square products, then pair their square roots to obtain a fourth power."
+  ],
+  "imo_1985_official_p5": [
+    5.5,
+    "Write the two circles through B as quadratic equations with zero constant term; the centre of the third circle is the average of their linear coefficient vectors, making the desired dot product vanish."
+  ],
+  "imo_1985_official_p6": [
+    7,
+    "Define nested intervals of initial values using increasing polynomial iterates; strict endpoint nesting proves existence, while convexity squeezes their widths to zero and proves uniqueness."
+  ],
+  "imo_1986_official_p1": [
+    4,
+    "The obstruction appears only after using the full square-residue set modulo sixteen; the three proposed square conditions eliminate complementary residue classes for d."
+  ],
+  "imo_1986_official_p2": [
+    4.5,
+    "Compose one block of three rotations as a translation; returning after 662 blocks forces that translation to vanish, and its complex coefficient identifies an equilateral triangle."
+  ],
+  "imo_1986_official_p3": [
+    6.5,
+    "The invariant positive total makes a quadratic expression decrease at every legal move; discovering the combination of single-entry and adjacent-pair squares supplies termination for every move order."
+  ],
+  "imo_1986_official_p4": [
+    6.5,
+    "Analyse one transition around a vertex using the adjacent-side parameters; the rigid triangle’s apex stays on the angle bisector, and a quadratic constraint gives the exact excursion beyond the centre."
+  ],
+  "imo_1986_official_p5": [
+    5.5,
+    "Use the functional equation to identify the full zero set; comparing the zero thresholds in x on both sides determines every positive value without assuming continuity."
+  ],
+  "imo_1986_official_p6": [
+    4.5,
+    "Pair points separately in every row and column; the union of the two matchings consists of paths and even cycles, so alternating colours balance every pair."
+  ],
+  "imo_1987_official_p1": [
+    2.5,
+    "Counting a permutation together with one marked fixed point gives the identity immediately; this basic double count is below the target band."
+  ],
+  "imo_1987_official_p2": [
+    4.5,
+    "Use perpendicular diagonals to express the quadrilateral’s area, then combine one right-triangle identity with similarity through the angle-bisector chord."
+  ],
+  "imo_1987_official_p3": [
+    4.5,
+    "Place all bounded-coefficient linear combinations in an interval, use the smallest adjacent gap, and control the interval length by Cauchy–Schwarz."
+  ],
+  "imo_1987_official_p4": [
+    6,
+    "Injectivity allows the missing values of f and their images to partition the finite complement of the twice-iterated image into two equal parts, contradicting odd cardinality."
+  ],
+  "imo_1987_official_p5": [
+    4,
+    "Integer points on a parabola simultaneously give nonzero rational determinants and distances involving integers strictly between consecutive squares."
+  ],
+  "imo_1987_official_p6": [
+    8,
+    "The proof requires a strong induction combined with a nonstandard interval of coprimality tests; differences of polynomial values rule out every possible small divisor before a square-root bound finishes."
+  ],
+  "imo_1988_official_p1": [
+    4.5,
+    "Coordinates at the chord midpoint make the moving point’s second intersection explicit and the squared-distance sum cancel; orthogonal projection identifies the full midpoint locus."
+  ],
+  "imo_1988_official_p2": [
+    5,
+    "The intersection assumptions force the elements to correspond exactly to edges of a complete graph; the handshake parity obstruction and a cyclic regular subgraph give necessity and sufficiency."
+  ],
+  "imo_1988_official_p3": [
+    6,
+    "Recognise and prove binary digit reversal from the recursive formulas, then count binary palindromes with a careful cutoff at 1988."
+  ],
+  "imo_1988_official_p4": [
+    5.5,
+    "Monotonicity locates one endpoint in each pole interval; clearing denominators and applying Vieta determines the sum of all interval lengths without solving for the endpoints."
+  ],
+  "imo_1988_official_p5": [
+    5,
+    "The incenter coordinate formulas reveal that their joining line cuts equal lengths on the two legs, both equal to the altitude; the area bound then reduces to a²+b²≥2ab."
+  ],
+  "imo_1988_official_p6": [
+    7.5,
+    "A minimal-solution Vieta jump must preserve integrality and establish a nonnegative second root; the decisive shifted-product positivity argument makes the descent work but requires substantial discovery."
+  ],
+  "imo_1989_official_p1": [
+    5,
+    "Build a balanced partition of the first 351 integers into triples using two complementary parity ranges, then distribute equal-sum pairs to reach seventeen elements per group."
+  ],
+  "imo_1989_official_p2": [
+    6,
+    "Arc midpoints bisect the incenter–excenter segments, giving the exact area identity; reflected orthocenters and maximal chord heights then establish the area inequality."
+  ],
+  "imo_1989_official_p3": [
+    5,
+    "Count isosceles triples by their apex and by their base; no three collinear points limits each perpendicular bisector to two possible apexes."
+  ],
+  "imo_1989_official_p5": [
+    4,
+    "A squared factorial makes every term split into two coprime nontrivial factors, which rules out prime powers as well as primes."
+  ],
+  "imo_1989_official_p6": [
+    5,
+    "Use the first two inclusion–exclusion terms for adjacent complementary pairs; block counting gives an explicit lower bound already exceeding half of all permutations."
+  ],
+  "imo_1989_official_p4": [
+    6.5,
+    "Interpret the distance conditions as three externally tangent disks, prove the small disk is confined by the quadrilateral, and maximise its radius inside the gap between two disks and their common tangent."
+  ]
+}

@@ -1,0 +1,7148 @@
+{
+  "version": 1,
+  "updated": "2026-10-23",
+  "official": [
+    {
+      "id": "bmo1-2026",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2026,
+      "season": "2025–26",
+      "title": "BMO1 2025–26",
+      "sittingDate": "2025-11-19",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2026.pdf",
+      "questionIds": [
+        "bmo1-2026-q1",
+        "bmo1-2026-q2",
+        "bmo1-2026-q3",
+        "bmo1-2026-q4",
+        "bmo1-2026-q5",
+        "bmo1-2026-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2026-q1",
+          "number": "1",
+          "bankId": "bmo1-2026-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Primes",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2026-q2",
+          "number": "2",
+          "bankId": "bmo1-2026-q2",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2026-q3",
+          "number": "3",
+          "bankId": "bmo1-2026-q3",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions",
+            "Tilings & dissections"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2026-q4",
+          "number": "4",
+          "bankId": "bmo1-2026-q4",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Transformations",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2026-q5",
+          "number": "5",
+          "bankId": "bmo1-2026-q5",
+          "difficulty": 7,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2026-q6",
+          "number": "6",
+          "bankId": "bmo1-2026-q6",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Invariants",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2025",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2025,
+      "season": "2024–25",
+      "title": "BMO1 2024–25",
+      "sittingDate": "2024-11-20",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2025.pdf",
+      "questionIds": [
+        "bmo1-2025-q1",
+        "bmo1-2025-q2",
+        "bmo1-2025-q3",
+        "bmo1-2025-q4",
+        "bmo1-2025-q5",
+        "bmo1-2025-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2025-q1",
+          "number": "1",
+          "bankId": "bmo1-2025-q1",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2025-q2",
+          "number": "2",
+          "bankId": "bmo1-2025-q2",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Algorithms & constructions",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2025-q3",
+          "number": "3",
+          "bankId": "bmo1-2025-q3",
+          "difficulty": 3,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2025-q4",
+          "number": "4",
+          "bankId": "bmo1-2025-q4",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Similarity & congruence",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2025-q5",
+          "number": "5",
+          "bankId": "bmo1-2025-q5",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Primes",
+            "Integer polynomials"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2025-q6",
+          "number": "6",
+          "bankId": "bmo1-2025-q6",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Pigeonhole principle",
+            "Graph theory",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.166666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2024",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2024,
+      "season": "2023–24",
+      "title": "BMO1 2023–24",
+      "sittingDate": "2023-11-15",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2024.pdf",
+      "questionIds": [
+        "bmo1-2024-q1",
+        "bmo1-2024-q2",
+        "bmo1-2024-q3",
+        "bmo1-2024-q4",
+        "bmo1-2024-q5",
+        "bmo1-2024-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2024-q1",
+          "number": "1",
+          "bankId": "bmo1-2024-q1",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2024-q2",
+          "number": "2",
+          "bankId": "bmo1-2024-q2",
+          "difficulty": 2.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Invariants"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2024-q3",
+          "number": "3",
+          "bankId": "bmo1-2024-q3",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Power of a point & radical axes"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2024-q4",
+          "number": "4",
+          "bankId": "bmo1-2024-q4",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Valuations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2024-q5",
+          "number": "5",
+          "bankId": "bmo1-2024-q5",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Colouring"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2024-q6",
+          "number": "6",
+          "bankId": "bmo1-2024-q6",
+          "difficulty": 7,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.916666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2023",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2023,
+      "season": "2022–23",
+      "title": "BMO1 2022–23",
+      "sittingDate": "2022-11-16",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2023.pdf",
+      "questionIds": [
+        "bmo1-2023-q1",
+        "bmo1-2023-q2",
+        "bmo1-2023-q3",
+        "bmo1-2023-q4",
+        "bmo1-2023-q5",
+        "bmo1-2023-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2023-q1",
+          "number": "1",
+          "bankId": "bmo1-2023-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2023-q2",
+          "number": "2",
+          "bankId": "bmo1-2023-q2",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2023-q3",
+          "number": "3",
+          "bankId": "bmo1-2023-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2023-q4",
+          "number": "4",
+          "bankId": "bmo1-2023-q4",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Tilings & dissections"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2023-q5",
+          "number": "5",
+          "bankId": "bmo1-2023-q5",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2023-q6",
+          "number": "6",
+          "bankId": "bmo1-2023-q6",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Combinatorial geometry",
+            "Pigeonhole principle",
+            "Invariants"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.916666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2022",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2022,
+      "season": "2021–22",
+      "title": "BMO1 2021–22",
+      "sittingDate": "2021-12-02",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2022.pdf",
+      "questionIds": [
+        "bmo1-2022-q1",
+        "bmo1-2022-q2",
+        "bmo1-2022-q3",
+        "bmo1-2022-q4",
+        "bmo1-2022-q5",
+        "bmo1-2022-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2022-q1",
+          "number": "1",
+          "bankId": "bmo1-2022-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2022-q2",
+          "number": "2",
+          "bankId": "bmo1-2022-q2",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Extremal arguments",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2022-q3",
+          "number": "3",
+          "bankId": "bmo1-2022-q3",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2022-q4",
+          "number": "4",
+          "bankId": "bmo1-2022-q4",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2022-q5",
+          "number": "5",
+          "bankId": "bmo1-2022-q5",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Extremal arguments",
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2022-q6",
+          "number": "6",
+          "bankId": "bmo1-2022-q6",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.5,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2021",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2021,
+      "season": "2020–21",
+      "title": "BMO1 2020–21",
+      "sittingDate": "2020-11-26",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf",
+      "questionIds": [
+        "bmo1-2021-q1",
+        "bmo1-2021-q2",
+        "bmo1-2021-q3",
+        "bmo1-2021-q4",
+        "bmo1-2021-q5",
+        "bmo1-2021-q6",
+        "bmo1-2021-q7"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2021-q1",
+          "number": "1",
+          "bankId": "bmo1-2021-q1",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Equations & systems"
+          ],
+          "section": "Section A · answer only",
+          "marks": 5,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q2",
+          "number": "2",
+          "bankId": "bmo1-2021-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle geometry",
+            "Area & dissection",
+            "Diophantine equations"
+          ],
+          "section": "Section A · answer only",
+          "marks": 5,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q3",
+          "number": "3",
+          "bankId": "bmo1-2021-q3",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions",
+            "Symmetry"
+          ],
+          "section": "Section A · answer only",
+          "marks": 5,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q4",
+          "number": "4",
+          "bankId": "bmo1-2021-q4",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Squares & powers"
+          ],
+          "section": "Section A · answer only",
+          "marks": 5,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q5",
+          "number": "5",
+          "bankId": "bmo1-2021-q5",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency",
+            "Similarity & congruence",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "Section B · full proof",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q6",
+          "number": "6",
+          "bankId": "bmo1-2021-q6",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Primes",
+            "Digits & bases",
+            "Squares & powers"
+          ],
+          "section": "Section B · full proof",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2021-q7",
+          "number": "7",
+          "bankId": "bmo1-2021-q7",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Parity",
+            "Induction"
+          ],
+          "section": "Section B · full proof",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 7,
+      "expectedQuestionCount": 7,
+      "availableCount": 7,
+      "complete": true,
+      "rating": 4.857142857142857,
+      "durationMinutes": 150,
+      "totalMarks": 50,
+      "formatNote": "Exceptional 2020–21 format: 2½ hours; four answer-only questions worth 5 marks each and three proof questions worth 10 marks each. The rating is an unweighted mean of all seven questions."
+    },
+    {
+      "id": "bmo1-2020",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2020,
+      "season": "2019–20",
+      "title": "BMO1 2019–20",
+      "sittingDate": "2019-11-29",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2020.pdf",
+      "questionIds": [
+        "bmo1-2020-q1",
+        "bmo1-2020-q2",
+        "bmo1-2020-q3",
+        "bmo1-2020-q4",
+        "bmo1-2020-q5",
+        "bmo1-2020-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2020-q1",
+          "number": "1",
+          "bankId": "bmo1-2020-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Primes",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2020-q2",
+          "number": "2",
+          "bankId": "bmo1-2020-q2",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2020-q3",
+          "number": "3",
+          "bankId": "bmo1-2020-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2020-q4",
+          "number": "4",
+          "bankId": "bmo1-2020-q4",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Counting"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2020-q5",
+          "number": "5",
+          "bankId": "bmo1-2020-q5",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Invariants",
+            "Graph theory",
+            "Games & strategies",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2020-q6",
+          "number": "6",
+          "bankId": "bmo1-2020-q6",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.166666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2019",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2019,
+      "season": "2018–19",
+      "title": "BMO1 2018–19",
+      "sittingDate": "2018-11-30",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2019.pdf",
+      "questionIds": [
+        "bmo1-2019-q1",
+        "bmo1-2019-q2",
+        "bmo1-2019-q3",
+        "bmo1-2019-q4",
+        "bmo1-2019-q5",
+        "bmo1-2019-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2019-q1",
+          "number": "1",
+          "bankId": "bmo1-2019-q1",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2019-q2",
+          "number": "2",
+          "bankId": "bmo1-2019-q2",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2019-q3",
+          "number": "3",
+          "bankId": "bmo1-2019-q3",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2019-q4",
+          "number": "4",
+          "bankId": "bmo1-2019-q4",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2019-q5",
+          "number": "5",
+          "bankId": "bmo1-2019-q5",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Equations & systems",
+            "Symmetry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2019-q6",
+          "number": "6",
+          "bankId": "bmo1-2019-q6",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.166666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2018",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2018,
+      "season": "2017–18",
+      "title": "BMO1 2017–18",
+      "sittingDate": "2017-12-01",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2018.pdf",
+      "questionIds": [
+        "bmo1-2018-q1",
+        "bmo1-2018-q2",
+        "bmo1-2018-q3",
+        "bmo1-2018-q4",
+        "bmo1-2018-q5",
+        "bmo1-2018-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2018-q1",
+          "number": "1",
+          "bankId": "bmo1-2018-q1",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Arithmetic functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2018-q2",
+          "number": "2",
+          "bankId": "bmo1-2018-q2",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Double counting",
+            "Extremal arguments",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2018-q3",
+          "number": "3",
+          "bankId": "bmo1-2018-q3",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Similarity & congruence",
+            "Area & dissection",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2018-q4",
+          "number": "4",
+          "bankId": "bmo1-2018-q4",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2018-q5",
+          "number": "5",
+          "bankId": "bmo1-2018-q5",
+          "difficulty": 6.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Extremal arguments",
+            "Combinatorial geometry",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2018-q6",
+          "number": "6",
+          "bankId": "bmo1-2018-q6",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Extremal arguments",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.0,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2017",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2017,
+      "season": "2016–17",
+      "title": "BMO1 2016–17",
+      "sittingDate": "2016-12-02",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2017.pdf",
+      "questionIds": [
+        "bmo1-2017-q1",
+        "bmo1-2017-q2",
+        "bmo1-2017-q3",
+        "bmo1-2017-q4",
+        "bmo1-2017-q5",
+        "bmo1-2017-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2017-q1",
+          "number": "1",
+          "bankId": "bmo1-2017-q1",
+          "difficulty": 3,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2017-q2",
+          "number": "2",
+          "bankId": "bmo1-2017-q2",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2017-q3",
+          "number": "3",
+          "bankId": "bmo1-2017-q3",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2017-q4",
+          "number": "4",
+          "bankId": "bmo1-2017-q4",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Modular arithmetic",
+            "Pairing"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2017-q5",
+          "number": "5",
+          "bankId": "bmo1-2017-q5",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Similarity & congruence",
+            "Area & dissection"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2017-q6",
+          "number": "6",
+          "bankId": "bmo1-2017-q6",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.5,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2016",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2016,
+      "season": "2015–16",
+      "title": "BMO1 2015–16",
+      "sittingDate": "2015-11-27",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2016.pdf",
+      "questionIds": [
+        "bmo1-2016-q1",
+        "bmo1-2016-q2",
+        "bmo1-2016-q3",
+        "bmo1-2016-q4",
+        "bmo1-2016-q5",
+        "bmo1-2016-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2016-q1",
+          "number": "1",
+          "bankId": "bmo1-2016-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2016-q2",
+          "number": "2",
+          "bankId": "bmo1-2016-q2",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2016-q3",
+          "number": "3",
+          "bankId": "bmo1-2016-q3",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2016-q4",
+          "number": "4",
+          "bankId": "bmo1-2016-q4",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Colouring",
+            "Extremal arguments",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2016-q5",
+          "number": "5",
+          "bankId": "bmo1-2016-q5",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Concurrency & collinearity",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2016-q6",
+          "number": "6",
+          "bankId": "bmo1-2016-q6",
+          "difficulty": 6.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers",
+            "Induction"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2015",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2015,
+      "season": "2014–15",
+      "title": "BMO1 2014–15",
+      "sittingDate": "2014-11-28",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2015.pdf",
+      "questionIds": [
+        "bmo1-2015-q1",
+        "bmo1-2015-q2",
+        "bmo1-2015-q3",
+        "bmo1-2015-q4",
+        "bmo1-2015-q5",
+        "bmo1-2015-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2015-q1",
+          "number": "1",
+          "bankId": "bmo1-2015-q1",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2015-q2",
+          "number": "2",
+          "bankId": "bmo1-2015-q2",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Primes",
+            "Divisibility & GCD",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2015-q3",
+          "number": "3",
+          "bankId": "bmo1-2015-q3",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2015-q4",
+          "number": "4",
+          "bankId": "bmo1-2015-q4",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2015-q5",
+          "number": "5",
+          "bankId": "bmo1-2015-q5",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Similarity & congruence",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2015-q6",
+          "number": "6",
+          "bankId": "bmo1-2015-q6",
+          "difficulty": 7,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.75,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2014",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2014,
+      "season": "2013–14",
+      "title": "BMO1 2013–14",
+      "sittingDate": "2013-11-29",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2014.pdf",
+      "questionIds": [
+        "bmo1-2014-q1",
+        "bmo1-2014-q2",
+        "bmo1-2014-q3",
+        "bmo1-2014-q4",
+        "bmo1-2014-q5",
+        "bmo1-2014-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2014-q1",
+          "number": "1",
+          "bankId": "bmo1-2014-q1",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2014-q2",
+          "number": "2",
+          "bankId": "bmo1-2014-q2",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2014-q3",
+          "number": "3",
+          "bankId": "bmo1-2014-q3",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Valuations",
+            "Digits & bases"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2014-q4",
+          "number": "4",
+          "bankId": "bmo1-2014-q4",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2014-q5",
+          "number": "5",
+          "bankId": "bmo1-2014-q5",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2014-q6",
+          "number": "6",
+          "bankId": "bmo1-2014-q6",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Geometric inequalities",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.75,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2013",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2013,
+      "season": "2012–13",
+      "title": "BMO1 2012–13",
+      "sittingDate": "2012-11-30",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2013.pdf",
+      "questionIds": [
+        "bmo1-2013-q1",
+        "bmo1-2013-q2",
+        "bmo1-2013-q3",
+        "bmo1-2013-q4",
+        "bmo1-2013-q5",
+        "bmo1-2013-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2013-q1",
+          "number": "1",
+          "bankId": "bmo1-2013-q1",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Extremal arguments",
+            "Combinatorial geometry",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2013-q2",
+          "number": "2",
+          "bankId": "bmo1-2013-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Angles & cyclic quadrilaterals"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2013-q3",
+          "number": "3",
+          "bankId": "bmo1-2013-q3",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2013-q4",
+          "number": "4",
+          "bankId": "bmo1-2013-q4",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2013-q5",
+          "number": "5",
+          "bankId": "bmo1-2013-q5",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Extremal arguments"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2013-q6",
+          "number": "6",
+          "bankId": "bmo1-2013-q6",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Power of a point & radical axes",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.416666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2012",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2012,
+      "season": "2011–12",
+      "title": "BMO1 2011–12",
+      "sittingDate": "2011-12-02",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2012.pdf",
+      "questionIds": [
+        "bmo1-2012-q1",
+        "bmo1-2012-q2",
+        "bmo1-2012-q3",
+        "bmo1-2012-q4",
+        "bmo1-2012-q5",
+        "bmo1-2012-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2012-q1",
+          "number": "1",
+          "bankId": "bmo1-2012-q1",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2012-q2",
+          "number": "2",
+          "bankId": "bmo1-2012-q2",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Extremal arguments",
+            "Permutations & arrangements",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2012-q3",
+          "number": "3",
+          "bankId": "bmo1-2012-q3",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Invariants"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2012-q4",
+          "number": "4",
+          "bankId": "bmo1-2012-q4",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2012-q5",
+          "number": "5",
+          "bankId": "bmo1-2012-q5",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2012-q6",
+          "number": "6",
+          "bankId": "bmo1-2012-q6",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.583333333333333,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2011",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2011,
+      "season": "2010–11",
+      "title": "BMO1 2010–11",
+      "sittingDate": "2010-12-02",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2011.pdf",
+      "questionIds": [
+        "bmo1-2011-q1",
+        "bmo1-2011-q2",
+        "bmo1-2011-q3",
+        "bmo1-2011-q4",
+        "bmo1-2011-q5",
+        "bmo1-2011-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2011-q1",
+          "number": "1",
+          "bankId": "bmo1-2011-q1",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2011-q2",
+          "number": "2",
+          "bankId": "bmo1-2011-q2",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2011-q3",
+          "number": "3",
+          "bankId": "bmo1-2011-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Power of a point & radical axes",
+            "Concurrency & collinearity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2011-q4",
+          "number": "4",
+          "bankId": "bmo1-2011-q4",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2011-q5",
+          "number": "5",
+          "bankId": "bmo1-2011-q5",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Constructions & loci"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2011-q6",
+          "number": "6",
+          "bankId": "bmo1-2011-q6",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Symmetry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.583333333333333,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2010",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2010,
+      "season": "2009–10",
+      "title": "BMO1 2009–10",
+      "sittingDate": "2009-12-03",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2010.pdf",
+      "questionIds": [
+        "bmo1-2010-q1",
+        "bmo1-2010-q2",
+        "bmo1-2010-q3",
+        "bmo1-2010-q4",
+        "bmo1-2010-q5",
+        "bmo1-2010-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2010-q1",
+          "number": "1",
+          "bankId": "bmo1-2010-q1",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2010-q2",
+          "number": "2",
+          "bankId": "bmo1-2010-q2",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2010-q3",
+          "number": "3",
+          "bankId": "bmo1-2010-q3",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2010-q4",
+          "number": "4",
+          "bankId": "bmo1-2010-q4",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Coordinates & vectors"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2010-q5",
+          "number": "5",
+          "bankId": "bmo1-2010-q5",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2010-q6",
+          "number": "6",
+          "bankId": "bmo1-2010-q6",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.083333333333333,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2009",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2009,
+      "season": "2008–09",
+      "title": "BMO1 2008–09",
+      "sittingDate": "2008-12-04",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2009.pdf",
+      "questionIds": [
+        "bmo1-2009-q1",
+        "bmo1-2009-q2",
+        "bmo1-2009-q3",
+        "bmo1-2009-q4",
+        "bmo1-2009-q5",
+        "bmo1-2009-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2009-q1",
+          "number": "1",
+          "bankId": "bmo1-2009-q1",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2009-q2",
+          "number": "2",
+          "bankId": "bmo1-2009-q2",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2009-q3",
+          "number": "3",
+          "bankId": "bmo1-2009-q3",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2009-q4",
+          "number": "4",
+          "bankId": "bmo1-2009-q4",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2009-q5",
+          "number": "5",
+          "bankId": "bmo1-2009-q5",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2009-q6",
+          "number": "6",
+          "bankId": "bmo1-2009-q6",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.916666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2008",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2008,
+      "season": "2007–08",
+      "title": "BMO1 2007–08",
+      "sittingDate": "2007-11-30",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2008.pdf",
+      "questionIds": [
+        "bmo1-2008-q1",
+        "bmo1-2008-q2",
+        "bmo1-2008-q3",
+        "bmo1-2008-q4",
+        "bmo1-2008-q5",
+        "bmo1-2008-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2008-q1",
+          "number": "1",
+          "bankId": "bmo1-2008-q1",
+          "difficulty": 2.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2008-q2",
+          "number": "2",
+          "bankId": "bmo1-2008-q2",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2008-q3",
+          "number": "3",
+          "bankId": "bmo1-2008-q3",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Similarity & congruence",
+            "Triangle geometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2008-q4",
+          "number": "4",
+          "bankId": "bmo1-2008-q4",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Pigeonhole principle"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2008-q5",
+          "number": "5",
+          "bankId": "bmo1-2008-q5",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2008-q6",
+          "number": "6",
+          "bankId": "bmo1-2008-q6",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.166666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2007",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2007,
+      "season": "2006–07",
+      "title": "BMO1 2006–07",
+      "sittingDate": "2006-12-01",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2007.pdf",
+      "questionIds": [
+        "bmo1-2007-q1",
+        "bmo1-2007-q2",
+        "bmo1-2007-q3",
+        "bmo1-2007-q4",
+        "bmo1-2007-q5",
+        "bmo1-2007-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2007-q1",
+          "number": "1",
+          "bankId": "bmo1-2007-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2007-q2",
+          "number": "2",
+          "bankId": "bmo1-2007-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2007-q3",
+          "number": "3",
+          "bankId": "bmo1-2007-q3",
+          "difficulty": 3,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Permutations & arrangements",
+            "Counting"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2007-q4",
+          "number": "4",
+          "bankId": "bmo1-2007-q4",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Power of a point & radical axes"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2007-q5",
+          "number": "5",
+          "bankId": "bmo1-2007-q5",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2007-q6",
+          "number": "6",
+          "bankId": "bmo1-2007-q6",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Modular arithmetic",
+            "Diophantine equations",
+            "Primes"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.25,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2006",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2006,
+      "season": "2005–06",
+      "title": "BMO1 2005–06",
+      "sittingDate": "2005-11-30",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2006.pdf",
+      "questionIds": [
+        "bmo1-2006-q1",
+        "bmo1-2006-q2",
+        "bmo1-2006-q3",
+        "bmo1-2006-q4",
+        "bmo1-2006-q5",
+        "bmo1-2006-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2006-q1",
+          "number": "1",
+          "bankId": "bmo1-2006-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Primes",
+            "Modular arithmetic",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2006-q2",
+          "number": "2",
+          "bankId": "bmo1-2006-q2",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Sets & partitions",
+            "Symmetry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2006-q3",
+          "number": "3",
+          "bankId": "bmo1-2006-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Triangle geometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2006-q4",
+          "number": "4",
+          "bankId": "bmo1-2006-q4",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Colouring",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2006-q5",
+          "number": "5",
+          "bankId": "bmo1-2006-q5",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Transformations",
+            "Symmetry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2006-q6",
+          "number": "6",
+          "bankId": "bmo1-2006-q6",
+          "difficulty": 7,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Combinatorial geometry",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": 210,
+      "totalMarks": 60,
+      "formatNote": "Six proof questions, 3½ hours, 10 marks per question."
+    },
+    {
+      "id": "bmo1-2005",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2005,
+      "season": "2004–05",
+      "title": "BMO1 2004–05",
+      "sittingDate": "2004-12-01",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2005.pdf",
+      "questionIds": [
+        "bmo1-2005-q1",
+        "bmo1-2005-q2",
+        "bmo1-2005-q3",
+        "bmo1-2005-q4",
+        "bmo1-2005-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2005-q1",
+          "number": "1",
+          "bankId": "bmo1-2005-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2005-q2",
+          "number": "2",
+          "bankId": "bmo1-2005-q2",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2005-q3",
+          "number": "3",
+          "bankId": "bmo1-2005-q3",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Colouring",
+            "Extremal arguments"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2005-q4",
+          "number": "4",
+          "bankId": "bmo1-2005-q4",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Primes",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2005-q5",
+          "number": "5",
+          "bankId": "bmo1-2005-q5",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Descent",
+            "Fractions & approximation"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.9,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-2004",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2004,
+      "season": "2003–04",
+      "title": "BMO1 2003–04",
+      "sittingDate": "2003-12-03",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2004.pdf",
+      "questionIds": [
+        "bmo1-2004-q1",
+        "bmo1-2004-q2",
+        "bmo1-2004-q3",
+        "bmo1-2004-q4",
+        "bmo1-2004-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2004-q1",
+          "number": "1",
+          "bankId": "bmo1-2004-q1",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2004-q2",
+          "number": "2",
+          "bankId": "bmo1-2004-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2004-q3",
+          "number": "3",
+          "bankId": "bmo1-2004-q3",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Games & strategies",
+            "Parity"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2004-q4",
+          "number": "4",
+          "bankId": "bmo1-2004-q4",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2004-q5",
+          "number": "5",
+          "bankId": "bmo1-2004-q5",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Primes"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.3,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-2003",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2003,
+      "season": "2002–03",
+      "title": "BMO1 2002–03",
+      "sittingDate": "2002-12-11",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2003.pdf",
+      "questionIds": [
+        "bmo1-2003-q1",
+        "bmo1-2003-q2",
+        "bmo1-2003-q3",
+        "bmo1-2003-q4",
+        "bmo1-2003-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2003-q1",
+          "number": "1",
+          "bankId": "bmo1-2003-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Valuations",
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2003-q2",
+          "number": "2",
+          "bankId": "bmo1-2003-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2003-q3",
+          "number": "3",
+          "bankId": "bmo1-2003-q3",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2003-q4",
+          "number": "4",
+          "bankId": "bmo1-2003-q4",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Extremal arguments",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2003-q5",
+          "number": "5",
+          "bankId": "bmo1-2003-q5",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Factorials & binomial coefficients"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.7,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-2002",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2002,
+      "season": "2001–02",
+      "title": "BMO1 2001–02",
+      "sittingDate": "2001-12-05",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2002.pdf",
+      "questionIds": [
+        "bmo1-2002-q1",
+        "bmo1-2002-q2",
+        "bmo1-2002-q3",
+        "bmo1-2002-q4",
+        "bmo1-2002-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2002-q1",
+          "number": "1",
+          "bankId": "bmo1-2002-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2002-q2",
+          "number": "2",
+          "bankId": "bmo1-2002-q2",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2002-q3",
+          "number": "3",
+          "bankId": "bmo1-2002-q3",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2002-q4",
+          "number": "4",
+          "bankId": "bmo1-2002-q4",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2002-q5",
+          "number": "5",
+          "bankId": "bmo1-2002-q5",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.8,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-2001",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2001,
+      "season": "2001",
+      "title": "BMO1 2001",
+      "sittingDate": "2001-01-17",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2001.pdf",
+      "questionIds": [
+        "bmo1-2001-q1",
+        "bmo1-2001-q2",
+        "bmo1-2001-q3",
+        "bmo1-2001-q4",
+        "bmo1-2001-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2001-q1",
+          "number": "1",
+          "bankId": "bmo1-2001-q1",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Digits & bases"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2001-q2",
+          "number": "2",
+          "bankId": "bmo1-2001-q2",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Transformations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2001-q3",
+          "number": "3",
+          "bankId": "bmo1-2001-q3",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Colouring",
+            "Tilings & dissections"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2001-q4",
+          "number": "4",
+          "bankId": "bmo1-2001-q4",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2001-q5",
+          "number": "5",
+          "bankId": "bmo1-2001-q5",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle geometry",
+            "Trigonometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.4,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-2000",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 2000,
+      "season": "2000",
+      "title": "BMO1 2000",
+      "sittingDate": "2000-01-12",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2000.pdf",
+      "questionIds": [
+        "bmo1-2000-q1",
+        "bmo1-2000-q2",
+        "bmo1-2000-q3",
+        "bmo1-2000-q4",
+        "bmo1-2000-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-2000-q1",
+          "number": "1",
+          "bankId": "bmo1-2000-q1",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2000-q2",
+          "number": "2",
+          "bankId": "bmo1-2000-q2",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Factorials & binomial coefficients"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2000-q3",
+          "number": "3",
+          "bankId": "bmo1-2000-q3",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Geometric inequalities",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2000-q4",
+          "number": "4",
+          "bankId": "bmo1-2000-q4",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-2000-q5",
+          "number": "5",
+          "bankId": "bmo1-2000-q5",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Sets & partitions",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.9,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1999",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1999,
+      "season": "1999",
+      "title": "BMO1 1999",
+      "sittingDate": "1999-01-13",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1999.pdf",
+      "questionIds": [
+        "bmo1-1999-q1",
+        "bmo1-1999-q2",
+        "bmo1-1999-q3",
+        "bmo1-1999-q4",
+        "bmo1-1999-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1999-q1",
+          "number": "1",
+          "bankId": "bmo1-1999-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1999-q2",
+          "number": "2",
+          "bankId": "bmo1-1999-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Circles & tangency"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1999-q3",
+          "number": "3",
+          "bankId": "bmo1-1999-q3",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1999-q4",
+          "number": "4",
+          "bankId": "bmo1-1999-q4",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Sequences & recurrences",
+            "Descent"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1999-q5",
+          "number": "5",
+          "bankId": "bmo1-1999-q5",
+          "difficulty": 6.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.9,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1998",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1998,
+      "season": "1998",
+      "title": "BMO1 1998",
+      "sittingDate": "1998-01-14",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1998.pdf",
+      "questionIds": [
+        "bmo1-1998-q1",
+        "bmo1-1998-q2",
+        "bmo1-1998-q3",
+        "bmo1-1998-q4",
+        "bmo1-1998-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1998-q1",
+          "number": "1",
+          "bankId": "bmo1-1998-q1",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Extremal arguments",
+            "Permutations & arrangements"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1998-q2",
+          "number": "2",
+          "bankId": "bmo1-1998-q2",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1998-q3",
+          "number": "3",
+          "bankId": "bmo1-1998-q3",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Triangle geometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1998-q4",
+          "number": "4",
+          "bankId": "bmo1-1998-q4",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1998-q5",
+          "number": "5",
+          "bankId": "bmo1-1998-q5",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Similarity & congruence",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.7,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1997",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1997,
+      "season": "1997",
+      "title": "BMO1 1997",
+      "sittingDate": "1997-01-15",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1997.pdf",
+      "questionIds": [
+        "bmo1-1997-q1",
+        "bmo1-1997-q2",
+        "bmo1-1997-q3",
+        "bmo1-1997-q4",
+        "bmo1-1997-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1997-q1",
+          "number": "1",
+          "bankId": "bmo1-1997-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1997-q2",
+          "number": "2",
+          "bankId": "bmo1-1997-q2",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1997-q3",
+          "number": "3",
+          "bankId": "bmo1-1997-q3",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1997-q4",
+          "number": "4",
+          "bankId": "bmo1-1997-q4",
+          "difficulty": 2,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1997-q5",
+          "number": "5",
+          "bankId": "bmo1-1997-q5",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 3.1,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1996",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1996,
+      "season": "1996",
+      "title": "BMO1 1996",
+      "sittingDate": "1996-01-17",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1996.pdf",
+      "questionIds": [
+        "bmo1-1996-q1",
+        "bmo1-1996-q2",
+        "bmo1-1996-q3",
+        "bmo1-1996-q4",
+        "bmo1-1996-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1996-q1",
+          "number": "1",
+          "bankId": "bmo1-1996-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1996-q2",
+          "number": "2",
+          "bankId": "bmo1-1996-q2",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1996-q3",
+          "number": "3",
+          "bankId": "bmo1-1996-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle centres"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1996-q4",
+          "number": "4",
+          "bankId": "bmo1-1996-q4",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers",
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1996-q5",
+          "number": "5",
+          "bankId": "bmo1-1996-q5",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 3.7,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1995",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1995,
+      "season": "1995",
+      "title": "BMO1 1995",
+      "sittingDate": "1995-01-18",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1995.pdf",
+      "questionIds": [
+        "bmo1-1995-q1",
+        "bmo1-1995-q2",
+        "bmo1-1995-q3",
+        "bmo1-1995-q4",
+        "bmo1-1995-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1995-q1",
+          "number": "1",
+          "bankId": "bmo1-1995-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Modular arithmetic",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1995-q2",
+          "number": "2",
+          "bankId": "bmo1-1995-q2",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Solid geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1995-q3",
+          "number": "3",
+          "bankId": "bmo1-1995-q3",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1995-q4",
+          "number": "4",
+          "bankId": "bmo1-1995-q4",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1995-q5",
+          "number": "5",
+          "bankId": "bmo1-1995-q5",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.8,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1994",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1994,
+      "season": "1994",
+      "title": "BMO1 1994",
+      "sittingDate": "1994-01-19",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1994.pdf",
+      "questionIds": [
+        "bmo1-1994-q1",
+        "bmo1-1994-q2",
+        "bmo1-1994-q3",
+        "bmo1-1994-q4",
+        "bmo1-1994-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1994-q1",
+          "number": "1",
+          "bankId": "bmo1-1994-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1994-q2",
+          "number": "2",
+          "bankId": "bmo1-1994-q2",
+          "difficulty": 3,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1994-q3",
+          "number": "3",
+          "bankId": "bmo1-1994-q3",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1994-q4",
+          "number": "4",
+          "bankId": "bmo1-1994-q4",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1994-q5",
+          "number": "5",
+          "bankId": "bmo1-1994-q5",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.2,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1993",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1993,
+      "season": "1993",
+      "title": "BMO1 1993",
+      "sittingDate": "1993-01-13",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1993.pdf",
+      "questionIds": [
+        "bmo1-1993-q1",
+        "bmo1-1993-q2",
+        "bmo1-1993-q3",
+        "bmo1-1993-q4",
+        "bmo1-1993-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1993-q1",
+          "number": "1",
+          "bankId": "bmo1-1993-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1993-q2",
+          "number": "2",
+          "bankId": "bmo1-1993-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1993-q3",
+          "number": "3",
+          "bankId": "bmo1-1993-q3",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1993-q4",
+          "number": "4",
+          "bankId": "bmo1-1993-q4",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Transformations"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1993-q5",
+          "number": "5",
+          "bankId": "bmo1-1993-q5",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.4,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo1-1992",
+      "kind": "official",
+      "legacy": false,
+      "competition": "BMO1",
+      "archiveYear": 1992,
+      "season": "1992",
+      "title": "BMO1 1992",
+      "sittingDate": "1992-01-15",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-1992.pdf",
+      "questionIds": [
+        "bmo1-1992-q1",
+        "bmo1-1992-q2",
+        "bmo1-1992-q3",
+        "bmo1-1992-q4",
+        "bmo1-1992-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo1-1992-q1",
+          "number": "1",
+          "bankId": "bmo1-1992-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1992-q2",
+          "number": "2",
+          "bankId": "bmo1-1992-q2",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1992-q3",
+          "number": "3",
+          "bankId": "bmo1-1992-q3",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1992-q4",
+          "number": "4",
+          "bankId": "bmo1-1992-q4",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo1-1992-q5",
+          "number": "5",
+          "bankId": "bmo1-1992-q5",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations",
+            "Sequences & recurrences",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": 10,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.4,
+      "durationMinutes": 210,
+      "totalMarks": 50,
+      "formatNote": "Historical five-question BMO1. The paper rating averages all five question ratings; this format is not used to calibrate six-question mocks."
+    },
+    {
+      "id": "bmo-1991",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1991,
+      "season": "1991",
+      "title": "BMO (historical) 1991",
+      "sittingDate": "1991-01-16",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1991.pdf",
+      "questionIds": [
+        "bmo-1991-q1",
+        "bmo-1991-q2",
+        "bmo-1991-q3",
+        "bmo-1991-q4",
+        "bmo-1991-q5",
+        "bmo-1991-q6",
+        "bmo-1991-q7"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1991-q1",
+          "number": "1",
+          "bankId": "bmo-1991-q1",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q2",
+          "number": "2",
+          "bankId": "bmo-1991-q2",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Complex numbers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q3",
+          "number": "3",
+          "bankId": "bmo-1991-q3",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Triangle geometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q4",
+          "number": "4",
+          "bankId": "bmo-1991-q4",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q5",
+          "number": "5",
+          "bankId": "bmo-1991-q5",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q6",
+          "number": "6",
+          "bankId": "bmo-1991-q6",
+          "difficulty": 6.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers",
+            "Descent"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1991-q7",
+          "number": "7",
+          "bankId": "bmo-1991-q7",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 7,
+      "expectedQuestionCount": 7,
+      "availableCount": 7,
+      "complete": true,
+      "rating": 4.642857142857143,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1990",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1990,
+      "season": "1990",
+      "title": "BMO (historical) 1990",
+      "sittingDate": "1990-01-17",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1990.pdf",
+      "questionIds": [
+        "bmo-1990-q1",
+        "bmo-1990-q2",
+        "bmo-1990-q3",
+        "bmo-1990-q4",
+        "bmo-1990-q5",
+        "bmo-1990-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1990-q1",
+          "number": "1",
+          "bankId": "bmo-1990-q1",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1990-q2",
+          "number": "2",
+          "bankId": "bmo-1990-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Similarity & congruence",
+            "Geometric inequalities",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1990-q3",
+          "number": "3",
+          "bankId": "bmo-1990-q3",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Trigonometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1990-q4",
+          "number": "4",
+          "bankId": "bmo-1990-q4",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Graph theory",
+            "Recurrences & generating functions",
+            "Probability"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1990-q5",
+          "number": "5",
+          "bankId": "bmo-1990-q5",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle centres",
+            "Coordinates & vectors"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1990-q6",
+          "number": "6",
+          "bankId": "bmo-1990-q6",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers",
+            "Fractions & approximation"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.833333333333333,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1989",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1989,
+      "season": "1988–89",
+      "title": "BMO (historical) 1988–89",
+      "sittingDate": "1988-12-13",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1989.pdf",
+      "questionIds": [
+        "bmo-1989-q1",
+        "bmo-1989-q2",
+        "bmo-1989-q3",
+        "bmo-1989-q4",
+        "bmo-1989-q5",
+        "bmo-1989-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1989-q1",
+          "number": "1",
+          "bankId": "bmo-1989-q1",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1989-q2",
+          "number": "2",
+          "bankId": "bmo-1989-q2",
+          "difficulty": 3.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Triangle centres"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1989-q3",
+          "number": "3",
+          "bankId": "bmo-1989-q3",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Coordinates & vectors",
+            "Solid geometry",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1989-q4",
+          "number": "4",
+          "bankId": "bmo-1989-q4",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Factorials & binomial coefficients",
+            "Parity"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1989-q5",
+          "number": "5",
+          "bankId": "bmo-1989-q5",
+          "difficulty": 3.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Trigonometry",
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1989-q6",
+          "number": "6",
+          "bankId": "bmo-1989-q6",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Floors & fractional parts",
+            "Parity"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.25,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1988",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1988,
+      "season": "1987–88",
+      "title": "BMO (historical) 1987–88",
+      "sittingDate": "1987-11-20",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1988.pdf",
+      "questionIds": [
+        "bmo-1988-q1",
+        "bmo-1988-q2",
+        "bmo-1988-q3",
+        "bmo-1988-q4",
+        "bmo-1988-q5",
+        "bmo-1988-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1988-q1",
+          "number": "1",
+          "bankId": "bmo-1988-q1",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1988-q2",
+          "number": "2",
+          "bankId": "bmo-1988-q2",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1988-q3",
+          "number": "3",
+          "bankId": "bmo-1988-q3",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Fractions & approximation"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1988-q4",
+          "number": "4",
+          "bankId": "bmo-1988-q4",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle centres",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1988-q5",
+          "number": "5",
+          "bankId": "bmo-1988-q5",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1988-q6",
+          "number": "6",
+          "bankId": "bmo-1988-q6",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.75,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1987",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1987,
+      "season": "1987",
+      "title": "BMO (historical) 1987",
+      "sittingDate": "1987-03-20",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1987.pdf",
+      "questionIds": [
+        "bmo-1987-q1",
+        "bmo-1987-q2",
+        "bmo-1987-q3",
+        "bmo-1987-q4",
+        "bmo-1987-q5",
+        "bmo-1987-q6",
+        "bmo-1987-q7"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1987-q1",
+          "number": "1",
+          "bankId": "bmo-1987-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q2",
+          "number": "2",
+          "bankId": "bmo-1987-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Angles & cyclic quadrilaterals",
+            "Constructions & loci",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q3",
+          "number": "3",
+          "bankId": "bmo-1987-q3",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Algebraic identities",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q4",
+          "number": "4",
+          "bankId": "bmo-1987-q4",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Integer polynomials"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q5",
+          "number": "5",
+          "bankId": "bmo-1987-q5",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Power of a point & radical axes",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q6",
+          "number": "6",
+          "bankId": "bmo-1987-q6",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1987-q7",
+          "number": "7",
+          "bankId": "bmo-1987-q7",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Valuations",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 7,
+      "expectedQuestionCount": 7,
+      "availableCount": 7,
+      "complete": true,
+      "rating": 4.928571428571429,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1986",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1986,
+      "season": "1986",
+      "title": "BMO (historical) 1986",
+      "sittingDate": "1986-03-04",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1986.pdf",
+      "questionIds": [
+        "bmo-1986-q1",
+        "bmo-1986-q2",
+        "bmo-1986-q3",
+        "bmo-1986-q4",
+        "bmo-1986-q5",
+        "bmo-1986-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1986-q1",
+          "number": "1",
+          "bankId": "bmo-1986-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1986-q2",
+          "number": "2",
+          "bankId": "bmo-1986-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1986-q3",
+          "number": "3",
+          "bankId": "bmo-1986-q3",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Diophantine equations"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1986-q4",
+          "number": "4",
+          "bankId": "bmo-1986-q4",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Geometric inequalities",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1986-q5",
+          "number": "5",
+          "bankId": "bmo-1986-q5",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1986-q6",
+          "number": "6",
+          "bankId": "bmo-1986-q6",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Solid geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.166666666666667,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1985",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1985,
+      "season": "1985",
+      "title": "BMO (historical) 1985",
+      "sittingDate": "1985-03-05",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1985.pdf",
+      "questionIds": [
+        "bmo-1985-q1",
+        "bmo-1985-q2",
+        "bmo-1985-q3",
+        "bmo-1985-q4",
+        "bmo-1985-q5",
+        "bmo-1985-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1985-q1",
+          "number": "1",
+          "bankId": "bmo-1985-q1",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Area & dissection",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1985-q2",
+          "number": "2",
+          "bankId": "bmo-1985-q2",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1985-q3",
+          "number": "3",
+          "bankId": "bmo-1985-q3",
+          "difficulty": 4,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Double counting"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1985-q4",
+          "number": "4",
+          "bankId": "bmo-1985-q4",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1985-q5",
+          "number": "5",
+          "bankId": "bmo-1985-q5",
+          "difficulty": 7,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Constructions & loci",
+            "Solid geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1985-q6",
+          "number": "6",
+          "bankId": "bmo-1985-q6",
+          "difficulty": 5.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Primes",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.083333333333333,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1984",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1984,
+      "season": "1984",
+      "title": "BMO (historical) 1984",
+      "sittingDate": "1984-03-13",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1984.pdf",
+      "questionIds": [
+        "bmo-1984-q1",
+        "bmo-1984-q2",
+        "bmo-1984-q3",
+        "bmo-1984-q4",
+        "bmo-1984-q5",
+        "bmo-1984-q6",
+        "bmo-1984-q7"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1984-q1",
+          "number": "1",
+          "bankId": "bmo-1984-q1",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Similarity & congruence",
+            "Triangle centres"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q2",
+          "number": "2",
+          "bankId": "bmo-1984-q2",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Factorials & binomial coefficients"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q3",
+          "number": "3",
+          "bankId": "bmo-1984-q3",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q4",
+          "number": "4",
+          "bankId": "bmo-1984-q4",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q5",
+          "number": "5",
+          "bankId": "bmo-1984-q5",
+          "difficulty": 6.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Solid geometry",
+            "Projective geometry & conics"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q6",
+          "number": "6",
+          "bankId": "bmo-1984-q6",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1984-q7",
+          "number": "7",
+          "bankId": "bmo-1984-q7",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Trigonometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 7,
+      "expectedQuestionCount": 7,
+      "availableCount": 7,
+      "complete": true,
+      "rating": 5.357142857142857,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1983",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1983,
+      "season": "1983",
+      "title": "BMO (historical) 1983",
+      "sittingDate": "1983-03-10",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1983.pdf",
+      "questionIds": [
+        "bmo-1983-q1",
+        "bmo-1983-q2",
+        "bmo-1983-q3",
+        "bmo-1983-q4",
+        "bmo-1983-q5",
+        "bmo-1983-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1983-q1",
+          "number": "1",
+          "bankId": "bmo-1983-q1",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle centres",
+            "Coordinates & vectors"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1983-q2",
+          "number": "2",
+          "bankId": "bmo-1983-q2",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1983-q3",
+          "number": "3",
+          "bankId": "bmo-1983-q3",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1983-q4",
+          "number": "4",
+          "bankId": "bmo-1983-q4",
+          "difficulty": 8,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1983-q5",
+          "number": "5",
+          "bankId": "bmo-1983-q5",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Combinatorial geometry",
+            "Pigeonhole principle"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1983-q6",
+          "number": "6",
+          "bankId": "bmo-1983-q6",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1982",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1982,
+      "season": "1982",
+      "title": "BMO (historical) 1982",
+      "sittingDate": "1982-03-18",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1982.pdf",
+      "questionIds": [
+        "bmo-1982-q1",
+        "bmo-1982-q2",
+        "bmo-1982-q3",
+        "bmo-1982-q4",
+        "bmo-1982-q5",
+        "bmo-1982-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1982-q1",
+          "number": "1",
+          "bankId": "bmo-1982-q1",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1982-q2",
+          "number": "2",
+          "bankId": "bmo-1982-q2",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Digits & bases"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1982-q3",
+          "number": "3",
+          "bankId": "bmo-1982-q3",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1982-q4",
+          "number": "4",
+          "bankId": "bmo-1982-q4",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1982-q5",
+          "number": "5",
+          "bankId": "bmo-1982-q5",
+          "difficulty": 8,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Projective geometry & conics",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1982-q6",
+          "number": "6",
+          "bankId": "bmo-1982-q6",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Bijections",
+            "Permutations & arrangements"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.333333333333333,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1981",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1981,
+      "season": "1981",
+      "title": "BMO (historical) 1981",
+      "sittingDate": "1981-03-19",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1981.pdf",
+      "questionIds": [
+        "bmo-1981-q1",
+        "bmo-1981-q2",
+        "bmo-1981-q3",
+        "bmo-1981-q4",
+        "bmo-1981-q5",
+        "bmo-1981-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1981-q1",
+          "number": "1",
+          "bankId": "bmo-1981-q1",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle centres",
+            "Coordinates & vectors",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1981-q2",
+          "number": "2",
+          "bankId": "bmo-1981-q2",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Factorials & binomial coefficients"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1981-q3",
+          "number": "3",
+          "bankId": "bmo-1981-q3",
+          "difficulty": 3,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1981-q4",
+          "number": "4",
+          "bankId": "bmo-1981-q4",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Extremal arguments",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1981-q5",
+          "number": "5",
+          "bankId": "bmo-1981-q5",
+          "difficulty": 5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Squares & powers"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1981-q6",
+          "number": "6",
+          "bankId": "bmo-1981-q6",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.666666666666667,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1980",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1980,
+      "season": "1980",
+      "title": "BMO (historical) 1980",
+      "sittingDate": "1980-03-13",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1980.pdf",
+      "questionIds": [
+        "bmo-1980-q1",
+        "bmo-1980-q2",
+        "bmo-1980-q3",
+        "bmo-1980-q4",
+        "bmo-1980-q5"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1980-q1",
+          "number": "1",
+          "bankId": "bmo-1980-q1",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Squares & powers",
+            "Factorials & binomial coefficients"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1980-q2",
+          "number": "2",
+          "bankId": "bmo-1980-q2",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1980-q3",
+          "number": "3",
+          "bankId": "bmo-1980-q3",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle centres",
+            "Area & dissection"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1980-q4",
+          "number": "4",
+          "bankId": "bmo-1980-q4",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1980-q5",
+          "number": "5",
+          "bankId": "bmo-1980-q5",
+          "difficulty": 5.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Colouring"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 5,
+      "expectedQuestionCount": 5,
+      "availableCount": 5,
+      "complete": true,
+      "rating": 4.7,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1979",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1979,
+      "season": "1979",
+      "title": "BMO (historical) 1979",
+      "sittingDate": "1979-03-14",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1979.pdf",
+      "questionIds": [
+        "bmo-1979-q1",
+        "bmo-1979-q2",
+        "bmo-1979-q3",
+        "bmo-1979-q4",
+        "bmo-1979-q5",
+        "bmo-1979-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1979-q1",
+          "number": "1",
+          "bankId": "bmo-1979-q1",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Geometric inequalities",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1979-q2",
+          "number": "2",
+          "bankId": "bmo-1979-q2",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1979-q3",
+          "number": "3",
+          "bankId": "bmo-1979-q3",
+          "difficulty": 6.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Extremal arguments"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1979-q4",
+          "number": "4",
+          "bankId": "bmo-1979-q4",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Functional equations",
+            "Sequences & recurrences",
+            "Rationality & irrationality"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1979-q5",
+          "number": "5",
+          "bankId": "bmo-1979-q5",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Bijections",
+            "Sets & partitions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1979-q6",
+          "number": "6",
+          "bankId": "bmo-1979-q6",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1978",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1978,
+      "season": "1978",
+      "title": "BMO (historical) 1978",
+      "sittingDate": "1978-03-21",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1978.pdf",
+      "questionIds": [
+        "bmo-1978-q1",
+        "bmo-1978-q2",
+        "bmo-1978-q3",
+        "bmo-1978-q4",
+        "bmo-1978-q5",
+        "bmo-1978-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1978-q1",
+          "number": "1",
+          "bankId": "bmo-1978-q1",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Triangle centres",
+            "Area & dissection",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1978-q2",
+          "number": "2",
+          "bankId": "bmo-1978-q2",
+          "difficulty": 4,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Digits & bases",
+            "Fractions & approximation"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1978-q3",
+          "number": "3",
+          "bankId": "bmo-1978-q3",
+          "difficulty": 6.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Primes",
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1978-q4",
+          "number": "4",
+          "bankId": "bmo-1978-q4",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Solid geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1978-q5",
+          "number": "5",
+          "bankId": "bmo-1978-q5",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Combinatorial geometry",
+            "Pigeonhole principle"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1978-q6",
+          "number": "6",
+          "bankId": "bmo-1978-q6",
+          "difficulty": 6,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Integer polynomials"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.083333333333333,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1977",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1977,
+      "season": "1977",
+      "title": "BMO (historical) 1977",
+      "sittingDate": "1977-03-17",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1977.pdf",
+      "questionIds": [
+        "bmo-1977-q1",
+        "bmo-1977-q2",
+        "bmo-1977-q3",
+        "bmo-1977-q4",
+        "bmo-1977-q5",
+        "bmo-1977-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1977-q1",
+          "number": "1",
+          "bankId": "bmo-1977-q1",
+          "difficulty": 3.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Arithmetic functions",
+            "Primes",
+            "Digits & bases"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1977-q2",
+          "number": "2",
+          "bankId": "bmo-1977-q2",
+          "difficulty": 5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Triangle centres",
+            "Triangle geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1977-q3",
+          "number": "3",
+          "bankId": "bmo-1977-q3",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Algebraic identities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1977-q4",
+          "number": "4",
+          "bankId": "bmo-1977-q4",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Inequalities",
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1977-q5",
+          "number": "5",
+          "bankId": "bmo-1977-q5",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Solid geometry",
+            "Quadrilaterals & polygons"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1977-q6",
+          "number": "6",
+          "bankId": "bmo-1977-q6",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Permutations & arrangements",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 4.75,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1976",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1976,
+      "season": "1976",
+      "title": "BMO (historical) 1976",
+      "sittingDate": "1976-03-24",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1976.pdf",
+      "questionIds": [
+        "bmo-1976-q1",
+        "bmo-1976-q2",
+        "bmo-1976-q3",
+        "bmo-1976-q4",
+        "bmo-1976-q5",
+        "bmo-1976-q6"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1976-q1",
+          "number": "1",
+          "bankId": "bmo-1976-q1",
+          "difficulty": 6,
+          "topic": "Geometry",
+          "subtopics": [
+            "Area & dissection",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1976-q2",
+          "number": "2",
+          "bankId": "bmo-1976-q2",
+          "difficulty": 2.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1976-q3",
+          "number": "3",
+          "bankId": "bmo-1976-q3",
+          "difficulty": 5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Double counting",
+            "Sets & partitions",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1976-q4",
+          "number": "4",
+          "bankId": "bmo-1976-q4",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Primes"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1976-q5",
+          "number": "5",
+          "bankId": "bmo-1976-q5",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1976-q6",
+          "number": "6",
+          "bankId": "bmo-1976-q6",
+          "difficulty": 8.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Trigonometry",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 6,
+      "expectedQuestionCount": 6,
+      "availableCount": 6,
+      "complete": true,
+      "rating": 5.416666666666667,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1975",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1975,
+      "season": "1975",
+      "title": "BMO (historical) 1975",
+      "sittingDate": "1975-03-24",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1975.pdf",
+      "questionIds": [
+        "bmo-1975-q1",
+        "bmo-1975-q2",
+        "bmo-1975-q3",
+        "bmo-1975-q4",
+        "bmo-1975-q5",
+        "bmo-1975-q6",
+        "bmo-1975-q7",
+        "bmo-1975-q8"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1975-q1",
+          "number": "1",
+          "bankId": "bmo-1975-q1",
+          "difficulty": 4.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Sequences & recurrences",
+            "Floors & fractional parts"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q2",
+          "number": "2",
+          "bankId": "bmo-1975-q2",
+          "difficulty": 3,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Primes",
+            "Divisibility & GCD"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q3",
+          "number": "3",
+          "bankId": "bmo-1975-q3",
+          "difficulty": 4,
+          "topic": "Geometry",
+          "subtopics": [
+            "Trigonometry",
+            "Combinatorial geometry",
+            "Pigeonhole principle"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q4",
+          "number": "4",
+          "bankId": "bmo-1975-q4",
+          "difficulty": 5.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Concurrency & collinearity"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q5",
+          "number": "5",
+          "bankId": "bmo-1975-q5",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Algebraic identities",
+            "Trigonometry",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q6",
+          "number": "6",
+          "bankId": "bmo-1975-q6",
+          "difficulty": 5.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q7",
+          "number": "7",
+          "bankId": "bmo-1975-q7",
+          "difficulty": 2.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Inequalities",
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1975-q8",
+          "number": "8",
+          "bankId": "bmo-1975-q8",
+          "difficulty": 7,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Projective geometry & conics"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 8,
+      "expectedQuestionCount": 8,
+      "availableCount": 8,
+      "complete": true,
+      "rating": 4.6875,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1974",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1974,
+      "season": "1974",
+      "title": "BMO (historical) 1974",
+      "sittingDate": null,
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1974.pdf",
+      "questionIds": [
+        "bmo-1974-qA1",
+        "bmo-1974-qB2",
+        "bmo-1974-qA3",
+        "bmo-1974-qA4",
+        "bmo-1974-qA5",
+        "bmo-1974-qB6",
+        "bmo-1974-qB7",
+        "bmo-1974-qA8",
+        "bmo-1974-qB9",
+        "bmo-1974-qB10"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1974-qA1",
+          "number": "A1",
+          "bankId": "bmo-1974-qA1",
+          "difficulty": 7.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Calculus & modelling",
+            "Functions & graphs"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qB2",
+          "number": "B2",
+          "bankId": "bmo-1974-qB2",
+          "difficulty": 6.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Graph theory"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qA3",
+          "number": "A3",
+          "bankId": "bmo-1974-qA3",
+          "difficulty": 3.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Graph theory",
+            "Double counting"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qA4",
+          "number": "A4",
+          "bankId": "bmo-1974-qA4",
+          "difficulty": 4,
+          "topic": "Algebra",
+          "subtopics": [
+            "Equations & systems",
+            "Linear algebra"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qA5",
+          "number": "A5",
+          "bankId": "bmo-1974-qA5",
+          "difficulty": 6,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Probability"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qB6",
+          "number": "B6",
+          "bankId": "bmo-1974-qB6",
+          "difficulty": 4.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Coordinates & vectors",
+            "Triangle geometry",
+            "Concurrency & collinearity"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qB7",
+          "number": "B7",
+          "bankId": "bmo-1974-qB7",
+          "difficulty": 7,
+          "topic": "Algebra",
+          "subtopics": [
+            "Polynomials",
+            "Equations & systems"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qA8",
+          "number": "A8",
+          "bankId": "bmo-1974-qA8",
+          "difficulty": 6.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Modular arithmetic",
+            "Integer polynomials"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qB9",
+          "number": "B9",
+          "bankId": "bmo-1974-qB9",
+          "difficulty": 7.5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Calculus & modelling"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1974-qB10",
+          "number": "B10",
+          "bankId": "bmo-1974-qB10",
+          "difficulty": 8,
+          "topic": "Algebra",
+          "subtopics": [
+            "Calculus & modelling",
+            "Trigonometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 10,
+      "expectedQuestionCount": 10,
+      "availableCount": 10,
+      "complete": true,
+      "rating": 6.1,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    },
+    {
+      "id": "bmo-1973",
+      "kind": "official",
+      "legacy": true,
+      "competition": "BMO",
+      "archiveYear": 1973,
+      "season": "1973",
+      "title": "BMO (historical) 1973",
+      "sittingDate": null,
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo-1973.pdf",
+      "questionIds": [
+        "bmo-1973-q1",
+        "bmo-1973-q2",
+        "bmo-1973-q3",
+        "bmo-1973-q4",
+        "bmo-1973-q5",
+        "bmo-1973-q6",
+        "bmo-1973-q7",
+        "bmo-1973-q8",
+        null,
+        "bmo-1973-q10",
+        "bmo-1973-q11"
+      ],
+      "questions": [
+        {
+          "id": "bmo-1973-q1",
+          "number": "1",
+          "bankId": "bmo-1973-q1",
+          "difficulty": 8,
+          "topic": "Geometry",
+          "subtopics": [
+            "Circles & tangency",
+            "Projective geometry & conics"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q2",
+          "number": "2",
+          "bankId": "bmo-1973-q2",
+          "difficulty": 3.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Pigeonhole principle",
+            "Combinatorial geometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q3",
+          "number": "3",
+          "bankId": "bmo-1973-q3",
+          "difficulty": 8.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Solid geometry",
+            "Trigonometry",
+            "Geometric inequalities"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q4",
+          "number": "4",
+          "bankId": "bmo-1973-q4",
+          "difficulty": 7.5,
+          "topic": "Geometry",
+          "subtopics": [
+            "Combinatorial geometry",
+            "Quadrilaterals & polygons",
+            "Area & dissection"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q5",
+          "number": "5",
+          "bankId": "bmo-1973-q5",
+          "difficulty": 4.5,
+          "topic": "Number Theory",
+          "subtopics": [
+            "Divisibility & GCD",
+            "Modular arithmetic",
+            "Primes"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q6",
+          "number": "6",
+          "bankId": "bmo-1973-q6",
+          "difficulty": 3,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Probability",
+            "Counting"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q7",
+          "number": "7",
+          "bankId": "bmo-1973-q7",
+          "difficulty": 5,
+          "topic": "Algebra",
+          "subtopics": [
+            "Calculus & modelling"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q8",
+          "number": "8",
+          "bankId": "bmo-1973-q8",
+          "difficulty": 6,
+          "topic": "Algebra",
+          "subtopics": [
+            "Linear algebra"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q9",
+          "number": "9",
+          "bankId": null,
+          "difficulty": 4.5,
+          "topic": null,
+          "subtopics": [],
+          "section": "",
+          "marks": null,
+          "status": "source-hold",
+          "note": "Statement withheld pending source clarification; consult the original paper."
+        },
+        {
+          "id": "bmo-1973-q10",
+          "number": "10",
+          "bankId": "bmo-1973-q10",
+          "difficulty": 4.5,
+          "topic": "Combinatorics",
+          "subtopics": [
+            "Counting",
+            "Extremal arguments",
+            "Algorithms & constructions"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        },
+        {
+          "id": "bmo-1973-q11",
+          "number": "11",
+          "bankId": "bmo-1973-q11",
+          "difficulty": 9,
+          "topic": "Algebra",
+          "subtopics": [
+            "Calculus & modelling",
+            "Trigonometry"
+          ],
+          "section": "",
+          "marks": null,
+          "status": "available",
+          "note": ""
+        }
+      ],
+      "questionCount": 11,
+      "expectedQuestionCount": 11,
+      "availableCount": 10,
+      "complete": false,
+      "rating": null,
+      "durationMinutes": null,
+      "totalMarks": null,
+      "formatNote": "Historical first-stage BMO, before the BMO1/BMO2 names. Follow the original paper’s timing, marking and choice-of-question rules. Listed alternatives are separate assessed entries."
+    }
+  ],
+  "scope": "All 35 BMO1 papers (archive years 1992–2026) and all 19 accessible historical first-stage BMO papers (1973–1991). BMO2 and FIST are excluded.",
+  "ratingMethod": "Unweighted arithmetic mean of every question’s individual difficulty estimate. Historical papers use their actual question count. No whole-paper mean is shown when a question is unavailable. These are AI estimates, not official UKMT ratings.",
+  "yearConvention": "Archive years identify the competition cycle. A November/December sitting can occur in the preceding calendar year; exact sitting dates are retained where verified.",
+  "gaps": [
+    {
+      "competition": "BMO",
+      "years": "1965–1972",
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo.shtml",
+      "reason": "The official archive says original papers for these years are not available online. They are not included or rated here."
+    }
+  ],
+  "calibration": {
+    "version": 1,
+    "competition": "BMO1",
+    "firstArchiveYear": 2017,
+    "lastArchiveYear": 2026,
+    "referencePaperCount": 9,
+    "referenceQuestionCount": 54,
+    "templates": [
+      {
+        "id": "bmo1-2026",
+        "paperId": "bmo1-2026",
+        "archiveYear": 2026,
+        "title": "BMO1 2025–26",
+        "topics": [
+          "Number Theory",
+          "Algebra",
+          "Combinatorics",
+          "Geometry",
+          "Number Theory",
+          "Combinatorics"
+        ],
+        "difficulties": [
+          4,
+          4,
+          4.5,
+          6,
+          7,
+          7
+        ],
+        "subtopics": [
+          [
+            "Divisibility & GCD",
+            "Primes",
+            "Squares & powers"
+          ],
+          [
+            "Polynomials",
+            "Algebraic identities"
+          ],
+          [
+            "Counting",
+            "Recurrences & generating functions",
+            "Tilings & dissections"
+          ],
+          [
+            "Circles & tangency",
+            "Transformations",
+            "Triangle geometry"
+          ],
+          [
+            "Modular arithmetic",
+            "Sequences & recurrences"
+          ],
+          [
+            "Invariants",
+            "Modular arithmetic"
+          ]
+        ],
+        "mean": 5.416666666666667
+      },
+      {
+        "id": "bmo1-2025",
+        "paperId": "bmo1-2025",
+        "archiveYear": 2025,
+        "title": "BMO1 2024–25",
+        "topics": [
+          "Number Theory",
+          "Combinatorics",
+          "Combinatorics",
+          "Geometry",
+          "Number Theory",
+          "Combinatorics"
+        ],
+        "difficulties": [
+          4.5,
+          4.5,
+          3,
+          6.5,
+          5.5,
+          7
+        ],
+        "subtopics": [
+          [
+            "Divisibility & GCD"
+          ],
+          [
+            "Algorithms & constructions",
+            "Parity"
+          ],
+          [
+            "Games & strategies",
+            "Parity"
+          ],
+          [
+            "Similarity & congruence",
+            "Triangle geometry"
+          ],
+          [
+            "Modular arithmetic",
+            "Primes",
+            "Integer polynomials"
+          ],
+          [
+            "Pigeonhole principle",
+            "Graph theory",
+            "Combinatorial geometry"
+          ]
+        ],
+        "mean": 5.166666666666667
+      },
+      {
+        "id": "bmo1-2024",
+        "paperId": "bmo1-2024",
+        "archiveYear": 2024,
+        "title": "BMO1 2023–24",
+        "topics": [
+          "Combinatorics",
+          "Algebra",
+          "Geometry",
+          "Number Theory",
+          "Combinatorics",
+          "Geometry"
+        ],
+        "difficulties": [
+          4,
+          2.5,
+          5,
+          6,
+          5,
+          7
+        ],
+        "subtopics": [
+          [
+            "Counting",
+            "Permutations & arrangements",
+            "Recurrences & generating functions"
+          ],
+          [
+            "Sequences & recurrences",
+            "Invariants"
+          ],
+          [
+            "Circles & tangency",
+            "Power of a point & radical axes"
+          ],
+          [
+            "Diophantine equations",
+            "Valuations"
+          ],
+          [
+            "Counting",
+            "Colouring"
+          ],
+          [
+            "Trigonometry",
+            "Quadrilaterals & polygons"
+          ]
+        ],
+        "mean": 4.916666666666667
+      },
+      {
+        "id": "bmo1-2023",
+        "paperId": "bmo1-2023",
+        "archiveYear": 2023,
+        "title": "BMO1 2022–23",
+        "topics": [
+          "Number Theory",
+          "Number Theory",
+          "Geometry",
+          "Combinatorics",
+          "Number Theory",
+          "Geometry"
+        ],
+        "difficulties": [
+          3.5,
+          4.5,
+          4.5,
+          5.5,
+          6,
+          5.5
+        ],
+        "subtopics": [
+          [
+            "Digits & bases",
+            "Divisibility & GCD"
+          ],
+          [
+            "Squares & powers",
+            "Sequences & recurrences"
+          ],
+          [
+            "Triangle geometry"
+          ],
+          [
+            "Games & strategies",
+            "Tilings & dissections"
+          ],
+          [
+            "Divisibility & GCD"
+          ],
+          [
+            "Coordinates & vectors",
+            "Combinatorial geometry",
+            "Pigeonhole principle",
+            "Invariants"
+          ]
+        ],
+        "mean": 4.916666666666667
+      },
+      {
+        "id": "bmo1-2022",
+        "paperId": "bmo1-2022",
+        "archiveYear": 2022,
+        "title": "BMO1 2021–22",
+        "topics": [
+          "Number Theory",
+          "Combinatorics",
+          "Combinatorics",
+          "Geometry",
+          "Number Theory",
+          "Combinatorics"
+        ],
+        "difficulties": [
+          4,
+          5,
+          5,
+          6,
+          6,
+          7
+        ],
+        "subtopics": [
+          [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          [
+            "Extremal arguments",
+            "Combinatorial geometry"
+          ],
+          [
+            "Counting",
+            "Recurrences & generating functions"
+          ],
+          [
+            "Circles & tangency",
+            "Triangle geometry"
+          ],
+          [
+            "Extremal arguments",
+            "Diophantine equations"
+          ],
+          [
+            "Counting",
+            "Recurrences & generating functions"
+          ]
+        ],
+        "mean": 5.5
+      },
+      {
+        "id": "bmo1-2020",
+        "paperId": "bmo1-2020",
+        "archiveYear": 2020,
+        "title": "BMO1 2019–20",
+        "topics": [
+          "Number Theory",
+          "Number Theory",
+          "Geometry",
+          "Combinatorics",
+          "Combinatorics",
+          "Algebra"
+        ],
+        "difficulties": [
+          3.5,
+          4,
+          4.5,
+          6,
+          7,
+          6
+        ],
+        "subtopics": [
+          [
+            "Primes",
+            "Modular arithmetic"
+          ],
+          [
+            "Sequences & recurrences",
+            "Parity"
+          ],
+          [
+            "Circles & tangency"
+          ],
+          [
+            "Graph theory",
+            "Counting"
+          ],
+          [
+            "Invariants",
+            "Graph theory",
+            "Games & strategies",
+            "Algorithms & constructions"
+          ],
+          [
+            "Functional equations",
+            "Sequences & recurrences"
+          ]
+        ],
+        "mean": 5.166666666666667
+      },
+      {
+        "id": "bmo1-2019",
+        "paperId": "bmo1-2019",
+        "archiveYear": 2019,
+        "title": "BMO1 2018–19",
+        "topics": [
+          "Combinatorics",
+          "Number Theory",
+          "Number Theory",
+          "Geometry",
+          "Algebra",
+          "Combinatorics"
+        ],
+        "difficulties": [
+          4,
+          5,
+          4.5,
+          5.5,
+          6,
+          6
+        ],
+        "subtopics": [
+          [
+            "Counting"
+          ],
+          [
+            "Divisibility & GCD",
+            "Sequences & recurrences"
+          ],
+          [
+            "Diophantine equations",
+            "Squares & powers"
+          ],
+          [
+            "Angles & cyclic quadrilaterals",
+            "Circles & tangency"
+          ],
+          [
+            "Polynomials",
+            "Equations & systems",
+            "Symmetry"
+          ],
+          [
+            "Counting",
+            "Combinatorial geometry"
+          ]
+        ],
+        "mean": 5.166666666666667
+      },
+      {
+        "id": "bmo1-2018",
+        "paperId": "bmo1-2018",
+        "archiveYear": 2018,
+        "title": "BMO1 2017–18",
+        "topics": [
+          "Number Theory",
+          "Combinatorics",
+          "Geometry",
+          "Algebra",
+          "Combinatorics",
+          "Combinatorics"
+        ],
+        "difficulties": [
+          4.5,
+          4.5,
+          3.5,
+          5,
+          6.5,
+          6
+        ],
+        "subtopics": [
+          [
+            "Modular arithmetic",
+            "Arithmetic functions"
+          ],
+          [
+            "Counting",
+            "Double counting",
+            "Extremal arguments",
+            "Algorithms & constructions"
+          ],
+          [
+            "Similarity & congruence",
+            "Area & dissection",
+            "Triangle geometry"
+          ],
+          [
+            "Sequences & recurrences"
+          ],
+          [
+            "Extremal arguments",
+            "Combinatorial geometry",
+            "Algorithms & constructions"
+          ],
+          [
+            "Counting",
+            "Extremal arguments",
+            "Modular arithmetic"
+          ]
+        ],
+        "mean": 5.0
+      },
+      {
+        "id": "bmo1-2017",
+        "paperId": "bmo1-2017",
+        "archiveYear": 2017,
+        "title": "BMO1 2016–17",
+        "topics": [
+          "Combinatorics",
+          "Algebra",
+          "Number Theory",
+          "Combinatorics",
+          "Geometry",
+          "Number Theory"
+        ],
+        "difficulties": [
+          3,
+          3.5,
+          3,
+          5.5,
+          6.5,
+          5.5
+        ],
+        "subtopics": [
+          [
+            "Counting",
+            "Parity"
+          ],
+          [
+            "Equations & systems",
+            "Functions & graphs"
+          ],
+          [
+            "Diophantine equations",
+            "Divisibility & GCD"
+          ],
+          [
+            "Games & strategies",
+            "Modular arithmetic",
+            "Pairing"
+          ],
+          [
+            "Circles & tangency",
+            "Similarity & congruence",
+            "Area & dissection"
+          ],
+          [
+            "Divisibility & GCD",
+            "Modular arithmetic"
+          ]
+        ],
+        "mean": 4.5
+      }
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "count": 9,
+        "min": 3,
+        "max": 4.5,
+        "median": 4,
+        "mean": 3.888888888888889,
+        "ratings": [
+          4,
+          4.5,
+          4,
+          3.5,
+          4,
+          3.5,
+          4,
+          4.5,
+          3
+        ],
+        "topicCounts": {
+          "Number Theory": 6,
+          "Combinatorics": 3
+        }
+      },
+      {
+        "position": 2,
+        "count": 9,
+        "min": 2.5,
+        "max": 5,
+        "median": 4.5,
+        "mean": 4.166666666666667,
+        "ratings": [
+          4,
+          4.5,
+          2.5,
+          4.5,
+          5,
+          4,
+          5,
+          4.5,
+          3.5
+        ],
+        "topicCounts": {
+          "Algebra": 3,
+          "Combinatorics": 3,
+          "Number Theory": 3
+        }
+      },
+      {
+        "position": 3,
+        "count": 9,
+        "min": 3,
+        "max": 5,
+        "median": 4.5,
+        "mean": 4.166666666666667,
+        "ratings": [
+          4.5,
+          3,
+          5,
+          4.5,
+          5,
+          4.5,
+          4.5,
+          3.5,
+          3
+        ],
+        "topicCounts": {
+          "Combinatorics": 3,
+          "Geometry": 4,
+          "Number Theory": 2
+        }
+      },
+      {
+        "position": 4,
+        "count": 9,
+        "min": 5,
+        "max": 6.5,
+        "median": 6,
+        "mean": 5.777777777777778,
+        "ratings": [
+          6,
+          6.5,
+          6,
+          5.5,
+          6,
+          6,
+          5.5,
+          5,
+          5.5
+        ],
+        "topicCounts": {
+          "Geometry": 4,
+          "Number Theory": 1,
+          "Combinatorics": 3,
+          "Algebra": 1
+        }
+      },
+      {
+        "position": 5,
+        "count": 9,
+        "min": 5,
+        "max": 7,
+        "median": 6,
+        "mean": 6.166666666666667,
+        "ratings": [
+          7,
+          5.5,
+          5,
+          6,
+          6,
+          7,
+          6,
+          6.5,
+          6.5
+        ],
+        "topicCounts": {
+          "Number Theory": 4,
+          "Combinatorics": 3,
+          "Algebra": 1,
+          "Geometry": 1
+        }
+      },
+      {
+        "position": 6,
+        "count": 9,
+        "min": 5.5,
+        "max": 7,
+        "median": 6,
+        "mean": 6.333333333333333,
+        "ratings": [
+          7,
+          7,
+          7,
+          5.5,
+          7,
+          6,
+          6,
+          6,
+          5.5
+        ],
+        "topicCounts": {
+          "Combinatorics": 5,
+          "Geometry": 2,
+          "Algebra": 1,
+          "Number Theory": 1
+        }
+      }
+    ],
+    "meanPaperRating": 5.083333333333334,
+    "observedSubtopics": {
+      "Divisibility & GCD": 8,
+      "Primes": 3,
+      "Squares & powers": 3,
+      "Polynomials": 2,
+      "Algebraic identities": 1,
+      "Counting": 11,
+      "Recurrences & generating functions": 4,
+      "Tilings & dissections": 2,
+      "Circles & tangency": 6,
+      "Transformations": 1,
+      "Triangle geometry": 5,
+      "Modular arithmetic": 8,
+      "Sequences & recurrences": 8,
+      "Invariants": 4,
+      "Algorithms & constructions": 4,
+      "Parity": 4,
+      "Games & strategies": 4,
+      "Similarity & congruence": 3,
+      "Integer polynomials": 1,
+      "Pigeonhole principle": 2,
+      "Graph theory": 3,
+      "Combinatorial geometry": 5,
+      "Permutations & arrangements": 1,
+      "Power of a point & radical axes": 1,
+      "Diophantine equations": 4,
+      "Valuations": 1,
+      "Colouring": 1,
+      "Trigonometry": 1,
+      "Quadrilaterals & polygons": 1,
+      "Digits & bases": 1,
+      "Coordinates & vectors": 1,
+      "Extremal arguments": 5,
+      "Functional equations": 1,
+      "Angles & cyclic quadrilaterals": 1,
+      "Equations & systems": 2,
+      "Symmetry": 1,
+      "Arithmetic functions": 1,
+      "Double counting": 1,
+      "Area & dissection": 2,
+      "Functions & graphs": 1,
+      "Pairing": 1
+    },
+    "method": "Reuse topic sequences and individually reviewed difficulty profiles from complete six-question BMO1 papers in the last ten archived seasons. The exceptional seven-question 2020–21 paper is excluded. Real profiles need not increase strictly with question number. Templates guide selection only; they never assign a question rating.",
+    "excludedReferencePapers": [
+      {
+        "id": "bmo1-2021",
+        "reason": "Seven-question exceptional format, including answer-only questions."
+      }
+    ],
+    "suitabilityNote": "Match elementary olympiad methods as well as rating; exclude calculus, advanced linear algebra and projective/conic prerequisites. Exclude all British BMO/BMO1/BMO2/FIST appearances, including known duplicate appearances under another contest name. Balkan competitions with the abbreviation BMO are distinct."
+  },
+  "formatSources": [
+    {
+      "url": "https://bmos.ukmt.org.uk/home/bmo.shtml",
+      "role": "Official archive, six-question format, duration, historical format changes and unavailable years."
+    },
+    {
+      "url": "https://bmos.ukmt.org.uk/home/bmo1-2026.pdf",
+      "role": "Modern instructions and layout: A4 portrait, instruction cover, numbered proof questions, 3½ hours and 10 marks per question."
+    },
+    {
+      "url": "https://bmos.ukmt.org.uk/home/bmo1-2021.pdf",
+      "role": "Exceptional 2020–21 timing and section marking."
+    }
+  ]
+}

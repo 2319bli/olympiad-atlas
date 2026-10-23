@@ -1,0 +1,33 @@
+{
+  "id": "imo_1985_official_p5",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1985,
+  "problem_number": "5",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Coordinates"
+    ],
+    [
+      "Geometry",
+      "Circles"
+    ],
+    [
+      "Geometry",
+      "Dot products"
+    ],
+    [
+      "Geometry",
+      "Power of a point"
+    ]
+  ],
+  "problem_markdown": "A circle with centre $O$ meets sides $AB,BC$ of triangle $ABC$ at $A,K$ and $C,N$, respectively, with $K,N$ distinct interior points. The circumcircles of $ABC$ and $KBN$ meet at $B$ and a distinct point $M$. Prove $OM\\perp BM$.",
+  "solutions_markdown": [
+    "Take $B$ as vector origin, and let unit vectors $u,v$ point toward $A,C$. Write $A=au$, $K=ku$, $C=cv$, $N=nv$. The two circumcircles through the origin have equations\n$$|x|^2-l\\cdot x=0,\\qquad |x|^2-h\\cdot x=0,$$\nwhere $l\\cdot u=a,l\\cdot v=c$ and $h\\cdot u=k,h\\cdot v=n$.\n\nThe circle through $A,K,C,N$ has equation $|x|^2-2o\\cdot x+t=0$, where $o$ represents $O$. Restricting to the line in direction $u$ gives a quadratic with roots $a,k$, so $2o\\cdot u=a+k$. Likewise $2o\\cdot v=c+n$. Since $u,v$ are linearly independent, $2o=l+h$.\n\nAt the second intersection $m$, both circle equations give $l\\cdot m=h\\cdot m=|m|^2$. Therefore $(o-m)\\cdot m=0$. These are the vectors $MO$ and $BM$, so the required perpendicularity follows."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1985/1985_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln855.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

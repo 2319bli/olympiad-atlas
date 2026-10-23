@@ -1,0 +1,29 @@
+{
+  "id": "imo_1976_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1976,
+  "problem_number": "1",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Area"
+    ],
+    [
+      "Geometry",
+      "Equality cases"
+    ],
+    [
+      "Geometry",
+      "Pythagoras"
+    ]
+  ],
+  "problem_markdown": "A convex quadrilateral has area $32$. Two opposite sides and one diagonal have total length $16$. Determine the possible length of its other diagonal.",
+  "solutions_markdown": [
+    "Label the quadrilateral $ABCD$ so that $AB+CD+AC=16$, and put $AC=x$. The perpendicular heights of $B,D$ from $AC$ are at most $AB,CD$. Thus\n$$32\\le\\frac{x(AB+CD)}2=\\frac{x(16-x)}2\\le32.$$\nEquality forces $x=8$, $AB+CD=8$, $AB\\perp AC$ and $CD\\perp AC$. The horizontal and vertical components of $BD$ therefore both have length eight, giving $BD=8\\sqrt2$. Conversely, any positive $AB,CD$ summing to eight in this perpendicular configuration gives a convex quadrilateral with the required area, so this value is attained."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1976/1976_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln761.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

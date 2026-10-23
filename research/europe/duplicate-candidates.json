@@ -1,0 +1,58 @@
+[
+  {
+    "status": "mathematically-equivalent-confirmed",
+    "europeRecord": {
+      "id": "arm_2025_g11-12_6",
+      "country": "Armenia",
+      "competition": "Armenian National Mathematical Olympiad",
+      "year": 2025,
+      "section": "Republican Round — Grade 11-12, Day 2",
+      "number": "6",
+      "difficulty": 4.5,
+      "sourceUrl": "https://olymp.am/sites/default/file/problems/Lucumner-Math-2or-11-12das-HP25.pdf",
+      "statement": "Let $0<x_1<\\cdots<x_{2024}=1$. Colour 1012 entries red and the others blue, ordered as $r_i,b_i$, and put $S=\\sum_{i=1}^{1012}r_i(b_i-b_{i-1})$, with $b_0=0$. (a) Can the $x_i$ be chosen so every colouring has $S<1/2$? (b) Prove some colouring has $S>x_{2023}/2$."
+    },
+    "otherRecord": {
+      "id": "nordic-denmark-2024-5",
+      "country": "Denmark",
+      "competition": "Georg Mohr Contest",
+      "year": 2024,
+      "section": "Second round",
+      "number": "5",
+      "difficulty": 4.5,
+      "sourceUrl": "https://www.georgmohr.dk/gmopg/gm24pb.pdf",
+      "statement": "Let $0<x_1<\\cdots<x_{2024}=1$. Colour half the numbers red and half blue, listing each colour increasingly as $r_i,b_i$; put $b_0=0$ and $S=\\sum_{i=1}^{1012}r_i(b_i-b_{i-1})$. (a) Show some choice of the $x_i$ makes every colouring satisfy $S<1/2$. (b) Show every choice admits a colouring with $S>x_{2023}/2$."
+    },
+    "evidence": "Identical ordered 2024 positive numbers, 1012 red/blue entries, the same telescoping sum, and the same two extremal assertions. The Armenian wording asks whether part (a) is possible; the Danish wording asks to prove it. Root reconciled the numerical ratings at 4.5 after deriving an original proof.",
+    "action": "Root review; no global bank changes made by Europe agent.",
+    "rootDecision": "Root confirmed equivalence; canonical Denmark difficulty4.5, English exposition, Armenia alternate appearance."
+  },
+  {
+    "status": "mathematically-equivalent-confirmed",
+    "europeRecord": {
+      "id": "hrv_2019_3d8657",
+      "country": "Croatia",
+      "competition": "Croatian Mathematical Competition",
+      "year": 2019,
+      "section": "County Round — Year 1, Variant A",
+      "number": "4",
+      "difficulty": 3.5,
+      "sourceUrl": "https://www.azoo.hr/natjecanja-i-smotre-arhiva/testovi-i-rjesenja-sa-skolske-zupanijske-i-drzavne-razine-natjecanja-iz-matematike-2019/",
+      "statement": "Base $\\overline{BC}$ is the longest side of the isosceles triangle $ABC$. Let $M$ be a point on the side $\\overline{BC}$ such that $|BM| = |AB|$. Point $N$ is the foot of the altitude from $M$ to $\\overline{AB}$.\nProve that the triangle $BMN$ and the quadrilateral $ACMN$ have equal areas and equal perimeters. (United Kingdom 2018)"
+    },
+    "otherRecord": {
+      "id": "bmo1-2018-q3",
+      "country": "United Kingdom",
+      "competition": "BMO1",
+      "year": 2018,
+      "section": null,
+      "number": "3",
+      "difficulty": 4.5,
+      "sourceUrl": "https://bmos.ukmt.org.uk/home/bmo1-2018.pdf",
+      "statement": "In isosceles triangle $ABC$, $AB=AC$ and $BC$ is the longest side. Choose $N\\in BC$ with $BN=AB$, and let $M$ be its perpendicular projection to $AB$. Prove line $MN$ bisects both the area and the perimeter of the triangle."
+    },
+    "evidence": "Same isosceles triangle, same point at distance AB along BC, and its perpendicular projection to AB. M and N are interchanged. Equal areas/perimeters of the resulting pieces is exactly simultaneous area/perimeter bisection. Croatia 2019 county Year 1 Variant A Q4 explicitly credits UK 2018. Europe rated 3.5 and therefore excluded; British rated 4.5 and included. Root should reconcile rating and retain the Croatian appearance.",
+    "action": "Root review; no global bank changes made by Europe agent.",
+    "rootDecision": "Root confirmed equivalence and difficulty3.5 via congruent right triangles; British target-band record will be withdrawn. Europe already excludes Croatia at3.5."
+  }
+]

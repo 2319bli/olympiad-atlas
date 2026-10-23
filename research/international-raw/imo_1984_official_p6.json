@@ -1,0 +1,33 @@
+{
+  "id": "imo_1984_official_p6",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1984,
+  "problem_number": "6",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Valuations"
+    ],
+    [
+      "Number Theory",
+      "Diophantine equations"
+    ],
+    [
+      "Number Theory",
+      "Powers"
+    ],
+    [
+      "Number Theory",
+      "Parity"
+    ]
+  ],
+  "problem_markdown": "Odd integers satisfy $0<a<b<c<d$, $ad=bc$, $a+d=2^k$, and $b+c=2^m$. Prove $a=1$.",
+  "solutions_markdown": [
+    "Since $d=bc/a$,\n$$a+d-b-c=\\frac{(b-a)(c-a)}a>0,$$\nso $k>m$. Substituting the sums into $ad=bc$ yields\n$$(b-a)(b+a)=2^m(b-2^{k-m}a).$$\nThe parenthesis on the right is odd. Of the two even numbers $b-a,b+a$, exactly one is divisible by four, since their difference $2a$ is twice an odd number. Hence one factor is divisible by $2^{m-1}$.\n\nBut $0<b-a<b<2^{m-1}$ because $b<c$ and $b+c=2^m$. Therefore $2^{m-1}\\mid b+a$. Also $0<b+a<2b<2^m$, forcing $b+a=2^{m-1}$.\n\nConsequently $b=2^{m-1}-a$, $c=2^{m-1}+a$. The product relation becomes $a(2^k-a)=2^{2m-2}-a^2$, so $a2^k=2^{2m-2}$. Since $a$ is positive and odd, $a=1$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1984/1984_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln846.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

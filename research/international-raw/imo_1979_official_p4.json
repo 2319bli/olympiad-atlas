@@ -1,0 +1,33 @@
+{
+  "id": "imo_1979_official_p4",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "4",
+  "primary_domain": "Geometry",
+  "topics": [
+    [
+      "Geometry",
+      "Geometric inequalities"
+    ],
+    [
+      "Geometry",
+      "Cauchy–Schwarz"
+    ],
+    [
+      "Geometry",
+      "Locus"
+    ],
+    [
+      "Geometry",
+      "Optimisation"
+    ]
+  ],
+  "problem_markdown": "Let $P$ lie in a plane and $Q$ lie outside it. Determine all points $R$ of the plane maximising $(QP+PR)/QR$.",
+  "solutions_markdown": [
+    "Let $X$ be the perpendicular foot of $Q$, and put $d=PX$, $h=QX$, $a=PQ=\\sqrt{d^2+h^2}$. For fixed $x=PR$, the denominator is smallest when $R$ lies on ray $PX$ if $d>0$. Then $QR=\\sqrt{(x-d)^2+h^2}$ and Cauchy–Schwarz gives\n$$\\frac{a+x}{QR}=\\frac{(x-d)+h\\,(a+d)/h}{\\sqrt{(x-d)^2+h^2}}\\le\\sqrt{1+\\frac{(a+d)^2}{h^2}}.$$\nEquality holds exactly when $x-d=h^2/(a+d)=a-d$, hence $PR=a$. Thus if $P\\ne X$ there is one maximiser: the point on ray $PX$ at distance $PQ$ from $P$. If $P=X$, the same calculation is independent of direction, and the maximisers form the circle in the plane centred at $P$ with radius $PQ$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln794.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

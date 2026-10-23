@@ -1,0 +1,369 @@
+{
+  "reviewedCount": 24,
+  "includedCount": 24,
+  "decisions": [
+    {
+      "id": "belgium-omb-2022-maxi-1",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MAXI final",
+      "number": "1",
+      "difficulty": 5,
+      "ratingReason": "Pairing factorials reveals their square-free contribution. Finding one removable factorial is easy afterward, but proving uniqueness requires additional prime-exponent restrictions.",
+      "included": true
+    },
+    {
+      "id": "belgium-omb-2022-maxi-2",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MAXI final",
+      "number": "2",
+      "difficulty": 4.5,
+      "ratingReason": "The diagonal geometry gives a radical expression. Completing a unit-circle expression provides an elementary sharp maximum without calculus.",
+      "included": true
+    },
+    {
+      "id": "belgium-omb-2022-maxi-3",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MAXI final",
+      "number": "3",
+      "difficulty": 4.5,
+      "ratingReason": "The right-angle rotations change each included angle to a supplement. Applying the cosine rule twice makes the three resulting expressions telescope.",
+      "included": true
+    },
+    {
+      "id": "belgium-omb-2022-maxi-4",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MAXI final",
+      "number": "4",
+      "difficulty": 4,
+      "ratingReason": "Pigeonhole gives one bound, but both extremal answers also need constructions meeting the exact total and class-size restrictions.",
+      "included": true
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MAXI final",
+      "number": "1",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "Expanding the base-ten and base-seven numerals gives2x=4y+z, leaving a short bounded digit enumeration.",
+      "id": "belgium-omb-2023-maxi-1"
+    },
+    {
+      "id": "belgium-omb-2023-maxi-2",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MAXI final",
+      "number": "2",
+      "difficulty": 5,
+      "ratingReason": "The rotation must first be related to a right triangle. Computing the intersection and then enforcing integrality combines geometry with a small Pythagorean-triple classification.",
+      "included": true
+    },
+    {
+      "id": "belgium-omb-2023-maxi-3",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MAXI final",
+      "number": "3",
+      "difficulty": 4.5,
+      "ratingReason": "Subtracting equations gives a useful factorisation, but the possibility of opposite signs prevents simply declaring all variables equal.",
+      "included": true
+    },
+    {
+      "id": "belgium-omb-2023-maxi-4",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MAXI final",
+      "number": "4",
+      "difficulty": 4,
+      "ratingReason": "A spatial configuration becomes a right-triangle relation between each radius pair; the resulting three product equations must then be solved consistently.",
+      "included": true
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MAXI final",
+      "number": "1",
+      "difficulty": 3,
+      "included": true,
+      "reason": "The time from dawn to the meeting has square equal to the product of the two post-meeting journey times4 and9, so dawn is6am.",
+      "id": "belgium-omb-2024-maxi-1"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MAXI final",
+      "number": "2",
+      "difficulty": 2,
+      "included": true,
+      "reason": "Every integer satisfiesx³≡x modulo3, immediately proving all parts including any number of summands.",
+      "id": "belgium-omb-2024-maxi-2"
+    },
+    {
+      "id": "belgium-omb-2024-maxi-3",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MAXI final",
+      "number": "3",
+      "difficulty": 4.5,
+      "ratingReason": "Equal angles must be converted into a relation among three successive intersections; a carefully chosen trigonometric or auxiliary-perpendicular argument eliminates the altitude.",
+      "included": true
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MAXI final",
+      "number": "4",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "Expanding by decimal place shows that each digit contributes a geometric sum to all proper prefixes, givingn−S(n)=9T(n).",
+      "id": "belgium-omb-2024-maxi-4"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MIDI final",
+      "number": "1",
+      "difficulty": 3,
+      "included": true,
+      "reason": "The two isosceles triangles give the relevant base angles; subtracting them from angleB leaves(180°−B)/2.",
+      "id": "belgium-omb-2022-midi-1"
+    },
+    {
+      "id": "belgium-omb-2022-midi-2",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MIDI final",
+      "number": "2",
+      "difficulty": 4,
+      "ratingReason": "Factorial growth progressively restricts every digit; a disciplined case reduction is needed to avoid an unjustified brute-force list.",
+      "included": true
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MIDI final",
+      "number": "3",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "Resolve each tilted side into perpendicular componentsx,y. The bounding rectangle gives4x+2y=12 and2x+2y=7, followed by Pythagoras.",
+      "id": "belgium-omb-2022-midi-3"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MIDI final",
+      "number": "4",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Two surviving neighbouring runners would shift equally, so survivors form a nonadjacent subset of the line. Alternating removal attains the bound50.",
+      "id": "belgium-omb-2022-midi-4"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MIDI final",
+      "number": "1",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "The two concatenated age squares differ by2323=23·101. Factoring their difference determines roots39,62 and ages15,21.",
+      "id": "belgium-omb-2023-midi-1"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MIDI final",
+      "number": "2",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Pairing a second rotated triangle gives equal-area bands in a parallelogram, hence the grey:white ratio(n+1):(n−1).",
+      "id": "belgium-omb-2023-midi-2"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MIDI final",
+      "number": "3",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "ForN≥4 the factorial sum ends in3, excluding squares; direct checking givesN1 or3.",
+      "id": "belgium-omb-2023-midi-3"
+    },
+    {
+      "id": "belgium-omb-2023-midi-4",
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MIDI final",
+      "number": "4",
+      "difficulty": 4.5,
+      "ratingReason": "Several local similarities must be combined to recover both the full base and the remaining height above the central square.",
+      "included": true
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MIDI final",
+      "number": "1",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Subtracting the equations gives(b−1)(a−c)=−1, so b is0 or2 and both remaining linear systems are immediate.",
+      "id": "belgium-omb-2024-midi-1"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MIDI final",
+      "number": "2",
+      "difficulty": 2.5,
+      "included": true,
+      "reason": "Conservation of each liquid shows equal foreign volumes; their proportions are inversely related to the original container volumes.",
+      "id": "belgium-omb-2024-midi-2"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MIDI final",
+      "number": "3",
+      "difficulty": 3.5,
+      "included": true,
+      "reason": "The first radius is6; two right-triangle tangency equations give the remaining radii4 and3. The earlier subparts guide the setup.",
+      "id": "belgium-omb-2024-midi-3"
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MIDI final",
+      "number": "4",
+      "difficulty": 3,
+      "included": true,
+      "reason": "Counting multiples of successive powers of2 gives the factorial valuation; the scaffolded parts culminate in50+25+12+6+3+1=97.",
+      "id": "belgium-omb-2024-midi-4"
+    }
+  ],
+  "papers": [
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MAXI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MAXI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MAXI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=54",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2022,
+      "section": "MIDI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2023,
+      "section": "MIDI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "competition": "Olympiade Mathématique Belge",
+      "year": 2024,
+      "section": "MIDI final",
+      "sourceUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "solutionUrl": "https://omb.sbpm.be/modules/news/visit.php?fileid=53",
+      "complete": true,
+      "expectedNumbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  ],
+  "archiveUrl": "https://omb.sbpm.be/modules/news/article.php?storyid=221",
+  "gaps": [
+    "OMB MAXI and MIDI finals2022–2024 are complete. Other years, the MINI category and preliminary rounds remain pending.",
+    "The Flemish VWO official website returned gateway errors during this pass; a public historical archive1995–2020 was located but is not yet screened."
+  ],
+  "method": "Each task was read and mathematically assessed individually. Included statements are English mathematical paraphrases, with independently checked worked expositions. Ratings are AI judgments, not official contest statistics.",
+  "inclusionPolicy": "All valid individually assessed questions are eligible on the 1–10 scale; 4–7 is only the preferred browsing range. Genuine unresolved source/proof issues remain held."
+}

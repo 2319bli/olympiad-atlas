@@ -1,0 +1,29 @@
+{
+  "id": "imo_1978_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1978,
+  "problem_number": "1",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Multiplicative order"
+    ],
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Binomial coefficients"
+    ]
+  ],
+  "problem_markdown": "For positive integers $m<n$, the last three decimal digits of $1978^m$ and $1978^n$ coincide. Find the pair minimising $m+n$.",
+  "solutions_markdown": [
+    "Put $d=n-m$. Divisibility by eight of $1978^m(1978^d-1)$ forces $m\\ge3$, since the second factor is odd. Modulo 125, the base is 103. Modulo five its order is four, so $4\\mid d$. Directly $103^2\\equiv109$ and $103^4\\equiv6\\pmod{125}$. Writing $d=4t$, the binomial theorem gives $6^t\\equiv1+5t+25t(t-1)/2\\pmod{125}$. First modulo 25 this forces $5\\mid t$. For $t=5s$, the quadratic term vanishes modulo 125 and $6^t\\equiv1+25s$, so $5\\mid s$. Therefore $100\\mid d$, and $d=100$ works. The least pair is $(m,n)=(3,103)$, with sum 106."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1978/1978_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln781.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

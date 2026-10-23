@@ -1,0 +1,33 @@
+{
+  "id": "imo_1979_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1979,
+  "problem_number": "1",
+  "primary_domain": "Number Theory",
+  "topics": [
+    [
+      "Number Theory",
+      "Modular arithmetic"
+    ],
+    [
+      "Number Theory",
+      "Fractions"
+    ],
+    [
+      "Number Theory",
+      "Primes"
+    ],
+    [
+      "Number Theory",
+      "Pairing"
+    ]
+  ],
+  "problem_markdown": "Positive integers $p,q$ satisfy $p/q=\\sum_{j=1}^{1319}(-1)^{j+1}/j$. Prove $1979\\mid p$.",
+  "solutions_markdown": [
+    "Subtracting twice the even-indexed terms from the full harmonic sum gives\n$$\\frac pq=\\sum_{j=1}^{1319}\\frac1j-\\sum_{j=1}^{659}\\frac1j=\\sum_{j=660}^{1319}\\frac1j.$$\nPair $j$ with $1979-j$. Each pair equals $1979/[j(1979-j)]$. The integer 1979 is prime (trial division by primes up to $\\sqrt{1979}<45$ suffices), and every denominator factor is less than 1979. Thus the sum is $1979u/v$ for integers $u,v$ with $1979\\nmid v$. From $pv=1979uq$, primality gives $1979\\mid p$."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1979/1979_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln791.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}

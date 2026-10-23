@@ -1,0 +1,25 @@
+{
+  "id": "imo_1975_official_p1",
+  "competition_code": "IMO",
+  "competition": "IMO",
+  "year": 1975,
+  "problem_number": "1",
+  "primary_domain": "Algebra",
+  "topics": [
+    [
+      "Algebra",
+      "Rearrangement"
+    ],
+    [
+      "Algebra",
+      "Inequalities"
+    ]
+  ],
+  "problem_markdown": "For decreasing real sequences $x_1\\ge\\cdots\\ge x_n$ and $y_1\\ge\\cdots\\ge y_n$, prove that pairing them in this order minimises $\\sum_{i=1}^n(x_i-z_i)^2$ among all permutations $(z_i)$ of $(y_i)$.",
+  "solutions_markdown": [
+    "If $x\\ge x\\prime$ and $u\\ge v$, the crossed pairing exceeds the uncrossed one by $2(x-x\\prime)(u-v)\\ge0$. Starting with any permutation, repeatedly interchange adjacent entries that are out of decreasing order. Each interchange does not increase the square sum and reduces the number of inversions. The final permutation is $(y_i)$, establishing its minimality."
+  ],
+  "officialSourceUrl": "https://www.imo-official.org/assets/documents/problems/1975/1975_eng.pdf",
+  "officialSolutionUrl": "https://prase.cz/kalva/imo/isoln/isoln751.html",
+  "reviewNote": "Official released paper checked. Mathematical statement paraphrased; original worked exposition checked independently, with John Scholes’s worked solution as a comparison source."
+}
