@@ -35,15 +35,18 @@ const solved = { saved: false, status: 'solved' }, attempted = { saved: true, st
 const bank = JSON.parse(fs.readFileSync('public/data/problems.json','utf8'));
 const easy = bank.filter(p=>p.difficulty===1).slice(0,2), hard = bank.find(p=>p.difficulty===10);
 assert.equal((await get()).entries.length, 0);
-assert.equal((await get('solved', alice)).me.listed, false);
+assert.equal((await get('solved', alice)).me.displayName, '', 'New accounts must choose their nickname; never generate one or use Google names');
 assert.equal((await profile('alice', null, 'Public A')).status,401);
 assert.equal((await profile('alice', bob, 'Steal')).status,409);
 for (const name of ['x', '<script>', 'name@example.com', '\u202eHidden', 'x'.repeat(31)]) assert.equal((await profile('alice', alice, name)).status,400);
 assert.equal((await request('/api/leaderboard/profile', { token: alice, origin:'https://evil.example', method:'POST', data:{accountId:'alice',displayName:'Steal',listed:true} })).status,403);
 await sync('alice', alice, Object.fromEntries(easy.map(p=>[p.id,solved])));
-assert.equal((await get()).participants,0,'Private users must not be listed');
-assert.equal((await get('solved',alice)).me.solved,2,'Existing solves count before opting in');
-await profile('alice',alice,'Public A'); await profile('bob',bob,'Public B'); await profile('carol',carol,'Public C');
+assert.equal((await get()).participants,0,'Accounts must finish nickname setup before being published');
+assert.equal((await get('solved',alice)).me.solved,2,'Existing solves count automatically');
+await profile('alice',alice,'Public A');
+assert.equal((await get()).entries[0].solved,2,'Saving the account nickname automatically includes all existing solves');
+assert.equal((await get('weighted')).entries[0].weighted,4);
+await profile('bob',bob,'Public B'); await profile('carol',carol,'Public C');
 await sync('bob', bob, {[hard.id]:solved});
 assert.deepEqual((await get()).entries.map(e=>e.displayName),['Public A','Public B']);
 assert.deepEqual((await get('weighted')).entries.map(e=>e.displayName),['Public B','Public A']);
@@ -77,6 +80,7 @@ assert.equal((await get('solved',bob)).entries.filter(e=>e.isYou).length,1);
 assert((await get()).entries.every(e=>!e.isYou));
 for (let i=0;i<55;i++) {
  const id='extra-'+i;
+ sql.prepare('INSERT INTO google_identities (subject,user_id,email,name) VALUES (?,?,?,?)').run(id,id,id+'@private.example','Private real name');
  sql.prepare('INSERT INTO atlas_leaderboard_profiles VALUES (?,?,?,?)').run(id,'Solver '+String(i).padStart(2,'0'),1,Date.now());
  sql.prepare('INSERT INTO account_progress VALUES (?,?,?,?,?)').run(id,easy[0].id,0,'solved',Date.now());
 }
@@ -89,4 +93,4 @@ assert.equal((await request('/api/leaderboard?metric=evil')).status,400);
 assert.equal((await request('/api/leaderboard?offset=-1')).status,400);
 assert.equal((await request('/api/leaderboard?offset=0%20OR%201')).status,400);
 assert.equal((await request('/api/leaderboard?metric=solved')).headers.get('access-control-allow-origin'),env.FRONTEND_ORIGIN);
-console.log('Passed leaderboards: distinct solves, retry idempotency, aliases and corrections, trusted weights, both rankings, ties, pagination, profile privacy, authentication and CORS.');
+console.log('Passed automatic account leaderboards: distinct solves, retry idempotency, aliases and corrections, trusted weights, both rankings, ties, pagination, profile privacy, authentication and CORS.');

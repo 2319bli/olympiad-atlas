@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '24'
       - run: node scripts/build-leaderboard-catalog.mjs --check
-      - run: node tests/paper-engine.cjs && node tests/account-client.mjs && node tests/pages-client.mjs
+      - run: node tests/paper-engine.cjs && node tests/account-client.mjs && node tests/pages-client.mjs && node tests/account-settings.mjs
       - run: node scripts/build-pages.mjs
         env:
           ATLAS_API_BASE: ${{ vars.ATLAS_API_BASE }}
