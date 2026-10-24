@@ -71,3 +71,7 @@ Google login is implemented as an optional additional provider, with explicit li
 ### Topic guide
 
 The **Topic guide** (`#learn`) explains all 63 subtopic labels currently in the bank, grouped into four mathematical areas and shared proof methods. Each entry includes question styles, techniques, an original worked example, a common trap and live practice links. Learning stages describe prerequisites, not contest difficulty or an official syllabus. Content lives in `public/data/study-guide.json`; `public/study-guide.js` renders the searchable index and deep-linked entries. Practice links clear unrelated filters and include all difficulties. Run `node tests/study-guide.cjs` to check taxonomy coverage, matching problems, links and mathematical typesetting.
+
+### All-time leaderboards
+
+The **Leaderboard** (`#leaderboard`) ranks opted-in users by distinct solved questions by default. Its second ranking sums `1 + difficulty` for each distinct solve. It uses synced practice marks, canonical question IDs and server-held ratings; repeated attempts, repeat syncs and known duplicate appearances cannot add extra points. Ties share ranks, and the page includes pagination and your own rank. Users choose a public display name and can leave without losing private progress. Totals are self-reported, and corrected marks remove contributions. See `docs/github-pages-cloudflare.md` for the catalog migration/deployment steps. Run `node tests/leaderboard.mjs` for scoring, privacy, authentication and pagination checks.

@@ -57,3 +57,19 @@ npx wrangler deploy --dry-run --config cloudflare/wrangler.example.jsonc
 ```
 
 The former Site deployment remains supported by the original Vinext build and Google redirect flow. `backend-config.js` defaults to that legacy mode; the Pages build replaces it with the standalone configuration.
+
+## All-time leaderboards
+
+The standalone Worker exposes public `GET /api/leaderboard?metric=solved|weighted&offset=0` and authenticated `POST /api/leaderboard/profile`. Profiles are private by default; users explicitly choose a public nickname and opt in. Public responses contain ranks, nickname, distinct solves and weighted totals, never Google identity fields or individual progress. Solves are self-reported, ties share competition ranks, and the weighted score is the sum of `1 + difficulty` per canonical solved question. Unsaving a bookmark does not affect solved status; correcting a solved status removes its contribution. Only server-known question IDs earn points.
+
+Deploy migration `0003_leaderboards.sql`, then load the trusted catalog before deploying the Worker:
+
+```sh
+node scripts/build-leaderboard-catalog.mjs
+npx wrangler d1 migrations apply DB --remote --config cloudflare/wrangler.jsonc
+npx wrangler d1 execute DB --remote --config cloudflare/wrangler.jsonc --file cloudflare/leaderboard-catalog.sql
+node tests/leaderboard.mjs
+npx wrangler deploy --config cloudflare/wrangler.jsonc
+```
+
+After question-bank or difficulty changes, regenerate and reload `cloudflare/leaderboard-catalog.sql` and commit the generated `server/question-aliases.mjs`. The catalog SQL contains only public question IDs and difficulty values. It replaces only the catalog, never users' progress or profiles. Deploy catalog and Worker updates before frontend changes. `node scripts/build-leaderboard-catalog.mjs --check` fails if the catalog is stale. Canonical progress takes precedence over a retired duplicate ID; old clients' incoming alias IDs normalize to canonical IDs.

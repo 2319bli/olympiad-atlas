@@ -1,4 +1,5 @@
 import { hash, verifyGoogleToken } from '../server/google-auth.mjs';
+import { getLeaderboard, saveLeaderboardProfile } from '../server/leaderboard-service.mjs';
 import { handleSync } from '../server/account-service.mjs';
 
 const random = () => Array.from(crypto.getRandomValues(new Uint8Array(32)), b => b.toString(16).padStart(2, '0')).join('');
@@ -81,6 +82,12 @@ export function createWorker(verify = verifyGoogleToken) {
           return cors(json({ token, expiresAt }));
         }
         const user = await identity(request, env.DB);
+        if (path === '/api/leaderboard' && request.method === 'GET') return cors(await getLeaderboard(request, env.DB, user));
+        if (path === '/api/leaderboard/profile' && request.method === 'POST') {
+          if (!user) return cors(json({ error: 'Sign in to manage your leaderboard profile.' }, 401));
+          let data; try { data = await body(request); } catch { return cors(json({ error: 'Invalid profile request.' }, 400)); }
+          return cors(await saveLeaderboardProfile(data, env.DB, user));
+        }
         if (path === '/api/account' && request.method === 'GET') {
           return cors(json({ sessionExpired: request.headers.has('authorization') && !user, user: user ? { id: user.userId, name: user.displayName, email: user.email, provider: 'google' } : null, googleEnabled: enabled(env), googleClientId: env.GOOGLE_CLIENT_ID || null, signInUrl: null, signOutUrl: null }));
         }
